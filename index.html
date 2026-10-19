@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOEIC Part 1 — PicQuiz</title>
+    <title>TOEIC PicQuiz — Part 1 & Part 2</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -779,13 +779,143 @@
         @media(max-width: 600px) { #p2-photos { gap: 8px; } }
         #part2-game { --p2-content-width: 640px; }
         #p2-photos, #part2-game .p2-player, #part2-game .p2-player-tools { width: 100%; max-width: var(--p2-content-width); margin-left: auto; margin-right: auto; }
-    </style>
+        .main-part-tabs { width: 100%; margin: 0 0 16px; padding: 6px; }
+        .main-part-tabs button { flex: 1; padding: 14px; }
+        body.p2-selected header .tab-btn:not([onclick*="'quiz'"]) { display: none; }
+        .p2-header { margin-bottom: 18px; }.p2-header h3 { font-size: 1.45rem; }
+        .p2-test-picker { margin: 16px 0 10px; padding: 14px; background: rgba(5,15,28,.4); border: 1px solid var(--line); border-radius: 14px; }
+        .p2-voice-settings { background: rgba(5,15,28,.4); }
+        #p2-progress { margin: 0; }
+        #p2-question-list { position: fixed; top: 20px; right: 20px; bottom: 20px; width: min(310px,calc(100vw - 40px)); overflow-y: auto; z-index: 100; border: 1px solid #435370; background: #1b2637; border-radius: 16px; box-shadow: 0 18px 60px #0008; }
+        #p2-question-list[hidden] { display: none; }
+        #p2-numbers { grid-template-columns: repeat(6,minmax(0,1fr)); padding: 8px 16px 16px; gap: 8px; margin: 0; }
+        .p2-segments { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: stretch; }
+        .p2-speaker-player { padding: 10px; border: 1px solid #465675; background: #15243d; border-radius: 12px; min-width: 0; }
+        .p2-segments .p2-speaker-player > button { display: block; width: 100%; margin: 0 0 8px; border: 0; padding: 5px 0; text-align: left; font-size: .72rem; min-width: 0; }
+        .p2-speaker-track { display: flex; align-items: center; gap: 6px; }
+        .p2-segments .p2-speaker-track button { flex: 0 0 24px; min-width: 0; width: 24px; height: 26px; padding: 0; border: 0; background: transparent; font-size: 1rem; }
+        .p2-speaker-track input { width: 100%; min-width: 0; accent-color: #a5b4fc; }
+        .p2-word-count { display: block; color: #94a3b8; font-size: .6rem; text-align: center; margin-top: 5px; }
+        @media(max-width: 600px){ .p2-segments { grid-template-columns: 1fr; }.p2-player { align-items: flex-start; }.p2-player-main { min-width: 0; }.p2-header h3 { font-size: 1.2rem; } }
+        .app-bar { display: block; margin-bottom: 18px; }
+        .app-bar .logo { margin-bottom: 16px; }
+        .toolbar { display: grid; grid-template-columns: 140px minmax(180px,1fr) 132px 90px 90px; gap: 10px; align-items: center; }
+        .toolbar > #test-selector { grid-column: 1; grid-row: 1; }
+        .toolbar > #voice-selector, .toolbar > #p2-voice-shortcut { grid-column: 2; grid-row: 1; width: 100%; min-width: 0; }
+        .toolbar > #rate-selector { grid-column: 3; grid-row: 1; }
+        .toolbar > .ghost-btn { grid-column: 4; grid-row: 1; }
+        .toolbar > .upload-btn { grid-column: 5; grid-row: 1; }
+        .toolbar > .select-input, .toolbar > .ctrl-btn, .toolbar > .ghost-btn, .toolbar > .upload-btn { height: 42px; min-height: 42px; box-sizing: border-box; }
+        .toolbar > .upload-btn { display: flex; align-items: center; justify-content: center; }
+        body.p2-mode #test-selector, body.p2-mode #rate-selector { display: block; }
+        body.p2-mode #p2-voice-shortcut { display: block; text-align: left; background: #0b1829; border: 1px solid var(--line); font-size: .84rem; }
+        body.p2-selected header .tab-btn:not([onclick*="'quiz'"]) { display: inline-block; }
+        header .tab-btn:disabled { opacity: .35; cursor: default; }
+        .main-part-tabs { margin-top: 0; } header { min-height: 62px; }
+        @media(max-width: 760px){.toolbar { grid-template-columns: 120px minmax(150px,1fr) 115px; }.toolbar > .ghost-btn { grid-column: 1; grid-row: 2; }.toolbar > .upload-btn { grid-column: 2; grid-row: 2; width: 100px; }}
+        @media(max-width: 480px){.toolbar { grid-template-columns: 100px minmax(0,1fr); }.toolbar > #rate-selector { grid-column: 1; grid-row: 2; }.toolbar > .ghost-btn { grid-column: 2; grid-row: 2; }.toolbar > .upload-btn { grid-column: 1; grid-row: 3; } .nav-tabs { gap: 4px; }header .tab-btn { padding: 10px 8px; font-size: .72rem; }}
+/* Compact application shell: no global clipping or scaling. */
+html { color-scheme: dark; }
+body, body.p2-mode { padding: 10px 16px 16px; font-size:14px; }
+.container { max-width: 1568px; width:100%; }
+.app-bar { margin:0 0 8px; }
+.app-bar .toolbar { display:flex; align-items:center; gap:10px; flex-wrap:nowrap; min-height:44px; }
+.app-bar .logo { margin:0 auto 0 0; font-size:20px; white-space:nowrap; }
+.logo span { font-size:10px; letter-spacing:.04em; margin-top:2px; }
+.toolbar #test-selector { display:block!important; flex:0 0 130px; width:130px; }
+.toolbar > #p2-voice-shortcut { display:none!important; }
+.toolbar > .ctrl-btn,.toolbar > .upload-btn,.toolbar > #test-selector { height:38px;min-height:38px; }
+.toolbar > .upload-btn { width:auto; padding:8px 14px; font-size:14px; }
+.compact-navigation { display:grid; grid-template-columns:minmax(330px,.8fr) minmax(550px,1.2fr);gap:10px;margin-bottom:8px; }
+.main-part-tabs { margin:0; padding:4px; align-items:center; width:100%; }
+.main-part-tabs button { padding:9px 14px; font-size:14px; min-height:36px; }
+.compact-navigation header { margin:0; min-height:46px; padding:4px 8px; border-radius:14px; }
+.nav-tabs { gap:4px; flex-wrap:nowrap; }.tab-btn,header .tab-btn { padding:9px 12px; font-size:14px; white-space:nowrap; }
+.score-board { font-size:14px; padding:7px 12px; }.hotkey { display:none; }
+.game-section,#quiz { padding:10px 14px; border-radius:18px; }
+#quiz { background:#0f1d31; }
+#quiz .section-header,.p2-header { margin:0 0 8px; min-height:24px; display:block; }
+#quiz h3,.p2-header h3 { font-size:16px; line-height:1.4; letter-spacing:0; }
+#quiz .quiz-eyebrow,#quiz .quiz-subtitle { display:none; }
+.practice-layout { display:grid; grid-template-columns:minmax(0,1.18fr) minmax(380px,.92fr);gap:18px;height:calc(100dvh - 194px);min-height:390px; }
+.practice-photos { min-width:0; min-height:0; display:flex;align-items:center;justify-content:center; }
+#p2-photos,#quiz-photo-options { width:min(100%,calc(100dvh - 206px));max-width:none!important;height:auto;aspect-ratio:1;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:10px;margin:0; }
+.answer-tile { position:relative;min-width:0;min-height:0;aspect-ratio:1; }
+#quiz .answer-tile .p2-photo,#quiz .answer-tile .photo-option-card { width:100%;height:100%;margin:0;padding:4px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:#13233a; }
+.answer-tile .option-sprite { flex:0 0 100%;aspect-ratio:4/3; }
+.answer-tile .p2-sprite { aspect-ratio:1; }
+#quiz .option-letter,.p2-option-letter { bottom:10px;right:10px;width:30px;height:30px;font-size:16px; }
+.photo-zoom-button { position:absolute;left:10px;bottom:10px;z-index:5;border:1px solid #8b9db7;border-radius:8px;background:#0a172be8;color:#e0e7ff;font-size:20px;width:34px;height:34px;cursor:pointer; }
+.photo-zoom-button:hover { background:#425b8a; }
+.practice-controls { min-width:0;min-height:0;display:grid;grid-template-rows:auto auto auto minmax(80px,1fr) 44px;gap:10px; }
+.practice-controls .question-overview { margin:0;gap:8px;align-items:center;font-size:14px;min-height:34px; }
+#p2-progress,#quiz-completion-text { font-size:14px;line-height:1.4;margin:0;flex:1; }
+.practice-controls .question-overview .ctrl-btn { font-size:14px;padding:7px 10px; }
+.p2-player-tools,.p1-player-tools { display:flex;align-items:center;gap:8px;flex-wrap:wrap;width:100%;max-width:none;margin:0!important;font-size:14px;justify-content:space-between; }
+.p2-player-tools label,.p1-player-tools label { font-size:14px!important;display:flex;align-items:center;gap:6px; }
+.shared-rate select { padding:6px 8px;min-width:76px; }
+.p1-player-tools .ctrl-btn { padding:7px 9px;font-size:14px; }
+#part2-game .p2-player { width:100%;max-width:none;padding:12px;gap:10px;align-items:center;margin:0;border-radius:14px; }
+.p2-player > .audio-play { width:42px;height:42px; }
+.p2-player > .ctrl-btn { width:32px;height:32px;flex-shrink:0; }
+.p2-player-main > strong { font-size:14px; }.p2-player-main { min-width:0; }
+#p2-audio-status { font-size:14px;margin-top:3px; }
+.p2-segments { display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px; }
+.p2-speaker-player { padding:7px;border-radius:10px; }
+.p2-segments .p2-speaker-player > button { font-size:14px;margin-bottom:4px;line-height:1.3;white-space:normal; }
+.p2-segments .p2-speaker-track button { font-size:16px;flex-basis:24px;height:28px; }.p2-word-count { font-size:12px; }
+#part1-game .listen-box { padding:0;margin:0; }.quiz-audio-player { width:100%;max-width:none;margin:0;padding:12px; }
+#quiz-hint-text { font-size:14px!important;line-height:1.4;margin-top:8px!important; }
+#part2-game #p2-reveal,#part1-game #quiz-reveal-banner { display:flex!important;flex-direction:column;align-items:stretch;gap:8px;min-height:0;padding:12px;margin:0;border:1px solid #344a69;border-radius:12px;background:#142238;overflow:auto;font-size:14px; }
+#p2-feedback { font-size:14px;line-height:1.4; }.p2-transcript { margin:0; }.p2-transcript p { font-size:14px;line-height:1.5;margin-top:9px; }.p2-transcript .p2-translation { font-size:14px;line-height:1.5; }
+#p2-reveal > button,#quiz-reveal-banner > button { display:none; }
+#reveal-en { font-size:16px!important; }#reveal-vi { font-size:14px!important; }
+.practice-navigation { display:grid;grid-template-columns:1fr 1fr;gap:10px;align-items:stretch; }
+.practice-navigation .ctrl-btn { font-size:14px;height:44px;padding:8px 12px; }
+#part1-game > .section-header > div:last-child { display:none; }
+#part1-game > #quiz-progress { display:none; }
+#p2-missing-note:empty { display:none; }
+#quiz-mark-btn { font-size:13px; }
+.shortcut-bar { display:none!important; }
+.settings-modal,.image-zoom-modal { margin:auto;max-width:calc(100vw - 32px);max-height:calc(100dvh - 32px);border:1px solid #465a7c;border-radius:18px;background:#101e33;color:#edf4ff;padding:20px;box-shadow:0 20px 80px #0008; }
+.settings-modal { width:680px;overflow:auto; }.settings-modal::backdrop,.image-zoom-modal::backdrop { background:#020917b8;backdrop-filter:blur(4px); }
+.modal-heading { display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:18px; }.modal-heading h2 { font-size:18px; }.modal-heading button { width:38px;height:38px;border:1px solid #415679;border-radius:9px;background:#172a46;color:white;font-size:24px;cursor:pointer; }
+.voice-common { display:grid;gap:8px;margin-bottom:16px; }.voice-common > label { font-size:14px; }.voice-common #voice-selector { display:block!important;width:100%; }
+.voice-dialog-test { margin:16px 0; } .p2-voice-settings { padding:12px;margin:0; }.p2-voice-settings summary { font-size:14px; }.p2-voice-grid label,#p2-voice-note { font-size:14px; }
+.settings-modal .select-input { font-size:14px;min-height:38px; }.settings-modal .quiz-filters { margin:0; }.settings-modal .quiz-filter-body { display:flex;flex-direction:column; }.settings-modal .quiz-dropdown,.settings-modal .quiz-filter-row { width:100%; }.settings-modal .quiz-filter-row { display:flex; }.settings-modal .quiz-dropdown-menu { position:static;width:100%;margin-top:8px;box-shadow:none; }.settings-modal .quiz-filter-note { font-size:14px; }
+.image-zoom-modal { width:min(850px,calc(100dvh - 70px));overflow:auto; }#image-zoom-content > div { width:100%;aspect-ratio:1!important;background-repeat:no-repeat;position:relative; }.image-zoom-modal .modal-heading { margin-bottom:10px; }
+#p2-question-list,#quiz-question-list { z-index:120; }
+@media(min-width:1000px) and (max-height:690px){ .practice-layout { gap:12px; }.practice-controls { gap:7px; }.p2-player-main > strong { display:block; font-size:14px; }.p2-player > .audio-play { width:36px;height:36px; }.p2-speaker-player { padding:5px; }#part2-game .p2-player { padding:9px; }.p2-word-count { font-size:11px; } }
+@media(max-width:999px){
+ body,body.p2-mode { padding:12px; }.container { max-width:100%; }.app-bar .toolbar { flex-wrap:wrap;gap:8px; }.app-bar .logo { flex:1 0 calc(100% - 200px); }.compact-navigation { grid-template-columns:1fr;gap:8px; }.nav-tabs { flex-wrap:wrap; }.compact-navigation header { min-height:44px; } .practice-layout { height:auto;min-height:0;grid-template-columns:1fr;gap:16px; }.practice-controls { grid-template-rows:auto auto auto minmax(160px,auto) 44px; }.practice-photos { min-height:0; }#p2-photos,#quiz-photo-options { width:100%;max-width:640px!important;aspect-ratio:1;gap:8px; }.practice-controls #p2-reveal,.practice-controls #quiz-reveal-banner { max-height:360px;min-height:140px; }.settings-modal .p2-voice-grid { grid-template-columns:1fr; }.main-part-tabs button { font-size:14px;padding:8px; }
+}
+@media(max-width:480px){ .app-bar .logo { font-size:18px; }.toolbar #test-selector { flex-basis:105px;width:105px; }.toolbar > .upload-btn { padding:7px 10px; }.compact-navigation header { align-items:flex-start; }.nav-tabs { gap:3px; }.tab-btn,header .tab-btn { padding:8px 7px;font-size:13px; }.p2-segments { grid-template-columns:1fr; }.p2-player-main { flex:1; }.settings-modal { padding:14px; }.practice-controls .question-overview { flex-wrap:wrap; } }
+
+        .p2-test-picker[hidden], .p2-instructions[hidden] { display:none!important; }
+    
+/* Parent Parts and subordinate study modes are separate navigation levels. */
+.compact-navigation{grid-template-columns:1fr;gap:4px}.compact-navigation .main-part-tabs{margin:0;padding:3px;min-height:34px}.compact-navigation .main-part-tabs button{min-height:28px;padding:5px 12px}.compact-navigation header{min-height:38px;padding:3px 8px;margin-left:16px;border-left:3px solid var(--primary)}
+.practice-layout{height:calc(100dvh - 224px)}#p2-photos,#quiz-photo-options{width:min(100%,calc(100dvh - 236px))}
+#p2-play[hidden]{display:none!important}.p2-player-main{min-width:0}.p2-player{gap:8px}.p2-speaker-track #p2-speaker-play-0,.p2-speaker-track #p2-speaker-play-1{background:#a8bcfa;color:#102340;border-radius:6px;min-width:30px;height:30px}.speaker-shortcuts{font-size:12px;color:var(--text-sub);margin-top:7px}.p2-player>.ctrl-btn{padding:7px;white-space:nowrap}.appearance-fields{display:grid;gap:18px}.appearance-fields label{display:flex;align-items:center;justify-content:space-between;gap:16px}.appearance-fields select{padding:10px;border-radius:8px}.appearance-fields input[type=color]{width:70px;height:38px}
+body[data-theme]:not([data-theme=dark]){background:var(--theme-bg);color:var(--theme-text);--text-main:var(--theme-text);--text-sub:var(--theme-sub);--line:#8a9bb655;--primary:var(--theme-accent);--primary-2:var(--theme-accent)}
+body[data-theme]:not([data-theme=dark]) :is(section,header,.main-part-tabs,.question-overview,.p2-player,.p2-speaker-player,.quiz-audio-player,.settings-modal,.image-zoom-modal,.quiz-filters,.p2-voice-settings,.p2-header,#quiz,#p2-reveal,#quiz-reveal-banner,.reveal-banner,.listen-box,.photo-option-card,.p2-photo){background:var(--theme-panel)!important;color:var(--theme-text)!important;border-color:var(--line)!important}
+body[data-theme]:not([data-theme=dark]) :is(button,select,.ctrl-btn,.select-input,.p2-segments button,.modal-heading button){color:var(--theme-text);background:var(--theme-panel);border-color:var(--line)}
+body[data-theme]:not([data-theme=dark]) :is(.active,.tab-btn.active,.main-part-tabs button[aria-selected=true]){background:var(--theme-accent)!important;color:white!important}
+body[data-theme]:not([data-theme=dark]) :is(p,h1,h2,h3,strong,.quiz-subtitle,#p2-progress,#p2-audio-status,.p2-word-count,.speaker-shortcuts,.p2-translation){color:var(--theme-text)}
+body[data-palette=light] .logo{color:#176292;background:none;-webkit-text-fill-color:currentColor}body[data-palette=light] :is(.p2-photo .photo-letter,.option-letter){background:#102340;color:white}body[data-palette=light] kbd{color:#172b43;background:#e2eaf5}
+@media(max-width:999px){.practice-layout{height:auto}#p2-photos,#quiz-photo-options{width:100%}.compact-navigation header{margin-left:8px}} 
+
+
+.p2-player>.ctrl-btn{width:66px;flex:0 0 66px;border-radius:9px;font-size:16px}.p2-player>.ctrl-btn kbd{font-size:11px}.p2-player-main{flex:1 1 0}.p2-speaker-track input{flex:1 1 0;width:0}.speaker-shortcuts{line-height:1.6}body[data-palette=light] :is(.p2-player-tools label,.p1-player-tools label,.p2-voice-note){color:#4c6078}body[data-palette=light] .upload-btn{background:#e2eaf5;color:#263d58}body[data-theme] #quiz .correct{border-color:#10b981!important;box-shadow:0 0 0 2px #10b981}body[data-theme] #quiz .wrong{border-color:#ef4444!important;box-shadow:0 0 0 2px #ef4444}
+
+.practice-reset-tools{display:grid;gap:8px;padding:12px;border-bottom:1px solid var(--line)}.practice-reset-tools button{min-height:36px;font-size:13px;text-align:left}.practice-reset-tools small{color:#b3c3d8;line-height:1.6}.practice-reset-tools button:disabled{opacity:.45}body[data-palette=light] :is(#p2-question-list,#quiz-question-list){background:#fff;color:#172b43}body[data-palette=light] .practice-reset-tools small{color:#4c6078}
+</style>
 </head>
 <body>
 
 <div class="container">
     <div class="app-bar">
-        <div class="logo">TOEIC PicQuiz<span>Part 1 · 10 tests · 422 mục</span></div>
+        <div class="logo">TOEIC PicQuiz<span>Part 1 & Part 2 · Luyện nghe TOEIC</span></div>
         <div class="toolbar">
             <select id="test-selector" class="select-input" onchange="changeActiveTest(this.value)">
                 <option value="ALL">Tất cả 10 Test</option>
@@ -803,7 +933,7 @@
             <button class="ctrl-btn" id="p2-voice-shortcut" onclick="openPart2VoiceSettings()">Giọng đọc Part 2 ♫</button><select id="voice-selector" class="select-input" onchange="onVoiceChange()">
                 <option value="RANDOM_TOEIC">Giọng random US / UK / AU</option>
             </select>
-            <select id="rate-selector" class="select-input">
+            <select id="rate-selector" class="select-input" onchange="if(activeQuizPart==='2'){document.getElementById('rate-selector').value=this.value;stopPart2Audio();}">
                 <option value="0.8">0.8x chậm</option>
                 <option value="0.92" selected>0.95x TOEIC</option>
                 <option value="1.0">1.0x</option>
@@ -819,6 +949,7 @@
         </div>
     </div>
 
+<div class="quiz-part-tabs main-part-tabs"><button class="active" data-quiz-part="1" aria-pressed="true" onclick="setQuizPart('1')">Part 1 · Miêu tả ảnh</button><button data-quiz-part="2" aria-pressed="false" onclick="setQuizPart('2')">Part 2 · Hỏi & đáp</button></div>
     <header>
         <div class="nav-tabs">
             <button class="tab-btn active" onclick="switchTab('flashcard', this)">Học thẻ <span class="hotkey">1</span></button>
@@ -860,12 +991,12 @@
     </section>
 
     <!-- 2. NGHE CÂU CHỌN ẢNH -->
-    <section id="quiz" class="game-section"><div class="quiz-part-tabs"><button class="active" data-quiz-part="1" aria-pressed="true" onclick="setQuizPart('1')">Part 1 · Miêu tả ảnh</button><button data-quiz-part="2" aria-pressed="false" onclick="setQuizPart('2')">Part 2 · Hỏi & đáp</button></div>
+    <section id="quiz" class="game-section">
 <div id="part2-game">
     <div class="p2-header"><div><span class="quiz-eyebrow" id="p2-test-title">PART 2 · TEST 1</span><h3>Nghe hai người, chọn đúng hội thoại.</h3><p class="quiz-subtitle">Nghe đủ hai người · Chọn ảnh hội thoại phù hợp</p></div><div class="quiz-navigation"><button class="ctrl-btn" id="p2-prev" onclick="movePart2(-1)">← Câu trước</button><button class="ctrl-btn" id="p2-next" onclick="movePart2(1)">Câu sau →</button></div></div>
     <div class="p2-test-picker"><label for="p2-test-selector">Test muốn ôn</label><select class="select-input" id="p2-test-selector" onchange="changePart2Test(this.value)"><option value="1">Test 1 · 25 câu</option><option value="2">Test 2 · 25 câu</option><option value="3">Test 3 · 25 câu</option><option value="4">Test 4 · 25 câu</option><option value="5">Test 5 · 25 câu</option><option value="6">Test 6 · 25 câu</option><option value="7">Test 7 · 25 câu</option><option value="8">Test 8 · 25 câu</option><option value="9">Test 9 · 25 câu</option><option value="10">Test 10 · 25 câu</option></select></div><p id="p2-missing-note" role="status"></p><details class="p2-voice-settings" id="p2-voice-settings"><summary>Giọng đọc & cách nghe</summary><div class="p2-voice-mode-row"><label for="p2-voice-mode">Cách chọn giọng</label><select id="p2-voice-mode" class="select-input" onchange="savePart2VoiceRoles(); stopPart2Audio()"><option value="fixed">Giữ hai giọng tôi chọn</option><option value="natural">Tự đổi giọng tự nhiên theo vai</option><option value="accents">Đổi giọng Mỹ / Anh / Úc theo vai</option></select></div><div class="p2-voice-grid"><label>Giọng nam<select class="select-input" id="p2-voice-one" onchange="savePart2VoiceRoles(); stopPart2Audio()"></select></label><label>Giọng nữ<select class="select-input" id="p2-voice-two" onchange="stopPart2Audio()"></select></label></div><p id="p2-voice-note"></p></details>
-    <p id="p2-progress"></p><div id="p2-numbers" class="question-number-grid"></div>
-    <div class="p2-player-tools"><label><input type="checkbox" id="p2-autoplay" checked> Tự phát khi chuyển câu</label><label>Tốc độ <select class="select-input" id="p2-rate" onchange="stopPart2Audio()"><option value="0.8">0.8×</option><option value="0.95" selected>0.95×</option><option value="1">1×</option><option value="1.15">1.15×</option></select></label></div><div class="p2-player"><button class="audio-play" id="p2-play" aria-label="Phát hội thoại" onclick="togglePart2Audio()">▶</button><div class="p2-player-main"><strong id="p2-counter"></strong><span id="p2-audio-status" role="status">Nghe đủ hai lượt nói</span><div class="p2-segments"><button id="p2-segment-one" onclick="playPart2(0)">1 · Người hỏi</button><button id="p2-segment-two" onclick="playPart2(1)">2 · Người đáp</button></div></div><button class="ctrl-btn" onclick="playPart2()" title="Nghe lại cả hội thoại">↻</button></div>
+    <div class="question-overview"><p id="p2-progress"></p><button class="ctrl-btn" onclick="togglePart2QuestionList()">▦ Danh sách câu hỏi</button></div>
+    <div class="p2-player-tools"><label><input type="checkbox" id="p2-autoplay" checked> Tự phát khi chuyển câu</label><label>Tốc độ <select class="select-input" id="p2-rate" onchange="document.getElementById('rate-selector').value=this.value;stopPart2Audio()"><option value="0.8">0.8×</option><option value="0.95" selected>0.95×</option><option value="1">1×</option><option value="1.15">1.15×</option></select></label></div><div class="p2-player"><button class="audio-play" id="p2-play" aria-label="Phát hội thoại" onclick="togglePart2Audio()">▶</button><div class="p2-player-main"><strong id="p2-counter"></strong><span id="p2-audio-status" role="status">Nghe đủ hai lượt nói</span><div class="p2-segments"><div class="p2-speaker-player"><button id="p2-segment-one" onclick="playPart2(0,0,true)">1 · Người hỏi</button><div class="p2-speaker-track"><button id="p2-speaker-play-0" onclick="togglePart2Speaker(0)" aria-label="Phát người 1">▶</button><button onclick="skipPart2Words(0,-3)" aria-label="Tua lùi 3 từ của người 1" title="Tua lùi 3 từ">←</button><input type="range" id="p2-range-0" min="0" max="1" value="0" step="1" aria-label="Vị trí đọc người 1" oninput="playPart2(0,Number(this.value),true)"><button onclick="skipPart2Words(0,3)" aria-label="Tua tới 3 từ của người 1" title="Tua tới 3 từ">→</button></div><span id="p2-word-count-0" class="p2-word-count">0 / 0 từ</span></div><div class="p2-speaker-player"><button id="p2-segment-two" onclick="playPart2(1,0,true)">2 · Người đáp</button><div class="p2-speaker-track"><button id="p2-speaker-play-1" onclick="togglePart2Speaker(1)" aria-label="Phát người 2">▶</button><button onclick="skipPart2Words(1,-3)" aria-label="Tua lùi 3 từ của người 2" title="Tua lùi 3 từ">←</button><input type="range" id="p2-range-1" min="0" max="1" value="0" step="1" aria-label="Vị trí đọc người 2" oninput="playPart2(1,Number(this.value),true)"><button onclick="skipPart2Words(1,3)" aria-label="Tua tới 3 từ của người 2" title="Tua tới 3 từ">→</button></div><span id="p2-word-count-1" class="p2-word-count">0 / 0 từ</span></div></div></div><button class="ctrl-btn" onclick="playPart2()" title="Nghe lại cả hội thoại">↻</button></div>
     <p class="p2-instructions">Nghe cả câu hỏi và câu đáp, rồi chọn ảnh A–D phù hợp. Ảnh có sẵn chữ hội thoại để bạn đối chiếu.</p>
     <div id="p2-photos"></div>
     <div id="p2-reveal" hidden><strong id="p2-feedback"></strong><div class="p2-transcript" id="p2-transcript" hidden><p id="p2-question-en"></p><p id="p2-question-vi" class="p2-translation"></p><p id="p2-response-en"></p><p id="p2-response-vi" class="p2-translation"></p></div><button class="ctrl-btn" onclick="movePart2(1)">Câu tiếp theo →</button></div>
@@ -942,6 +1073,7 @@
 
 <aside id="quiz-question-list" hidden aria-label="Danh sách câu hỏi"><div class="question-list-header"><strong>Danh sách câu hỏi</strong><button class="ctrl-btn" onclick="toggleQuestionList(false)" aria-label="Đóng danh sách câu hỏi">×</button></div><div id="quiz-question-counts"></div><div class="question-legend"><span class="legend-current">Đang xem</span><span class="legend-correct">Đúng</span><span class="legend-wrong">Sai</span><span>Chưa làm</span><span class="legend-marked">Đánh dấu</span></div><div id="quiz-question-groups"></div></aside>
 
+<aside id="p2-question-list" hidden aria-label="Danh sách câu Part 2"><div class="question-list-header"><strong id="p2-list-title">Part 2 · Test 1</strong><button class="ctrl-btn" onclick="togglePart2QuestionList(false)" aria-label="Đóng danh sách">×</button></div><div class="question-legend"><span class="legend-current">Đang xem</span><span class="legend-correct">Đúng</span><span class="legend-wrong">Sai</span><span>Chưa làm</span></div><div id="p2-numbers" class="question-number-grid"></div></aside>
 <script>
     /* =========================================================================
      * 1. HỆ THỐNG GIỌNG ĐỌC ĐA DẠNG (MULTI-VOICE ENGINE)
@@ -1719,6 +1851,7 @@
     let currentTab = 'flashcard';
 
     function switchTab(tabId, btn) {
+        if(activeQuizPart==='2' && tabId!=='quiz') return;
         if (currentTab === 'quiz' && tabId !== 'quiz') stopPart2Audio();
         if (currentTab === 'quiz' && tabId !== 'quiz') { quizAudioToken++; window.speechSynthesis.cancel(); quizAudioState = 'idle'; updateQuizAudioUI(); }
         currentTab = tabId;
@@ -1751,6 +1884,7 @@
         if (isTypingTarget(e.target)) return;
         if (currentTab === 'quiz' && activeQuizPart === '2') {
             if (e.key !== 'Control' && e.ctrlKey) ctrlUsedAsCombo = true;
+            if ((e.key==='1'||e.key==='2')&&!e.ctrlKey&&!e.altKey&&!e.metaKey) { e.preventDefault();if(!e.repeat)playPart2(Number(e.key)-1,0,true);return; }
             if (e.code === 'Space') { e.preventDefault(); if(!e.repeat)togglePart2Audio(); return; }
             if (e.key === 'ArrowRight' || e.key === 'Enter') { e.preventDefault(); movePart2(1); return; }
             if (e.key === 'ArrowLeft') { e.preventDefault(); movePart2(-1); return; }
@@ -1927,7 +2061,7 @@
     document.addEventListener('click', event => { if (!event.target.closest('.quiz-dropdown')) closeQuizDropdowns(); });
     document.addEventListener('keydown', event => {
         if (event.key === 'Escape') {
-            toggleQuestionList(false);
+            toggleQuestionList(false);togglePart2QuestionList(false);
             const active = document.querySelector('.quiz-dropdown-toggle[aria-expanded="true"]');
             closeQuizDropdowns(); if (active) active.focus();
         }
@@ -1995,6 +2129,7 @@
     }
     function initQuiz(revisit = false) {
         quizAnswered = false;
+        resetCompactFeedback(1);
         updateQuizFilterSummary();
         const pool = getQuizPool();
         const historyKey = document.getElementById('quiz-order').value + ':' + pool.map(item => item.id).join(',');
@@ -2074,8 +2209,10 @@
             grid.appendChild(card);
         });
 
+        attachPhotoZoom('quiz-photo-options');
+        document.querySelector('#part1-game h3').innerText='Nghe chọn ảnh · '+currentQuizItem.testId+' · '+currentQuizItem.cat;
         const audioItemId = currentQuizItem.id;
-        setTimeout(() => { if(currentTab === 'quiz' && activeQuizPart === '1' && currentQuizItem && currentQuizItem.id === audioItemId) speakQuizAudio(); }, 250);
+        setTimeout(() => { if(currentTab === 'quiz' && activeQuizPart === '1' && currentQuizItem && currentQuizItem.id === audioItemId && document.getElementById('quiz-autoplay').checked) speakQuizAudio(); }, 250);
     }
 
     function toggleQuizHint() {
@@ -2332,7 +2469,7 @@
         for (const [number,result] of Object.entries(old)) if(typeof result === 'boolean' && !Object.prototype.hasOwnProperty.call(p2Results,'p2-t1-q'+number)) p2Results['p2-t1-q'+number] = result;
     } catch (_) { p2Results = {}; }
     let p2SubtitlesVisible = true;
-    function openPart2VoiceSettings() { const settings=document.getElementById('p2-voice-settings');settings.open=true;settings.scrollIntoView({behavior:'smooth',block:'center'}); }
+    function openPart2VoiceSettings() { document.getElementById('voice-settings-dialog').showModal(); }
     function updatePart2Subtitles() {}
     function choosePart2Voices(item,voices) {
         const manual={male:document.getElementById('p2-voice-one').value,female:document.getElementById('p2-voice-two').value};
@@ -2351,11 +2488,24 @@
         }
         return item.roles.map(role=>byRole[role]);
     }
+    let p2WordPositions=[0,0];
+    function togglePart2QuestionList(open) { const panel=document.getElementById('p2-question-list');panel.hidden=typeof open==='boolean'?!open:!panel.hidden; }
+    function updatePart2WordTracks() {
+        const item=part2Items[p2Index];if(!item)return;
+        [item.question,item.response].forEach((text,index)=>{const words=text.match(/\S+/g)||[];const range=document.getElementById('p2-range-'+index);range.max=words.length;range.value=p2WordPositions[index];document.getElementById('p2-word-count-'+index).innerText=p2WordPositions[index]+' / '+words.length+' từ';});
+    }
+    function skipPart2Words(speaker,delta){ playPart2(speaker,p2WordPositions[speaker]+delta,true); }
     function stopPart2Audio() { p2Token++; window.speechSynthesis.cancel(); p2State = 'idle'; updatePart2Player(); }
     function setQuizPart(part) {
+        if(part==='2' && currentTab!=='quiz') { currentTab='quiz';document.querySelectorAll('.game-section').forEach(section=>section.classList.toggle('active',section.id==='quiz'));document.querySelectorAll('.tab-btn').forEach(button=>button.classList.toggle('active',button.getAttribute('onclick')?.includes("'quiz'"))); }
+        document.body.classList.toggle('p2-selected',part==='2');togglePart2QuestionList(false);
+        document.querySelectorAll('.nav-tabs .tab-btn').forEach(button=>{const supported=part==='1'||button.getAttribute('onclick').includes("'quiz'");button.disabled=!supported;button.title=supported?'':'Part 2 hiện có chế độ Nghe chọn ảnh';});
+        document.getElementById('test-selector').value=part==='2'?'Test '+p2Test:currentTestFilter;
+        if(part==='2')document.getElementById('rate-selector').value=document.getElementById('rate-selector').value;
         activeQuizPart = part; document.body.classList.toggle("p2-mode",part === "2" && currentTab === "quiz"); quizAudioToken++; stopPart2Audio(); toggleQuestionList(false);
         document.getElementById('quiz').classList.toggle('part2-active',part === '2');
         document.querySelectorAll('[data-quiz-part]').forEach(btn => { const active = btn.dataset.quizPart === part; btn.classList.toggle('active',active); btn.setAttribute('aria-pressed',String(active)); });
+        syncCompactPartUI();
         if (part === '2') { populatePart2Voices(); renderPart2(); } else initQuiz();
     }
     function populatePart2Voices() {
@@ -2377,19 +2527,31 @@
         document.getElementById('p2-audio-status').innerText=p2State==='playing'?'Đang đọc · Người '+(p2Speaker+1):p2State==='paused'?'Tạm dừng':p2State==='ended'?'Đã nghe xong':p2State==='error'?'Không phát được. Hãy chọn giọng khác.':'Nghe đủ hai lượt nói';
         document.getElementById('p2-segment-one').classList.toggle('speaking',p2State==='playing'&&p2Speaker===0);
         document.getElementById('p2-segment-two').classList.toggle('speaking',p2State==='playing'&&p2Speaker===1);
+        for(let i=0;i<2;i++){const el=document.getElementById('p2-speaker-play-'+i);if(!el)continue;const playing=p2State==='playing'&&p2Speaker===i,paused=p2State==='paused'&&p2Speaker===i;el.innerText=playing?'Ⅱ':'▶';el.setAttribute('aria-label',(playing?'Tạm dừng ':paused?'Tiếp tục ':'Phát ')+(i===0?'người hỏi':'người đáp'));el.setAttribute('aria-pressed',String(playing));}
         updatePart2Subtitles();
     }
-    function playPart2(speaker=0) {
+    function togglePart2Speaker(index){
+        if(p2Speaker===index&&(p2State==='playing'||p2State==='paused')){togglePart2Audio();return;}
+        const item=part2Items[p2Index],count=(index===0?item.question:item.response).match(/\S+/g)?.length||0;
+        playPart2(index,p2WordPositions[index]>=count?0:p2WordPositions[index],true);
+    }
+    function playPart2(speaker=0,wordIndex=0,onlySpeaker=false) {
         const token=++p2Token, item=part2Items[p2Index]; window.speechSynthesis.cancel(); window.speechSynthesis.resume();
         const voices=window.speechSynthesis.getVoices().filter(v=>/^en[-_]/i.test(v.lang));
         // Keep both selected voices stable for this entire dialogue.
         const selected=choosePart2Voices(item,voices);
         function say(index) {
             if(token!==p2Token || activeQuizPart!=='2' || currentTab!=='quiz')return;
-            p2Speaker=index; const utterance=new SpeechSynthesisUtterance(index===0?item.question:item.response);
+            p2Speaker=index;
+            const words=(index===0?item.question:item.response).match(/\S+/g)||[];
+            const start=index===speaker?Math.max(0,Math.min(wordIndex,words.length)):0;
+            p2WordPositions[index]=start;updatePart2WordTracks();
+            if(start===words.length){if(index===0&&!onlySpeaker){say(1);}else{p2State='ended';updatePart2Player();}return;}
+            const spokenText=words.slice(start).join(' '),utterance=new SpeechSynthesisUtterance(spokenText);
+            utterance.onboundary=event=>{if(token!==p2Token)return;p2WordPositions[index]=start+(spokenText.slice(0,event.charIndex).match(/\S+/g)||[]).length;updatePart2WordTracks();};
             const voice=voices.find(v=>(v.voiceURI||v.name)===selected[index]); if(voice){utterance.voice=voice;utterance.lang=voice.lang;}else utterance.lang='en-US';
-            utterance.rate=parseFloat(document.getElementById('p2-rate').value)||.95;
-            utterance.onend=()=>{if(token!==p2Token)return;if(index===0)say(1);else{p2State='ended';updatePart2Player();}};
+            utterance.rate=parseFloat(document.getElementById('rate-selector').value)||.95;
+            utterance.onend=()=>{if(token!==p2Token)return;p2WordPositions[index]=words.length;updatePart2WordTracks();if(index===0&&!onlySpeaker)say(1);else{p2State='ended';updatePart2Player();}};
             utterance.onerror=event=>{if(token!==p2Token || event.error==='canceled' || event.error==='interrupted')return;p2State='error';updatePart2Player();};
             p2Utterance=utterance;p2State='playing';updatePart2Player();window.speechSynthesis.speak(utterance);
         }
@@ -2403,7 +2565,7 @@
     function changePart2Test(value) {
         const test=Number(value); if(!Number.isInteger(test)||test<1||test>10)return;
         p2ItemToken++; p2Test=test; part2Items=part2AllItems.filter(item=>item.test===test);p2Index=0;
-        document.getElementById('p2-test-selector').value=String(test);renderPart2();
+        document.getElementById('p2-test-selector').value=String(test);if(activeQuizPart==='2')document.getElementById('test-selector').value='Test '+test;renderPart2();
     }
     function movePart2(delta) { const next=p2Index+delta;if(next<0||next>=part2Items.length)return;p2Index=next;renderPart2(); }
     function jumpPart2(index){if(!Number.isInteger(index)||index<0||index>=part2Items.length)return;p2Index=index;renderPart2();}
@@ -2411,6 +2573,7 @@
         const correct=part2Items.filter(item=>p2Results[item.id]===true).length, wrong=part2Items.filter(item=>p2Results[item.id]===false).length;
         document.getElementById('p2-progress').innerText='Test '+p2Test+' · '+part2Items.length+' hội thoại · '+correct+' đúng · '+wrong+' sai · '+(part2Items.length-correct-wrong)+' chưa làm';
         document.getElementById('p2-test-title').innerText='PART 2 · TEST '+p2Test;
+        document.getElementById('p2-list-title').innerText='Part 2 · Test '+p2Test+' · 25 câu';
         document.getElementById('p2-missing-note').innerText='';
         const root=document.getElementById('p2-numbers');root.innerHTML='';
         for(let number=7;number<=31;number++) {
@@ -2422,12 +2585,13 @@
         }
     }
     function renderPart2() {
-        stopPart2Audio();const item=part2Items[p2Index];p2Answered=false;
+        stopPart2Audio();p2WordPositions=[0,0];updatePart2WordTracks();const item=part2Items[p2Index];p2Answered=false;
         const roles=item.roles;
         document.getElementById('p2-segment-one').innerText='1 · Người hỏi ('+(roles[0]==='male'?'nam':'nữ')+')';
         document.getElementById('p2-segment-two').innerText='2 · Người đáp ('+(roles[1]==='male'?'nam':'nữ')+')';
         document.getElementById('p2-counter').innerText='Câu '+String(item.number).padStart(2,'0')+' · '+(p2Index+1)+' / '+part2Items.length;
         document.getElementById('p2-prev').disabled=p2Index===0;document.getElementById('p2-next').disabled=p2Index===part2Items.length-1;
+        resetCompactFeedback(2);
         document.getElementById('p2-reveal').hidden=true;
         document.getElementById('p2-transcript').hidden=true;
         p2Options=shuffleQuizItems([item,...shuffleQuizItems(part2Items.filter(other=>other.id!==item.id)).slice(0,3)]);
@@ -2438,14 +2602,16 @@
             const label=document.createElement('span');label.className='p2-option-letter';label.innerText=String.fromCharCode(65+index);for(const [x,y,w,height] of option.textMasks){const mask=document.createElement('span');mask.className='p2-text-mask';mask.style.left=(x*100)+'%';mask.style.top=(y*100)+'%';mask.style.width=(w*100)+'%';mask.style.height=(height*100)+'%';image.appendChild(mask);}card.appendChild(image);card.appendChild(label);card.onclick=()=>answerPart2(option,card);grid.appendChild(card);
         });
         renderPart2Numbers();
+        attachPhotoZoom('p2-photos');
         updatePart2Subtitles();
         const token=++p2ItemToken;setTimeout(()=>{if(token===p2ItemToken&&currentTab==='quiz'&&activeQuizPart==='2'&&document.getElementById('p2-autoplay').checked)playPart2();},250);
     }
     function showPart2Answer(correct) {
         const item=part2Items[p2Index];document.getElementById('p2-reveal').hidden=false;
-        document.getElementById('p2-transcript').hidden=!correct;
-        document.getElementById('p2-feedback').innerText=correct?'Đúng rồi! Đây là hội thoại bạn vừa nghe.':'Chưa đúng. Bạn có thể chọn ảnh viền xanh để xem lời thoại.';
-        if(correct){
+        document.getElementById('p2-transcript').hidden=false;
+        const letter=String.fromCharCode(65+p2Options.findIndex(option=>option.id===item.id));
+        document.getElementById('p2-feedback').innerText=(correct?'Đúng rồi! ':'Chưa đúng. ')+'Đáp án '+letter+' · Hội thoại bạn vừa nghe:';
+        {
             document.getElementById('p2-question-en').innerText='Người hỏi: '+item.question;
             document.getElementById('p2-response-en').innerText='Người đáp: '+item.response;
             document.getElementById('p2-question-vi').innerText=item.questionVi;
@@ -2466,6 +2632,114 @@
 
     window.speechSynthesis.addEventListener('voiceschanged',populatePart2Voices);
     populatePart2Voices();
+    function mountCompactPractice() {
+        const q = selector => document.querySelector(selector), byId = id => document.getElementById(id);
+        const make = (tag,cls) => { const el=document.createElement(tag); if(cls)el.className=cls;return el; };
+        const toolbar=q('.toolbar'), app=q('.app-bar');
+        toolbar.prepend(q('.logo'));
+        const settings=make('button','ctrl-btn');settings.innerText='Cài đặt giọng đọc';settings.onclick=()=>byId('voice-settings-dialog').showModal();
+        toolbar.appendChild(settings);
+        const dialog=make('dialog','settings-modal');dialog.id='voice-settings-dialog';
+        dialog.innerHTML='<div class="modal-heading"><h2>Cài đặt giọng đọc</h2><button type="button" onclick="this.closest(\'dialog\').close()" aria-label="Đóng cài đặt">×</button></div><div class="voice-common"><label>Giọng đọc Part 1</label></div><div class="voice-dialog-test"></div>';
+        dialog.querySelector('.voice-common').appendChild(byId('voice-selector'));
+        const details=byId('p2-voice-settings');details.open=true;dialog.appendChild(details);details.querySelector('summary').innerText='Part 2 · Giọng nam / nữ theo ảnh';
+        dialog.querySelector('.voice-dialog-test').appendChild(q('.toolbar .ghost-btn'));
+        document.body.appendChild(dialog);byId('p2-voice-shortcut').hidden=true;
+        const filterDialog=make('dialog','settings-modal');filterDialog.id='quiz-filters-dialog';filterDialog.innerHTML='<div class="modal-heading"><h2>Phạm vi ôn Part 1</h2><button onclick="this.closest(\'dialog\').close()" aria-label="Đóng bộ lọc">×</button></div>';
+        filterDialog.appendChild(q('#quiz > .quiz-filters'));document.body.appendChild(filterDialog);
+        q('label[for="quiz-tests-toggle"]').innerText='Ôn nhiều Test';
+        const nav=make('div','compact-navigation');q('header').before(nav);nav.appendChild(q('.main-part-tabs'));nav.appendChild(q('header'));
+        const p2=byId('part2-game');q('.p2-header h3').innerText='Nghe hội thoại · Chọn ảnh A–D';q('.p2-header .quiz-subtitle').innerText='';
+        const p2Head=q('.p2-header');const p2Nav=q('.p2-header .quiz-navigation');p2Nav.classList.add('practice-navigation');
+        const p2layout=make('div','practice-layout'), p2left=make('div','practice-photos'),p2right=make('div','practice-controls');
+        p2layout.append(p2left,p2right);p2.appendChild(p2layout);p2left.appendChild(byId('p2-photos'));
+        p2right.appendChild(q('#part2-game > .question-overview'));p2right.appendChild(q('.p2-player-tools'));p2right.appendChild(q('.p2-player'));p2right.appendChild(byId('p2-reveal'));p2right.appendChild(p2Nav);
+        q('.p2-test-picker').hidden=true;q('.p2-instructions').hidden=true;
+        const p1=make('div','part1-game');p1.id='part1-game';const quiz=byId('quiz');[...quiz.children].filter(el=>el!==p2).forEach(el=>p1.appendChild(el));quiz.appendChild(p1);
+        const p1head=q('#part1-game > .section-header');q('#part1-game h3').innerText='Nghe câu · Chọn ảnh A–D';q('#part1-game .quiz-subtitle').innerText='';
+        const p1Nav=q('#part1-game .quiz-navigation');p1Nav.classList.add('practice-navigation');const mark=byId('quiz-mark-btn');mark.remove();
+        const p1layout=make('div','practice-layout'),p1left=make('div','practice-photos'),p1right=make('div','practice-controls');p1layout.append(p1left,p1right);p1.appendChild(p1layout);p1left.appendChild(byId('quiz-photo-options'));
+        const overview=q('#part1-game > .question-overview');p1right.appendChild(overview);
+        const p1tools=make('div','p1-player-tools');p1tools.innerHTML='<label><input type="checkbox" id="quiz-autoplay" checked> Tự phát</label><button class="ctrl-btn" onclick="document.getElementById(\'quiz-filters-dialog\').showModal()">Bộ lọc ôn tập</button>';
+        p1tools.appendChild(q('#part1-game input#toggle-text-hint').closest('label'));p1right.appendChild(p1tools);p1right.appendChild(q('#part1-game .listen-box'));p1right.appendChild(byId('quiz-reveal-banner'));p1right.appendChild(p1Nav);
+        overview.prepend(mark);byId('quiz-progress').hidden=true;
+        const rate=byId('rate-selector');rate.innerHTML='<option value="0.75">0.75×</option><option value="0.8">0.8×</option><option value="0.9">0.9×</option><option value="0.95">0.95×</option><option value="1">1×</option><option value="1.15">1.15×</option><option value="1.25">1.25×</option>';
+        const duplicate=byId('p2-rate');if(duplicate)duplicate.closest('label').remove();
+        const rateLabel=make('label','shared-rate');rateLabel.innerText='Tốc độ ';rateLabel.appendChild(rate);rateLabel.id='shared-rate-control';p1tools.prepend(rateLabel);
+        rate.onchange=()=>{try{localStorage.setItem('toeic-study-rate',rate.value);}catch{};stopPart2Audio();quizAudioToken++;window.speechSynthesis.cancel();quizAudioState='idle';updateQuizAudioUI();};
+        try { rate.value=localStorage.getItem('toeic-study-rate')||'0.95';['p2-autoplay','quiz-autoplay'].forEach(id=>{const input=byId(id),value=localStorage.getItem('toeic-'+id);if(value!==null)input.checked=value==='true';input.onchange=()=>localStorage.setItem('toeic-'+id,String(input.checked));}); }catch{}
+        const zoom=make('dialog','image-zoom-modal');zoom.id='image-zoom-dialog';zoom.innerHTML='<div class="modal-heading"><h2>Xem ảnh</h2><button onclick="this.closest(\'dialog\').close()" aria-label="Đóng ảnh phóng to">×</button></div><div id="image-zoom-content"></div>';document.body.appendChild(zoom);
+        document.querySelectorAll('dialog').forEach(el=>el.addEventListener('click',event=>{if(event.target===el){const r=el.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)el.close();}}));
+        document.addEventListener('keydown',event=>{if(document.querySelector('dialog[open]'))event.stopImmediatePropagation();},true);
+        byId('p2-voice-two').onchange=()=>{savePart2VoiceRoles();stopPart2Audio();};
+        syncCompactPartUI();
+    }
+    function syncCompactPartUI() {
+        const rate=document.getElementById('shared-rate-control');if(!rate)return;
+        const allOption=document.querySelector('#test-selector option[value="ALL"]');if(allOption){allOption.hidden=activeQuizPart==='2';allOption.disabled=activeQuizPart==='2';}
+        document.querySelector(activeQuizPart==='2'?'.p2-player-tools':'.p1-player-tools').prepend(rate);
+        document.getElementById('p2-test-selector').closest('.p2-test-picker').hidden=true;
+    }
+    function resetCompactFeedback(part) {
+        if(part===2){document.getElementById('p2-feedback').innerText='Nghe hai người rồi chọn một ảnh. Kết quả và lời thoại Anh–Việt sẽ hiện tại đây.';}
+        else {document.getElementById('reveal-en').innerText='Nghe và chọn một ảnh A–D.';document.getElementById('reveal-vi').innerText='Kết quả và bản dịch sẽ hiện ở đây.';}
+    }
+    function attachPhotoZoom(gridId) {
+        const grid=document.getElementById(gridId);if(!grid)return;
+        [...grid.children].forEach(card=>{
+            if(card.classList.contains('answer-tile'))return;
+            const wrapper=document.createElement('div');wrapper.className='answer-tile';card.replaceWith(wrapper);wrapper.appendChild(card);
+            const zoom=document.createElement('button');zoom.className='photo-zoom-button';zoom.type='button';zoom.innerText='⛶';zoom.setAttribute('aria-label','Phóng to ảnh, không chọn đáp án');
+            zoom.onclick=event=>{event.stopPropagation();const source=card.querySelector('.p2-sprite,.option-sprite');if(!source)return;const content=document.getElementById('image-zoom-content');content.replaceChildren(source.cloneNode(true));if(card.classList.contains('text-revealed'))content.querySelectorAll('.p2-text-mask').forEach(mask=>mask.remove());document.getElementById('image-zoom-dialog').showModal();};wrapper.appendChild(zoom);
+        });
+    }
+
+    function mountAppearance(){
+        const button=document.createElement('button');button.className='ctrl-btn';button.textContent='Giao diện';button.onclick=()=>document.getElementById('appearance-dialog').showModal();document.querySelector('.toolbar').appendChild(button);
+        const dialog=document.createElement('dialog');dialog.id='appearance-dialog';dialog.className='settings-modal';dialog.innerHTML='<div class="modal-heading"><h2>Màu giao diện</h2><button aria-label="Đóng giao diện" onclick="this.closest(\'dialog\').close()">×</button></div><div class="appearance-fields"><label>Chế độ <select id="appearance-mode"><option value="dark">Tối</option><option value="light">Sáng / trắng</option><option value="custom">Màu tùy chọn</option></select></label><label>Màu nền <input id="appearance-background" type="color" value="#edf3fa"></label><label>Màu nhấn <input id="appearance-accent" type="color" value="#167cc1"></label><button class="ctrl-btn" id="appearance-reset">Khôi phục màu ban đầu</button></div>';document.body.appendChild(dialog);
+        const mode=dialog.querySelector('#appearance-mode'),background=dialog.querySelector('#appearance-background'),accent=dialog.querySelector('#appearance-accent');
+        function apply(){const custom=mode.value==='custom',light=mode.value==='light';document.body.dataset.theme=mode.value;const hex=custom?background.value:light?'#f3f6fb':'#07111f',rgb=hex.match(/\w\w/g).map(x=>parseInt(x,16)),bright=rgb[0]*.299+rgb[1]*.587+rgb[2]*.114>145;document.body.dataset.palette=bright?'light':'dark';document.body.style.setProperty('--theme-bg',hex);document.body.style.setProperty('--theme-panel',bright?'#ffffff':'#132238');document.body.style.setProperty('--theme-text',bright?'#172b43':'#f1f5f9');document.body.style.setProperty('--theme-sub',bright?'#4c6078':'#b3c3d8');document.body.style.setProperty('--theme-accent',accent.value);background.disabled=!custom;try{localStorage.setItem('toeic-appearance-v1',JSON.stringify({mode:mode.value,background:background.value,accent:accent.value}));}catch{}}
+        try{const saved=JSON.parse(localStorage.getItem('toeic-appearance-v1')||'null');if(saved){mode.value=['dark','light','custom'].includes(saved.mode)?saved.mode:'dark';background.value=saved.background;accent.value=saved.accent;}}catch{}
+        [mode,background,accent].forEach(el=>el.addEventListener('input',apply));dialog.querySelector('#appearance-reset').onclick=()=>{mode.value='dark';background.value='#edf3fa';accent.value='#167cc1';apply();};apply();
+    }
+
+    function resetPracticeProgress(part, single=false){
+        const item=part===2?part2Items[p2Index]:currentQuizItem;
+        if(!item)return;
+        const test=part===2?p2Test:item.testId;
+        const ids=single?[item.id]:part===2?part2Items.map(x=>x.id):allToeicItems.filter(x=>x.testId===test).map(x=>x.id);
+        const label=single?'câu đang xem':(part===2?'Part 2 · Test '+test:'Part 1 · '+test);
+        if(!window.confirm('Làm lại '+label+'? Trạng thái đúng/sai'+(part===1?' và đánh dấu':'')+' sẽ được xóa. Các Test khác và cài đặt vẫn giữ nguyên. Bạn có thể bấm Hoàn tác sau đó.'))return;
+        const old=localStorage.getItem('toeic-part2-test1-results-v1');
+        localStorage.setItem('toeic-reset-undo-v1',JSON.stringify({part,results:part===2?p2Results:quizQuestionResults,marks:quizQuestionMarks,legacy:old}));
+        const results=part===2?p2Results:quizQuestionResults;
+        ids.forEach(id=>{delete results[id];if(part===1)delete quizQuestionMarks[id];});
+        if(part===2){
+            localStorage.setItem('toeic-part2-all-results-v1',JSON.stringify(p2Results));
+            if(test===1){let legacy={};try{legacy=JSON.parse(old||'{}');}catch{}ids.forEach(id=>delete legacy[id.split('-q')[1]]);localStorage.setItem('toeic-part2-test1-results-v1',JSON.stringify(legacy));}
+            if(!single)p2Index=0;renderPart2();
+        }else{saveQuestionProgress();initQuiz(true);renderQuestionList();}
+        syncResetUndoButtons();
+    }
+    function undoPracticeReset(){
+        let saved;try{saved=JSON.parse(localStorage.getItem('toeic-reset-undo-v1')||'null');}catch{}if(!saved)return;
+        if(saved.part===2){p2Results=saved.results;localStorage.setItem('toeic-part2-all-results-v1',JSON.stringify(p2Results));if(saved.legacy!==null)localStorage.setItem('toeic-part2-test1-results-v1',saved.legacy);renderPart2();}
+        else{quizQuestionResults=saved.results;quizQuestionMarks=saved.marks;saveQuestionProgress();renderQuestionList();if(activeQuizPart==='1')initQuiz(true);}
+        localStorage.removeItem('toeic-reset-undo-v1');syncResetUndoButtons();
+    }
+    function syncResetUndoButtons(){document.querySelectorAll('.undo-practice-reset').forEach(button=>button.disabled=!localStorage.getItem('toeic-reset-undo-v1'));}
+    function mountPracticeReset(){
+        [1,2].forEach(part=>{const panel=document.getElementById(part===2?'p2-question-list':'quiz-question-list');const tools=document.createElement('div');tools.className='practice-reset-tools';tools.innerHTML='<button class="ctrl-btn" onclick="resetPracticeProgress('+part+',false)">Làm lại Test đang xem</button><button class="ctrl-btn" onclick="resetPracticeProgress('+part+',true)">Xóa kết quả câu đang xem</button><button class="ctrl-btn undo-practice-reset" onclick="undoPracticeReset()">↶ Hoàn tác xóa</button><small>Đưa câu về Chưa làm. Giữ nguyên XP và cài đặt.</small>';panel.querySelector('.question-list-header').after(tools);});syncResetUndoButtons();
+    }
+
+    mountCompactPractice();
+    mountPracticeReset();
+    mountAppearance();
+    document.getElementById('p2-play').hidden=true;
+    document.querySelector('.p2-player > .ctrl-btn').innerHTML='↻ <kbd>Ctrl</kbd>';
+    document.getElementById('p2-segment-one').title='Nghe lại người hỏi · phím 1';
+    document.getElementById('p2-segment-two').title='Nghe lại người đáp · phím 2';
+    const replayHints=document.createElement('div');replayHints.className='speaker-shortcuts';replayHints.innerHTML='<kbd>1</kbd> Nghe lại người hỏi · <kbd>2</kbd> Nghe lại người đáp · <kbd>Ctrl</kbd> Cả đoạn';document.querySelector('.p2-player-main').appendChild(replayHints);
     // Khởi tạo lần đầu
     refreshAllViews();
 </script>
