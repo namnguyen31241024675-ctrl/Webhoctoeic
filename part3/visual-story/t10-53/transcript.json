@@ -1,0 +1,474 @@
+{
+  "conversationId": "t10-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-53-u01",
+      "speaker": "W",
+      "text": "Girard Electronics. How can I help you?",
+      "start": 6.06,
+      "end": 8.34,
+      "clipSrc": "../../audio-sentences/t10-53-s01.mp3",
+      "clipSourceStart": 5.98,
+      "vi": "Girard Electronics. Tôi có thể giúp gì cho quý khách?",
+      "listeningKeywords": [
+        "Girard Electronics",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Girard Electronics",
+          "vi": "Girard Electronics"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u01-k1",
+          "en": "Girard Electronics",
+          "vi": [
+            "Girard Electronics"
+          ],
+          "start": 6.06,
+          "end": 7.32,
+          "anchorSource": "t10-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u01-k2",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 7.86,
+          "end": 8.1,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u02",
+      "speaker": "M",
+      "text": "Hi. I bought a camera from your store last week, but I'm having trouble with it now.",
+      "start": 8.58,
+      "end": 13.59,
+      "clipSrc": "../../audio-sentences/t10-53-s02.mp3",
+      "clipSourceStart": 8.5,
+      "vi": "Chào. Tôi đã mua một chiếc máy ảnh từ cửa hàng của bạn tuần trước, nhưng bây giờ tôi gặp sự cố với nó.",
+      "listeningKeywords": [
+        "bought",
+        "camera",
+        "store",
+        "trouble"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bought",
+          "vi": "mua"
+        },
+        {
+          "en": "camera",
+          "vi": "máy ảnh"
+        },
+        {
+          "en": "store",
+          "vi": "cửa hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u02-k1",
+          "en": "bought",
+          "vi": [
+            "mua"
+          ],
+          "start": 9.39,
+          "end": 9.66,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u02-k2",
+          "en": "camera",
+          "vi": [
+            "máy ảnh"
+          ],
+          "start": 9.69,
+          "end": 10.2,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u02-k3",
+          "en": "store",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 10.65,
+          "end": 10.95,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u02-k4",
+          "en": "trouble",
+          "vi": [],
+          "start": 12.48,
+          "end": 12.84,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u03",
+      "speaker": "W",
+      "text": "What's the problem?",
+      "start": 13.8,
+      "end": 14.79,
+      "clipSrc": "../../audio-sentences/t10-53-s03.mp3",
+      "clipSourceStart": 13.72,
+      "vi": "Vấn đề là gì vậy?",
+      "listeningKeywords": [
+        "problem"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "problem",
+          "vi": "Vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u03-k1",
+          "en": "problem",
+          "vi": [
+            "Vấn đề"
+          ],
+          "start": 14.25,
+          "end": 14.79,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u04",
+      "speaker": "M",
+      "text": "Well, I changed the lens from the standard to a telephoto one today, and now an error message pops up on the LCD screen.",
+      "start": 15.06,
+      "end": 22.92,
+      "clipSrc": "../../audio-sentences/t10-53-s04.mp3",
+      "clipSourceStart": 14.98,
+      "vi": "Hôm nay tôi đã thay ống kính từ ống kính tiêu chuẩn sang ống kính tele, và bây giờ một thông báo lỗi xuất hiện trên màn hình LCD.",
+      "listeningKeywords": [
+        "changed",
+        "telephoto",
+        "error message pops",
+        "LCD screen"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "telephoto",
+          "vi": "ống kính tele"
+        },
+        {
+          "en": "LCD screen",
+          "vi": "màn hình LCD"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u04-k1",
+          "en": "changed",
+          "vi": [],
+          "start": 15.66,
+          "end": 16.14,
+          "anchorSource": "t10-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u04-k2",
+          "en": "telephoto",
+          "vi": [
+            "ống kính tele"
+          ],
+          "start": 17.94,
+          "end": 18.6,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u04-k3",
+          "en": "error message pops",
+          "vi": [],
+          "start": 20.317701,
+          "end": 21.42,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u04-k4",
+          "en": "LCD screen",
+          "vi": [
+            "màn hình LCD"
+          ],
+          "start": 21.84,
+          "end": 22.92,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u05",
+      "speaker": "W",
+      "text": "Hmm. I'm sorry, but I can't know for sure without looking at it, as it could be caused by a few things.",
+      "start": 23.16,
+      "end": 29.49,
+      "clipSrc": "../../audio-sentences/t10-53-s05.mp3",
+      "clipSourceStart": 23.08,
+      "vi": "Ừm… Tôi xin lỗi, nhưng tôi không thể chắc chắn nếu không xem trực tiếp, vì nguyên nhân có thể do một vài thứ.",
+      "listeningKeywords": [
+        "can't",
+        "looking",
+        "caused"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "looking",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u05-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 25.41,
+          "end": 25.71,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u05-k2",
+          "en": "looking",
+          "vi": [
+            "xem"
+          ],
+          "start": 26.61,
+          "end": 26.94,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u05-k3",
+          "en": "caused",
+          "vi": [],
+          "start": 28.11,
+          "end": 28.47,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u06",
+      "speaker": "M",
+      "text": "I could come by this afternoon.",
+      "start": 29.76,
+      "end": 31.71,
+      "clipSrc": "../../audio-sentences/t10-53-s06.mp3",
+      "clipSourceStart": 29.68,
+      "vi": "Tôi có thể ghé qua vào chiều nay.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t10-53-u07",
+      "speaker": "W",
+      "text": "OK. I won't be here, but one of the other employees can definitely help you.",
+      "start": 32.04,
+      "end": 36.75,
+      "clipSrc": "../../audio-sentences/t10-53-s07.mp3",
+      "clipSourceStart": 31.96,
+      "vi": "Được thôi. Tôi sẽ không có ở đây, nhưng một trong những nhân viên khác chắc chắn có thể giúp anh.",
+      "listeningKeywords": [
+        "won't",
+        "employees",
+        "definitely",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "won't",
+          "vi": "không"
+        },
+        {
+          "en": "employees",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "definitely",
+          "vi": "chắc chắn"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u07-k1",
+          "en": "won't",
+          "vi": [
+            "không"
+          ],
+          "start": 32.94,
+          "end": 33.24,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u07-k2",
+          "en": "employees",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 34.92,
+          "end": 35.52,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u07-k3",
+          "en": "definitely",
+          "vi": [
+            "chắc chắn"
+          ],
+          "start": 35.7,
+          "end": 36.24,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u07-k4",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 36.24,
+          "end": 36.51,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u08",
+      "speaker": "W",
+      "text": "Let me just write a note down.",
+      "start": 36.99,
+      "end": 38.37,
+      "clipSrc": "../../audio-sentences/t10-53-s08.mp3",
+      "clipSourceStart": 36.91,
+      "vi": "Để tôi ghi chú lại.",
+      "listeningKeywords": [
+        "write",
+        "note"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "note",
+          "vi": "ghi chú"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-53-u08-k1",
+          "en": "write",
+          "vi": [],
+          "start": 37.53,
+          "end": 37.74,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-53-u08-k2",
+          "en": "note",
+          "vi": [
+            "ghi chú"
+          ],
+          "start": 37.8,
+          "end": 38.04,
+          "anchorSource": "t10-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-53-u09",
+      "speaker": "M",
+      "text": "Thanks.",
+      "start": 38.61,
+      "end": 39.15,
+      "clipSrc": "../../audio-sentences/t10-53-s09.mp3",
+      "clipSourceStart": 38.53,
+      "vi": "Cảm ơn.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

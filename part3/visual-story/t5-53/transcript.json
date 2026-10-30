@@ -1,0 +1,476 @@
+{
+  "conversationId": "t5-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-53-u01",
+      "speaker": "W",
+      "text": "The first item on today's meeting agenda is our bid to renovate the Morrisville Bridge.",
+      "start": 7.26,
+      "end": 12.78,
+      "clipSrc": "../../audio-sentences/t5-53-s01.mp3",
+      "clipSourceStart": 7.18,
+      "vi": "Mục đầu tiên trong nghị sự họp hôm nay là đề xuất của chúng ta về việc cải tạo cầu Morrisville.",
+      "listeningKeywords": [
+        "meeting",
+        "agenda",
+        "renovate",
+        "Bridge"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "meeting",
+          "vi": "họp"
+        },
+        {
+          "en": "renovate",
+          "vi": "cải tạo"
+        },
+        {
+          "en": "Bridge",
+          "vi": "cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u01-k1",
+          "en": "meeting",
+          "vi": [
+            "họp"
+          ],
+          "start": 8.94,
+          "end": 9.39,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u01-k2",
+          "en": "agenda",
+          "vi": [],
+          "start": 9.39,
+          "end": 10.02,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u01-k3",
+          "en": "renovate",
+          "vi": [
+            "cải tạo"
+          ],
+          "start": 11.07,
+          "end": 11.58,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u01-k4",
+          "en": "Bridge",
+          "vi": [
+            "cầu"
+          ],
+          "start": 12.3,
+          "end": 12.78,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u02",
+      "speaker": "W",
+      "text": "Do we have an update on that yet?",
+      "start": 13.26,
+      "end": 15.15,
+      "clipSrc": "../../audio-sentences/t5-53-s02.mp3",
+      "clipSourceStart": 13.18,
+      "vi": "Chúng ta có cập nhật gì về việc đó chưa?",
+      "listeningKeywords": [
+        "update",
+        "yet"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "update",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "yet",
+          "vi": "chưa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u02-k1",
+          "en": "update",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 13.89,
+          "end": 14.37,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u02-k2",
+          "en": "yet",
+          "vi": [
+            "chưa"
+          ],
+          "start": 14.76,
+          "end": 15.15,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u03",
+      "speaker": "M1",
+      "text": "Yes—unfortunately we didn't get the contract.",
+      "start": 15.57,
+      "end": 19.29,
+      "clipSrc": "../../audio-sentences/t5-53-s03.mp3",
+      "clipSourceStart": 15.49,
+      "vi": "Vâng—thật tiếc là chúng ta không trúng thầu.",
+      "listeningKeywords": [
+        "didn't",
+        "get",
+        "contract"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "didn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u03-k1",
+          "en": "didn't",
+          "vi": [
+            "không"
+          ],
+          "start": 17.91,
+          "end": 18.24,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u03-k2",
+          "en": "get",
+          "vi": [],
+          "start": 18.24,
+          "end": 18.45,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u03-k3",
+          "en": "contract",
+          "vi": [],
+          "start": 18.57,
+          "end": 19.29,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u04",
+      "speaker": "M2",
+      "text": "Yes, the only explanation given was that another construction company submitted a proposal with a shorter timeline.",
+      "start": 19.68,
+      "end": 26.28,
+      "clipSrc": "../../audio-sentences/t5-53-s04.mp3",
+      "clipSourceStart": 19.6,
+      "vi": "Vâng, lý do duy nhất được đưa ra là một công ty xây dựng khác đã nộp đề xuất với thời gian ngắn hơn.",
+      "listeningKeywords": [
+        "given",
+        "construction company",
+        "submitted",
+        "timeline"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "given",
+          "vi": "đưa"
+        },
+        {
+          "en": "construction company",
+          "vi": "công ty xây dựng"
+        },
+        {
+          "en": "submitted",
+          "vi": "nộp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u04-k1",
+          "en": "given",
+          "vi": [
+            "đưa"
+          ],
+          "start": 21.51,
+          "end": 21.81,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u04-k2",
+          "en": "construction company",
+          "vi": [
+            "công ty xây dựng"
+          ],
+          "start": 22.59,
+          "end": 23.7,
+          "anchorSource": "t5-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u04-k3",
+          "en": "submitted",
+          "vi": [
+            "nộp"
+          ],
+          "start": 23.771069,
+          "end": 24.24,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u04-k4",
+          "en": "timeline",
+          "vi": [],
+          "start": 25.56,
+          "end": 26.28,
+          "anchorSource": "t5-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u05",
+      "speaker": "W",
+      "text": "So, what do we know about this competitor? Have they worked on other local projects?",
+      "start": 27.12,
+      "end": 32.43,
+      "clipSrc": "../../audio-sentences/t5-53-s05.mp3",
+      "clipSourceStart": 27.04,
+      "vi": "Vậy chúng ta biết gì về đối thủ này? Họ có tham gia các dự án địa phương khác không?",
+      "listeningKeywords": [
+        "competitor",
+        "worked",
+        "local projects"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "local projects",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u05-k1",
+          "en": "competitor",
+          "vi": [],
+          "start": 28.83,
+          "end": 29.61,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u05-k2",
+          "en": "worked",
+          "vi": [],
+          "start": 30.45,
+          "end": 30.81,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u05-k3",
+          "en": "local projects",
+          "vi": [
+            "dự án"
+          ],
+          "start": 31.26,
+          "end": 32.43,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u06",
+      "speaker": "M1",
+      "text": "The only thing I heard was their name—CDQ Construction Company.",
+      "start": 32.79,
+      "end": 37.62,
+      "clipSrc": "../../audio-sentences/t5-53-s06.mp3",
+      "clipSourceStart": 32.71,
+      "vi": "Điều duy nhất tôi nghe được là tên của họ—Công ty Xây dựng CDQ.",
+      "listeningKeywords": [
+        "name",
+        "CDQ Construction Company"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "name",
+          "vi": "tên"
+        },
+        {
+          "en": "CDQ Construction Company",
+          "vi": "Công ty Xây dựng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u06-k1",
+          "en": "name",
+          "vi": [
+            "tên"
+          ],
+          "start": 34.52228,
+          "end": 35.07,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u07",
+      "speaker": "W",
+      "text": "Well, I'd like to know more about them.",
+      "start": 37.95,
+      "end": 39.81,
+      "clipSrc": "../../audio-sentences/t5-53-s07.mp3",
+      "clipSourceStart": 37.87,
+      "vi": "Ừm, tôi muốn biết thêm về họ.",
+      "listeningKeywords": [
+        "like",
+        "know"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u07-k1",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 38.52,
+          "end": 38.7,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u07-k2",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 38.82,
+          "end": 38.97,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-53-u08",
+      "speaker": "W",
+      "text": "Can you two do some research before our next meeting?",
+      "start": 40.29,
+      "end": 43.2,
+      "clipSrc": "../../audio-sentences/t5-53-s08.mp3",
+      "clipSourceStart": 40.21,
+      "vi": "Hai anh có thể nghiên cứu trước cuộc họp tiếp theo không?",
+      "listeningKeywords": [
+        "research",
+        "meeting"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "research",
+          "vi": "nghiên cứu"
+        },
+        {
+          "en": "meeting",
+          "vi": "cuộc họp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-53-u08-k1",
+          "en": "research",
+          "vi": [
+            "nghiên cứu"
+          ],
+          "start": 41.28,
+          "end": 41.79,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-53-u08-k2",
+          "en": "meeting",
+          "vi": [
+            "cuộc họp"
+          ],
+          "start": 42.72,
+          "end": 43.2,
+          "anchorSource": "t5-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

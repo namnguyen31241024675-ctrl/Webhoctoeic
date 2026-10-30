@@ -1,0 +1,536 @@
+{
+  "conversationId": "t3-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-44-u01",
+      "speaker": "W",
+      "text": "Hello. I was featured in an article in your newspaper about five years ago.",
+      "start": 6.09,
+      "end": 10.68,
+      "clipSrc": "../../audio-sentences/t3-44-meaning-01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Xin chào. Khoảng 5 năm trước tôi đã được đăng bài trên báo của quý báo.",
+      "listeningKeywords": [
+        "featured",
+        "article",
+        "newspaper",
+        "ago"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "newspaper",
+          "vi": "báo"
+        },
+        {
+          "en": "newspaper",
+          "vi": "báo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u01-k1",
+          "en": "featured",
+          "vi": [],
+          "start": 7.38,
+          "end": 7.92,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u01-k2",
+          "en": "article",
+          "vi": [],
+          "start": 8.16,
+          "end": 8.58,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u01-k3",
+          "en": "newspaper",
+          "vi": [
+            "báo"
+          ],
+          "start": 8.85,
+          "end": 9.45,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u01-k4",
+          "en": "ago",
+          "vi": [],
+          "start": 10.35,
+          "end": 10.68,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u02",
+      "speaker": "W",
+      "text": "And now when I click on the link, nothing happens.",
+      "start": 11.01,
+      "end": 13.74,
+      "clipSrc": "../../audio-sentences/t3-44-s03.mp3",
+      "clipSourceStart": 10.93,
+      "vi": "Giờ khi tôi click vào link thì không hiện gì cả.",
+      "listeningKeywords": [
+        "click",
+        "link",
+        "happens"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "click",
+          "vi": "click"
+        },
+        {
+          "en": "link",
+          "vi": "link"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u02-k1",
+          "en": "click",
+          "vi": [
+            "click"
+          ],
+          "start": 11.7,
+          "end": 11.97,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u02-k2",
+          "en": "link",
+          "vi": [
+            "link"
+          ],
+          "start": 12.18,
+          "end": 12.63,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u02-k3",
+          "en": "happens",
+          "vi": [],
+          "start": 13.08,
+          "end": 13.74,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u03",
+      "speaker": "M",
+      "text": "Oh, the public links expire after three years, but I can search for your article in our database.",
+      "start": 14.01,
+      "end": 20.07,
+      "clipSrc": "../../audio-sentences/t3-44-s04.mp3",
+      "clipSourceStart": 13.93,
+      "vi": "Ồ, các link công khai hết hạn sau 3 năm, nhưng tôi có thể tìm bài báo của cô trong cơ sở dữ liệu.",
+      "listeningKeywords": [
+        "public links expire",
+        "search",
+        "article",
+        "database"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "article",
+          "vi": "bài báo"
+        },
+        {
+          "en": "database",
+          "vi": "cơ sở dữ liệu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u03-k1",
+          "en": "public links expire",
+          "vi": [],
+          "start": 14.58,
+          "end": 15.93,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u03-k2",
+          "en": "search",
+          "vi": [],
+          "start": 18.03,
+          "end": 18.36,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u03-k3",
+          "en": "article",
+          "vi": [
+            "bài báo"
+          ],
+          "start": 18.72,
+          "end": 19.11,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u03-k4",
+          "en": "database",
+          "vi": [
+            "cơ sở dữ liệu"
+          ],
+          "start": 19.41,
+          "end": 20.07,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u04",
+      "speaker": "M",
+      "text": "I just need keywords from the article to use in the search.",
+      "start": 20.37,
+      "end": 23.58,
+      "clipSrc": "../../audio-sentences/t3-44-s05.mp3",
+      "clipSourceStart": 20.29,
+      "vi": "Tôi chỉ cần vài từ khóa từ bài báo để tìm kiếm.",
+      "listeningKeywords": [
+        "keywords",
+        "article",
+        "use",
+        "search"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "article",
+          "vi": "bài báo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u04-k1",
+          "en": "keywords",
+          "vi": [],
+          "start": 21.0,
+          "end": 21.57,
+          "anchorSource": "t3-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u04-k2",
+          "en": "article",
+          "vi": [
+            "bài báo"
+          ],
+          "start": 21.93,
+          "end": 22.38,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u04-k3",
+          "en": "use",
+          "vi": [],
+          "start": 22.56,
+          "end": 22.89,
+          "anchorSource": "t3-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u04-k4",
+          "en": "search",
+          "vi": [],
+          "start": 23.07,
+          "end": 23.58,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u05",
+      "speaker": "W",
+      "text": "It was about my internship at a dental office.",
+      "start": 23.91,
+      "end": 26.82,
+      "clipSrc": "../../audio-sentences/t3-44-s06.mp3",
+      "clipSourceStart": 23.83,
+      "vi": "Đó là về kỳ thực tập của tôi tại một phòng khám nha khoa.",
+      "listeningKeywords": [
+        "internship",
+        "dental office"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "dental office",
+          "vi": "phòng khám nha khoa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u05-k1",
+          "en": "internship",
+          "vi": [],
+          "start": 24.87,
+          "end": 25.62,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u05-k2",
+          "en": "dental office",
+          "vi": [
+            "phòng khám nha khoa"
+          ],
+          "start": 25.92,
+          "end": 26.82,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u06",
+      "speaker": "M",
+      "text": "OK. Let me check our archives.",
+      "start": 27.06,
+      "end": 29.31,
+      "clipSrc": "../../audio-sentences/t3-44-meaning-06.mp3",
+      "clipSourceStart": 26.98,
+      "vi": "Được rồi. Để tôi kiểm tra kho lưu trữ.",
+      "listeningKeywords": [
+        "check",
+        "archives"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u06-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 28.14,
+          "end": 28.41,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u06-k2",
+          "en": "archives",
+          "vi": [],
+          "start": 28.65,
+          "end": 29.31,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u07",
+      "speaker": "W",
+      "text": "Thanks. I was still in college when the article came out, but now I'm starting my own practice.",
+      "start": 29.55,
+      "end": 35.16,
+      "clipSrc": "../../audio-sentences/t3-44-meaning-07.mp3",
+      "clipSourceStart": 29.47,
+      "vi": "Cảm ơn. Lúc bài báo đăng tôi còn đang học đại học, nhưng giờ tôi đang mở phòng khám riêng.",
+      "listeningKeywords": [
+        "college",
+        "article",
+        "starting",
+        "practice"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "article",
+          "vi": "bài báo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u07-k1",
+          "en": "college",
+          "vi": [],
+          "start": 31.17,
+          "end": 31.62,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u07-k2",
+          "en": "article",
+          "vi": [
+            "bài báo"
+          ],
+          "start": 31.83,
+          "end": 32.22,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u07-k3",
+          "en": "starting",
+          "vi": [],
+          "start": 33.72,
+          "end": 34.14,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u07-k4",
+          "en": "practice",
+          "vi": [],
+          "start": 34.5,
+          "end": 35.16,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u08",
+      "speaker": "W",
+      "text": "And I'd like to hang the article on the wall.",
+      "start": 35.37,
+      "end": 37.41,
+      "clipSrc": "../../audio-sentences/t3-44-s11.mp3",
+      "clipSourceStart": 35.29,
+      "vi": "Tôi muốn treo bài báo lên tường.",
+      "listeningKeywords": [
+        "like",
+        "hang",
+        "article",
+        "wall"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        },
+        {
+          "en": "hang",
+          "vi": "treo"
+        },
+        {
+          "en": "article",
+          "vi": "bài báo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-44-u08-k1",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 35.7,
+          "end": 35.91,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u08-k2",
+          "en": "hang",
+          "vi": [
+            "treo"
+          ],
+          "start": 36.03,
+          "end": 36.27,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u08-k3",
+          "en": "article",
+          "vi": [
+            "bài báo"
+          ],
+          "start": 36.39,
+          "end": 36.81,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-44-u08-k4",
+          "en": "wall",
+          "vi": [],
+          "start": 37.02,
+          "end": 37.41,
+          "anchorSource": "t3-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-44-u09",
+      "speaker": "M",
+      "text": "Oh! Congratulations.",
+      "start": 37.68,
+      "end": 39.54,
+      "clipSrc": "../../audio-sentences/t3-44-s12.mp3",
+      "clipSourceStart": 37.6,
+      "vi": "Ồ! Chúc mừng nhé.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

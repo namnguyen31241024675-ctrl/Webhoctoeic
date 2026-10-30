@@ -1,0 +1,232 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t3-32",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T03-32-34.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.0,
+    "dialogueEnd": 33.48
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: beef stew — món bò hầm",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: regular menu — thực đơn chính thức",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: prices — giá cả",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa cảnh 4: supplier — nhà cung cấp",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.0,
+      "end": 12.93,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "beef stew",
+          "x": 0.56,
+          "y": 0.62,
+          "width": 0.4,
+          "height": 0.35
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 12.93,
+      "end": 18.72,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "regular menu",
+          "x": 0.49,
+          "y": 0.32,
+          "width": 0.38,
+          "height": 0.52
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 18.72,
+      "end": 27.84,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "prices",
+          "x": 0.56,
+          "y": 0.63,
+          "width": 0.3,
+          "height": 0.2
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 27.84,
+      "end": 33.48,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "supplier",
+          "x": 0.5,
+          "y": 0.1,
+          "width": 0.28,
+          "height": 0.5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "beef stew",
+      "vi": "món bò hầm",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "regular menu",
+      "vi": "thực đơn chính thức",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "prices",
+      "vi": "giá cả",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "supplier",
+      "vi": "nhà cung cấp",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": []
+}

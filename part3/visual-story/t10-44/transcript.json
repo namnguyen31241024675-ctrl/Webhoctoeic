@@ -1,0 +1,585 @@
+{
+  "conversationId": "t10-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-44-u01",
+      "speaker": "M",
+      "text": "Next, I wanted to check with the design team about our water-permeable bricks for walkways.",
+      "start": 7.32,
+      "end": 12.69,
+      "clipSrc": "../../audio-sentences/t10-44-s01.mp3",
+      "clipSourceStart": 7.24,
+      "vi": "Tiếp theo, tôi muốn trao đổi với nhóm thiết kế về các viên gạch thấm nước cho lối đi.",
+      "listeningKeywords": [
+        "wanted",
+        "check",
+        "water-permeable bricks",
+        "walkways"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wanted",
+          "vi": "muốn"
+        },
+        {
+          "en": "water-permeable bricks",
+          "vi": "gạch thấm nước"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u01-k1",
+          "en": "wanted",
+          "vi": [
+            "muốn"
+          ],
+          "start": 8.1,
+          "end": 8.491191,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u01-k2",
+          "en": "check",
+          "vi": [],
+          "start": 8.58,
+          "end": 8.88,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u01-k3",
+          "en": "walkways",
+          "vi": [],
+          "start": 11.91,
+          "end": 12.69,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u02",
+      "speaker": "M",
+      "text": "I think the bricks will be popular in areas with water drainage problems.",
+      "start": 13.14,
+      "end": 17.01,
+      "clipSrc": "../../audio-sentences/t10-44-s02.mp3",
+      "clipSourceStart": 13.06,
+      "vi": "Tôi nghĩ loại gạch này sẽ được ưa chuộng ở những khu vực có vấn đề về thoát nước.",
+      "listeningKeywords": [
+        "bricks",
+        "popular",
+        "areas",
+        "water drainage problems"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "popular",
+          "vi": "ưa chuộng"
+        },
+        {
+          "en": "areas",
+          "vi": "khu vực"
+        },
+        {
+          "en": "water drainage problems",
+          "vi": "vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u02-k1",
+          "en": "bricks",
+          "vi": [],
+          "start": 13.62,
+          "end": 13.92,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u02-k2",
+          "en": "popular",
+          "vi": [
+            "ưa chuộng"
+          ],
+          "start": 14.16,
+          "end": 14.76,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u02-k3",
+          "en": "areas",
+          "vi": [
+            "khu vực"
+          ],
+          "start": 14.91,
+          "end": 15.33,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u02-k4",
+          "en": "water drainage problems",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 15.57,
+          "end": 17.01,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u03",
+      "speaker": "M",
+      "text": "But I'm concerned that the final design won't be ready in time for the trade show.",
+      "start": 17.34,
+      "end": 21.24,
+      "clipSrc": "../../audio-sentences/t10-44-s03.mp3",
+      "clipSourceStart": 17.26,
+      "vi": "Nhưng tôi lo rằng thiết kế cuối cùng sẽ không kịp hoàn thành cho hội chợ thương mại.",
+      "listeningKeywords": [
+        "final",
+        "design",
+        "won't",
+        "show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "design",
+          "vi": "thiết kế"
+        },
+        {
+          "en": "won't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u03-k1",
+          "en": "final",
+          "vi": [],
+          "start": 18.54,
+          "end": 18.87,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u03-k2",
+          "en": "design",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 18.87,
+          "end": 19.35,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u03-k3",
+          "en": "won't",
+          "vi": [
+            "không"
+          ],
+          "start": 19.35,
+          "end": 19.62,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u03-k4",
+          "en": "show",
+          "vi": [],
+          "start": 20.88,
+          "end": 21.24,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u04",
+      "speaker": "W1",
+      "text": "Right, we still need to finish the durability testing.",
+      "start": 21.66,
+      "end": 24.87,
+      "clipSrc": "../../audio-sentences/t10-44-s04.mp3",
+      "clipSourceStart": 21.58,
+      "vi": "Đúng rồi, chúng ta vẫn cần hoàn tất việc kiểm tra độ bền.",
+      "listeningKeywords": [
+        "finish",
+        "durability testing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "durability testing",
+          "vi": "kiểm tra độ bền"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u04-k1",
+          "en": "finish",
+          "vi": [],
+          "start": 23.28,
+          "end": 23.58,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u05",
+      "speaker": "W1",
+      "text": "Camille, how's that going?",
+      "start": 25.35,
+      "end": 26.91,
+      "clipSrc": "../../audio-sentences/t10-44-s05.mp3",
+      "clipSourceStart": 25.27,
+      "vi": "Camille, tiến độ thế nào rồi?",
+      "listeningKeywords": [
+        "how's"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "how's",
+          "vi": "tiến độ thế nào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u05-k1",
+          "en": "how's",
+          "vi": [
+            "tiến độ thế nào"
+          ],
+          "start": 26.01,
+          "end": 26.34,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u06",
+      "speaker": "W2",
+      "text": "So far, they seem to be as durable as we anticipated.",
+      "start": 27.27,
+      "end": 30.69,
+      "clipSrc": "../../audio-sentences/t10-44-s06.mp3",
+      "clipSourceStart": 27.19,
+      "vi": "Cho đến nay, chúng có vẻ bền như chúng ta dự đoán.",
+      "listeningKeywords": [
+        "far",
+        "durable",
+        "anticipated"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "durable",
+          "vi": "bền"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u06-k1",
+          "en": "far",
+          "vi": [],
+          "start": 27.63,
+          "end": 28.11,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u06-k2",
+          "en": "durable",
+          "vi": [
+            "bền"
+          ],
+          "start": 29.01,
+          "end": 29.52,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u06-k3",
+          "en": "anticipated",
+          "vi": [],
+          "start": 29.85,
+          "end": 30.69,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u07",
+      "speaker": "W2",
+      "text": "But we still have a few more tests to run.",
+      "start": 30.96,
+      "end": 33.33,
+      "clipSrc": "../../audio-sentences/t10-44-s07.mp3",
+      "clipSourceStart": 30.88,
+      "vi": "Nhưng chúng ta vẫn còn một vài bài kiểm tra nữa.",
+      "listeningKeywords": [
+        "tests",
+        "run"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "tests",
+          "vi": "bài kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u07-k1",
+          "en": "tests",
+          "vi": [
+            "bài kiểm tra"
+          ],
+          "start": 32.34,
+          "end": 32.76,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u07-k2",
+          "en": "run",
+          "vi": [],
+          "start": 32.91,
+          "end": 33.33,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u08",
+      "speaker": "M",
+      "text": "Great. Please keep me posted on your progress.",
+      "start": 33.69,
+      "end": 36.51,
+      "clipSrc": "../../audio-sentences/t10-44-s08.mp3",
+      "clipSourceStart": 33.61,
+      "vi": "Tuyệt. Hãy cập nhật cho tôi về tiến độ nhé.",
+      "listeningKeywords": [
+        "keep",
+        "posted",
+        "progress"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "keep",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "posted",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "progress",
+          "vi": "tiến độ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u08-k1",
+          "en": "keep",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 34.8,
+          "end": 34.95,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u08-k2",
+          "en": "posted",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 35.07,
+          "end": 35.49,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u08-k3",
+          "en": "progress",
+          "vi": [
+            "tiến độ"
+          ],
+          "start": 35.73,
+          "end": 36.51,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u09",
+      "speaker": "M",
+      "text": "In the meantime, we should start putting together a promotional video to show at our booth at the trade show.",
+      "start": 36.9,
+      "end": 42.54,
+      "clipSrc": "../../audio-sentences/t10-44-s09.mp3",
+      "clipSourceStart": 36.82,
+      "vi": "Trong khi đó, chúng ta nên bắt đầu chuẩn bị một video quảng cáo để trình chiếu tại gian hàng ở hội chợ.",
+      "listeningKeywords": [
+        "start",
+        "putting",
+        "promotional video",
+        "show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u09-k1",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 38.52,
+          "end": 38.85,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u09-k2",
+          "en": "putting",
+          "vi": [],
+          "start": 38.863297,
+          "end": 39.18,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u09-k3",
+          "en": "promotional video",
+          "vi": [],
+          "start": 39.57,
+          "end": 40.62,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-44-u10",
+      "speaker": "M",
+      "text": "Who'd like to help me with that project?",
+      "start": 42.93,
+      "end": 44.58,
+      "clipSrc": "../../audio-sentences/t10-44-s10.mp3",
+      "clipSourceStart": 42.85,
+      "vi": "Ai muốn giúp tôi thực hiện dự án này?",
+      "listeningKeywords": [
+        "like",
+        "help",
+        "project"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        },
+        {
+          "en": "project",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-44-u10-k1",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 43.14,
+          "end": 43.32,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u10-k2",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 43.41,
+          "end": 43.62,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-44-u10-k3",
+          "en": "project",
+          "vi": [
+            "dự án"
+          ],
+          "start": 44.07,
+          "end": 44.58,
+          "anchorSource": "t10-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

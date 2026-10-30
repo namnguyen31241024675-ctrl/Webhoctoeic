@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "initialActualPromptOverrides": [
+    {
+      "conversationId": "t1-35",
+      "scene": 1,
+      "prompt": "Photorealistic natural editorial photograph, wide 16:9 individual scene for an English learning story. A fictional adult man early thirties with short brown hair, medium complexion, teal casual shirt is at home calling a tennis ticket office on a smartphone, relaxed interested expression. Table with laptop showing only indistinct abstract tennis court layout and a plain calendar without legible text. Contemporary living room, natural window light, believable hands, cinematic but everyday realistic photography, crisp details. Story context: he is asking for three tickets to Thursday's tennis match. Show the caller holding phone near ear, no woman physically beside him because this is a phone conversation. No captions, no readable text, no logos, no watermark, no collage, no illustrations or emoji. Composition: man left-center, laptop/table right lower. This is fictional scene illustration, not an actual event photograph."
+    }
+  ],
+  "variants": [
+    {
+      "conversationId": "t1-53",
+      "scene": 2,
+      "prompt": "Create a NEW separate wide 16:9 photorealistic editorial scene for an English learning phone conversation. Reference photo establishes the exact fictional woman, apartment, clothing and the WHITE SQUARE WALL THERMOSTAT design; preserve them. Show that woman in her cream blouse standing at home, speaking worriedly on a phone while pointing with her free hand to the same WHITE SQUARE thermostat at the RIGHT side of the wall. There must NOT be a round black thermostat. Close enough that the white square thermostat is clear at x .77-.97, y .20-.60. She explains that the newly installed thermostat is switching off and on, making the apartment cold. Illustrate the complaint naturally without writing dialogue or adding facts. Natural cool daylight, realistic hands, same woman and same room; no captions, no readable screen values, no logo, no collage, no watermark.",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-96ab9281-dc0a-4b62-9288-9a5f07230199.png",
+      "asset": "images/scene-02-v2.png",
+      "reason": "Consistent white square thermostat across the conversation."
+    },
+    {
+      "conversationId": "t2-62",
+      "scene": 2,
+      "prompt": "New standalone wide 16:9 photorealistic editorial learning scene. Reference is for the SAME two fictional coworkers and the SAME coffee shop setting. At their café table the man explains that a client requested the prototype design three weeks early; the woman listens sympathetically with a coffee cup. Show a generic paper project schedule and abstract preliminary geometric design sketches at LOWER RIGHT. The product type is unspecified, so do NOT depict a recognizable gadget, VR headset, appliance, device, model or actual product. The focus is 'prototype design', a plan on paper, with no readable words or numerical details. Natural photo, same clothes and faces, realistic hands, no captions/logo/watermark/collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-1995d613-4e16-4d3d-97ad-9a5d8a377a41.png",
+      "asset": "images/scene-02-v2.png"
+    },
+    {
+      "conversationId": "t2-62",
+      "scene": 4,
+      "prompt": "New separate wide 16:9 photographic English-learning story scene. Reference establishes the SAME fictional man in teal and woman in cream blouse at the SAME café table. Woman shares news that their colleague plans to retire next month; man holds a coffee cup and listens with a surprised interested expression. Quiet everyday conversation only. No colleague physically present, no gift, no framed portrait, no party or decorations, no invented new event. Focus on woman's expressive face and conversational hand gesture at x .57-.90 y .20-.70, suitable for vocabulary hotspot 'retire'. Natural realistic lifestyle photo, no captions or legible text, no logo, no collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-e8e6e4a7-6acb-45fb-a4b8-3b179375e87d.png",
+      "asset": "images/scene-04-v2.png"
+    },
+    {
+      "conversationId": "t2-68",
+      "scene": 4,
+      "prompt": "Create a NEW separate wide16:9 photorealistic scene, same fictional man in teal and female supervisor in cream and same robotics office as reference. Their conversation says he HAS NOT RECEIVED his business cards, and will call the printer today. Show the man checking his smartphone next to a visibly EMPTY open business-card holder at lower right on the desk; woman holds a plain guidance handout and listens. Absolutely NO business cards anywhere, no stack of cards, no completed cards, no filled card box. Focus 'business cards' means awaiting delivery, so the empty holder and phone represent the missing cards. Do not show a completed call as a finished action, just preparing to contact the printer. Natural photography, accurate hands, no captions, no readable text, no logos, no collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-4f0435a2-2056-49de-8315-d7d5db8cd050.png",
+      "asset": "images/scene-04-v2.png"
+    },
+    {
+      "conversationId": "t3-35",
+      "scene": 3,
+      "prompt": "NEW separate wide16:9 natural photorealistic learning scene. Reference supplies ONLY the train station and the teal-shirted man's identity. Critical speaker accuracy: the TWO TRAVELERS are BOTH ADULT MEN, M1 and M2. M1 has short dark hair and teal shirt, M2 is another man with short light brown hair and gray shirt. The woman in the reference is the station employee, NOT a traveler; omit her here. Show the TWO MEN walking together along a covered train platform toward a train, chatting with anticipation about their company gala tonight. Do NOT depict the gala itself or add party props. Natural realistic photo, ordinary bags, no readable text, no captions, no logos, no collage. Focal action is their conversation and walk toward the train, the right-hand male traveler is clear for an interactive hotspot.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-310e62d3-39a4-4bcd-80fc-fc316dd4696d.png",
+      "asset": "images/scene-03-v2.png"
+    },
+    {
+      "conversationId": "t3-35",
+      "scene": 4,
+      "prompt": "NEW separate wide16:9 photorealistic story photograph. Reference provides train-station style and the teal man's appearance, NOT the woman's role as a traveler. There must be TWO MALE coworkers here, M1 short dark hair teal shirt, M2 short light brown hair gray shirt. They are at the covered station platform. M1 forgot his umbrella; M2 has one and offers to share it if it rains later. Show M2 holding a closed black umbrella clearly at LOWER RIGHT and reassuring M1. NO female companion, no woman sharing the umbrella, no actual rainstorm, no wedding or party, no captions, no readable text, no logos or collage. Natural realistic hands, same two fictional men, real umbrella.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-121bd07d-9900-4926-942b-5b08b1a0f355.png",
+      "asset": "images/scene-04-v2.png"
+    },
+    {
+      "conversationId": "t3-50",
+      "scene": 1,
+      "prompt": "Generate a NEW standalone wide16:9 photographic illustration, preserve reference courier man, customer at doorway and doorstep framing. IMPORTANT factual correction to the reference: ONLY THE PAPER DELIVERY BAG TORE. The rigid transparent food container FELL but is STILL COMPLETELY SEALED, lid fully closed with seal intact. All food remains INSIDE the container. Show the courier crouching to lift the intact sealed container from beside the torn empty paper bag. The floor is CLEAN: absolutely NO spilled food, no crumbs, no leaking sauce, no broken container. Customer stands at the doorway calmly seeing that the food is sealed. Natural realistic photo and hands, no captions, no brand/logo or collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-031ebeba-ec3f-4c0a-ab22-acbd1a582015.png",
+      "asset": "images/scene-01-v2.png"
+    },
+    {
+      "conversationId": "t3-59",
+      "scene": 2,
+      "prompt": "NEW separate wide16:9 photorealistic English-learning story scene. Reference is the male customer-service agent at the OTHER end of the phone; keep only the photographic style, DO NOT put that agent in the customer's home. Now show the FEMALE caller at her home desk: fictional adult woman medium complexion, shoulder-length black hair, cream blouse, talking on her phone while consulting an account page on a laptop and an unbranded paper statement. She is requesting to close her internet account. The laptop/account papers are clearly at LOWER RIGHT for hotspot 'account'. No readable account number, dates, company names or invented fees. Natural domestic setting, realistic hands, no captions, logo, watermark or collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-6e54e61e-7ff2-4b31-86da-5602e28e7e02.png",
+      "asset": "images/scene-02-v2.png"
+    },
+    {
+      "conversationId": "t3-59",
+      "scene": 3,
+      "prompt": "NEW separate wide16:9 photorealistic learning scene, reference is ONLY photographic style, male agent remains elsewhere on the phone and must NOT appear in this home. Show the SAME fictional female caller: shoulder-length black hair, medium complexion, cream blouse, speaking on her phone at home. She explains her employer asked her to relocate abroad. A few packed plain moving boxes and a suitcase at LOWER RIGHT communicate preparing to relocate. She has NOT arrived in Spain yet; no Spanish destination landmarks, no flags or invented travel itinerary. Calm hopeful expression, natural window light, realistic hands. No readable text, no captions, logos or collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-0d5381e1-e353-419e-82fa-db6c64dea4a0.png",
+      "asset": "images/scene-03-v2.png"
+    },
+    {
+      "conversationId": "t5-32",
+      "scene": 1,
+      "prompt": "NEW separate wide16:9 photorealistic English-learning scene. Reference supplies the fictional WOMAN in cream blouse and the office copy-room environment only. CRITICAL: this is a PHONE conversation; Tariq, the man, is still commuting and must NOT appear in the office. Show ONLY the woman in her office speaking on her phone to ask him a favor. A copy machine and ONE original report folder at lower right. She could not get the copier to work: NO neat stack of completed copies, no male coworker beside her, no Tariq in the background. Natural office photo, same woman, realistic hands, no text/captions/logos/collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-c430460d-2b8c-468a-845e-5c983d9c59db.png",
+      "asset": "images/scene-01-v2.png"
+    },
+    {
+      "conversationId": "t5-32",
+      "scene": 2,
+      "prompt": "NEW separate wide16:9 photorealistic story photo, SAME woman in cream blouse and same copy-room office as reference. This is a PHONE call to Tariq who is commuting elsewhere. Show ONLY the woman talking on her phone and holding ONE market analysis report original, on the desk at LOWER RIGHT with abstract unlabeled charts. She needs copies for her product pitch but the copier is broken; NO finished stacks of copies, no man physically in the office, no meeting already happening, no readable numerical data or words. Natural light and realistic hands, no captions, branding, collage or watermark.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-a8bd534c-6442-4101-b6d1-6fbb2dd2a131.png",
+      "asset": "images/scene-02-v2.png"
+    },
+    {
+      "conversationId": "t5-32",
+      "scene": 3,
+      "prompt": "NEW separate wide16:9 natural photographic learning scene. SAME fictional woman in cream blouse as reference, ALONE in the office on a PHONE call. Tariq is still outside commuting and must NOT appear beside her or in the office. She points to a nonfunctioning office copier at RIGHT, lid closed, dark/unreadable status screen, no copies coming out. A single original report beside it, no stacks of completed copies. Worried but practical expression while explaining the copier will not work. Realistic office, correct hands, no legible error message or invented facts, no captions, logos or collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-3c6dc7cc-71ae-42b5-98ab-38ca6b8d24a1.png",
+      "asset": "images/scene-03-v2.png"
+    },
+    {
+      "conversationId": "t5-41",
+      "scene": 4,
+      "prompt": "NEW separate wide16:9 photographic scene in the SAME small chocolate-candy packaging workshop as reference. IMPORTANT speaker accuracy: this turn is spoken by W2 Rebecca, a SECOND WOMAN distinct from W1 in reference. Rebecca is fictional adult woman with curly auburn hair, pale complexion, muted blue blouse and brown work apron. Show Rebecca using a phone near neatly packed plain chocolate shipping boxes at LOWER RIGHT, preparing to ask the courier for two pickups daily. Do NOT use the black-haired cream-blouse woman as this speaker. No completed pickups, no delivery driver arriving yet. Natural realistic workshop photo, believable hands, no text, labels, branding, collage or watermark.",
+      "reference": "images/scene-03.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-2baff148-cebf-4c31-bf80-dc8517df55f9.png",
+      "asset": "images/scene-04-v2.png"
+    },
+    {
+      "conversationId": "t5-62",
+      "scene": 2,
+      "prompt": "NEW separate wide16:9 photorealistic story scene. Preserve reference fictional male and female construction supervisors, teal/cream clothes and reflective vests, at the SAME train tunnel construction site. They have finished drilling but CANNOT START INSTALLING support columns because concrete materials have NOT ARRIVED. Show them reviewing an engineering plan at LOWER RIGHT that depicts the PLANNED support columns as a simple unlabeled drawing. The physical work area has empty column footing locations and reinforcing steel only. Absolutely NO finished concrete columns standing, no newly installed columns, no delivered concrete supplies, no claimed numeric engineering details. Natural realistic documentary photo, no captions, logos or collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-8c0f4d14-6247-4110-a26f-39b6a1dd360c.png",
+      "asset": "images/scene-02-v2.png"
+    },
+    {
+      "conversationId": "t5-62",
+      "scene": 3,
+      "prompt": "NEW separate wide16:9 photorealistic scene, same fictional male/female supervisors in reflective vests and same tunnel site as reference. They are WAITING for the shipment of concrete materials, which is still a week or two away, and want to expedite it. Show the woman asking while the man consults a tablet with a generic unlabelled shipment/truck icon and schedule at LOWER RIGHT. Beside them are EMPTY pallets and an EMPTY marked-off staging space. NO pallets full of concrete blocks, no delivered concrete materials, no truck arriving, no completed support columns, no readable dates or invented delivery promises. Natural photo, realistic hands, no captions/logos/collage.",
+      "reference": "images/scene-01.png",
+      "source": "C:\\Users\\Nam\\.codex\\generated_images\\01a178df-6c45-7b80-b5c6-00e63e8c9408\\exec-6dcd880f-35a2-4967-9273-7084cd4cb19e.png",
+      "asset": "images/scene-03-v2.png"
+    }
+  ]
+}

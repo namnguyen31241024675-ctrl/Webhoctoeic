@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "type": "AI-generated photographic illustrations; not source ETS photographs",
+  "conversationId": "t3-65",
+  "promptSet": "../all-image-prompts.json",
+  "timing": "Scene boundaries reuse measured starts of original source sentences, never estimated by image duration.",
+  "images": [
+    {
+      "src": "images/scene-01.png",
+      "sha256": "d992c737b6c5d50e998128b6c8c430fcc280260ea8249d0624f85c077c20a3be"
+    },
+    {
+      "src": "images/scene-02.png",
+      "sha256": "9e2d18331eff6105fcbe44b0f23c5b9e82ffe215d01df96887600a0c7405885c"
+    },
+    {
+      "src": "images/scene-03.png",
+      "sha256": "571b015a981fbfca3c7731e29a56144e260e1e6aef789b9eccc77a65026aaa1c"
+    },
+    {
+      "src": "images/scene-04.png",
+      "sha256": "9be9d129efef50a0aeb2cd72ebf5e315105c133133d40ea32b3afa8e2b506240"
+    }
+  ]
+}

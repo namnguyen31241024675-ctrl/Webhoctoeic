@@ -1,0 +1,372 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t2-56",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T02-56-58.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 7.17,
+    "dialogueEnd": 45.87
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: project managers — quản lý dự án",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: jewelry — trang sức",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: smartwatch — đồng hồ thông minh",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa cảnh 4: preliminary sketches — bản phác thảo ban đầu",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 7.17,
+      "end": 15.93,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "project managers",
+          "x": 0.45,
+          "y": 0.08,
+          "width": 0.5,
+          "height": 0.7,
+          "utteranceIds": [
+            "t2-56-u02"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 15.93,
+      "end": 25.29,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "jewelry",
+          "x": 0.55,
+          "y": 0.55,
+          "width": 0.4,
+          "height": 0.4,
+          "utteranceIds": [
+            "t2-56-u05"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 25.29,
+      "end": 35.88,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "smartwatch",
+          "x": 0.55,
+          "y": 0.64,
+          "width": 0.4,
+          "height": 0.28,
+          "utteranceIds": [
+            "t2-56-u06"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 35.88,
+      "end": 45.87,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "preliminary sketches",
+          "x": 0.54,
+          "y": 0.43,
+          "width": 0.4,
+          "height": 0.5,
+          "utteranceIds": [
+            "t2-56-u10"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "project managers",
+      "vi": "quản lý dự án",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "jewelry",
+      "vi": "trang sức",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "smartwatch",
+      "vi": "đồng hồ thông minh",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "preliminary sketches",
+      "vi": "bản phác thảo ban đầu",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": [],
+  "speakers": [
+    {
+      "id": "M1",
+      "label": "Người nam 1",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.37,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M2",
+      "label": "Người nam 2",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.7050000000000001,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.044999999999999984,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    }
+  ],
+  "speakerHighlightMethod": "Explicit per-photo cast regions; off-screen speakers are indicated in the speaker strip, never assigned to another visible person."
+}

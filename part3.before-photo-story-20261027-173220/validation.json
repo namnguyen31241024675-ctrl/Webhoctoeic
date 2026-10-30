@@ -1,0 +1,30 @@
+{
+  "conversations": 65,
+  "questions": 195,
+  "graphics": 15,
+  "existingScriptsUnchanged": true,
+  "existingStylesUnchanged": true,
+  "existingImageFilesUnchanged": 150,
+  "timing": "Automatically aligned to original audio and cross-checked with independent recognition; not a manual phoneme-level annotation",
+  "sourceCorrections": [
+    "Test 3 47-49 from scanned PDF page 76",
+    "Test 3 50-52 from scanned PDF page 77"
+  ],
+  "sentenceCount": 643,
+  "sentenceGroupsBrowserChecked": 65,
+  "sentenceSourceTextPreserved": true,
+  "sentenceOrderAndAudioBoundsChecked": true,
+  "sentenceSplitRule": "Full stop only within each speaker turn",
+  "physicalSentenceAudioFiles": 651,
+  "physicalSentenceAudioDecodeChecked": true,
+  "pilotMeaningGroups": 6,
+  "pilotScope": "ETS 2026 Test 1 questions 32-34 only; other 64 conversations unchanged",
+  "referencedSentenceAudioFiles": 643,
+  "visualStoryPreparation": {
+    "scope": "t1-32",
+    "active": false,
+    "status": "awaiting-assets",
+    "rendererImplemented": false,
+    "pendingManifestCannotActivate": true
+  }
+}

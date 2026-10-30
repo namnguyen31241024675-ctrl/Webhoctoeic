@@ -1,0 +1,706 @@
+{
+  "conversationId": "t8-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ],
+    "audioWordingNote": "PDF và audio diễn đạt câu đặt bàn hơi khác nhau. Transcript giữ nguyên PDF; đoạn nghe bao trọn câu tương ứng."
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-50-u01",
+      "speaker": "W1",
+      "text": "Hi, my name is Kelly Stewart.",
+      "start": 7.05,
+      "end": 9.18,
+      "clipSrc": "../../audio-sentences/t8-50-s01.mp3",
+      "clipSourceStart": 6.97,
+      "vi": "Chào, tên tôi là Kelly Stewart.",
+      "listeningKeywords": [
+        "name",
+        "Kelly Stewart"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "name",
+          "vi": "tên"
+        },
+        {
+          "en": "Kelly Stewart",
+          "vi": "Kelly Stewart"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u01-k1",
+          "en": "name",
+          "vi": [
+            "tên"
+          ],
+          "start": 7.92,
+          "end": 8.16,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u01-k2",
+          "en": "Kelly Stewart",
+          "vi": [
+            "Kelly Stewart"
+          ],
+          "start": 8.31,
+          "end": 9.18,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u02",
+      "speaker": "W1",
+      "text": "I really love your restaurant's outdoor dining area.",
+      "start": 9.39,
+      "end": 12.06,
+      "clipSrc": "../../audio-sentences/t8-50-s02.mp3",
+      "clipSourceStart": 9.31,
+      "vi": "Tôi thực sự thích khu vực ăn ngoài trời của nhà hàng các bạn.",
+      "listeningKeywords": [
+        "love",
+        "outdoor dining area"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "love",
+          "vi": "thích"
+        },
+        {
+          "en": "outdoor dining area",
+          "vi": "ngoài trời"
+        },
+        {
+          "en": "outdoor dining area",
+          "vi": "khu vực"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u02-k1",
+          "en": "love",
+          "vi": [
+            "thích"
+          ],
+          "start": 9.99,
+          "end": 10.23,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u02-k2",
+          "en": "outdoor dining area",
+          "vi": [
+            "ngoài trời",
+            "khu vực"
+          ],
+          "start": 10.92,
+          "end": 12.06,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u03",
+      "speaker": "W1",
+      "text": "I'd like to reserve the patio for a party of twenty-five next Thursday evening.",
+      "start": 12.51,
+      "end": 16.2,
+      "clipSrc": "../../audio-sentences/t8-50-s03.mp3",
+      "clipSourceStart": 12.43,
+      "vi": "Tôi muốn đặt chỗ patio cho nhóm 25 người vào tối thứ Năm tới.",
+      "listeningKeywords": [
+        "reserve",
+        "patio",
+        "party",
+        "Thursday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reserve",
+          "vi": "đặt chỗ"
+        },
+        {
+          "en": "patio",
+          "vi": "patio"
+        },
+        {
+          "en": "Thursday",
+          "vi": "thứ Năm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u03-k1",
+          "en": "reserve",
+          "vi": [
+            "đặt chỗ"
+          ],
+          "start": 13.23,
+          "end": 13.613362,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u04",
+      "speaker": "W2",
+      "text": "Hi, Ms. Stewart. I'm Sakura.",
+      "start": 16.68,
+      "end": 19.02,
+      "clipSrc": "../../audio-sentences/t8-50-s04.mp3",
+      "clipSourceStart": 16.6,
+      "vi": "Chào cô Stewart. Tôi là Sakura.",
+      "listeningKeywords": [
+        "Sakura"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Sakura",
+          "vi": "Sakura"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u04-k1",
+          "en": "Sakura",
+          "vi": [
+            "Sakura"
+          ],
+          "start": 18.33,
+          "end": 19.02,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u05",
+      "speaker": "W2",
+      "text": "Unfortunately, I believe another large group reserved the patio for Thursday.",
+      "start": 19.56,
+      "end": 24.45,
+      "clipSrc": "../../audio-sentences/t8-50-s05.mp3",
+      "clipSourceStart": 19.48,
+      "vi": "Rất tiếc, tôi nghĩ một nhóm lớn khác đã đặt patio cho thứ Năm.",
+      "listeningKeywords": [
+        "large group",
+        "reserved",
+        "patio",
+        "Thursday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "large group",
+          "vi": "nhóm lớn"
+        },
+        {
+          "en": "reserved",
+          "vi": "đặt"
+        },
+        {
+          "en": "patio",
+          "vi": "patio"
+        },
+        {
+          "en": "Thursday",
+          "vi": "thứ Năm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u05-k1",
+          "en": "large group",
+          "vi": [
+            "nhóm lớn"
+          ],
+          "start": 21.48,
+          "end": 22.35,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u05-k2",
+          "en": "reserved",
+          "vi": [
+            "đặt"
+          ],
+          "start": 22.38,
+          "end": 22.95,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u05-k3",
+          "en": "patio",
+          "vi": [
+            "patio"
+          ],
+          "start": 23.01,
+          "end": 23.49,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u05-k4",
+          "en": "Thursday",
+          "vi": [
+            "thứ Năm"
+          ],
+          "start": 23.67,
+          "end": 24.45,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u06",
+      "speaker": "W2",
+      "text": "Let me quickly check with the manager.",
+      "start": 25.14,
+      "end": 27.15,
+      "clipSrc": "../../audio-sentences/t8-50-s06.mp3",
+      "clipSourceStart": 25.06,
+      "vi": "Để tôi kiểm tra nhanh với quản lý nhé.",
+      "listeningKeywords": [
+        "check",
+        "manager"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "manager",
+          "vi": "quản lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u06-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 25.92,
+          "end": 26.19,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u06-k2",
+          "en": "manager",
+          "vi": [
+            "quản lý"
+          ],
+          "start": 26.49,
+          "end": 27.15,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u07",
+      "speaker": "W2",
+      "text": "Manager Gomez? Do we have a group reservation for the patio this Thursday evening?",
+      "start": 27.93,
+      "end": 32.58,
+      "clipSrc": "../../audio-sentences/t8-50-s07.mp3",
+      "clipSourceStart": 27.85,
+      "vi": "Quản lý Gomez? Chúng ta có đặt nhóm cho patio tối thứ Năm này không?",
+      "listeningKeywords": [
+        "Manager Gomez",
+        "group reservation",
+        "patio",
+        "Thursday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Manager Gomez",
+          "vi": "Quản lý"
+        },
+        {
+          "en": "patio",
+          "vi": "patio"
+        },
+        {
+          "en": "Thursday",
+          "vi": "thứ Năm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u07-k1",
+          "en": "Manager Gomez",
+          "vi": [
+            "Quản lý"
+          ],
+          "start": 27.93,
+          "end": 28.92,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u07-k2",
+          "en": "patio",
+          "vi": [
+            "patio"
+          ],
+          "start": 30.78,
+          "end": 31.29,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u07-k3",
+          "en": "Thursday",
+          "vi": [
+            "thứ Năm"
+          ],
+          "start": 31.56,
+          "end": 32.04,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u08",
+      "speaker": "M",
+      "text": "Actually, that group changed their reservation to Wednesday.",
+      "start": 33.12,
+      "end": 36.69,
+      "clipSrc": "../../audio-sentences/t8-50-s08.mp3",
+      "clipSourceStart": 33.04,
+      "vi": "Thực ra, nhóm đó đã đổi đặt chỗ sang thứ Tư.",
+      "listeningKeywords": [
+        "group",
+        "changed",
+        "reservation",
+        "Wednesday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "changed",
+          "vi": "đổi"
+        },
+        {
+          "en": "reservation",
+          "vi": "đặt chỗ"
+        },
+        {
+          "en": "Wednesday",
+          "vi": "thứ Tư"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u08-k1",
+          "en": "group",
+          "vi": [],
+          "start": 34.32,
+          "end": 34.65,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u08-k2",
+          "en": "changed",
+          "vi": [
+            "đổi"
+          ],
+          "start": 34.65,
+          "end": 35.07,
+          "anchorSource": "t8-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u08-k3",
+          "en": "reservation",
+          "vi": [
+            "đặt chỗ"
+          ],
+          "start": 35.217982,
+          "end": 35.88,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u08-k4",
+          "en": "Wednesday",
+          "vi": [
+            "thứ Tư"
+          ],
+          "start": 36.0,
+          "end": 36.69,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u09",
+      "speaker": "W1",
+      "text": "Great! Is there a special menu for large groups?",
+      "start": 36.9,
+      "end": 40.2,
+      "clipSrc": "../../audio-sentences/t8-50-s09.mp3",
+      "clipSourceStart": 36.82,
+      "vi": "Tốt quá! Có menu đặc biệt cho nhóm lớn không?",
+      "listeningKeywords": [
+        "special menu",
+        "large groups"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "special menu",
+          "vi": "menu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u09-k1",
+          "en": "special menu",
+          "vi": [
+            "menu"
+          ],
+          "start": 38.49,
+          "end": 39.24,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u09-k2",
+          "en": "large groups",
+          "vi": [],
+          "start": 39.39,
+          "end": 40.2,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u10",
+      "speaker": "M",
+      "text": "We offer a special menu for large groups that charges a flat rate per person.",
+      "start": 40.56,
+      "end": 45.12,
+      "clipSrc": "../../audio-sentences/t8-50-s10.mp3",
+      "clipSourceStart": 40.48,
+      "vi": "Chúng tôi có menu đặc biệt cho nhóm lớn và tính phí cố định mỗi người.",
+      "listeningKeywords": [
+        "offer",
+        "special menu",
+        "large groups",
+        "flat rate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offer",
+          "vi": "cho"
+        },
+        {
+          "en": "special menu",
+          "vi": "menu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u10-k1",
+          "en": "offer",
+          "vi": [
+            "cho"
+          ],
+          "start": 40.83,
+          "end": 41.16,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u10-k2",
+          "en": "special menu",
+          "vi": [
+            "menu"
+          ],
+          "start": 41.19,
+          "end": 42.06,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u10-k3",
+          "en": "large groups",
+          "vi": [],
+          "start": 42.21,
+          "end": 42.96,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u10-k4",
+          "en": "flat rate",
+          "vi": [],
+          "start": 43.822654,
+          "end": 44.43,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u11",
+      "speaker": "M",
+      "text": "Let me go get that for you.",
+      "start": 45.54,
+      "end": 47.04,
+      "clipSrc": "../../audio-sentences/t8-50-s11.mp3",
+      "clipSourceStart": 45.46,
+      "vi": "Để tôi lấy cho cô xen.",
+      "listeningKeywords": [
+        "Let",
+        "get"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Let",
+          "vi": "Để"
+        },
+        {
+          "en": "get",
+          "vi": "lấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u11-k1",
+          "en": "Let",
+          "vi": [
+            "Để"
+          ],
+          "start": 45.54,
+          "end": 45.78,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u11-k2",
+          "en": "get",
+          "vi": [
+            "lấy"
+          ],
+          "start": 46.14,
+          "end": 46.38,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-50-u12",
+      "speaker": "M",
+      "text": "Sakura, can you take down the customer's reservation details?",
+      "start": 47.58,
+      "end": 51.18,
+      "clipSrc": "../../audio-sentences/t8-50-s12.mp3",
+      "clipSourceStart": 47.5,
+      "vi": "Sakura, cô có thể ghi chi tiết đặt chỗ của khách không?",
+      "listeningKeywords": [
+        "take",
+        "down",
+        "reservation details"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reservation details",
+          "vi": "đặt chỗ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-50-u12-k1",
+          "en": "take",
+          "vi": [],
+          "start": 48.75,
+          "end": 49.02,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u12-k2",
+          "en": "down",
+          "vi": [],
+          "start": 49.02,
+          "end": 49.26,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-50-u12-k3",
+          "en": "reservation details",
+          "vi": [
+            "đặt chỗ"
+          ],
+          "start": 49.86,
+          "end": 51.18,
+          "anchorSource": "t8-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

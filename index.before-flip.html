@@ -1,0 +1,1822 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC Part 1 — PicQuiz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #07111f;
+            --bg-2: #0c1a2e;
+            --card: rgba(16, 32, 54, 0.78);
+            --line: rgba(148, 163, 184, 0.16);
+            --primary: #38bdf8;
+            --primary-2: #818cf8;
+            --primary-hover: #0ea5e9;
+            --success: #34d399;
+            --danger: #fb7185;
+            --warning: #fbbf24;
+            --text-main: #f1f5f9;
+            --text-sub: #94a3b8;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Be Vietnam Pro', system-ui, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            color: var(--text-main);
+            background:
+                radial-gradient(900px 500px at 8% -10%, rgba(56, 189, 248, 0.18), transparent 55%),
+                radial-gradient(700px 420px at 100% 0%, rgba(129, 140, 248, 0.16), transparent 50%),
+                linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 100%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 28px 20px 72px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1080px;
+        }
+
+        .app-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 18px;
+            flex-wrap: wrap;
+        }
+
+        .logo {
+            font-size: 1.45rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            background: linear-gradient(90deg, #7dd3fc, #c4b5fd);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .logo span {
+            display: block;
+            font-size: 0.72rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--text-sub);
+            -webkit-text-fill-color: var(--text-sub);
+            font-weight: 600;
+            margin-top: 2px;
+        }
+
+        .toolbar {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .select-input {
+            background: rgba(8, 18, 32, 0.85);
+            color: #fff;
+            border: 1px solid var(--line);
+            padding: 9px 12px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 0.84rem;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .select-input:focus {
+            border-color: var(--primary);
+        }
+
+        .ghost-btn, .upload-btn {
+            background: rgba(8, 18, 32, 0.7);
+            color: var(--text-main);
+            font-weight: 600;
+            padding: 9px 13px;
+            border-radius: 12px;
+            cursor: pointer;
+            border: 1px solid var(--line);
+            font-size: 0.84rem;
+            white-space: nowrap;
+        }
+
+        .upload-btn { color: var(--warning); }
+        .ghost-btn:hover, .upload-btn:hover { border-color: #64748b; }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: var(--card);
+            backdrop-filter: blur(16px);
+            padding: 10px;
+            border-radius: 20px;
+            margin-bottom: 18px;
+            border: 1px solid var(--line);
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            flex: 1;
+        }
+
+        .tab-btn {
+            background: transparent;
+            color: var(--text-sub);
+            border: none;
+            padding: 11px 14px;
+            border-radius: 14px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.86rem;
+            transition: 0.2s ease;
+        }
+
+        .tab-btn .hotkey {
+            display: inline-block;
+            margin-left: 6px;
+            font-size: 0.68rem;
+            opacity: 0.65;
+        }
+
+        .tab-btn.active, .tab-btn:hover {
+            background: linear-gradient(135deg, #0ea5e9, #6366f1);
+            color: white;
+        }
+
+        .score-board {
+            background: rgba(251, 191, 36, 0.12);
+            color: var(--warning);
+            padding: 8px 14px;
+            border-radius: 99px;
+            font-weight: 700;
+            border: 1px solid rgba(251, 191, 36, 0.25);
+            font-size: 0.88rem;
+        }
+
+        .hidden-upload { display: none; }
+
+        .game-section {
+            display: none;
+            background: var(--card);
+            backdrop-filter: blur(18px);
+            padding: 28px;
+            border-radius: 28px;
+            border: 1px solid var(--line);
+        }
+
+        .game-section.active {
+            display: block;
+            animation: fadeIn 0.28s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 18px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .section-header h3 {
+            font-size: 1.05rem;
+            font-weight: 700;
+        }
+
+        .sprite-picture {
+            width: 100%;
+            aspect-ratio: 4 / 3;
+            border-radius: 20px;
+            border: 1px solid var(--line);
+            background-color: #06101c;
+            background-repeat: no-repeat;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.28);
+        }
+
+        .flashcard-box .sprite-picture {
+            margin: 0;
+            max-width: none;
+        }
+
+        #scramble-img {
+            max-width: 440px;
+            margin: 0 auto 12px;
+        }
+
+        .fallback-box {
+            padding: 16px;
+            text-align: center;
+            color: #94a3b8;
+        }
+
+        .filter-bar {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 18px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: transparent;
+            color: var(--text-sub);
+            border: 1px solid var(--line);
+            padding: 7px 14px;
+            border-radius: 999px;
+            cursor: pointer;
+            font-size: 0.82rem;
+        }
+
+        .filter-btn.active {
+            border-color: transparent;
+            color: white;
+            background: rgba(56, 189, 248, 0.18);
+        }
+
+        .flashcard-box {
+            display: grid;
+            grid-template-columns: 1.15fr 0.85fr;
+            gap: 28px;
+            align-items: center;
+            position: relative;
+            margin-bottom: 18px;
+        }
+
+        .card-copy { text-align: left; }
+
+        .card-badge {
+            display: inline-block;
+            background: rgba(56, 189, 248, 0.12);
+            border: 1px solid rgba(56, 189, 248, 0.25);
+            padding: 5px 10px;
+            border-radius: 999px;
+            font-size: 0.76rem;
+            color: #7dd3fc;
+            margin-bottom: 14px;
+        }
+
+        .en-phrase {
+            font-size: 1.7rem;
+            font-weight: 800;
+            line-height: 1.3;
+            margin-bottom: 10px;
+            letter-spacing: -0.03em;
+            color: #e0f2fe;
+        }
+
+        .vi-phrase {
+            font-size: 1.05rem;
+            color: #cbd5e1;
+            margin-bottom: 22px;
+            line-height: 1.5;
+        }
+
+        .speaker-btn {
+            background: linear-gradient(135deg, #0ea5e9, #6366f1);
+            color: white;
+            border: none;
+            padding: 12px 22px;
+            border-radius: 999px;
+            font-weight: 700;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.92rem;
+            box-shadow: 0 10px 24px rgba(14, 165, 233, 0.28);
+        }
+
+        .speaker-btn:hover { transform: translateY(-1px); }
+
+        .card-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .ctrl-btn {
+            background: rgba(8, 18, 32, 0.7);
+            color: white;
+            border: 1px solid var(--line);
+            padding: 10px 16px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.86rem;
+        }
+
+        .ctrl-btn:hover { border-color: #64748b; }
+
+        kbd {
+            font-family: inherit;
+            font-size: 0.7rem;
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.12);
+            padding: 1px 6px;
+            border-radius: 6px;
+            margin-left: 4px;
+            color: #cbd5e1;
+        }
+
+        .listen-box {
+            background: rgba(8, 18, 32, 0.55);
+            border: 1px solid var(--line);
+            border-radius: 20px;
+            padding: 22px;
+            text-align: center;
+            margin-bottom: 18px;
+        }
+
+        .photo-options-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 14px;
+        }
+
+        .photo-option-card {
+            background: rgba(8, 18, 32, 0.55);
+            border: 2px solid var(--line);
+            border-radius: 18px;
+            padding: 8px;
+            cursor: pointer;
+            position: relative;
+            transition: 0.2s ease;
+            overflow: hidden;
+        }
+
+        .photo-option-card:hover:not(.disabled) {
+            border-color: var(--primary);
+            transform: translateY(-3px);
+        }
+
+        .photo-option-card .option-letter {
+            position: absolute;
+            bottom: 14px;
+            right: 14px;
+            background: rgba(7, 17, 31, 0.88);
+            color: #fff;
+            font-weight: 800;
+            width: 34px;
+            height: 34px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #64748b;
+            z-index: 3;
+        }
+
+        .photo-option-card .option-sprite {
+            width: 100%;
+            aspect-ratio: 4 / 3;
+            border-radius: 12px;
+            background-repeat: no-repeat;
+        }
+
+        .photo-option-card.correct {
+            border-color: var(--success);
+            box-shadow: 0 0 0 1px var(--success);
+        }
+
+        .photo-option-card.correct .option-letter {
+            background: var(--success);
+            border-color: var(--success);
+        }
+
+        .photo-option-card.wrong {
+            border-color: var(--danger);
+            opacity: 0.7;
+        }
+
+        .photo-option-card.wrong .option-letter {
+            background: var(--danger);
+            border-color: var(--danger);
+        }
+
+        .answer-reveal-banner {
+            margin-top: 16px;
+            padding: 16px 18px;
+            border-radius: 16px;
+            background: rgba(8, 18, 32, 0.7);
+            border: 1px solid var(--line);
+            display: none;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .scramble-target {
+            background: rgba(8, 18, 32, 0.55);
+            border: 1px dashed #475569;
+            min-height: 62px;
+            border-radius: 16px;
+            padding: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 16px 0 12px;
+            align-items: center;
+        }
+
+        .word-bank {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 18px;
+            min-height: 45px;
+        }
+
+        .word-chip {
+            background: rgba(51, 65, 85, 0.85);
+            color: white;
+            padding: 8px 14px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 600;
+            user-select: none;
+        }
+
+        .word-chip:hover { background: #0ea5e9; }
+
+        .memory-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+
+        .mem-card {
+            background: rgba(8, 18, 32, 0.55);
+            border: 2px solid var(--line);
+            border-radius: 16px;
+            height: 148px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 8px;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.84rem;
+            cursor: pointer;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .mem-card .mini-sprite {
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+            background-repeat: no-repeat;
+        }
+
+        .mem-card.selected { border-color: var(--primary); }
+        .mem-card.matched { border-color: var(--success); opacity: 0.42; cursor: default; }
+        .mem-card.error { border-color: var(--danger); }
+
+        .shortcut-bar {
+            position: fixed;
+            left: 50%;
+            bottom: 16px;
+            transform: translateX(-50%);
+            background: rgba(7, 17, 31, 0.86);
+            border: 1px solid var(--line);
+            backdrop-filter: blur(14px);
+            border-radius: 999px;
+            padding: 8px 16px;
+            font-size: 0.78rem;
+            color: var(--text-sub);
+            white-space: nowrap;
+            z-index: 20;
+            max-width: calc(100% - 24px);
+            overflow-x: auto;
+        }
+
+        @media (max-width: 860px) {
+            .flashcard-box { grid-template-columns: 1fr; }
+            .card-copy { text-align: center; }
+            .photo-options-grid, .memory-grid { grid-template-columns: 1fr 1fr; }
+        }
+
+        @media (max-width: 600px) {
+            .photo-options-grid { grid-template-columns: 1fr; }
+            .memory-grid { grid-template-columns: 1fr 1fr; }
+            body { padding: 16px 12px 80px; }
+            .game-section { padding: 18px; }
+            .en-phrase { font-size: 1.28rem; }
+            .shortcut-bar { display: none; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="app-bar">
+        <div class="logo">TOEIC PicQuiz<span>Part 1 · 10 tests · 422 mục</span></div>
+        <div class="toolbar">
+            <select id="test-selector" class="select-input" onchange="changeActiveTest(this.value)">
+                <option value="ALL">Tất cả 10 Test</option>
+                <option value="Test 1" selected>Test 1</option>
+                <option value="Test 2">Test 2</option>
+                <option value="Test 3">Test 3</option>
+                <option value="Test 4">Test 4</option>
+                <option value="Test 5">Test 5</option>
+                <option value="Test 6">Test 6</option>
+                <option value="Test 7">Test 7</option>
+                <option value="Test 8">Test 8</option>
+                <option value="Test 9">Test 9</option>
+                <option value="Test 10">Test 10</option>
+            </select>
+            <select id="voice-selector" class="select-input" onchange="onVoiceChange()">
+                <option value="RANDOM_TOEIC">Giọng random US / UK / AU</option>
+            </select>
+            <select id="rate-selector" class="select-input">
+                <option value="0.8">0.8x chậm</option>
+                <option value="0.92" selected>0.95x TOEIC</option>
+                <option value="1.0">1.0x</option>
+                <option value="1.15">1.15x nhanh</option>
+            </select>
+            <button class="ghost-btn" onclick="testCurrentVoice()">Nghe thử</button>
+            <label class="upload-btn">
+                Đổi ảnh
+                <input type="file" id="image-loader" class="hidden-upload" multiple accept="image/*" onchange="handleFilesUpload(this.files)">
+            </label>
+            <span id="upload-test-label" class="hidden-upload">Test 1</span>
+            <span id="upload-status" class="hidden-upload"></span>
+        </div>
+    </div>
+
+    <header>
+        <div class="nav-tabs">
+            <button class="tab-btn active" onclick="switchTab('flashcard', this)">Học thẻ <span class="hotkey">1</span></button>
+            <button class="tab-btn" onclick="switchTab('quiz', this)">Nghe chọn ảnh <span class="hotkey">2</span></button>
+            <button class="tab-btn" onclick="switchTab('scramble', this)">Xếp câu <span class="hotkey">3</span></button>
+            <button class="tab-btn" onclick="switchTab('memory', this)">Ghép thẻ <span class="hotkey">4</span></button>
+        </div>
+        <div class="score-board"><span id="xp-score">0</span> XP</div>
+    </header>
+
+    <section id="flashcard" class="game-section active">
+        <div class="section-header">
+            <h3>Học từ vựng & câu miêu tả</h3>
+            <span id="card-counter" style="color: var(--text-sub);">1 / 34</span>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterCards('all', this)">Tất cả</button>
+            <button class="filter-btn" onclick="filterCards('sentence', this)">Câu miêu tả</button>
+            <button class="filter-btn" onclick="filterCards('phrase', this)">Cụm từ</button>
+        </div>
+
+        <div class="flashcard-box">
+            <div class="sprite-picture" id="flashcard-img"></div>
+            <div class="card-copy">
+                <span class="card-badge" id="card-cat">Test 1 • Hình 01</span>
+                <div class="en-phrase" id="card-en"></div>
+                <div class="vi-phrase" id="card-vi"></div>
+                <button class="speaker-btn" onclick="speakCurrentCard()">Nghe lại <kbd>Ctrl</kbd></button>
+                <div id="active-voice-tag" style="font-size: 0.78rem; color: var(--text-sub); margin-top: 10px;"></div>
+            </div>
+        </div>
+
+        <div class="card-controls">
+            <button class="ctrl-btn" onclick="prevCard()">Trước <kbd>←</kbd></button>
+            <button class="ctrl-btn" onclick="randomCard()">Ngẫu nhiên <kbd>R</kbd></button>
+            <button class="ctrl-btn" onclick="nextCard()">Tiếp <kbd>→</kbd></button>
+        </div>
+    </section>
+
+    <!-- 2. NGHE CÂU CHỌN ẢNH -->
+    <section id="quiz" class="game-section">
+        <div class="section-header">
+            <h3>Nghe câu & chọn ảnh A B C D</h3>
+            <div style="display: flex; gap: 10px; align-items: center;">
+                <label style="font-size: 0.85rem; color: var(--text-sub); cursor: pointer;">
+                    <input type="checkbox" id="toggle-text-hint" onchange="toggleQuizHint()"> Hiện chữ gợi ý
+                </label>
+                <button class="ctrl-btn" onclick="initQuiz()">Câu khác 🔄</button>
+            </div>
+        </div>
+
+        <div class="listen-box">
+            <button class="speaker-btn" onclick="speakQuizAudio()">Nghe câu miêu tả <kbd>Ctrl</kbd></button>
+            <p id="quiz-hint-text" style="margin-top: 10px; color: #94a3b8; font-size: 0.92rem;">
+                Hãy lắng nghe kỹ câu tiếng Anh và click vào bức ảnh A, B, C hoặc D phù hợp nhất!
+            </p>
+        </div>
+
+        <div class="photo-options-grid" id="quiz-photo-options"></div>
+
+        <div class="answer-reveal-banner" id="quiz-reveal-banner">
+            <div>
+                <div id="reveal-en" style="font-size: 1.15rem; font-weight: 700; color: #60a5fa;"></div>
+                <div id="reveal-vi" style="font-size: 0.95rem; color: #cbd5e1; margin-top: 4px;"></div>
+            </div>
+            <button class="ctrl-btn" style="background: var(--primary);" onclick="initQuiz()">Câu tiếp theo ➡</button>
+        </div>
+    </section>
+
+    <!-- 3. WORD SCRAMBLE -->
+    <section id="scramble" class="game-section">
+        <div class="section-header">
+            <h3>Nhìn ảnh & xếp câu</h3>
+            <button class="ctrl-btn" onclick="initScramble()">Đổi câu khác 🔄</button>
+        </div>
+        
+        <div class="sprite-picture" id="scramble-img"></div>
+        <p id="scramble-vi" style="text-align: center; color: var(--warning); font-weight: 600; margin-bottom: 14px;"></p>
+
+        <div class="scramble-target" id="scramble-target"></div>
+        <div class="word-bank" id="word-bank"></div>
+
+        <div style="display: flex; gap: 12px; align-items: center;">
+            <button class="speaker-btn" style="background: var(--success);" onclick="checkScramble()">✔ Kiểm tra</button>
+            <button class="ctrl-btn" onclick="speakScrambleHint()">Nghe gợi ý <kbd>Ctrl</kbd></button>
+            <span id="scramble-status" style="font-weight: 700;"></span>
+        </div>
+    </section>
+
+    <!-- 4. MEMORY MATCH -->
+    <section id="memory" class="game-section">
+        <div class="section-header">
+            <h3>Ghép ảnh với câu</h3>
+            <button class="ctrl-btn" onclick="initMemory()">Chơi ván mới 🔄</button>
+        </div>
+        <p style="color: var(--text-sub); margin-bottom: 14px;">Bấm chọn 1 tấm ảnh và 1 thẻ chữ tiếng Anh mô tả đúng bức ảnh đó:</p>
+        <div class="memory-grid" id="memory-grid"></div>
+    </section>
+</div>
+<div class="shortcut-bar">
+    <kbd>Ctrl</kbd> nghe lại · <kbd>←</kbd><kbd>→</kbd> chuyển câu · <kbd>1–4</kbd> đổi mode · <kbd>A–D</kbd> chọn ảnh · <kbd>R</kbd> random · <kbd>Enter</kbd> kiểm tra / câu mới
+</div>
+
+<script>
+    /* =========================================================================
+     * 1. HỆ THỐNG GIỌNG ĐỌC ĐA DẠNG (MULTI-VOICE ENGINE)
+     * ========================================================================= */
+    let englishVoices = [];
+
+    function loadVoices() {
+        if (!('speechSynthesis' in window)) return;
+        const allVoices = window.speechSynthesis.getVoices();
+        // Lọc các giọng tiếng Anh (US, UK, AU, CA, IN, IE...)
+        englishVoices = allVoices.filter(v => v.lang && v.lang.toLowerCase().startsWith('en'));
+
+        // Sắp xếp ưu tiên giọng Natural / Online / Google / Microsoft lên đầu
+        englishVoices.sort((a, b) => {
+            const score = (v) => {
+                let s = 0;
+                const n = v.name.toLowerCase();
+                if (n.includes('natural') || n.includes('online')) s += 50;
+                if (n.includes('google') || n.includes('microsoft') || n.includes('siri') || n.includes('samantha')) s += 30;
+                if (v.lang === 'en-US' || v.lang === 'en-GB' || v.lang === 'en-AU') s += 15;
+                return s;
+            };
+            return score(b) - score(a);
+        });
+
+        const select = document.getElementById('voice-selector');
+        const prevVal = select.value;
+        select.innerHTML = `<option value="RANDOM_TOEIC">🎲 Đổi giọng ngẫu nhiên mỗi câu (US / UK / AU như thi thật)</option>`;
+
+        englishVoices.forEach((v, idx) => {
+            let flag = '🌐';
+            if (v.lang.includes('US')) flag = '🇺🇸 Mỹ';
+            else if (v.lang.includes('GB')) flag = '🇬🇧 Anh';
+            else if (v.lang.includes('AU')) flag = '🇦🇺 Úc';
+            else if (v.lang.includes('CA')) flag = '🇨🇦 Canada';
+            else if (v.lang.includes('IN')) flag = '🇮🇳 Ấn';
+
+            const star = (v.name.includes('Natural') || v.name.includes('Google')) ? '⭐ ' : '';
+            const opt = document.createElement('option');
+            opt.value = idx;
+            opt.innerText = `${star}[${flag}] ${v.name}`;
+            select.appendChild(opt);
+        });
+
+        // Lưu lại lựa chọn trước đó nếu có
+        const savedVoiceName = localStorage.getItem('toeic_preferred_voice');
+        if (savedVoiceName && savedVoiceName !== 'RANDOM_TOEIC') {
+            const foundIdx = englishVoices.findIndex(v => v.name === savedVoiceName);
+            if (foundIdx !== -1) select.value = foundIdx;
+        }
+    }
+
+    if ('speechSynthesis' in window) {
+        window.speechSynthesis.onvoiceschanged = loadVoices;
+        setTimeout(loadVoices, 200);
+    }
+
+    function onVoiceChange() {
+        const val = document.getElementById('voice-selector').value;
+        if (val === 'RANDOM_TOEIC') {
+            localStorage.setItem('toeic_preferred_voice', 'RANDOM_TOEIC');
+        } else if (englishVoices[val]) {
+            localStorage.setItem('toeic_preferred_voice', englishVoices[val].name);
+        }
+        testCurrentVoice();
+    }
+
+    function speakText(text) {
+        if (!('speechSynthesis' in window)) return;
+        window.speechSynthesis.cancel();
+
+        const utterance = new SpeechSynthesisUtterance(text);
+        const rate = parseFloat(document.getElementById('rate-selector').value) || 0.92;
+        utterance.rate = rate;
+        utterance.lang = 'en-US';
+
+        const voiceChoice = document.getElementById('voice-selector').value;
+        let chosenVoice = null;
+
+        if (englishVoices.length > 0) {
+            if (voiceChoice === 'RANDOM_TOEIC') {
+                // Chọn ngẫu nhiên trong top các giọng tiếng Anh tốt nhất
+                const poolSize = Math.min(englishVoices.length, 8);
+                chosenVoice = englishVoices[Math.floor(Math.random() * poolSize)];
+            } else if (englishVoices[voiceChoice]) {
+                chosenVoice = englishVoices[voiceChoice];
+            }
+        }
+
+        if (chosenVoice) {
+            utterance.voice = chosenVoice;
+            utterance.lang = chosenVoice.lang;
+            const tagEl = document.getElementById('active-voice-tag');
+            if (tagEl) tagEl.innerText = `🎙️ Đang đọc bằng giọng: ${chosenVoice.name} (${chosenVoice.lang})`;
+        }
+
+        window.speechSynthesis.speak(utterance);
+    }
+
+    function testCurrentVoice() {
+        speakText("The woman is carrying a tray of food.");
+    }
+
+    /* =========================================================================
+     * 2. BẢNG ÁNH XẠ FILE ẢNH CỦA CẢ 10 TEST (76 TẤM ẢNH GỐC)
+     * ========================================================================= */
+    const testSheetFiles = {
+        "Test 1": ["images/t1/s1.png","images/t1/s2.png","images/t1/s3.png","images/t1/s4.png","images/t1/s5.png","images/t1/s6.png","images/t1/s7.png"],
+        "Test 2": ["images/t2/s1.png","images/t2/s2.png","images/t2/s3.png","images/t2/s4.png","images/t2/s5.png","images/t2/s6.png","images/t2/s7.png","images/t2/s8.png"],
+        "Test 3": ["images/t3/s1.png","images/t3/s2.png","images/t3/s3.png","images/t3/s4.png","images/t3/s5.png","images/t3/s6.png","images/t3/s7.png"],
+        "Test 4": ["images/t4/s1.png","images/t4/s2.png","images/t4/s3.png","images/t4/s4.png","images/t4/s5.png","images/t4/s6.png","images/t4/s7.png"],
+        "Test 5": ["images/t5/s1.png","images/t5/s2.png","images/t5/s3.png","images/t5/s4.png","images/t5/s5.png","images/t5/s6.png","images/t5/s7.png"],
+        "Test 6": ["images/t6/s1.png","images/t6/s2.png","images/t6/s3.png","images/t6/s4.png","images/t6/s5.png","images/t6/s6.png","images/t6/s7.png","images/t6/s8.png"],
+        "Test 7": ["images/t7/s1.png","images/t7/s2.png","images/t7/s3.png","images/t7/s4.png","images/t7/s5.png","images/t7/s6.png","images/t7/s7.png","images/t7/s8.png"],
+        "Test 8": ["images/t8/s1.png","images/t8/s2.png","images/t8/s3.png","images/t8/s4.png","images/t8/s5.png","images/t8/s6.png","images/t8/s7.png","images/t8/s8.png"],
+        "Test 9": ["images/t9/s1.png","images/t9/s2.png","images/t9/s3.png","images/t9/s4.png","images/t9/s5.png","images/t9/s6.png","images/t9/s7.png","images/t9/s8.png"],
+        "Test 10": ["images/t10/s1.png","images/t10/s2.png","images/t10/s3.png","images/t10/s4.png","images/t10/s5.png","images/t10/s6.png","images/t10/s7.png","images/t10/s8.png"]
+    };
+
+    // Lưu URL ảnh đã upload theo key `${testId}_${sheetIndex}` (sheetIndex từ 1..8)
+    const uploadedSheetURLs = {};
+
+    function handleFilesUpload(files) {
+        if (!files || files.length === 0) return;
+        const fileList = Array.from(files);
+        let matchedCount = 0;
+
+        // 1. Khớp chính xác theo tên file của 10 Test trước
+        fileList.forEach(file => {
+            const fName = file.name.trim().toLowerCase();
+            const url = URL.createObjectURL(file);
+
+            for (const [tName, sheetArr] of Object.entries(testSheetFiles)) {
+                sheetArr.forEach((expectedName, idx) => {
+                    if (fName === expectedName.toLowerCase()) {
+                        uploadedSheetURLs[`${tName}_${idx + 1}`] = url;
+                        matchedCount++;
+                    }
+                });
+            }
+        });
+
+        // 2. Nếu người dùng chỉ chọn 7-8 ảnh cho Test đang mở và tên file khác, tự động gán vào Test hiện tại
+        const targetTest = currentTestFilter === 'ALL' ? 'Test 1' : currentTestFilter;
+        if (fileList.length <= 8) {
+            fileList.forEach((file, idx) => {
+                const name = file.name.toLowerCase();
+                const url = URL.createObjectURL(file);
+                if (name.includes("ảnh 1") || name.includes("anh 1")) uploadedSheetURLs[`${targetTest}_1`] = url;
+                else if (name.includes("ảnh 2") || name.includes("anh 2")) uploadedSheetURLs[`${targetTest}_2`] = url;
+                else if (name.includes("ảnh 3") || name.includes("anh 3") || name.includes("ảnh3")) uploadedSheetURLs[`${targetTest}_3`] = url;
+                else if (name.includes("ảnh 4") || name.includes("anh 4")) uploadedSheetURLs[`${targetTest}_4`] = url;
+                else if (name.includes("cụm 1") || name.includes("động tác")) uploadedSheetURLs[`${targetTest}_5`] = url;
+                else if (name.includes("cụm 2") || name.includes("đồ vật")) uploadedSheetURLs[`${targetTest}_6`] = url;
+                else if (name.includes("cụm 3") || name.includes("trạng thái")) uploadedSheetURLs[`${targetTest}_7`] = url;
+                else if (name.includes("cụm 4")) uploadedSheetURLs[`${targetTest}_8`] = url;
+                else uploadedSheetURLs[`${targetTest}_${idx + 1}`] = url;
+            });
+            matchedCount = fileList.length;
+        }
+
+        const statusEl = document.getElementById('upload-status');
+        statusEl.innerHTML = `✅ <b>Đã nạp thành công ${fileList.length} tấm ảnh!</b> Hệ thống đã tự cắt khung hình.`;
+        statusEl.style.color = '#34d399';
+
+        refreshAllViews();
+    }
+
+    /* =========================================================================
+     * 3. KHO DỮ LIỆU ĐẦY ĐỦ 10 TEST (422 MỤC)
+     * ========================================================================= */
+    const rawTestsDB = {
+        "Test 1": {
+            sentences: [
+                // Sheet 1 (3 hàng)
+                [1, 3, "The woman is carrying a tray of food.", "Người phụ nữ đang bưng một khay thức ăn."],
+                [1, 3, "The woman is tying up her hair.", "Người phụ nữ đang buộc tóc lên."],
+                [1, 3, "The woman is removing her hat.", "Người phụ nữ đang bỏ chiếc mũ ra."],
+                [1, 3, "Some people are standing next to a filing cabinet.", "Một vài người đang đứng cạnh tủ hồ sơ."],
+                [1, 3, "Some people are searching through a desk.", "Một vài người đang lục tìm đồ trong bàn làm việc."],
+                [1, 3, "Some people are watching a presentation.", "Một vài người đang xem một bài thuyết trình."],
+                // Sheet 2 (3 hàng)
+                [2, 3, "A woman is holding a phone up to her ear.", "Một người phụ nữ đang áp điện thoại lên tai."],
+                [2, 3, "A woman is pouring a beverage into a glass.", "Một người phụ nữ đang rót đồ uống vào ly."],
+                [2, 3, "Some light fixtures are hanging from the ceiling.", "Một vài bộ đèn đang treo trên trần nhà."],
+                [2, 3, "Some tiles are being installed in a hallway.", "Một vài viên gạch đang được lát ở hành lang."],
+                [2, 3, "A wooden crate is filled with vegetables.", "Một thùng gỗ được chất đầy rau củ."],
+                [2, 3, "One of the men is putting vegetables into a shopping bag.", "Một trong những người đàn ông đang cho rau củ vào túi mua hàng."],
+                // Sheet 3 (3 hàng)
+                [3, 3, "A backpack has been set on the ground.", "Một chiếc ba lô đã được đặt trên mặt đất."],
+                [3, 3, "One of the men is reaching into a bucket.", "Một trong những người đàn ông đang thò tay vào xô."],
+                [3, 3, "Painting supplies have been laid out on the floor.", "Dụng cụ sơn đã được bày ra trên sàn."],
+                [3, 3, "He's laying a brush down on a windowsill.", "Anh ấy đang đặt cây cọ xuống bệ cửa sổ."],
+                [3, 3, "He's lifting a can of paint by its handle.", "Anh ấy đang nhấc một lon sơn lên bằng quai của nó."],
+                [3, 3, "Cans of paint have been placed on a step stool.", "Những lon sơn đã được đặt trên ghế bậc thang."],
+                // Sheet 4 (2 hàng)
+                [4, 2, "A path is covered with fallen branches.", "Lối đi bị bao phủ bởi những cành cây rụng."],
+                [4, 2, "A tree is lying across a grassy area.", "Một cái cây đang nằm ngang qua bãi cỏ."],
+                [4, 2, "Some water has pooled on a path.", "Một ít nước đã đọng thành vũng trên lối đi."],
+                [4, 2, "Some cyclists are riding through a field.", "Một vài người đi xe đạp đang đạp xe băng qua cánh đồng."]
+            ],
+            phrases: [
+                // Sheet 5: Ảnh đồ vật cụ thể (2 hàng)
+                [5, 2, "filing cabinet", "tủ hồ sơ"],
+                [5, 2, "windowsill", "bệ cửa sổ"],
+                [5, 2, "step stool", "ghế bậc thang"],
+                [5, 2, "light fixtures", "các bộ đèn"],
+                // Sheet 6: Ảnh động tác dễ nhầm (2 hàng)
+                [6, 2, "lay a brush down", "đặt cọ xuống"],
+                [6, 2, "lift a can by its handle", "nhấc lon bằng quai"],
+                [6, 2, "reach into a bucket", "thò tay vào xô"],
+                [6, 2, "put vegetables into a bag", "cho rau vào túi"],
+                // Sheet 7: Ảnh trạng thái và vị trí (2 hàng)
+                [7, 2, "be laid out on the floor", "được bày ra trên sàn"],
+                [7, 2, "be filled with vegetables", "được chất đầy rau củ"],
+                [7, 2, "lie across a grassy area", "nằm ngang qua bãi cỏ"],
+                [7, 2, "be covered with fallen branches", "bị phủ bởi cành cây rơi"]
+            ]
+        },
+
+        "Test 2": {
+            sentences: [
+                [1, 3, "A man is closing a metal gate.", "Một người đàn ông đang đóng cổng kim loại."],
+                [1, 3, "A man is walking down a stone path.", "Một người đàn ông đang đi bộ dọc lối đi lát đá."],
+                [1, 3, "Some potted plants line a walkway.", "Một vài chậu cây nằm dọc theo lối đi."],
+                [1, 3, "Some flags are hanging from balconies.", "Một vài lá cờ đang treo từ ban công."],
+                [1, 3, "Some shopping bags have been placed on a train platform.", "Một vài túi mua sắm đã được đặt trên sân ga."],
+                [1, 3, "Some people are lined up to buy train tickets.", "Một vài người đang xếp hàng mua vé tàu."],
+                [2, 3, "A woman is pulling her luggage behind her.", "Một người phụ nữ đang kéo hành lý phía sau cô ấy."],
+                [2, 3, "A man is leaning against a railing.", "Một người đàn ông đang tựa vào lan can."],
+                [2, 3, "Some wooden planks are leaning against a wall.", "Một vài tấm ván gỗ đang tựa vào tường."],
+                [2, 3, "A vehicle is parked next to a building.", "Một chiếc xe được đỗ cạnh tòa nhà."],
+                [2, 3, "Some stones have been stacked on a pallet.", "Một vài viên đá đã được xếp chồng trên tấm pallet."],
+                [2, 3, "A package has been left near a door.", "Một kiện hàng đã được để lại gần cửa."],
+                [3, 3, "A man is holding up his phone.", "Một người đàn ông đang giơ điện thoại lên."],
+                [3, 3, "A man is pinning a note to a bulletin board.", "Một người đàn ông đang ghim giấy ghi chú lên bảng thông báo."],
+                [3, 3, "A man is dropping an item into a bin.", "Một người đàn ông đang thả một món đồ vào thùng rác."],
+                [3, 3, "A man is washing some windows.", "Một người đàn ông đang lau rửa cửa sổ."],
+                [3, 3, "She's tying the back of her apron.", "Cô ấy đang buộc dây tạp dề sau lưng."],
+                [3, 3, "She's reaching for food on a shelf.", "Cô ấy đang với tay lấy thức ăn trên kệ."],
+                [4, 3, "She's working at a counter.", "Cô ấy đang làm việc tại quầy."],
+                [4, 3, "She's putting food into a refrigerator.", "Cô ấy đang cho thức ăn vào tủ lạnh."],
+                [4, 3, "He's setting up a buffet.", "Anh ấy đang chuẩn bị quầy buffet."],
+                [4, 3, "He's putting plates on dining tables.", "Anh ấy đang đặt đĩa lên bàn ăn."],
+                [4, 3, "He's watering some plants in a garden.", "Anh ấy đang tưới cây trong vườn."],
+                [4, 3, "He's carrying food up a stairway.", "Anh ấy đang bưng thức ăn lên cầu thang."]
+            ],
+            phrases: [
+                [5, 2, "line a walkway", "nằm thành hàng dọc lối đi"],
+                [5, 2, "be lined up", "xếp hàng"],
+                [5, 2, "lean against a railing", "tựa vào lan can"],
+                [5, 2, "be stacked on a pallet", "được xếp chồng trên pallet"],
+                [6, 2, "hold up a phone", "giơ điện thoại lên"],
+                [6, 2, "pin a note to a board", "ghim giấy ghi chú lên bảng"],
+                [6, 2, "reach for food", "với tay lấy thức ăn"],
+                [6, 2, "set up a buffet", "chuẩn bị quầy buffet"],
+                [7, 2, "metal gate", "cổng kim loại"],
+                [7, 2, "stone path", "lối đi lát đá"],
+                [7, 2, "potted plants", "cây trồng trong chậu"],
+                [7, 2, "train platform", "sân ga"],
+                [8, 2, "wooden planks", "những tấm ván gỗ"],
+                [8, 2, "bulletin board", "bảng thông báo"],
+                [8, 2, "apron", "tạp dề"],
+                [8, 2, "dining tables", "những bàn ăn"]
+            ]
+        },
+
+        "Test 3": {
+            sentences: [
+                [1, 3, "He's fixing a file drawer.", "Anh ấy đang sửa ngăn kéo tủ hồ sơ."],
+                [1, 3, "He's rolling up his sleeves.", "Anh ấy đang xắn tay áo lên."],
+                [1, 3, "He's closing a laptop computer.", "Anh ấy đang gập máy tính xách tay lại."],
+                [1, 3, "He's drinking from a mug.", "Anh ấy đang uống nước từ một chiếc cốc có quai."],
+                [1, 3, "Some bushes are covered with snow.", "Một vài bụi cây bị tuyết bao phủ."],
+                [1, 3, "Some flowers are being planted.", "Một vài bông hoa đang được trồng."],
+                [2, 3, "A person is walking in the road.", "Một người đang đi bộ dưới lòng đường."],
+                [2, 3, "A person is cleaning some windows.", "Một người đang lau chùi cửa sổ."],
+                [2, 3, "A man is changing a tire on his car.", "Một người đàn ông đang thay lốp xe ô tô."],
+                [2, 3, "A man is opening a car door.", "Một người đàn ông đang mở cửa xe ô tô."],
+                [2, 3, "A man is putting fuel into his car.", "Một người đàn ông đang đổ xăng vào xe."],
+                [2, 3, "A man is spreading out a map on top of his car.", "Một người đàn ông đang trải bản đồ trên nóc xe."],
+                [3, 3, "They're leaving a restaurant.", "Họ đang rời khỏi nhà hàng."],
+                [3, 3, "One of the women is looking in her handbag.", "Một trong những người phụ nữ đang nhìn vào trong túi xách."],
+                [3, 3, "One of the women is folding a scarf.", "Một trong những người phụ nữ đang gấp khăn choàng."],
+                [3, 3, "They're seated next to each other.", "Họ đang ngồi cạnh nhau."],
+                [3, 3, "A selection of luggage is on display.", "Nhiều loại hành lý đang được trưng bày."],
+                [3, 3, "A lamp and some papers are on a desk.", "Một chiếc đèn và vài tờ giấy ở trên bàn."],
+                [4, 3, "Some boxes are arranged under some lamps.", "Một vài chiếc hộp được xếp dưới những chiếc đèn."],
+                [4, 3, "Some wire has been rolled up on the floor.", "Một ít dây kim loại đã được cuộn lại trên sàn."],
+                [4, 3, "A cyclist is riding past a pedestrian.", "Một người đi xe đạp đang chạy ngang qua người đi bộ."],
+                [4, 3, "A tent is set up next to a lake.", "Một chiếc lều được dựng cạnh hồ nước."],
+                [4, 3, "Some people are resting on a stone wall.", "Một vài người đang nghỉ ngơi trên bức tường đá."],
+                [4, 3, "Some people are swimming in a lake.", "Một vài người đang bơi trong hồ."]
+            ],
+            phrases: [
+                [5, 2, "fix a file drawer", "sửa ngăn kéo tủ hồ sơ"],
+                [5, 2, "roll up sleeves", "xắn tay áo"],
+                [5, 2, "spread out a map", "trải bản đồ ra"],
+                [5, 2, "ride past a pedestrian", "đạp xe đi ngang qua người đi bộ"],
+                [6, 2, "look in a handbag", "nhìn vào trong túi xách"],
+                [6, 2, "fold a scarf", "gấp khăn choàng"],
+                [6, 2, "be on display", "được trưng bày"],
+                [6, 2, "be rolled up on the floor", "được cuộn lại trên sàn"],
+                [7, 2, "file drawer", "ngăn kéo tủ hồ sơ"],
+                [7, 2, "mug", "cốc có quai"],
+                [7, 2, "a selection of luggage", "nhiều loại hành lý để lựa chọn"],
+                [7, 2, "stone wall", "tường đá"]
+            ]
+        },
+
+        "Test 4": {
+            sentences: [
+                [1, 3, "She's crossing a busy street.", "Cô ấy đang băng qua một con phố đông đúc."],
+                [1, 3, "She's removing her eyeglasses.", "Cô ấy đang tháo mắt kính ra."],
+                [1, 3, "She's standing next to a bin.", "Cô ấy đang đứng cạnh thùng rác."],
+                [1, 3, "She's getting into a taxicab.", "Cô ấy đang bước lên xe taxi."],
+                [1, 3, "Some trucks have stopped at a traffic signal.", "Một vài chiếc xe tải đã dừng tại đèn tín hiệu giao thông."],
+                [1, 3, "Some lights are being installed above a garage door.", "Một vài bóng đèn đang được lắp phía trên cửa ga-ra."],
+                [2, 3, "A garden is being planted along a fence.", "Một khu vườn đang được trồng dọc theo hàng rào."],
+                [2, 3, "Several vehicles are parked outside a building.", "Nhiều phương tiện đang đỗ bên ngoài tòa nhà."],
+                [2, 3, "A woman is following a man down a corridor.", "Một người phụ nữ đang đi theo một người đàn ông dọc hành lang."],
+                [2, 3, "A woman is putting together some cardboard boxes.", "Một người phụ nữ đang lắp ghép các thùng các-tông."],
+                [2, 3, "A man is emptying a large container.", "Một người đàn ông đang đổ hết đồ trong thùng lớn ra."],
+                [2, 3, "A man is climbing up a ladder.", "Một người đàn ông đang trèo lên thang."],
+                [3, 3, "He's clearing some snow off a path.", "Anh ấy đang dọn tuyết khỏi lối đi."],
+                [3, 3, "He's pulling a cart on a walkway.", "Anh ấy đang kéo một chiếc xe đẩy trên lối đi."],
+                [3, 3, "He's leaning over to tie his shoe.", "Anh ấy đang cúi người để buộc dây giày."],
+                [3, 3, "He's taking some items out of a basket.", "Anh ấy đang lấy một vài món đồ ra khỏi giỏ."],
+                [3, 3, "One of the women is carrying a bag on her shoulder.", "Một trong những người phụ nữ đang đeo túi trên vai."],
+                [3, 3, "One of the women is placing her luggage on a scale.", "Một trong những người phụ nữ đang đặt hành lý lên bàn cân."],
+                [4, 3, "Some suitcases have been lined up against the wall.", "Một vài chiếc vali đã được xếp thành hàng sát tường."],
+                [4, 3, "Some clothes are being packed in a bag.", "Một vài bộ quần áo đang được xếp vào túi."],
+                [4, 3, "Some customers are drinking from coffee cups.", "Một vài khách hàng đang uống từ tách cà phê."],
+                [4, 3, "Some coffee cups have been placed on a counter.", "Một vài tách cà phê đã được đặt trên quầy."],
+                [4, 3, "Some aprons are hanging from hooks.", "Một vài chiếc tạp dề đang treo trên móc."],
+                [4, 3, "One of the workers is wiping down a counter.", "Một trong những nhân viên đang lau sạch mặt quầy."]
+            ],
+            phrases: [
+                [5, 2, "get into a taxicab", "lên xe taxi"],
+                [5, 2, "put together cardboard boxes", "lắp các thùng các-tông"],
+                [5, 2, "empty a container", "đổ hết đồ trong thùng ra"],
+                [5, 2, "take items out of a basket", "lấy đồ ra khỏi giỏ"],
+                [6, 2, "clear snow off a path", "dọn tuyết khỏi lối đi"],
+                [6, 2, "pull a cart", "kéo xe đẩy"],
+                [6, 2, "lean over to tie a shoe", "cúi người để buộc dây giày"],
+                [6, 2, "wipe down a counter", "lau sạch mặt quầy"],
+                [7, 2, "traffic signal", "đèn tín hiệu giao thông"],
+                [7, 2, "corridor", "hành lang"],
+                [7, 2, "luggage scale", "cân hành lý"],
+                [7, 2, "hang from hooks", "treo trên móc"]
+            ]
+        },
+
+        "Test 5": {
+            sentences: [
+                [1, 3, "She's pushing a large container down a hallway.", "Cô ấy đang đẩy một chiếc thùng lớn dọc hành lang."],
+                [1, 3, "She's looking at information on a laptop screen.", "Cô ấy đang nhìn thông tin trên màn hình laptop."],
+                [1, 3, "She's sorting through paper files.", "Cô ấy đang xem và phân loại hồ sơ giấy."],
+                [1, 3, "She's placing a hat on top of a file cabinet.", "Cô ấy đang đặt một chiếc mũ lên nóc tủ hồ sơ."],
+                [1, 3, "A worker is painting lines on the floor.", "Một công nhân đang sơn các vạch kẻ trên sàn."],
+                [1, 3, "A worker is using a machine to move some boxes.", "Một công nhân đang dùng máy để di chuyển các thùng hàng."],
+                [2, 3, "A worker is sealing some packages.", "Một công nhân đang dán niêm phong các kiện hàng."],
+                [2, 3, "A worker is repairing a motor.", "Một công nhân đang sửa một chiếc động cơ."],
+                [2, 3, "There are beverages available inside a tent.", "Có đồ uống được chuẩn bị sẵn bên trong lều."],
+                [2, 3, "There are some people riding in an automobile.", "Có một vài người đang ngồi trên xe ô tô."],
+                [2, 3, "The man is reaching for a water bottle.", "Người đàn ông đang với tay lấy chai nước."],
+                [2, 3, "The woman is moving some furniture.", "Người phụ nữ đang di chuyển đồ nội thất."],
+                [3, 3, "The door of a clothing store has been propped open.", "Cánh cửa của cửa hàng quần áo đã được chèn giữ mở."],
+                [3, 3, "Customers are waiting to enter a clothing store.", "Khách hàng đang đợi để vào cửa hàng quần áo."],
+                [3, 3, "One of the customers is trying on a jacket.", "Một trong những khách hàng đang mặc thử áo khoác."],
+                [3, 3, "Clothing is displayed outside on racks.", "Quần áo được trưng bày bên ngoài trên các giá treo."],
+                [3, 3, "One of the men is lowering some window shades.", "Một trong những người đàn ông đang hạ rèm cửa sổ xuống."],
+                [3, 3, "One of the men is writing on a poster board.", "Một trong những người đàn ông đang viết lên tấm bảng giấy cứng."],
+                [4, 3, "One of the women is putting on a sweater.", "Một trong những người phụ nữ đang mặc áo len vào."],
+                [4, 3, "One of the women is reading from a notebook.", "Một trong những người phụ nữ đang đọc từ cuốn sổ tay."],
+                [4, 3, "One of the cars is stopped at a stop sign.", "Một trong những chiếc xe ô tô đang dừng ở biển báo dừng."],
+                [4, 3, "Some tires are stacked against a building.", "Một vài chiếc lốp xe được xếp chồng dựa vào tòa nhà."],
+                [4, 3, "Some vehicles are being washed.", "Một vài phương tiện đang được rửa."],
+                [4, 3, "A motorcycle is going through a gate.", "Một chiếc xe máy đang đi qua cổng."]
+            ],
+            phrases: [
+                [5, 2, "sort through paper files", "xem và phân loại hồ sơ giấy"],
+                [5, 2, "seal packages", "niêm phong các kiện hàng"],
+                [5, 2, "prop a door open", "chèn giữ cửa mở"],
+                [5, 2, "try on a jacket", "mặc thử áo khoác"],
+                [6, 2, "lower window shades", "hạ rèm cửa sổ"],
+                [6, 2, "put on a sweater", "mặc áo len vào"],
+                [6, 2, "reach for a water bottle", "với tay lấy chai nước"],
+                [6, 2, "go through a gate", "đi qua cổng"],
+                [7, 2, "file cabinet", "tủ hồ sơ"],
+                [7, 2, "clothing racks", "giá treo quần áo"],
+                [7, 2, "poster board", "tấm bảng giấy cứng"],
+                [7, 2, "stop sign", "biển báo dừng"]
+            ]
+        },
+
+        "Test 6": {
+            sentences: [
+                [1, 3, "A restaurant buffet is filled with food.", "Quầy buffet của nhà hàng được bày đầy thức ăn."],
+                [1, 3, "Cups are sitting in a sink.", "Những chiếc cốc đang nằm trong bồn rửa."],
+                [1, 3, "A dining area is empty.", "Khu vực ăn uống đang trống."],
+                [1, 3, "Some candles have been lit.", "Một vài ngọn nến đã được thắp sáng."],
+                [1, 3, "He's facing a machine.", "Anh ấy đang đứng đối diện một chiếc máy."],
+                [1, 3, "He's lifting up a machine.", "Anh ấy đang nhấc một chiếc máy lên."],
+                [2, 3, "He's wiping down a machine.", "Anh ấy đang lau sạch bề mặt máy."],
+                [2, 3, "He's repairing a machine with a tool.", "Anh ấy đang sửa máy bằng một dụng cụ."],
+                [2, 3, "A man is tying his shoe.", "Một người đàn ông đang buộc dây giày."],
+                [2, 3, "A woman is looking through her purse.", "Một người phụ nữ đang lục tìm trong túi xách."],
+                [2, 3, "They're boarding a bus.", "Họ đang bước lên xe buýt."],
+                [2, 3, "They're walking past a bench.", "Họ đang đi bộ ngang qua ghế băng."],
+                [3, 3, "She's organizing a workstation.", "Cô ấy đang sắp xếp chỗ làm việc."],
+                [3, 3, "She's holding a water bottle.", "Cô ấy đang cầm một chai nước."],
+                [3, 3, "She's removing a book from a shelf.", "Cô ấy đang lấy một cuốn sách ra khỏi kệ."],
+                [3, 3, "She's reaching for a pen.", "Cô ấy đang vươn tay lấy một cây bút."],
+                [3, 3, "A woman is lifting a suitcase onto a counter.", "Một người phụ nữ đang nhấc vali lên quầy."],
+                [3, 3, "A woman is writing on a piece of paper.", "Một người phụ nữ đang viết trên một tờ giấy."],
+                [4, 3, "A woman is leaning against a glass door.", "Một người phụ nữ đang tựa vào cửa kính."],
+                [4, 3, "A woman is talking to a worker at a desk.", "Một người phụ nữ đang nói chuyện với nhân viên tại bàn."],
+                [4, 3, "Some paintings have been hung above a sofa.", "Một vài bức tranh đã được treo phía trên ghế sofa."],
+                [4, 3, "Some wooden chairs are stacked in a corner.", "Một vài chiếc ghế gỗ được xếp chồng trong góc."],
+                [4, 3, "There are lamps lighting some seating areas.", "Có những chiếc đèn chiếu sáng các khu vực chỗ ngồi."],
+                [4, 3, "There are curtains framing a doorway.", "Có rèm cửa hai bên bao quanh lối cửa ra vào."]
+            ],
+            phrases: [
+                [5, 3, "tie one's shoe", "buộc dây giày"],
+                [5, 3, "look through one's purse", "lục tìm trong túi xách"],
+                [5, 3, "board a bus", "lên xe buýt"],
+                [5, 3, "walk past a bench", "đi ngang qua ghế băng"],
+                [5, 3, "organize a workstation", "sắp xếp chỗ làm việc"],
+                [5, 3, "remove a book from a shelf", "lấy sách ra khỏi kệ"],
+                [6, 3, "be filled with food", "được bày đầy thức ăn"],
+                [6, 3, "light candles", "thắp nến"],
+                [6, 3, "face a machine", "đứng đối diện một chiếc máy"],
+                [6, 3, "lift up a machine", "nhấc một chiếc máy lên"],
+                [6, 3, "wipe down a machine", "lau sạch bề mặt máy"],
+                [6, 3, "repair a machine with a tool", "sửa máy bằng dụng cụ"],
+                [7, 3, "reach for a pen", "vươn tay lấy bút"],
+                [7, 3, "lift a suitcase onto a counter", "nhấc vali lên quầy"],
+                [7, 3, "write on a piece of paper", "viết trên một tờ giấy"],
+                [7, 3, "lean against a glass door", "tựa vào cửa kính"],
+                [7, 3, "hang paintings above a sofa", "treo tranh phía trên sofa"],
+                [7, 3, "stack chairs in a corner", "xếp chồng ghế trong góc"],
+                [8, 3, "a restaurant buffet", "quầy buffet của nhà hàng"],
+                [8, 3, "a sink", "một bồn rửa"],
+                [8, 3, "a dining area", "khu vực ăn uống"],
+                [8, 3, "a workstation", "một chỗ làm việc"],
+                [8, 3, "seating areas", "các khu vực chỗ ngồi"],
+                [8, 3, "curtains framing a doorway", "rèm hai bên bao quanh lối cửa"]
+            ]
+        },
+
+        "Test 7": {
+            sentences: [
+                [1, 3, "She's holding a water bottle.", "Cô ấy đang cầm một chai nước."],
+                [1, 3, "She's looking at a newspaper.", "Cô ấy đang nhìn vào một tờ báo."],
+                [1, 3, "She's reaching for a book.", "Cô ấy đang vươn tay lấy một cuốn sách."],
+                [1, 3, "She's standing next to a copier.", "Cô ấy đang đứng cạnh máy photocopy."],
+                [1, 3, "A tire is leaning against a car.", "Một chiếc lốp xe đang tựa vào ô tô."],
+                [1, 3, "A chain has been left on the ground.", "Một sợi dây xích đã được để lại trên mặt đất."],
+                [2, 3, "A car is backing out of a garage.", "Một chiếc ô tô đang lùi ra khỏi ga-ra."],
+                [2, 3, "A box of tools has been set on top of a car.", "Một hộp dụng cụ đã được đặt trên nóc xe."],
+                [2, 3, "He's pushing a cart toward a doorway.", "Anh ấy đang đẩy xe đẩy về phía lối cửa."],
+                [2, 3, "He's spraying cleaning liquid onto a glass door.", "Anh ấy đang xịt dung dịch vệ sinh lên cửa kính."],
+                [2, 3, "He's mopping up a tiled floor.", "Anh ấy đang lau sàn lát gạch."],
+                [2, 3, "He's setting up a bulletin board.", "Anh ấy đang lắp đặt một bảng thông báo."],
+                [3, 3, "The woman is walking across the street.", "Người phụ nữ đang đi bộ băng qua đường."],
+                [3, 3, "The woman is repairing a bicycle.", "Người phụ nữ đang sửa một chiếc xe đạp."],
+                [3, 3, "The woman is wearing a helmet.", "Người phụ nữ đang đội mũ bảo hiểm."],
+                [3, 3, "The woman is getting into a vehicle.", "Người phụ nữ đang bước vào một phương tiện."],
+                [3, 3, "Some umbrellas have been opened in an outdoor dining area.", "Một vài chiếc ô đã được mở ở khu vực ăn uống ngoài trời."],
+                [3, 3, "All the tables are occupied by diners.", "Tất cả các bàn đều đã có thực khách ngồi."],
+                [4, 3, "A worker is sweeping a dining area.", "Một nhân viên đang quét dọn khu vực ăn uống."],
+                [4, 3, "Flowers have been placed on the tables.", "Hoa đã được đặt trên các bàn."],
+                [4, 3, "File folders have been arranged on a shelf.", "Các bìa hồ sơ đã được sắp xếp trên kệ."],
+                [4, 3, "Some window blinds have been raised.", "Một vài rèm sáo cửa sổ đã được kéo lên."],
+                [4, 3, "Some waste baskets have been turned upside down.", "Một vài sọt rác đã bị lật úp."],
+                [4, 3, "An office chair has been pushed under a desk.", "Một chiếc ghế văn phòng đã được đẩy vào dưới gầm bàn."]
+            ],
+            phrases: [
+                [5, 3, "push a cart toward a doorway", "đẩy xe đẩy về phía cửa"],
+                [5, 3, "spray liquid onto a glass door", "xịt chất lỏng lên cửa kính"],
+                [5, 3, "mop up a tiled floor", "lau sạch sàn lát gạch"],
+                [5, 3, "set up a bulletin board", "lắp đặt bảng thông báo"],
+                [5, 3, "get into a vehicle", "bước vào xe"],
+                [5, 3, "turn something upside down", "lật úp thứ gì đó"],
+                [6, 3, "hold a water bottle", "cầm một chai nước"],
+                [6, 3, "look at a newspaper", "nhìn vào một tờ báo"],
+                [6, 3, "reach for a book", "vươn tay lấy một cuốn sách"],
+                [6, 3, "lean against a car", "tựa vào một chiếc xe"],
+                [6, 3, "back out of a garage", "lùi xe ra khỏi ga-ra"],
+                [6, 3, "set something on top of a car", "đặt thứ gì đó lên nóc xe"],
+                [7, 3, "a bulletin board", "bảng thông báo"],
+                [7, 3, "an outdoor dining area", "khu vực ăn uống ngoài trời"],
+                [7, 3, "file folders", "các bìa hồ sơ"],
+                [7, 3, "window blinds", "rèm sáo cửa sổ"],
+                [7, 3, "waste baskets", "các sọt rác"],
+                [7, 3, "an office chair", "một ghế văn phòng"],
+                [8, 3, "a water bottle", "một chai nước"],
+                [8, 3, "a photocopier / a copier", "máy photocopy"],
+                [8, 3, "a box of tools", "một hộp dụng cụ"],
+                [8, 3, "cleaning liquid", "dung dịch vệ sinh"],
+                [8, 3, "a glass door", "một cửa kính"],
+                [8, 3, "a tiled floor", "sàn lát gạch"]
+            ]
+        },
+
+        "Test 8": {
+            sentences: [
+                [1, 3, "A wooden post is being painted.", "Một cột gỗ đang được sơn."],
+                [1, 3, "Flowerpots have been placed under some chairs.", "Các chậu hoa đã được đặt dưới một vài chiếc ghế."],
+                [1, 3, "A rug has been spread out on the ground.", "Một tấm thảm đã được trải ra trên mặt đất."],
+                [1, 3, "Some furniture has been placed on a covered patio.", "Một vài đồ nội thất đã được đặt ở sân hiên có mái che."],
+                [1, 3, "Some people are exiting a parked vehicle.", "Một vài người đang bước ra khỏi chiếc xe đang đỗ."],
+                [1, 3, "A woman is walking past a pedestrian crosswalk.", "Một người phụ nữ đang đi ngang qua vạch sang đường."],
+                [2, 3, "Some cars are crossing an intersection.", "Một vài chiếc xe ô tô đang đi qua giao lộ."],
+                [2, 3, "A woman is taping a flyer to a light pole.", "Một người phụ nữ đang dán tờ rơi lên cột đèn bằng băng keo."],
+                [2, 3, "A man is standing behind a counter.", "Một người đàn ông đang đứng sau quầy."],
+                [2, 3, "A man is setting up a display of items.", "Một người đàn ông đang sắp đặt một khu trưng bày đồ vật."],
+                [2, 3, "Some floor tiles are being repaired.", "Một vài viên gạch lát sàn đang được sửa chữa."],
+                [2, 3, "Customers are lined up at a cash register.", "Khách hàng đang xếp hàng tại quầy thu ngân."],
+                [3, 3, "Some desks are pushed up against a window.", "Một vài chiếc bàn được đẩy sát vào cửa sổ."],
+                [3, 3, "A light fixture is hanging from the ceiling.", "Một bộ đèn đang treo từ trần nhà."],
+                [3, 3, "Some armchairs have been stacked in a corner.", "Một vài chiếc ghế bành đã được xếp chồng ở một góc."],
+                [3, 3, "A fence is visible through the window.", "Có thể nhìn thấy hàng rào qua khung cửa sổ."],
+                [3, 3, "The women are assembling a shelving unit.", "Những người phụ nữ đang lắp ráp một bộ kệ."],
+                [3, 3, "One of the women is packing some store decorations.", "Một trong những người phụ nữ đang đóng gói đồ trang trí cửa hàng."],
+                [4, 3, "One of the women is holding up a book.", "Một trong những người phụ nữ đang giơ một cuốn sách lên."],
+                [4, 3, "The women are unloading a shipment of books.", "Những người phụ nữ đang dỡ một lô hàng sách xuống."],
+                [4, 3, "They're climbing some stairs.", "Họ đang leo cầu thang."],
+                [4, 3, "They're sitting in a park.", "Họ đang ngồi trong công viên."],
+                [4, 3, "They're raking some leaves.", "Họ đang cào gom lá cây."],
+                [4, 3, "They're planting some trees.", "Họ đang trồng một vài cái cây."]
+            ],
+            phrases: [
+                [5, 3, "paint a wooden post", "sơn một cột gỗ"],
+                [5, 3, "spread out a rug", "trải một tấm thảm"],
+                [5, 3, "exit a parked vehicle", "ra khỏi một chiếc xe đang đỗ"],
+                [5, 3, "walk past a crosswalk", "đi ngang qua vạch sang đường"],
+                [5, 3, "cross an intersection", "đi qua một giao lộ"],
+                [5, 3, "tape a flyer to a pole", "dán tờ rơi lên cột bằng băng keo"],
+                [6, 3, "a wooden post", "một cột gỗ"],
+                [6, 3, "flowerpots", "các chậu hoa"],
+                [6, 3, "a covered patio", "sân hiên có mái che"],
+                [6, 3, "a pedestrian crosswalk", "vạch sang đường cho người đi bộ"],
+                [6, 3, "a light pole", "một cột đèn"],
+                [6, 3, "a cash register", "máy tính tiền"],
+                [7, 3, "set up a display", "sắp đặt khu trưng bày"],
+                [7, 3, "line up at a cash register", "xếp hàng tại quầy thu ngân"],
+                [7, 3, "push a desk up against a window", "đẩy bàn sát cửa sổ"],
+                [7, 3, "assemble a shelving unit", "lắp ráp một bộ kệ"],
+                [7, 3, "hold up a book", "giơ một cuốn sách lên"],
+                [7, 3, "unload a shipment of books", "dỡ một lô sách xuống"],
+                [8, 3, "a light fixture", "bộ đèn"],
+                [8, 3, "a shelving unit", "một bộ kệ"],
+                [8, 3, "store decorations", "đồ trang trí cửa hàng"],
+                [8, 3, "climb stairs", "leo cầu thang"],
+                [8, 3, "rake leaves", "cào gom lá"],
+                [8, 3, "plant trees", "trồng cây"]
+            ]
+        },
+
+        "Test 9": {
+            sentences: [
+                [1, 3, "A man is placing books into a shelving unit.", "Một người đàn ông đang đặt sách vào bộ kệ."],
+                [1, 3, "A man is hanging up some flyers.", "Một người đàn ông đang treo các tờ rơi lên."],
+                [1, 3, "A man is picking up tools from the floor.", "Một người đàn ông đang nhặt dụng cụ từ dưới sàn lên."],
+                [1, 3, "A man is bending over some wires.", "Một người đàn ông đang cúi người phía trên các dây điện."],
+                [1, 3, "A picnic area is covered by a roof.", "Khu vực dã ngoại được bao phủ bởi mái che."],
+                [1, 3, "A bin is filled with flowers.", "Một chiếc thùng chứa đầy hoa."],
+                [2, 3, "A picnic area is shaded by trees.", "Khu vực dã ngoại được cây cối che bóng mát."],
+                [2, 3, "A road leads to a picnic area.", "Một con đường dẫn tới khu vực dã ngoại."],
+                [2, 3, "She's dusting a counter.", "Cô ấy đang phủi bụi trên quầy."],
+                [2, 3, "She's loading paper into a copy machine.", "Cô ấy đang nạp giấy vào máy photocopy."],
+                [2, 3, "She's distributing some envelopes.", "Cô ấy đang phát các phong bì."],
+                [2, 3, "She's opening some cabinet doors.", "Cô ấy đang mở các cánh cửa tủ."],
+                [3, 3, "Some people are waiting in line to order.", "Một vài người đang xếp hàng chờ gọi món."],
+                [3, 3, "A menu board has been hung on a wall.", "Một bảng thực đơn đã được treo trên tường."],
+                [3, 3, "A server is placing some food on a tray.", "Một nhân viên phục vụ đang đặt thức ăn lên khay."],
+                [3, 3, "A server is taking an order from a customer.", "Một nhân viên phục vụ đang ghi nhận gọi món từ khách hàng."],
+                [3, 3, "One of the men is stacking vegetables in a basket.", "Một trong những người đàn ông đang xếp rau củ vào giỏ."],
+                [3, 3, "One of the men is selling merchandise in front of a tent.", "Một trong những người đàn ông đang bán hàng hóa phía trước lều."],
+                [4, 3, "One of the men is riding a motorcycle down a street.", "Một trong những người đàn ông đang chạy xe máy dọc con phố."],
+                [4, 3, "One of the men is walking into a store.", "Một trong những người đàn ông đang đi bộ vào cửa hàng."],
+                [4, 3, "The woman is standing in front of a painting.", "Người phụ nữ đang đứng trước một bức tranh."],
+                [4, 3, "The woman is carrying a painting through a doorway.", "Người phụ nữ đang mang một bức tranh qua lối cửa."],
+                [4, 3, "One of the paintings is displayed in a round frame.", "Một trong những bức tranh được trưng bày trong khung hình tròn."],
+                [4, 3, "Some paintings are leaning against a wooden bench.", "Một vài bức tranh đang tựa vào ghế băng gỗ."]
+            ],
+            phrases: [
+                [5, 3, "place books into a shelving unit", "đặt sách vào một bộ kệ"],
+                [5, 3, "hang up flyers", "treo các tờ rơi"],
+                [5, 3, "pick up tools from the floor", "nhặt dụng cụ từ sàn nhà"],
+                [5, 3, "bend over wires", "cúi người phía trên các dây điện"],
+                [5, 3, "be covered by a roof", "được mái che phủ"],
+                [5, 3, "be shaded by trees", "được cây che bóng"],
+                [6, 3, "dust a counter", "phủi bụi trên quầy"],
+                [6, 3, "load paper into a copy machine", "nạp giấy vào máy photocopy"],
+                [6, 3, "distribute envelopes", "phát các phong bì"],
+                [6, 3, "take an order from a customer", "ghi nhận gọi món của khách"],
+                [6, 3, "stack vegetables in a basket", "xếp rau củ chồng lên nhau trong giỏ"],
+                [6, 3, "lean against a wooden bench", "tựa vào một ghế băng gỗ"],
+                [7, 3, "place food on a tray", "đặt thức ăn lên khay"],
+                [7, 3, "wait in line to order", "xếp hàng chờ gọi món"],
+                [7, 3, "sell merchandise in front of a tent", "bán hàng phía trước lều"],
+                [7, 3, "ride a motorcycle down a street", "chạy xe máy dọc con phố"],
+                [7, 3, "carry a painting through a doorway", "mang tranh qua cửa"],
+                [7, 3, "a round frame", "một khung hình tròn"],
+                [8, 3, "a shelving unit", "một bộ kệ"],
+                [8, 3, "a picnic area", "khu vực dã ngoại"],
+                [8, 3, "a bin filled with flowers", "thùng chứa đầy hoa"],
+                [8, 3, "a copy machine", "máy photocopy"],
+                [8, 3, "cabinet doors", "các cánh cửa tủ"],
+                [8, 3, "a menu board", "bảng thực đơn"]
+            ]
+        },
+
+        "Test 10": {
+            sentences: [
+                [1, 3, "He's reaching for the ceiling.", "Anh ấy đang vươn tay lên phía trần nhà."],
+                [1, 3, "He's carrying a bucket of paint.", "Anh ấy đang xách một xô sơn."],
+                [1, 3, "He's fixing a doorway.", "Anh ấy đang sửa khung cửa ra vào."],
+                [1, 3, "He's climbing down a ladder.", "Anh ấy đang leo xuống thang."],
+                [1, 3, "She's reading a poster on the wall.", "Cô ấy đang đọc một tấm áp phích trên tường."],
+                [1, 3, "A chair is propped against the door.", "Một chiếc ghế được đặt tựa vào cửa để chèn."],
+                [2, 3, "A laptop has been left open.", "Một chiếc máy tính xách tay đã được để mở."],
+                [2, 3, "She's speaking into a microphone.", "Cô ấy đang nói vào micro."],
+                [2, 3, "They're strolling in a park.", "Họ đang đi dạo thong thả trong công viên."],
+                [2, 3, "They're shaking hands.", "Họ đang bắt tay nhau."],
+                [2, 3, "He's holding up an umbrella.", "Anh ấy đang giơ một chiếc ô lên."],
+                [2, 3, "She's handing him a phone.", "Cô ấy đang đưa cho anh ấy chiếc điện thoại."],
+                [3, 3, "A car is being towed down a street.", "Một chiếc xe ô tô đang được kéo đi dọc con phố."],
+                [3, 3, "Some men are removing a tire from a truck.", "Một vài người đàn ông đang tháo lốp khỏi xe tải."],
+                [3, 3, "One of the men is unloading equipment from a truck.", "Một trong những người đàn ông đang dỡ thiết bị từ xe tải xuống."],
+                [3, 3, "A building has a clock tower on top of it.", "Một tòa nhà có tháp đồng hồ ở trên đỉnh."],
+                [3, 3, "Some of the bicycles are being repaired.", "Một vài chiếc xe đạp đang được sửa chữa."],
+                [3, 3, "The bicycles are lined up in a row.", "Những chiếc xe đạp được xếp thành một hàng."],
+                [4, 3, "One of the bicycles is leaning against a traffic sign.", "Một trong những chiếc xe đạp đang tựa vào biển báo giao thông."],
+                [4, 3, "A bicycle path is being painted.", "Một lối đi dành cho xe đạp đang được sơn."],
+                [4, 3, "Some ships are moving under a bridge.", "Một vài con tàu đang di chuyển dưới gầm cầu."],
+                [4, 3, "Some boats are docked near a shore.", "Một vài chiếc thuyền được neo đậu gần bờ."],
+                [4, 3, "A ferryboat is traveling through a marina.", "Một chiếc phà đang di chuyển qua bến du thuyền."],
+                [4, 3, "There are buildings along the side of a street.", "Có những tòa nhà nằm dọc bên đường."]
+            ],
+            phrases: [
+                [5, 3, "a bucket of paint", "một xô sơn"],
+                [5, 3, "a clock tower", "một tháp đồng hồ"],
+                [5, 3, "a traffic sign", "một biển báo giao thông"],
+                [5, 3, "a bicycle path", "lối đi dành cho xe đạp"],
+                [5, 3, "a ferryboat", "một chiếc phà"],
+                [5, 3, "a marina", "bến du thuyền"],
+                [6, 3, "remove a tire from a truck", "tháo lốp khỏi xe tải"],
+                [6, 3, "unload equipment from a truck", "dỡ thiết bị từ xe tải xuống"],
+                [6, 3, "line up bicycles in a row", "xếp xe đạp thành một hàng"],
+                [6, 3, "lean against a traffic sign", "tựa vào biển báo giao thông"],
+                [6, 3, "paint a bicycle path", "sơn lối đi dành cho xe đạp"],
+                [6, 3, "be docked near a shore", "được neo đậu gần bờ"],
+                [7, 3, "speak into a microphone", "nói vào micro"],
+                [7, 3, "stroll in a park", "đi dạo thong thả trong công viên"],
+                [7, 3, "shake hands", "bắt tay"],
+                [7, 3, "hold up an umbrella", "giơ ô lên"],
+                [7, 3, "hand someone a phone", "đưa điện thoại cho ai đó"],
+                [7, 3, "tow a car down a street", "kéo một chiếc xe dọc phố"],
+                [8, 3, "reach for the ceiling", "vươn tay lên phía trần nhà"],
+                [8, 3, "carry a bucket of paint", "mang một xô sơn"],
+                [8, 3, "fix a doorway", "sửa khung cửa hoặc lối cửa"],
+                [8, 3, "climb down a ladder", "leo xuống thang"],
+                [8, 3, "prop a chair against a door", "đặt ghế tựa vào cửa để chèn"],
+                [8, 3, "leave a laptop open", "để laptop mở"]
+            ]
+        }
+    };
+
+    // Biên dịch toàn bộ 10 Test sang danh sách phẳng kèm tọa độ hàng/cột tự động
+    const allToeicItems = [];
+    let globalId = 1;
+
+    for (const [testName, content] of Object.entries(rawTestsDB)) {
+        const sheetCounters = {};
+
+        content.sentences.forEach((arr, idx) => {
+            const [sheetIdx, totalRows, en, vi] = arr;
+            sheetCounters[sheetIdx] = (sheetCounters[sheetIdx] || 0);
+            const cellIndex = sheetCounters[sheetIdx]++;
+            const row = Math.floor(cellIndex / 2);
+            const col = cellIndex % 2;
+
+            allToeicItems.push({
+                id: globalId++,
+                testId: testName,
+                type: 'sentence',
+                sheet: sheetIdx,
+                rows: totalRows,
+                row: row,
+                col: col,
+                cat: `Câu ${String(idx + 1).padStart(2, '0')}`,
+                en: en,
+                vi: vi
+            });
+        });
+
+        content.phrases.forEach((arr, idx) => {
+            const [sheetIdx, totalRows, en, vi] = arr;
+            sheetCounters[sheetIdx] = (sheetCounters[sheetIdx] || 0);
+            const cellIndex = sheetCounters[sheetIdx]++;
+            const row = Math.floor(cellIndex / 2);
+            const col = cellIndex % 2;
+
+            allToeicItems.push({
+                id: globalId++,
+                testId: testName,
+                type: 'phrase',
+                sheet: sheetIdx,
+                rows: totalRows,
+                row: row,
+                col: col,
+                cat: `Cụm từ ${String(idx + 1).padStart(2, '0')}`,
+                en: en,
+                vi: vi
+            });
+        });
+    }
+
+    let currentTestFilter = 'Test 1';
+
+    function getActiveTestData() {
+        if (currentTestFilter === 'ALL') return allToeicItems;
+        return allToeicItems.filter(item => item.testId === currentTestFilter);
+    }
+
+    function changeActiveTest(testName) {
+        currentTestFilter = testName;
+        document.getElementById('upload-test-label').innerText = testName === 'ALL' ? '10 Test' : testName;
+        currentCategoryFilter = 'all';
+        currentIndex = 0;
+        refreshAllViews();
+    }
+
+    /* HÀM CẮT ẢNH TỰ ĐỘNG BẰNG CSS SPRITE */
+    function applySpriteCrop(element, item) {
+        const key = `${item.testId}_${item.sheet}`;
+        const defaultFileList = testSheetFiles[item.testId] || [];
+        const imgUrl = uploadedSheetURLs[key] || defaultFileList[item.sheet - 1] || '';
+
+        const posX = item.col === 0 ? '0%' : '100%';
+        let posY = '0%';
+        let bgHeight = '375%';
+
+        if (item.rows === 3) {
+            bgHeight = '375%';
+            if (item.row === 0) posY = '0%';
+            if (item.row === 1) posY = '46%';
+            if (item.row === 2) posY = '92%';
+        } else {
+            bgHeight = '265%';
+            if (item.row === 0) posY = '0%';
+            if (item.row === 1) posY = '84%';
+        }
+
+        element.style.backgroundImage = imgUrl ? `url("${imgUrl}")` : 'none';
+        element.style.backgroundSize = `200% ${bgHeight}`;
+        element.style.backgroundPosition = `${posX} ${posY}`;
+        element.innerHTML = imgUrl ? '' : `<div class="fallback-box">${item.testId} • ${item.cat}</div>`;
+    }
+
+    let xp = 0;
+    function addXP(amount) {
+        xp += amount;
+        document.getElementById('xp-score').innerText = xp;
+    }
+
+    let currentTab = 'flashcard';
+
+    function switchTab(tabId, btn) {
+        currentTab = tabId;
+        document.querySelectorAll('.game-section').forEach(sec => sec.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById(tabId).classList.add('active');
+        const targetBtn = btn || document.querySelectorAll('.tab-btn')[['flashcard','quiz','scramble','memory'].indexOf(tabId)];
+        if (targetBtn) targetBtn.classList.add('active');
+
+        if (tabId === 'quiz') initQuiz();
+        if (tabId === 'scramble') initScramble();
+        if (tabId === 'memory') initMemory();
+    }
+
+    function replayCurrentAudio() {
+        if (currentTab === 'flashcard') speakCurrentCard();
+        else if (currentTab === 'quiz') speakQuizAudio();
+        else if (currentTab === 'scramble') speakScrambleHint();
+    }
+
+    function isTypingTarget(el) {
+        if (!el) return false;
+        const tag = el.tagName;
+        return tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA' || el.isContentEditable;
+    }
+
+    let ctrlUsedAsCombo = false;
+    window.addEventListener('keydown', (e) => {
+        if (isTypingTarget(e.target)) return;
+        if (e.key !== 'Control' && e.ctrlKey) ctrlUsedAsCombo = true;
+
+        if (e.code === 'Space') {
+            e.preventDefault();
+            replayCurrentAudio();
+            return;
+        }
+        if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            if (currentTab === 'flashcard') nextCard();
+            else if (currentTab === 'quiz') initQuiz();
+            else if (currentTab === 'scramble') initScramble();
+            else if (currentTab === 'memory') initMemory();
+            return;
+        }
+        if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            if (currentTab === 'flashcard') prevCard();
+            return;
+        }
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            if (currentTab === 'scramble') checkScramble();
+            else if (currentTab === 'quiz') initQuiz();
+            return;
+        }
+        if (e.key === '1') return switchTab('flashcard');
+        if (e.key === '2') return switchTab('quiz');
+        if (e.key === '3') return switchTab('scramble');
+        if (e.key === '4') return switchTab('memory');
+        if (e.key.toLowerCase() === 'r' && !e.ctrlKey) {
+            if (currentTab === 'flashcard') randomCard();
+            else if (currentTab === 'quiz') initQuiz();
+            else if (currentTab === 'scramble') initScramble();
+            else initMemory();
+            return;
+        }
+        if (currentTab === 'quiz') {
+            const map = { a: 0, b: 1, c: 2, d: 3 };
+            const idx = map[e.key.toLowerCase()];
+            if (idx !== undefined) {
+                const cards = document.querySelectorAll('.photo-option-card');
+                if (cards[idx] && cards[idx].style.pointerEvents !== 'none') cards[idx].click();
+            }
+        }
+    });
+
+    window.addEventListener('keyup', (e) => {
+        if (e.key === 'Control') {
+            if (!ctrlUsedAsCombo && !isTypingTarget(e.target)) replayCurrentAudio();
+            ctrlUsedAsCombo = false;
+        }
+    });
+
+    function refreshAllViews() {
+        filterCards(currentCategoryFilter);
+        initQuiz();
+        initScramble();
+        initMemory();
+    }
+
+    /* ================= 1. FLASHCARDS ================= */
+    let currentCategoryFilter = 'all';
+    let filteredList = [];
+    let currentIndex = 0;
+
+    function filterCards(type, btn) {
+        currentCategoryFilter = type;
+        if (btn) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+        }
+        const baseData = getActiveTestData();
+        filteredList = type === 'all' ? [...baseData] : baseData.filter(d => d.type === type);
+        if (filteredList.length === 0) filteredList = [...baseData];
+        currentIndex = 0;
+        renderCard();
+    }
+
+    function renderCard() {
+        if (filteredList.length === 0) return;
+        const item = filteredList[currentIndex];
+        document.getElementById('card-cat').innerText = `${item.testId} • ${item.cat}`;
+        document.getElementById('card-en').innerText = item.en;
+        document.getElementById('card-vi').innerText = item.vi;
+        document.getElementById('card-counter').innerText = `${currentIndex + 1} / ${filteredList.length}`;
+        applySpriteCrop(document.getElementById('flashcard-img'), item);
+    }
+
+    function nextCard() {
+        currentIndex = (currentIndex + 1) % filteredList.length;
+        renderCard();
+        speakCurrentCard();
+    }
+
+    function prevCard() {
+        currentIndex = (currentIndex - 1 + filteredList.length) % filteredList.length;
+        renderCard();
+        speakCurrentCard();
+    }
+
+    function randomCard() {
+        currentIndex = Math.floor(Math.random() * filteredList.length);
+        renderCard();
+        speakCurrentCard();
+    }
+
+    function speakCurrentCard() {
+        if (filteredList[currentIndex]) speakText(filteredList[currentIndex].en);
+    }
+
+    /* ================= 2. NGHE CÂU CHỌN ẢNH ================= */
+    let currentQuizItem = null;
+
+    function initQuiz() {
+        const pool = getActiveTestData();
+        if (pool.length === 0) return;
+
+        document.getElementById('quiz-reveal-banner').style.display = 'none';
+        currentQuizItem = pool[Math.floor(Math.random() * pool.length)];
+
+        toggleQuizHint();
+
+        let distractors = pool
+            .filter(d => d.id !== currentQuizItem.id)
+            .sort(() => 0.5 - Math.random())
+            .slice(0, 3);
+
+        let options = [currentQuizItem, ...distractors].sort(() => 0.5 - Math.random());
+        const letters = ['A', 'B', 'C', 'D'];
+
+        const grid = document.getElementById('quiz-photo-options');
+        grid.innerHTML = '';
+
+        options.forEach((opt, idx) => {
+            const card = document.createElement('div');
+            card.className = 'photo-option-card';
+            card.dataset.id = opt.id;
+
+            const spriteDiv = document.createElement('div');
+            spriteDiv.className = 'option-sprite';
+            applySpriteCrop(spriteDiv, opt);
+
+            const badge = document.createElement('div');
+            badge.className = 'option-letter';
+            badge.innerText = letters[idx];
+
+            card.appendChild(spriteDiv);
+            card.appendChild(badge);
+
+            card.onclick = () => checkPhotoQuizAnswer(opt, card);
+            grid.appendChild(card);
+        });
+
+        setTimeout(() => speakQuizAudio(), 250);
+    }
+
+    function toggleQuizHint() {
+        const showHint = document.getElementById('toggle-text-hint').checked;
+        const hintEl = document.getElementById('quiz-hint-text');
+        if (showHint && currentQuizItem) {
+            hintEl.innerHTML = `🇬🇧 <b>"${currentQuizItem.en}"</b>`;
+            hintEl.style.color = '#60a5fa';
+        } else {
+            hintEl.innerText = 'Hãy lắng nghe kỹ câu tiếng Anh và click vào bức ảnh A, B, C hoặc D phù hợp nhất!';
+            hintEl.style.color = '#94a3b8';
+        }
+    }
+
+    function speakQuizAudio() {
+        if (currentQuizItem) speakText(currentQuizItem.en);
+    }
+
+    function checkPhotoQuizAnswer(selected, cardElement) {
+        const allCards = document.querySelectorAll('.photo-option-card');
+        allCards.forEach(c => {
+            c.classList.add('disabled');
+            c.style.pointerEvents = 'none';
+        });
+
+        const banner = document.getElementById('quiz-reveal-banner');
+        document.getElementById('reveal-en').innerText = `🇬🇧 ${currentQuizItem.en}`;
+        document.getElementById('reveal-vi').innerText = `🇻🇳 ${currentQuizItem.vi}`;
+        banner.style.display = 'flex';
+
+        if (selected.id === currentQuizItem.id) {
+            cardElement.classList.add('correct');
+            addXP(10);
+        } else {
+            cardElement.classList.add('wrong');
+            allCards.forEach(c => {
+                if (Number(c.dataset.id) === currentQuizItem.id) {
+                    c.classList.add('correct');
+                }
+            });
+        }
+    }
+
+    /* ================= 3. WORD SCRAMBLE ================= */
+    let currentScramble = null;
+    let selectedWords = [];
+    let bankWords = [];
+
+    function initScramble() {
+        const pool = getActiveTestData();
+        const sentences = pool.filter(d => d.type === 'sentence');
+        const listToUse = sentences.length > 0 ? sentences : pool;
+        currentScramble = listToUse[Math.floor(Math.random() * listToUse.length)];
+
+        applySpriteCrop(document.getElementById('scramble-img'), currentScramble);
+        document.getElementById('scramble-vi').innerText = currentScramble.vi;
+        document.getElementById('scramble-status').innerText = '';
+
+        const rawWords = currentScramble.en.replace('.', '').split(' ');
+        bankWords = rawWords.map((w, idx) => ({ id: idx, text: w })).sort(() => 0.5 - Math.random());
+        selectedWords = [];
+
+        renderScramble();
+    }
+
+    function renderScramble() {
+        const targetEl = document.getElementById('scramble-target');
+        const bankEl = document.getElementById('word-bank');
+        targetEl.innerHTML = '';
+        bankEl.innerHTML = '';
+
+        selectedWords.forEach(wObj => {
+            const chip = document.createElement('div');
+            chip.className = 'word-chip';
+            chip.style.background = 'var(--primary)';
+            chip.innerText = wObj.text;
+            chip.onclick = () => {
+                selectedWords = selectedWords.filter(item => item.id !== wObj.id);
+                bankWords.push(wObj);
+                renderScramble();
+            };
+            targetEl.appendChild(chip);
+        });
+
+        bankWords.forEach(wObj => {
+            const chip = document.createElement('div');
+            chip.className = 'word-chip';
+            chip.innerText = wObj.text;
+            chip.onclick = () => {
+                bankWords = bankWords.filter(item => item.id !== wObj.id);
+                selectedWords.push(wObj);
+                renderScramble();
+            };
+            bankEl.appendChild(chip);
+        });
+    }
+
+    function checkScramble() {
+        const cleanUser = selectedWords.map(w => w.text).join(' ').replace(/\.$/, '').toLowerCase();
+        const cleanAns = currentScramble.en.replace(/\.$/, '').toLowerCase();
+        const statusEl = document.getElementById('scramble-status');
+
+        if (cleanUser === cleanAns) {
+            statusEl.innerText = "🎉 Chính xác! +15 XP";
+            statusEl.style.color = "var(--success)";
+            speakText(currentScramble.en);
+            addXP(15);
+        } else {
+            statusEl.innerText = "❌ Chưa đúng, thử lại nhé!";
+            statusEl.style.color = "var(--danger)";
+        }
+    }
+
+    function speakScrambleHint() {
+        if (currentScramble) speakText(currentScramble.en);
+    }
+
+    /* ================= 4. MEMORY MATCH ================= */
+    let firstChoice = null;
+    let lockBoard = false;
+
+    function initMemory() {
+        const grid = document.getElementById('memory-grid');
+        grid.innerHTML = '';
+        firstChoice = null;
+        lockBoard = false;
+
+        const pool = getActiveTestData();
+        const picked = [...pool].sort(() => 0.5 - Math.random()).slice(0, 6);
+
+        let cards = [];
+        picked.forEach(item => {
+            cards.push({ pairId: item.id, mode: 'image', item: item });
+            cards.push({ pairId: item.id, mode: 'text', item: item });
+        });
+
+        cards.sort(() => 0.5 - Math.random());
+
+        cards.forEach(c => {
+            const cardEl = document.createElement('div');
+            cardEl.className = 'mem-card';
+
+            if (c.mode === 'image') {
+                const picDiv = document.createElement('div');
+                picDiv.className = 'mini-sprite';
+                applySpriteCrop(picDiv, c.item);
+                cardEl.appendChild(picDiv);
+            } else {
+                cardEl.innerHTML = `<span style="color:#60a5fa">${c.item.en}</span>`;
+            }
+
+            cardEl.onclick = () => handleMemoryClick(cardEl, c);
+            grid.appendChild(cardEl);
+        });
+    }
+
+    function handleMemoryClick(el, cardData) {
+        if (lockBoard || el.classList.contains('matched') || el === firstChoice?.el) return;
+
+        if (cardData.mode === 'text') speakText(cardData.item.en);
+        el.classList.add('selected');
+
+        if (!firstChoice) {
+            firstChoice = { el, cardData };
+            return;
+        }
+
+        if (firstChoice.cardData.pairId === cardData.pairId) {
+            el.classList.replace('selected', 'matched');
+            firstChoice.el.classList.replace('selected', 'matched');
+            addXP(10);
+            firstChoice = null;
+        } else {
+            lockBoard = true;
+            el.classList.add('error');
+            firstChoice.el.classList.add('error');
+            setTimeout(() => {
+                el.classList.remove('selected', 'error');
+                firstChoice.el.classList.remove('selected', 'error');
+                firstChoice = null;
+                lockBoard = false;
+            }, 700);
+        }
+    }
+
+    // Khởi tạo lần đầu
+    refreshAllViews();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "conversations": 130,
+  "newConversations": 65,
+  "questions": 390,
+  "images": 521,
+  "utterances": 1088,
+  "linkedObjectCues": 467,
+  "originalTestsUnchanged": true,
+  "bundleMatchesJSON": true,
+  "allReadyContractsPass": true,
+  "graphics": 30,
+  "newSourceClips": 558,
+  "originalHTMLApartFromCacheVersionsUnchanged": true,
+  "newLessonsBrowserChecked": 65,
+  "newBrowserTranscriptLines": 558,
+  "notes": [
+    "Test 8 50-52: supplied PDF wording differs from audio; original PDF text retained with a visible note.",
+    "Test 10 59-61: PDF speaker labels conflict with questions; original labels retained, clearly marked, with object-only scenes."
+  ]
+}

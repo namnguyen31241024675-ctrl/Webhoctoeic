@@ -1,0 +1,403 @@
+{
+  "scope": "ETS 2026 Tests 1–5 Part 3",
+  "conversations": 65,
+  "questions": 195,
+  "activePhotos": 261,
+  "vocabularyEntries": 264,
+  "hotspots": 267,
+  "sourceUtterances": 530,
+  "fileModeRegistryMatchesJSON": true,
+  "allSourceBoundariesMeasured": true,
+  "results": [
+    {
+      "id": "t1-32",
+      "scenes": 5,
+      "utterances": 6,
+      "status": "passed"
+    },
+    {
+      "id": "t1-35",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-38",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t1-41",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-44",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-47",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-50",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t1-53",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t1-56",
+      "scenes": 4,
+      "utterances": 5,
+      "status": "passed"
+    },
+    {
+      "id": "t1-59",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-62",
+      "scenes": 4,
+      "utterances": 6,
+      "status": "passed"
+    },
+    {
+      "id": "t1-65",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t1-68",
+      "scenes": 4,
+      "utterances": 5,
+      "status": "passed"
+    },
+    {
+      "id": "t2-32",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t2-35",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t2-38",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t2-41",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t2-44",
+      "scenes": 4,
+      "utterances": 5,
+      "status": "passed"
+    },
+    {
+      "id": "t2-47",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t2-50",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t2-53",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t2-56",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t2-59",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t2-62",
+      "scenes": 4,
+      "utterances": 12,
+      "status": "passed"
+    },
+    {
+      "id": "t2-65",
+      "scenes": 4,
+      "utterances": 13,
+      "status": "passed"
+    },
+    {
+      "id": "t2-68",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t3-32",
+      "scenes": 4,
+      "utterances": 6,
+      "status": "passed"
+    },
+    {
+      "id": "t3-35",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t3-38",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t3-41",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t3-44",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t3-47",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t3-50",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t3-53",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t3-56",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t3-59",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t3-62",
+      "scenes": 4,
+      "utterances": 5,
+      "status": "passed"
+    },
+    {
+      "id": "t3-65",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t3-68",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t4-32",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t4-35",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t4-38",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t4-41",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t4-44",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t4-47",
+      "scenes": 4,
+      "utterances": 10,
+      "status": "passed"
+    },
+    {
+      "id": "t4-50",
+      "scenes": 4,
+      "utterances": 6,
+      "status": "passed"
+    },
+    {
+      "id": "t4-53",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t4-56",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t4-59",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t4-62",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t4-65",
+      "scenes": 4,
+      "utterances": 12,
+      "status": "passed"
+    },
+    {
+      "id": "t4-68",
+      "scenes": 4,
+      "utterances": 11,
+      "status": "passed"
+    },
+    {
+      "id": "t5-32",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t5-35",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-38",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-41",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-44",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t5-47",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-50",
+      "scenes": 4,
+      "utterances": 7,
+      "status": "passed"
+    },
+    {
+      "id": "t5-53",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-56",
+      "scenes": 4,
+      "utterances": 8,
+      "status": "passed"
+    },
+    {
+      "id": "t5-59",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t5-62",
+      "scenes": 4,
+      "utterances": 11,
+      "status": "passed"
+    },
+    {
+      "id": "t5-65",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    },
+    {
+      "id": "t5-68",
+      "scenes": 4,
+      "utterances": 9,
+      "status": "passed"
+    }
+  ]
+}

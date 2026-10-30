@@ -1,0 +1,318 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t5-41",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T05-41-43.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 7.08,
+    "dialogueEnd": 40.65
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: chocolate candies — kẹo sô cô la",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: hire — tuyển dụng",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: packaging and shipping — đóng gói và vận chuyển",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04-v2.png",
+      "alt": "Ảnh minh họa cảnh 4: packages — các kiện hàng",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 7.08,
+      "end": 16.29,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "chocolate candies",
+          "x": 0.45,
+          "y": 0.66,
+          "width": 0.5,
+          "height": 0.3
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W1",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 16.29,
+      "end": 23.19,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "hire",
+          "x": 0.58,
+          "y": 0.43,
+          "width": 0.32,
+          "height": 0.5
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W1",
+          "x": 0.02,
+          "y": 0.05,
+          "width": 0.46,
+          "height": 0.87
+        },
+        {
+          "speaker": "M",
+          "x": 0.51,
+          "y": 0.05,
+          "width": 0.47,
+          "height": 0.87
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 23.19,
+      "end": 27.33,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "packaging and shipping",
+          "x": 0.58,
+          "y": 0.5,
+          "width": 0.4,
+          "height": 0.43
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W1",
+          "x": 0.02,
+          "y": 0.05,
+          "width": 0.46,
+          "height": 0.87
+        },
+        {
+          "speaker": "M",
+          "x": 0.51,
+          "y": 0.05,
+          "width": 0.47,
+          "height": 0.87
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 27.33,
+      "end": 40.65,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "packages",
+          "x": 0.57,
+          "y": 0.56,
+          "width": 0.41,
+          "height": 0.42
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W2",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "chocolate candies",
+      "vi": "kẹo sô cô la",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "hire",
+      "vi": "tuyển dụng",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "packaging and shipping",
+      "vi": "đóng gói và vận chuyển",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "packages",
+      "vi": "các kiện hàng",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": [],
+  "speakers": [
+    {
+      "id": "W1",
+      "label": "Người nữ 1",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.22999999999999998,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-2",
+        "x": 0.625,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "W2",
+      "label": "Người nữ 2",
+      "portrait": {
+        "imageId": "photo-4",
+        "x": 0.22999999999999998,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    }
+  ],
+  "speakerHighlightMethod": "Explicit per-photo cast regions; off-screen speakers are indicated in the speaker strip, never assigned to another visible person."
+}

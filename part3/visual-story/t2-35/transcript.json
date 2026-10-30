@@ -1,0 +1,549 @@
+{
+  "conversationId": "t2-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-35-u01",
+      "speaker": "W",
+      "text": "We're getting close to the time of year when we need to begin planning our Theater in the Park series for the summer.",
+      "start": 6.12,
+      "end": 11.49,
+      "clipSrc": "../../audio-sentences/t2-35-s01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Chúng ta đang đến gần thời điểm trong năm mà chúng ta cần bắt đầu lập kế hoạch cho chuỗi Theater in the Park cho mùa hè.",
+      "listeningKeywords": [
+        "close",
+        "begin",
+        "planning",
+        "Theater in the Park"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "close",
+          "vi": "gần"
+        },
+        {
+          "en": "begin",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "planning",
+          "vi": "kế hoạch"
+        },
+        {
+          "en": "Theater in the Park",
+          "vi": "Theater in the Park"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u01-k1",
+          "en": "close",
+          "vi": [
+            "gần"
+          ],
+          "start": 6.72,
+          "end": 7.08,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u01-k2",
+          "en": "begin",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 8.7,
+          "end": 9.03,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u01-k3",
+          "en": "planning",
+          "vi": [
+            "kế hoạch"
+          ],
+          "start": 9.03,
+          "end": 9.39,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u01-k4",
+          "en": "Theater in the Park",
+          "vi": [
+            "Theater in the Park"
+          ],
+          "start": 9.51,
+          "end": 10.35,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u02",
+      "speaker": "W",
+      "text": "We have lots of decisions to make about shows, dates, and performers.",
+      "start": 12.15,
+      "end": 16.05,
+      "clipSrc": "../../audio-sentences/t2-35-s02.mp3",
+      "clipSourceStart": 12.07,
+      "vi": "Chúng ta có rất nhiều quyết định phải đưa ra về các buổi biểu diễn, ngày tháng, và người biểu diễn.",
+      "listeningKeywords": [
+        "decisions",
+        "shows",
+        "dates",
+        "performers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "decisions",
+          "vi": "quyết định"
+        },
+        {
+          "en": "shows",
+          "vi": "buổi biểu diễn"
+        },
+        {
+          "en": "dates",
+          "vi": "ngày tháng"
+        },
+        {
+          "en": "performers",
+          "vi": "người biểu diễn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u02-k1",
+          "en": "decisions",
+          "vi": [
+            "quyết định"
+          ],
+          "start": 12.96,
+          "end": 13.5,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u02-k2",
+          "en": "shows",
+          "vi": [
+            "buổi biểu diễn"
+          ],
+          "start": 14.1,
+          "end": 14.605901,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u02-k3",
+          "en": "dates",
+          "vi": [
+            "ngày tháng"
+          ],
+          "start": 14.64,
+          "end": 15.09,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u02-k4",
+          "en": "performers",
+          "vi": [
+            "người biểu diễn"
+          ],
+          "start": 15.39,
+          "end": 16.05,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u03",
+      "speaker": "M",
+      "text": "You're right. I'll set up a meeting for this month.",
+      "start": 16.59,
+      "end": 19.47,
+      "clipSrc": "../../audio-sentences/t2-35-meaning-03.mp3",
+      "clipSourceStart": 16.51,
+      "vi": "Đúng vậy. Tôi sẽ sắp xếp một cuộc họp cho tháng này.",
+      "listeningKeywords": [
+        "set",
+        "meeting"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "set",
+          "vi": "sắp xếp"
+        },
+        {
+          "en": "meeting",
+          "vi": "cuộc họp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u03-k1",
+          "en": "set",
+          "vi": [
+            "sắp xếp"
+          ],
+          "start": 17.94,
+          "end": 18.18,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u03-k2",
+          "en": "meeting",
+          "vi": [
+            "cuộc họp"
+          ],
+          "start": 18.33,
+          "end": 18.69,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u04",
+      "speaker": "M",
+      "text": "You know, I had an idea.",
+      "start": 19.92,
+      "end": 21.69,
+      "clipSrc": "../../audio-sentences/t2-35-s05.mp3",
+      "clipSourceStart": 19.84,
+      "vi": "Bạn biết đấy, tôi có một ý tưởng.",
+      "listeningKeywords": [
+        "know",
+        "idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        },
+        {
+          "en": "idea",
+          "vi": "ý tưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u04-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 20.1,
+          "end": 20.4,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u04-k2",
+          "en": "idea",
+          "vi": [
+            "ý tưởng"
+          ],
+          "start": 21.152494,
+          "end": 21.69,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u05",
+      "speaker": "M",
+      "text": "Why don't we invite community residents to volunteer to help with building sets, painting, and setting up the stage?",
+      "start": 22.29,
+      "end": 28.17,
+      "clipSrc": "../../audio-sentences/t2-35-s06.mp3",
+      "clipSourceStart": 22.21,
+      "vi": "Tại sao chúng ta không mời cư dân cộng đồng tình nguyện giúp đỡ xây dựng bối cảnh, sơn phết, và thiết lập sân khấu?",
+      "listeningKeywords": [
+        "don't",
+        "invite community residents",
+        "building",
+        "setting up the stage"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "invite community residents",
+          "vi": "cư dân"
+        },
+        {
+          "en": "building",
+          "vi": "xây dựng"
+        },
+        {
+          "en": "setting up the stage",
+          "vi": "thiết lập"
+        },
+        {
+          "en": "setting up the stage",
+          "vi": "sân khấu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u05-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 22.53,
+          "end": 22.68,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u05-k2",
+          "en": "invite community residents",
+          "vi": [
+            "cư dân"
+          ],
+          "start": 22.86,
+          "end": 24.21,
+          "anchorSource": "t2-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u05-k3",
+          "en": "building",
+          "vi": [
+            "xây dựng"
+          ],
+          "start": 25.44,
+          "end": 25.74,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u05-k4",
+          "en": "setting up the stage",
+          "vi": [
+            "thiết lập",
+            "sân khấu"
+          ],
+          "start": 27.0,
+          "end": 28.17,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u06",
+      "speaker": "W",
+      "text": "We could, but I don't know if we'll be able to use volunteers this year.",
+      "start": 28.32,
+      "end": 32.58,
+      "clipSrc": "../../audio-sentences/t2-35-s07.mp3",
+      "clipSourceStart": 28.24,
+      "vi": "Chúng ta có thể, nhưng tôi không biết liệu chúng ta có thể sử dụng tình nguyện viên năm nay không.",
+      "listeningKeywords": [
+        "don't",
+        "use",
+        "volunteers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u06-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 30.03,
+          "end": 30.33,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u06-k2",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 31.23,
+          "end": 31.44,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u06-k3",
+          "en": "volunteers",
+          "vi": [],
+          "start": 31.44,
+          "end": 32.01,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u07",
+      "speaker": "W",
+      "text": "We'll need approval to start that kind of program.",
+      "start": 33.12,
+      "end": 35.43,
+      "clipSrc": "../../audio-sentences/t2-35-s08.mp3",
+      "clipSourceStart": 33.04,
+      "vi": "Chúng ta sẽ cần sự phê duyệt để bắt đầu loại chương trình đó.",
+      "listeningKeywords": [
+        "approval",
+        "start",
+        "kind",
+        "program"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "approval",
+          "vi": "sự phê duyệt"
+        },
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u07-k1",
+          "en": "approval",
+          "vi": [
+            "sự phê duyệt"
+          ],
+          "start": 33.54,
+          "end": 33.96,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u07-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 34.08,
+          "end": 34.38,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u07-k3",
+          "en": "kind",
+          "vi": [],
+          "start": 34.59,
+          "end": 34.83,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-35-u07-k4",
+          "en": "program",
+          "vi": [],
+          "start": 34.89,
+          "end": 35.43,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-35-u08",
+      "speaker": "W",
+      "text": "It'll take time. Let's check into that for next year.",
+      "start": 36.06,
+      "end": 39.33,
+      "clipSrc": "../../audio-sentences/t2-35-meaning-08.mp3",
+      "clipSourceStart": 35.98,
+      "vi": "Nó sẽ mất thời gian. Hãy kiểm tra điều đó cho năm sau.",
+      "listeningKeywords": [
+        "check"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-35-u08-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 37.86,
+          "end": 38.13,
+          "anchorSource": "t2-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

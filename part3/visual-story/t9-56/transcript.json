@@ -1,0 +1,482 @@
+{
+  "conversationId": "t9-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-56-u01",
+      "speaker": "M",
+      "text": "Thanks for joining my podcast, Bianca.",
+      "start": 5.97,
+      "end": 8.28,
+      "clipSrc": "../../audio-sentences/t9-56-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Cảm ơn bạn đã tham gia podcast của tôi, Bianca.",
+      "listeningKeywords": [
+        "joining",
+        "podcast",
+        "Bianca"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "joining",
+          "vi": "tham gia"
+        },
+        {
+          "en": "podcast",
+          "vi": "podcast"
+        },
+        {
+          "en": "Bianca",
+          "vi": "Bianca"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u01-k1",
+          "en": "joining",
+          "vi": [
+            "tham gia"
+          ],
+          "start": 6.48,
+          "end": 6.84,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u01-k2",
+          "en": "podcast",
+          "vi": [
+            "podcast"
+          ],
+          "start": 7.02,
+          "end": 7.71,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u01-k3",
+          "en": "Bianca",
+          "vi": [
+            "Bianca"
+          ],
+          "start": 7.71,
+          "end": 8.28,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u02",
+      "speaker": "M",
+      "text": "I'm enjoying your unique cookbook, which takes traditional dishes from around the world and adds unusual ingredients—which gives them a contemporary flair.",
+      "start": 8.67,
+      "end": 17.55,
+      "clipSrc": "../../audio-sentences/t9-56-s02.mp3",
+      "clipSourceStart": 8.59,
+      "vi": "Tôi đang rất thích cuốn sách nấu ăn độc đáo của bạn, nơi bạn biến tấu các món ăn truyền thống từ khắp nơi trên thế giới bằng những nguyên liệu khác lạ—điều này tạo nên phong cách hiện đại cho chúng.",
+      "listeningKeywords": [
+        "enjoying",
+        "cookbook",
+        "dishes",
+        "adds unusual ingredients"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "enjoying",
+          "vi": "thích"
+        },
+        {
+          "en": "cookbook",
+          "vi": "sách nấu ăn"
+        },
+        {
+          "en": "dishes",
+          "vi": "món ăn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u02-k1",
+          "en": "enjoying",
+          "vi": [
+            "thích"
+          ],
+          "start": 8.91,
+          "end": 9.36,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u02-k2",
+          "en": "cookbook",
+          "vi": [
+            "sách nấu ăn"
+          ],
+          "start": 9.96,
+          "end": 10.53,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u02-k3",
+          "en": "dishes",
+          "vi": [
+            "món ăn"
+          ],
+          "start": 11.7,
+          "end": 12.15,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u03",
+      "speaker": "M",
+      "text": "What's your inspiration?",
+      "start": 18.18,
+      "end": 19.56,
+      "clipSrc": "../../audio-sentences/t9-56-s03.mp3",
+      "clipSourceStart": 18.1,
+      "vi": "Cảm hứng của bạn đến từ đâu?",
+      "listeningKeywords": [
+        "inspiration"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "inspiration",
+          "vi": "Cảm hứng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u03-k1",
+          "en": "inspiration",
+          "vi": [
+            "Cảm hứng"
+          ],
+          "start": 18.72,
+          "end": 19.56,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u04",
+      "speaker": "W",
+      "text": "Well, after finishing university, I was looking for a way to combine my knowledge of history that I learned there with cooking.",
+      "start": 20.01,
+      "end": 27.09,
+      "clipSrc": "../../audio-sentences/t9-56-s04.mp3",
+      "clipSourceStart": 19.93,
+      "vi": "Sau khi tốt nghiệp đại học, tôi muốn tìm một cách kết hợp kiến thức lịch sử mà tôi học được với việc nấu ăn.",
+      "listeningKeywords": [
+        "finishing",
+        "looking",
+        "combine",
+        "knowledge"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u04-k1",
+          "en": "finishing",
+          "vi": [],
+          "start": 20.79,
+          "end": 21.21,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u04-k2",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 22.68,
+          "end": 23.04,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u04-k3",
+          "en": "combine",
+          "vi": [],
+          "start": 23.61,
+          "end": 24.03,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u04-k4",
+          "en": "knowledge",
+          "vi": [],
+          "start": 24.18,
+          "end": 24.57,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u05",
+      "speaker": "W",
+      "text": "So I decided to attend culinary school.",
+      "start": 27.48,
+      "end": 29.85,
+      "clipSrc": "../../audio-sentences/t9-56-s05.mp3",
+      "clipSourceStart": 27.4,
+      "vi": "Vì vậy tôi đã quyết định theo học trường dạy nấu ăn.",
+      "listeningKeywords": [
+        "decided",
+        "attend",
+        "culinary school"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "decided",
+          "vi": "quyết định"
+        },
+        {
+          "en": "attend",
+          "vi": "theo học"
+        },
+        {
+          "en": "culinary school",
+          "vi": "trường dạy nấu ăn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u05-k1",
+          "en": "decided",
+          "vi": [
+            "quyết định"
+          ],
+          "start": 27.84,
+          "end": 28.35,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u05-k2",
+          "en": "attend",
+          "vi": [
+            "theo học"
+          ],
+          "start": 28.5,
+          "end": 28.86,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u06",
+      "speaker": "M",
+      "text": "I also noticed that you provide the recipes in a variety of other languages.",
+      "start": 30.33,
+      "end": 34.44,
+      "clipSrc": "../../audio-sentences/t9-56-s06.mp3",
+      "clipSourceStart": 30.25,
+      "vi": "Tôi cũng nhận thấy bạn cung cấp công thức bằng nhiều ngôn ngữ khác nhau.",
+      "listeningKeywords": [
+        "provide",
+        "recipes",
+        "variety",
+        "languages"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "provide",
+          "vi": "cung cấp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u06-k1",
+          "en": "provide",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 31.59,
+          "end": 31.98,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u06-k2",
+          "en": "recipes",
+          "vi": [],
+          "start": 32.07,
+          "end": 32.67,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u06-k3",
+          "en": "variety",
+          "vi": [],
+          "start": 32.82,
+          "end": 33.39,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u06-k4",
+          "en": "languages",
+          "vi": [],
+          "start": 33.69,
+          "end": 34.44,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u07",
+      "speaker": "M",
+      "text": "That's a nice touch that many readers will appreciate.",
+      "start": 34.86,
+      "end": 37.92,
+      "clipSrc": "../../audio-sentences/t9-56-s07.mp3",
+      "clipSourceStart": 34.78,
+      "vi": "Đây là một chi tiết hay mà nhiều độc giả sẽ đánh giá cao.",
+      "listeningKeywords": [
+        "nice touch",
+        "readers",
+        "appreciate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "readers",
+          "vi": "độc giả"
+        },
+        {
+          "en": "appreciate",
+          "vi": "đánh giá cao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u07-k1",
+          "en": "nice touch",
+          "vi": [],
+          "start": 35.25,
+          "end": 36.09,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u07-k2",
+          "en": "readers",
+          "vi": [
+            "độc giả"
+          ],
+          "start": 36.63,
+          "end": 37.02,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u07-k3",
+          "en": "appreciate",
+          "vi": [
+            "đánh giá cao"
+          ],
+          "start": 37.23,
+          "end": 37.92,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-56-u08",
+      "speaker": "M",
+      "text": "Is it based on where the dish originated?",
+      "start": 38.43,
+      "end": 40.8,
+      "clipSrc": "../../audio-sentences/t9-56-s08.mp3",
+      "clipSourceStart": 38.35,
+      "vi": "Điều này có dựa trên nơi món ăn đó xuất xứ không?",
+      "listeningKeywords": [
+        "based",
+        "dish"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "dish",
+          "vi": "món ăn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-56-u08-k1",
+          "en": "based",
+          "vi": [],
+          "start": 38.82,
+          "end": 39.21,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-56-u08-k2",
+          "en": "dish",
+          "vi": [
+            "món ăn"
+          ],
+          "start": 39.78,
+          "end": 40.11,
+          "anchorSource": "t9-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

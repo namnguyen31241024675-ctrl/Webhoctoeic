@@ -1,0 +1,365 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t1-32",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T01-32-34.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.03,
+    "dialogueEnd": 35.52
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Hai đồng nghiệp xem báo cáo và trao đổi về phô mai cheddar cay trong văn phòng.",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Hai đồng nghiệp xem báo cáo phản hồi tích cực bên mẫu phô mai.",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa ý tưởng dùng phô mai trong công thức nấu ăn và nước sốt.",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Người đàn ông đề xuất phô mai bào sợi trong khi đồng nghiệp lắng nghe.",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-5",
+      "src": "images/scene-05.png",
+      "alt": "Người phụ nữ gọi điện và ghi chú, minh họa việc liên hệ quản lý sản xuất.",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.03,
+      "end": 12.09,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "report",
+          "vocabularyId": "focus-results",
+          "label": "focus group results",
+          "x": 0.64,
+          "y": 0.6,
+          "width": 0.2,
+          "height": 0.19
+        },
+        {
+          "id": "cheese",
+          "vocabularyId": "spicy-cheddar",
+          "label": "spicy cheddar cheese",
+          "x": 0.29,
+          "y": 0.76,
+          "width": 0.17,
+          "height": 0.16
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 12.09,
+      "end": 18.66,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "feedback",
+          "vocabularyId": "focus-results",
+          "label": "focus group results",
+          "x": 0.32,
+          "y": 0.69,
+          "width": 0.3,
+          "height": 0.23
+        },
+        {
+          "id": "sample",
+          "vocabularyId": "spicy-cheddar",
+          "label": "spicy cheddar cheese",
+          "x": 0.74,
+          "y": 0.71,
+          "width": 0.15,
+          "height": 0.14
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 18.66,
+      "end": 24.84,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "sauce",
+          "vocabularyId": "sauces",
+          "label": "sauces",
+          "x": 0.28,
+          "y": 0.55,
+          "width": 0.19,
+          "height": 0.17
+        },
+        {
+          "id": "recipe",
+          "vocabularyId": "recipes",
+          "label": "recipes",
+          "x": 0.57,
+          "y": 0.21,
+          "width": 0.33,
+          "height": 0.17
+        },
+        {
+          "id": "melting",
+          "vocabularyId": "melt",
+          "label": "melt",
+          "x": 0.49,
+          "y": 0.59,
+          "width": 0.12,
+          "height": 0.13
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 24.84,
+      "end": 30.15,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "shreds",
+          "vocabularyId": "shredded",
+          "label": "shredded version",
+          "x": 0.38,
+          "y": 0.7,
+          "width": 0.19,
+          "height": 0.15
+        },
+        {
+          "id": "cheddar",
+          "vocabularyId": "spicy-cheddar",
+          "label": "spicy cheddar cheese",
+          "x": 0.22,
+          "y": 0.78,
+          "width": 0.13,
+          "height": 0.14
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "imageId": "photo-5",
+      "start": 30.15,
+      "end": 35.52,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "phone",
+          "vocabularyId": "contact",
+          "label": "get in touch",
+          "x": 0.724,
+          "y": 0.28,
+          "width": 0.045,
+          "height": 0.2
+        },
+        {
+          "id": "notes",
+          "vocabularyId": "request",
+          "label": "request",
+          "x": 0.61,
+          "y": 0.75,
+          "width": 0.22,
+          "height": 0.11
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "focus-results",
+      "en": "focus group results",
+      "vi": "kết quả khảo sát nhóm khách hàng thử nghiệm",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "spicy-cheddar",
+      "en": "spicy cheddar cheese",
+      "vi": "phô mai cheddar vị cay",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "recipes",
+      "en": "recipes",
+      "vi": "công thức nấu ăn",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "sauces",
+      "en": "sauces",
+      "vi": "nước sốt",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "melt",
+      "en": "melt",
+      "vi": "tan chảy",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "shredded",
+      "en": "shredded version",
+      "vi": "phiên bản dạng bào sợi",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "contact",
+      "en": "get in touch",
+      "vi": "liên hệ",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "request",
+      "en": "request",
+      "vi": "yêu cầu; đề nghị",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": []
+}

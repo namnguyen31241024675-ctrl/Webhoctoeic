@@ -1,0 +1,587 @@
+{
+  "conversationId": "t4-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-38-u01",
+      "speaker": "M",
+      "text": "This morning I got an e-mail from Pelicon, a local producer of beauty products.",
+      "start": 5.52,
+      "end": 10.53,
+      "clipSrc": "../../audio-sentences/t4-38-s01.mp3",
+      "clipSourceStart": 5.44,
+      "vi": "Sáng nay tôi nhận được email từ Pelicon, một nhà sản xuất sản phẩm làm đẹp địa phương.",
+      "listeningKeywords": [
+        "mail",
+        "Pelicon",
+        "local producer",
+        "beauty products"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mail",
+          "vi": "email"
+        },
+        {
+          "en": "Pelicon",
+          "vi": "Pelicon"
+        },
+        {
+          "en": "beauty products",
+          "vi": "sản phẩm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u01-k1",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 6.99,
+          "end": 7.29,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u01-k2",
+          "en": "local producer",
+          "vi": [],
+          "start": 8.52,
+          "end": 9.45,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u01-k3",
+          "en": "beauty products",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 9.547965,
+          "end": 10.53,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u02",
+      "speaker": "M",
+      "text": "They're interested in purchasing lanolin from us to use in their new line of all-natural makeup.",
+      "start": 11.04,
+      "end": 16.23,
+      "clipSrc": "../../audio-sentences/t4-38-s02.mp3",
+      "clipSourceStart": 10.96,
+      "vi": "Họ quan tâm đến việc mua lanolin từ chúng ta để sử dụng trong dòng trang điểm tự nhiên hoàn toàn mới.",
+      "listeningKeywords": [
+        "purchasing",
+        "lanolin",
+        "use",
+        "natural makeup"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchasing",
+          "vi": "mua"
+        },
+        {
+          "en": "lanolin",
+          "vi": "lanolin"
+        },
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u02-k1",
+          "en": "purchasing",
+          "vi": [
+            "mua"
+          ],
+          "start": 12.06,
+          "end": 12.66,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u02-k2",
+          "en": "lanolin",
+          "vi": [
+            "lanolin"
+          ],
+          "start": 12.66,
+          "end": 13.2,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u02-k3",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 13.83,
+          "end": 14.13,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u02-k4",
+          "en": "natural makeup",
+          "vi": [],
+          "start": 15.33,
+          "end": 16.23,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u03",
+      "speaker": "W",
+      "text": "I'm not sure about that.",
+      "start": 16.77,
+      "end": 18.39,
+      "clipSrc": "../../audio-sentences/t4-38-s03.mp3",
+      "clipSourceStart": 16.69,
+      "vi": "Tôi không chắc về điều đó.",
+      "listeningKeywords": [
+        "not"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u03-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 17.13,
+          "end": 17.37,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u04",
+      "speaker": "W",
+      "text": "We're a fairly small farm, and we already sell lanolin to another local business.",
+      "start": 18.66,
+      "end": 22.95,
+      "clipSrc": "../../audio-sentences/t4-38-s04.mp3",
+      "clipSourceStart": 18.58,
+      "vi": "Chúng ta là một trang trại khá nhỏ, và chúng ta đã bán lanolin cho một doanh nghiệp địa phương khác.",
+      "listeningKeywords": [
+        "farm",
+        "sell",
+        "lanolin",
+        "local business"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sell",
+          "vi": "bán"
+        },
+        {
+          "en": "lanolin",
+          "vi": "lanolin"
+        },
+        {
+          "en": "local business",
+          "vi": "doanh nghiệp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u04-k1",
+          "en": "farm",
+          "vi": [],
+          "start": 19.62,
+          "end": 20.07,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u04-k2",
+          "en": "sell",
+          "vi": [
+            "bán"
+          ],
+          "start": 20.76,
+          "end": 21.0,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u04-k3",
+          "en": "lanolin",
+          "vi": [
+            "lanolin"
+          ],
+          "start": 21.0,
+          "end": 21.51,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u04-k4",
+          "en": "local business",
+          "vi": [
+            "doanh nghiệp"
+          ],
+          "start": 22.05,
+          "end": 22.95,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u05",
+      "speaker": "W",
+      "text": "I'm worried that we don't produce enough lanolin to meet the demand of another client.",
+      "start": 23.34,
+      "end": 27.51,
+      "clipSrc": "../../audio-sentences/t4-38-s05.mp3",
+      "clipSourceStart": 23.26,
+      "vi": "Tôi lo rằng chúng ta không sản xuất đủ lanolin để đáp ứng nhu cầu của một khách hàng khác.",
+      "listeningKeywords": [
+        "don't",
+        "lanolin",
+        "meet",
+        "demand"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "lanolin",
+          "vi": "lanolin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u05-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 24.18,
+          "end": 24.39,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u05-k2",
+          "en": "lanolin",
+          "vi": [
+            "lanolin"
+          ],
+          "start": 25.2,
+          "end": 25.74,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u05-k3",
+          "en": "meet",
+          "vi": [],
+          "start": 25.92,
+          "end": 26.16,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u05-k4",
+          "en": "demand",
+          "vi": [],
+          "start": 26.25,
+          "end": 26.64,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u06",
+      "speaker": "W",
+      "text": "I don't want to expand and take on more wool production.",
+      "start": 28.02,
+      "end": 30.72,
+      "clipSrc": "../../audio-sentences/t4-38-s06.mp3",
+      "clipSourceStart": 27.94,
+      "vi": "Tôi không muốn mở rộng và đảm nhận sản xuất len nhiều hơn.",
+      "listeningKeywords": [
+        "don't",
+        "expand",
+        "wool production"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "expand",
+          "vi": "mở rộng"
+        },
+        {
+          "en": "wool production",
+          "vi": "sản xuất len"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u06-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 28.17,
+          "end": 28.44,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u06-k2",
+          "en": "expand",
+          "vi": [
+            "mở rộng"
+          ],
+          "start": 28.71,
+          "end": 29.19,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u06-k3",
+          "en": "wool production",
+          "vi": [
+            "sản xuất len"
+          ],
+          "start": 29.82,
+          "end": 30.72,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u07",
+      "speaker": "M",
+      "text": "But our contract with the business we currently supply lanolin to has almost expired—there's no guarantee it will be renewed.",
+      "start": 31.26,
+      "end": 39.12,
+      "clipSrc": "../../audio-sentences/t4-38-s07.mp3",
+      "clipSourceStart": 31.18,
+      "vi": "Nhưng hợp đồng của chúng ta với doanh nghiệp mà chúng ta hiện đang cung cấp lanolin sắp hết hạn—không có gì đảm bảo sẽ được gia hạn.",
+      "listeningKeywords": [
+        "lanolin",
+        "almost expired",
+        "guarantee",
+        "renewed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "lanolin",
+          "vi": "lanolin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u07-k1",
+          "en": "lanolin",
+          "vi": [
+            "lanolin"
+          ],
+          "start": 34.47,
+          "end": 35.01,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u07-k2",
+          "en": "almost expired",
+          "vi": [],
+          "start": 35.58,
+          "end": 36.81,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u07-k3",
+          "en": "guarantee",
+          "vi": [],
+          "start": 37.5,
+          "end": 38.1,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u07-k4",
+          "en": "renewed",
+          "vi": [],
+          "start": 38.52,
+          "end": 39.12,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u08",
+      "speaker": "M",
+      "text": "I think you should at least read Pelicon's proposal.",
+      "start": 39.54,
+      "end": 42.57,
+      "clipSrc": "../../audio-sentences/t4-38-s08.mp3",
+      "clipSourceStart": 39.46,
+      "vi": "Tôi nghĩ bạn nên ít nhất đọc đề xuất của Pelicon.",
+      "listeningKeywords": [
+        "least",
+        "read",
+        "proposal"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "read",
+          "vi": "đọc"
+        },
+        {
+          "en": "proposal",
+          "vi": "đề xuất"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u08-k1",
+          "en": "least",
+          "vi": [],
+          "start": 40.56,
+          "end": 40.92,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u08-k2",
+          "en": "read",
+          "vi": [
+            "đọc"
+          ],
+          "start": 40.92,
+          "end": 41.25,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u08-k3",
+          "en": "proposal",
+          "vi": [
+            "đề xuất"
+          ],
+          "start": 41.91,
+          "end": 42.57,
+          "anchorSource": "t4-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-38-u09",
+      "speaker": "W",
+      "text": "Sure. Can you forward me the e-mail?",
+      "start": 42.87,
+      "end": 45.06,
+      "clipSrc": "../../audio-sentences/t4-38-meaning-09.mp3",
+      "clipSourceStart": 42.79,
+      "vi": "Được rồi. Bạn có thể chuyển email cho tôi không?",
+      "listeningKeywords": [
+        "forward",
+        "mail"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mail",
+          "vi": "email"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-38-u09-k1",
+          "en": "forward",
+          "vi": [],
+          "start": 44.04,
+          "end": 44.37,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-38-u09-k2",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 44.73,
+          "end": 45.06,
+          "anchorSource": "t4-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t5-53",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T05-53-55.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 7.26,
+    "dialogueEnd": 43.2
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: bridge — cây cầu",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: timeline — tiến độ",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: competitor — đối thủ cạnh tranh",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa cảnh 4: research — tìm hiểu; nghiên cứu",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 7.26,
+      "end": 15.57,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "bridge",
+          "x": 0.35,
+          "y": 0.6,
+          "width": 0.6,
+          "height": 0.35,
+          "utteranceIds": [
+            "t5-53-u01"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 15.57,
+      "end": 27.12,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "timeline",
+          "x": 0.4,
+          "y": 0.63,
+          "width": 0.47,
+          "height": 0.3,
+          "utteranceIds": [
+            "t5-53-u04"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 27.12,
+      "end": 32.79,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "competitor",
+          "x": 0.65,
+          "y": 0.45,
+          "width": 0.33,
+          "height": 0.45,
+          "utteranceIds": [
+            "t5-53-u05"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 32.79,
+      "end": 43.2,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "research",
+          "x": 0.53,
+          "y": 0.4,
+          "width": 0.4,
+          "height": 0.5,
+          "utteranceIds": [
+            "t5-53-u08"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "M2",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "bridge",
+      "vi": "cây cầu",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "timeline",
+      "vi": "tiến độ",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "competitor",
+      "vi": "đối thủ cạnh tranh",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "research",
+      "vi": "tìm hiểu; nghiên cứu",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": [],
+  "speakers": [
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.044999999999999984,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M1",
+      "label": "Người nam 1",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.37,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M2",
+      "label": "Người nam 2",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.7050000000000001,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    }
+  ],
+  "speakerHighlightMethod": "Explicit per-photo cast regions; off-screen speakers are indicated in the speaker strip, never assigned to another visible person."
+}

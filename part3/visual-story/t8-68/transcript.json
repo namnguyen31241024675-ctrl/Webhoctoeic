@@ -1,0 +1,614 @@
+{
+  "conversationId": "t8-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      19,
+      20
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-68-u01",
+      "speaker": "W",
+      "text": "Welcome to the team.",
+      "start": 7.02,
+      "end": 8.25,
+      "clipSrc": "../../audio-sentences/t8-68-s01.mp3",
+      "clipSourceStart": 6.94,
+      "vi": "Chào mừng đến với đội.",
+      "listeningKeywords": [
+        "team"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "team",
+          "vi": "đội"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u01-k1",
+          "en": "team",
+          "vi": [
+            "đội"
+          ],
+          "start": 7.71,
+          "end": 8.25,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u02",
+      "speaker": "W",
+      "text": "I hear you have a lot of experience designing software.",
+      "start": 8.79,
+      "end": 11.79,
+      "clipSrc": "../../audio-sentences/t8-68-s02.mp3",
+      "clipSourceStart": 8.71,
+      "vi": "Tôi nghe anh có nhiều kinh nghiệm thiết kế phần mềm.",
+      "listeningKeywords": [
+        "experience",
+        "designing",
+        "software"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "experience",
+          "vi": "kinh nghiệm"
+        },
+        {
+          "en": "designing",
+          "vi": "thiết kế"
+        },
+        {
+          "en": "software",
+          "vi": "phần mềm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u02-k1",
+          "en": "experience",
+          "vi": [
+            "kinh nghiệm"
+          ],
+          "start": 10.08,
+          "end": 10.74,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u02-k2",
+          "en": "designing",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 10.74,
+          "end": 11.19,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u02-k3",
+          "en": "software",
+          "vi": [
+            "phần mềm"
+          ],
+          "start": 11.19,
+          "end": 11.79,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u03",
+      "speaker": "W",
+      "text": "We need some new ideas for our business software package we're developing.",
+      "start": 12.21,
+      "end": 15.57,
+      "clipSrc": "../../audio-sentences/t8-68-s03.mp3",
+      "clipSourceStart": 12.13,
+      "vi": "Chúng tôi cần một số ý tưởng mới cho gói phần mềm kinh doanh mà chúng tôi đang phát triển.",
+      "listeningKeywords": [
+        "need",
+        "ideas",
+        "software",
+        "developing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "ideas",
+          "vi": "ý tưởng"
+        },
+        {
+          "en": "software",
+          "vi": "phần mềm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u03-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 12.42,
+          "end": 12.66,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u03-k2",
+          "en": "ideas",
+          "vi": [
+            "ý tưởng"
+          ],
+          "start": 13.02,
+          "end": 13.47,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u03-k3",
+          "en": "software",
+          "vi": [
+            "phần mềm"
+          ],
+          "start": 14.1,
+          "end": 14.43,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u03-k4",
+          "en": "developing",
+          "vi": [],
+          "start": 14.97,
+          "end": 15.57,
+          "anchorSource": "t8-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u04",
+      "speaker": "M",
+      "text": "Thanks. I also help set up for the sales presentations.",
+      "start": 16.11,
+      "end": 19.77,
+      "clipSrc": "../../audio-sentences/t8-68-s04.mp3",
+      "clipSourceStart": 16.03,
+      "vi": "Cảm ơn. Tôi cũng giúp thiết lập cho các buổi trình bày bán hàng.",
+      "listeningKeywords": [
+        "set",
+        "sales presentations"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "set",
+          "vi": "thiết lập"
+        },
+        {
+          "en": "sales presentations",
+          "vi": "trình bày"
+        },
+        {
+          "en": "sales presentations",
+          "vi": "bán hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u04-k1",
+          "en": "set",
+          "vi": [
+            "thiết lập"
+          ],
+          "start": 17.82,
+          "end": 18.09,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u04-k2",
+          "en": "sales presentations",
+          "vi": [
+            "trình bày",
+            "bán hàng"
+          ],
+          "start": 18.48,
+          "end": 19.77,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u05",
+      "speaker": "M",
+      "text": "I just fixed a problem with the sound equipment in the conference room.",
+      "start": 20.22,
+      "end": 23.7,
+      "clipSrc": "../../audio-sentences/t8-68-s05.mp3",
+      "clipSourceStart": 20.14,
+      "vi": "Tôi vừa sửa vấn đề với thiết bị âm thanh trong phòng hội nghị.",
+      "listeningKeywords": [
+        "fixed",
+        "problem",
+        "sound equipment",
+        "conference room"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fixed",
+          "vi": "sửa"
+        },
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        },
+        {
+          "en": "sound equipment",
+          "vi": "thiết bị âm thanh"
+        },
+        {
+          "en": "conference room",
+          "vi": "hội nghị"
+        },
+        {
+          "en": "conference room",
+          "vi": "phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u05-k1",
+          "en": "fixed",
+          "vi": [
+            "sửa"
+          ],
+          "start": 20.73,
+          "end": 21.21,
+          "anchorSource": "t8-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u05-k2",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 21.268528,
+          "end": 21.72,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u05-k3",
+          "en": "sound equipment",
+          "vi": [
+            "thiết bị âm thanh"
+          ],
+          "start": 21.96,
+          "end": 22.74,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u05-k4",
+          "en": "conference room",
+          "vi": [
+            "hội nghị",
+            "phòng"
+          ],
+          "start": 22.95,
+          "end": 23.7,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u06",
+      "speaker": "M",
+      "text": "By the way, you're in sales, right? Aren't you presenting to a new client next week?",
+      "start": 24.36,
+      "end": 29.25,
+      "clipSrc": "../../audio-sentences/t8-68-s06.mp3",
+      "clipSourceStart": 24.28,
+      "vi": "Nhân tiện, anh ở bộ phận bán hàng phải không? Tuần tới anh không trình bày cho khách hàng mới sao?",
+      "listeningKeywords": [
+        "sales",
+        "Aren't",
+        "presenting",
+        "client"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sales",
+          "vi": "bán hàng"
+        },
+        {
+          "en": "Aren't",
+          "vi": "không"
+        },
+        {
+          "en": "Aren't",
+          "vi": "không"
+        },
+        {
+          "en": "presenting",
+          "vi": "trình bày"
+        },
+        {
+          "en": "client",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u06-k1",
+          "en": "sales",
+          "vi": [
+            "bán hàng"
+          ],
+          "start": 25.53,
+          "end": 26.04,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u06-k2",
+          "en": "Aren't",
+          "vi": [
+            "không"
+          ],
+          "start": 26.91,
+          "end": 27.12,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u06-k3",
+          "en": "presenting",
+          "vi": [
+            "trình bày"
+          ],
+          "start": 27.27,
+          "end": 27.78,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u06-k4",
+          "en": "client",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 28.2,
+          "end": 28.62,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u07",
+      "speaker": "W",
+      "text": "Yes, I love sales.",
+      "start": 29.58,
+      "end": 31.11,
+      "clipSrc": "../../audio-sentences/t8-68-s07.mp3",
+      "clipSourceStart": 29.5,
+      "vi": "Vâng, tôi yêu bán hàng.",
+      "listeningKeywords": [
+        "love sales"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "love sales",
+          "vi": "bán hàng"
+        },
+        {
+          "en": "love sales",
+          "vi": "yêu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u07-k1",
+          "en": "love sales",
+          "vi": [
+            "bán hàng",
+            "yêu"
+          ],
+          "start": 30.33,
+          "end": 31.11,
+          "anchorSource": "t8-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u08",
+      "speaker": "W",
+      "text": "But I especially like the step where we're getting a lot of questions from clients.",
+      "start": 31.44,
+      "end": 35.22,
+      "clipSrc": "../../audio-sentences/t8-68-s08.mp3",
+      "clipSourceStart": 31.36,
+      "vi": "Nhưng tôi đặc biệt thích bước mà chúng tôi nhận được nhiều câu hỏi từ khách hàng.",
+      "listeningKeywords": [
+        "step",
+        "getting",
+        "questions",
+        "clients"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "getting",
+          "vi": "nhận"
+        },
+        {
+          "en": "questions",
+          "vi": "câu hỏi"
+        },
+        {
+          "en": "clients",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u08-k1",
+          "en": "step",
+          "vi": [],
+          "start": 32.67,
+          "end": 33.06,
+          "anchorSource": "t8-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u08-k2",
+          "en": "getting",
+          "vi": [
+            "nhận"
+          ],
+          "start": 33.33,
+          "end": 33.69,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u08-k3",
+          "en": "questions",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 34.05,
+          "end": 34.53,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u08-k4",
+          "en": "clients",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 34.71,
+          "end": 35.22,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-68-u09",
+      "speaker": "W",
+      "text": "I can address doubts or objections and show them how the software really meets their needs.",
+      "start": 35.7,
+      "end": 40.71,
+      "clipSrc": "../../audio-sentences/t8-68-s09.mp3",
+      "clipSourceStart": 35.62,
+      "vi": "Tôi có thể giải quyết nghi ngờ hoặc phản đối và cho họ thấy phần mềm thực sự đáp ứng nhu cầu của họ như thế nào.",
+      "listeningKeywords": [
+        "address doubts",
+        "objections",
+        "show",
+        "software"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "software",
+          "vi": "phần mềm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-68-u09-k1",
+          "en": "address doubts",
+          "vi": [],
+          "start": 36.03,
+          "end": 36.81,
+          "anchorSource": "t8-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u09-k2",
+          "en": "objections",
+          "vi": [],
+          "start": 37.08,
+          "end": 37.77,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u09-k3",
+          "en": "show",
+          "vi": [],
+          "start": 38.28,
+          "end": 38.46,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-68-u09-k4",
+          "en": "software",
+          "vi": [
+            "phần mềm"
+          ],
+          "start": 38.91,
+          "end": 39.33,
+          "anchorSource": "t8-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

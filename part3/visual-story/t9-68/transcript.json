@@ -1,0 +1,607 @@
+{
+  "conversationId": "t9-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-68-u01",
+      "speaker": "W",
+      "text": "Hi. I'm interested in installing a new fence on my property.",
+      "start": 7.17,
+      "end": 11.16,
+      "clipSrc": "../../audio-sentences/t9-68-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Chào. Tôi muốn lắp một hàng rào mới quanh khu đất của mình.",
+      "listeningKeywords": [
+        "interested",
+        "installing",
+        "fence",
+        "property"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fence",
+          "vi": "hàng rào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u01-k1",
+          "en": "interested",
+          "vi": [],
+          "start": 8.1,
+          "end": 8.76,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u01-k2",
+          "en": "installing",
+          "vi": [],
+          "start": 8.91,
+          "end": 9.57,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u01-k3",
+          "en": "fence",
+          "vi": [
+            "hàng rào"
+          ],
+          "start": 9.84,
+          "end": 10.23,
+          "anchorSource": "t9-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u01-k4",
+          "en": "property",
+          "vi": [],
+          "start": 10.5,
+          "end": 11.16,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u02",
+      "speaker": "M",
+      "text": "You called the right place.",
+      "start": 11.55,
+      "end": 13.02,
+      "clipSrc": "../../audio-sentences/t9-68-s02.mp3",
+      "clipSourceStart": 11.47,
+      "vi": "Bạn đã gọi đúng chỗ rồi.",
+      "listeningKeywords": [
+        "called",
+        "place"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "called",
+          "vi": "gọi"
+        },
+        {
+          "en": "place",
+          "vi": "chỗ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u02-k1",
+          "en": "called",
+          "vi": [
+            "gọi"
+          ],
+          "start": 11.79,
+          "end": 12.09,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u02-k2",
+          "en": "place",
+          "vi": [
+            "chỗ"
+          ],
+          "start": 12.48,
+          "end": 13.02,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u03",
+      "speaker": "M",
+      "text": "What type of fence are you looking for?",
+      "start": 13.38,
+      "end": 15.3,
+      "clipSrc": "../../audio-sentences/t9-68-s03.mp3",
+      "clipSourceStart": 13.3,
+      "vi": "Bạn đang tìm loại hàng rào nào?",
+      "listeningKeywords": [
+        "type",
+        "fence",
+        "looking"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fence",
+          "vi": "hàng rào"
+        },
+        {
+          "en": "looking",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u03-k1",
+          "en": "type",
+          "vi": [],
+          "start": 13.65,
+          "end": 13.95,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u03-k2",
+          "en": "fence",
+          "vi": [
+            "hàng rào"
+          ],
+          "start": 14.04,
+          "end": 14.4,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u03-k3",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 14.64,
+          "end": 14.97,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u04",
+      "speaker": "W",
+      "text": "Something sturdy to put around the garden to keep animals from eating the vegetables.",
+      "start": 15.99,
+      "end": 20.46,
+      "clipSrc": "../../audio-sentences/t9-68-s04.mp3",
+      "clipSourceStart": 15.91,
+      "vi": "Một loại chắc chắn để bao quanh vườn, tránh cho động vật ăn rau.",
+      "listeningKeywords": [
+        "sturdy",
+        "put around",
+        "keep animals",
+        "vegetables"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "vegetables",
+          "vi": "rau"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u04-k1",
+          "en": "sturdy",
+          "vi": [],
+          "start": 16.53,
+          "end": 17.13,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u04-k2",
+          "en": "put around",
+          "vi": [],
+          "start": 17.28,
+          "end": 17.76,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u04-k3",
+          "en": "keep animals",
+          "vi": [],
+          "start": 18.39,
+          "end": 19.14,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u04-k4",
+          "en": "vegetables",
+          "vi": [
+            "rau"
+          ],
+          "start": 19.71,
+          "end": 20.46,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u05",
+      "speaker": "M",
+      "text": "OK. A mesh fence might work well for you.",
+      "start": 20.76,
+      "end": 23.7,
+      "clipSrc": "../../audio-sentences/t9-68-s05.mp3",
+      "clipSourceStart": 20.68,
+      "vi": "Được rồi. Hàng rào lưới có lẽ sẽ phù hợp với bạn.",
+      "listeningKeywords": [
+        "fence",
+        "work"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fence",
+          "vi": "Hàng rào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u05-k1",
+          "en": "fence",
+          "vi": [
+            "Hàng rào"
+          ],
+          "start": 22.11,
+          "end": 22.5,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u05-k2",
+          "en": "work",
+          "vi": [],
+          "start": 22.77,
+          "end": 23.04,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u06",
+      "speaker": "M",
+      "text": "In fact, right now, we have a promotion on fences.",
+      "start": 24.09,
+      "end": 26.88,
+      "clipSrc": "../../audio-sentences/t9-68-s06.mp3",
+      "clipSourceStart": 24.01,
+      "vi": "Thực ra, hiện tại chúng tôi đang có chương trình khuyến mãi cho hàng rào.",
+      "listeningKeywords": [
+        "fact",
+        "promotion",
+        "fences"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fact",
+          "vi": "Thực ra"
+        },
+        {
+          "en": "promotion",
+          "vi": "khuyến mãi"
+        },
+        {
+          "en": "fences",
+          "vi": "hàng rào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u06-k1",
+          "en": "fact",
+          "vi": [
+            "Thực ra"
+          ],
+          "start": 24.27,
+          "end": 24.6,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u06-k2",
+          "en": "promotion",
+          "vi": [
+            "khuyến mãi"
+          ],
+          "start": 25.5,
+          "end": 26.13,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u06-k3",
+          "en": "fences",
+          "vi": [
+            "hàng rào"
+          ],
+          "start": 26.31,
+          "end": 26.88,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u07",
+      "speaker": "M",
+      "text": "If you pay half the cost in advance, you'll get twenty percent off the price.",
+      "start": 27.3,
+      "end": 31.65,
+      "clipSrc": "../../audio-sentences/t9-68-s07.mp3",
+      "clipSourceStart": 27.22,
+      "vi": "Nếu bạn trả trước một nửa chi phí, bạn sẽ được giảm giá hai mươi phần trăm.",
+      "listeningKeywords": [
+        "pay",
+        "half",
+        "cost",
+        "twenty percent"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        },
+        {
+          "en": "cost",
+          "vi": "giá"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u07-k1",
+          "en": "pay",
+          "vi": [],
+          "start": 27.63,
+          "end": 27.87,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u07-k2",
+          "en": "half",
+          "vi": [],
+          "start": 27.87,
+          "end": 28.2,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u07-k3",
+          "en": "cost",
+          "vi": [
+            "chi phí",
+            "giá"
+          ],
+          "start": 28.29,
+          "end": 28.71,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u07-k4",
+          "en": "twenty percent",
+          "vi": [],
+          "start": 30.03,
+          "end": 30.81,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u08",
+      "speaker": "W",
+      "text": "Sounds great. Can you give me a cost estimate?",
+      "start": 31.8,
+      "end": 34.95,
+      "clipSrc": "../../audio-sentences/t9-68-s08.mp3",
+      "clipSourceStart": 31.72,
+      "vi": "Nghe tuyệt đấy. Bạn có thể cho tôi ước tính chi phí không?",
+      "listeningKeywords": [
+        "give",
+        "cost",
+        "estimate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "give",
+          "vi": "cho"
+        },
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u08-k1",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 33.63,
+          "end": 33.84,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u08-k2",
+          "en": "cost",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 34.02,
+          "end": 34.41,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u08-k3",
+          "en": "estimate",
+          "vi": [],
+          "start": 34.41,
+          "end": 34.95,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u09",
+      "speaker": "M",
+      "text": "Not until I take measurements.",
+      "start": 35.25,
+      "end": 37.08,
+      "clipSrc": "../../audio-sentences/t9-68-s09.mp3",
+      "clipSourceStart": 35.17,
+      "vi": "Chưa thể, cho đến khi tôi đo đạc.",
+      "listeningKeywords": [
+        "Not",
+        "take",
+        "measurements"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Not",
+          "vi": "Chưa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u09-k1",
+          "en": "Not",
+          "vi": [
+            "Chưa"
+          ],
+          "start": 35.25,
+          "end": 35.67,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u09-k2",
+          "en": "take",
+          "vi": [],
+          "start": 36.09,
+          "end": 36.36,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u09-k3",
+          "en": "measurements",
+          "vi": [],
+          "start": 36.36,
+          "end": 37.08,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-68-u10",
+      "speaker": "M",
+      "text": "I can do that on Saturday, if you're available.",
+      "start": 37.35,
+      "end": 39.9,
+      "clipSrc": "../../audio-sentences/t9-68-s10.mp3",
+      "clipSourceStart": 37.27,
+      "vi": "Tôi có thể làm việc đó vào thứ Bảy, nếu bạn rảnh.",
+      "listeningKeywords": [
+        "Saturday",
+        "available"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Saturday",
+          "vi": "thứ Bảy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-68-u10-k1",
+          "en": "Saturday",
+          "vi": [
+            "thứ Bảy"
+          ],
+          "start": 38.28,
+          "end": 38.94,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-68-u10-k2",
+          "en": "available",
+          "vi": [],
+          "start": 39.33,
+          "end": 39.9,
+          "anchorSource": "t9-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

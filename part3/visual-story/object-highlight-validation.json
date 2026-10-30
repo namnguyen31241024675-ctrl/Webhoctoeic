@@ -1,0 +1,23 @@
+{
+  "conversations": 65,
+  "linkedRegions": 264,
+  "utteranceAssociations": 268,
+  "unchangedPhotoTimingSpeakerData": true,
+  "browserChecks": {
+    "firstSentence": [
+      "report",
+      "cheese"
+    ],
+    "pausedRegions": 0,
+    "cheeseSentence": [
+      "sample"
+    ],
+    "cookingSentence": [
+      "sauce",
+      "recipe"
+    ],
+    "vocabularyPopup": true,
+    "quizPhotosAndHighlightsHidden": true,
+    "scope": "Representative pilot interactions; static validation across all 65 conversations"
+  }
+}

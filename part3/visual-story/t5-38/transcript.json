@@ -1,0 +1,407 @@
+{
+  "conversationId": "t5-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-38-u01",
+      "speaker": "M",
+      "text": "Doctor MacMillan, I'm calling from the human resources department.",
+      "start": 5.52,
+      "end": 9.66,
+      "clipSrc": "../../audio-sentences/t5-38-s01.mp3",
+      "clipSourceStart": 5.44,
+      "vi": "Bác sĩ MacMillan, tôi gọi từ bộ phận nhân sự.",
+      "listeningKeywords": [
+        "calling",
+        "human resources department"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u01-k1",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 7.11,
+          "end": 7.56,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u01-k2",
+          "en": "human resources department",
+          "vi": [],
+          "start": 7.86,
+          "end": 9.66,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u02",
+      "speaker": "M",
+      "text": "I'm in charge of your onboarding, and I wanted to confirm your start date.",
+      "start": 10.08,
+      "end": 14.4,
+      "clipSrc": "../../audio-sentences/t5-38-s02.mp3",
+      "clipSourceStart": 10.0,
+      "vi": "Tôi phụ trách việc onboarding của bạn, và tôi muốn xác nhận ngày bắt đầu.",
+      "listeningKeywords": [
+        "charge",
+        "onboarding",
+        "wanted",
+        "date"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "onboarding",
+          "vi": "onboarding"
+        },
+        {
+          "en": "wanted",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u02-k1",
+          "en": "charge",
+          "vi": [],
+          "start": 10.41,
+          "end": 10.77,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u02-k2",
+          "en": "wanted",
+          "vi": [
+            "muốn"
+          ],
+          "start": 12.42,
+          "end": 12.78,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u02-k3",
+          "en": "date",
+          "vi": [],
+          "start": 14.04,
+          "end": 14.4,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u03",
+      "speaker": "M",
+      "text": "It's the first of April, right?",
+      "start": 14.88,
+      "end": 16.56,
+      "clipSrc": "../../audio-sentences/t5-38-s03.mp3",
+      "clipSourceStart": 14.8,
+      "vi": "Là ngày 1 tháng Tư, đúng không?",
+      "listeningKeywords": [
+        "April"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "April",
+          "vi": "tháng Tư"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u03-k1",
+          "en": "April",
+          "vi": [
+            "tháng Tư"
+          ],
+          "start": 15.72,
+          "end": 16.14,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u04",
+      "speaker": "W",
+      "text": "Right. That's when I'll be joining the scientific research team.",
+      "start": 16.83,
+      "end": 20.19,
+      "clipSrc": "../../audio-sentences/t5-38-meaning-04.mp3",
+      "clipSourceStart": 16.75,
+      "vi": "Đúng vậy. Đó là khi tôi sẽ tham gia đội ngũ nghiên cứu khoa học.",
+      "listeningKeywords": [
+        "joining",
+        "scientific research team"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "joining",
+          "vi": "tham gia"
+        },
+        {
+          "en": "scientific research team",
+          "vi": "nghiên cứu"
+        },
+        {
+          "en": "scientific research team",
+          "vi": "đội"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u04-k1",
+          "en": "joining",
+          "vi": [
+            "tham gia"
+          ],
+          "start": 18.33,
+          "end": 18.69,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u04-k2",
+          "en": "scientific research team",
+          "vi": [
+            "nghiên cứu",
+            "đội"
+          ],
+          "start": 18.81,
+          "end": 20.19,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u05",
+      "speaker": "W",
+      "text": "And as you probably know, I'm still finishing up a research paper with my current institution.",
+      "start": 20.7,
+      "end": 26.37,
+      "clipSrc": "../../audio-sentences/t5-38-s06.mp3",
+      "clipSourceStart": 20.62,
+      "vi": "Và như bạn có lẽ biết, tôi vẫn đang hoàn tất một bài nghiên cứu với tổ chức hiện tại.",
+      "listeningKeywords": [
+        "finishing",
+        "research paper",
+        "current institution"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "research paper",
+          "vi": "nghiên cứu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u05-k1",
+          "en": "finishing",
+          "vi": [],
+          "start": 22.56,
+          "end": 23.01,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u05-k2",
+          "en": "research paper",
+          "vi": [
+            "nghiên cứu"
+          ],
+          "start": 23.22,
+          "end": 24.15,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u05-k3",
+          "en": "current institution",
+          "vi": [],
+          "start": 24.66,
+          "end": 26.37,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u06",
+      "speaker": "M",
+      "text": "Yes, the director did tell me that.",
+      "start": 26.67,
+      "end": 28.98,
+      "clipSrc": "../../audio-sentences/t5-38-s07.mp3",
+      "clipSourceStart": 26.59,
+      "vi": "Vâng, giám đốc đã kể cho tôi.",
+      "listeningKeywords": [
+        "director",
+        "tell"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "director",
+          "vi": "giám đốc"
+        },
+        {
+          "en": "tell",
+          "vi": "kể"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u06-k1",
+          "en": "director",
+          "vi": [
+            "giám đốc"
+          ],
+          "start": 27.51,
+          "end": 27.99,
+          "anchorSource": "t5-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u06-k2",
+          "en": "tell",
+          "vi": [
+            "kể"
+          ],
+          "start": 28.29,
+          "end": 28.5,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u07",
+      "speaker": "M",
+      "text": "Your contract includes time for you to finish up your previous commitments.",
+      "start": 29.4,
+      "end": 33.39,
+      "clipSrc": "../../audio-sentences/t5-38-s08.mp3",
+      "clipSourceStart": 29.32,
+      "vi": "Hợp đồng của bạn bao gồm thời gian để hoàn tất các cam kết trước đó.",
+      "listeningKeywords": [
+        "contract",
+        "finish",
+        "previous commitments"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "contract",
+          "vi": "Hợp đồng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u07-k1",
+          "en": "contract",
+          "vi": [
+            "Hợp đồng"
+          ],
+          "start": 29.64,
+          "end": 30.18,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u07-k2",
+          "en": "finish",
+          "vi": [],
+          "start": 31.56,
+          "end": 31.92,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-38-u07-k3",
+          "en": "previous commitments",
+          "vi": [],
+          "start": 32.22,
+          "end": 33.39,
+          "anchorSource": "t5-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-38-u08",
+      "speaker": "M",
+      "text": "I can send it to you this afternoon.",
+      "start": 33.78,
+      "end": 35.67,
+      "clipSrc": "../../audio-sentences/t5-38-s09.mp3",
+      "clipSourceStart": 33.7,
+      "vi": "Tôi có thể gửi nó cho bạn chiều nay.",
+      "listeningKeywords": [
+        "send"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "send",
+          "vi": "gửi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-38-u08-k1",
+          "en": "send",
+          "vi": [
+            "gửi"
+          ],
+          "start": 34.05,
+          "end": 34.32,
+          "anchorSource": "t5-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

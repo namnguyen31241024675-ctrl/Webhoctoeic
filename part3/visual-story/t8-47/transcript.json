@@ -1,0 +1,329 @@
+{
+  "conversationId": "t8-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-47-u01",
+      "speaker": "M",
+      "text": "Hi, Liliana. Here's the current script for the cartoon episode to be televised in three months.",
+      "start": 6.12,
+      "end": 11.55,
+      "clipSrc": "../../audio-sentences/t8-47-s01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Chào Liliana. Đây là kịch bản hiện tại cho tập phim hoạt hình sẽ được phát sóng trong ba tháng.",
+      "listeningKeywords": [
+        "script",
+        "cartoon episode",
+        "televised"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "script",
+          "vi": "kịch bản"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-47-u01-k1",
+          "en": "script",
+          "vi": [
+            "kịch bản"
+          ],
+          "start": 8.19,
+          "end": 8.61,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u01-k2",
+          "en": "cartoon episode",
+          "vi": [],
+          "start": 8.88,
+          "end": 9.87,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u01-k3",
+          "en": "televised",
+          "vi": [],
+          "start": 10.11,
+          "end": 10.71,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-47-u02",
+      "speaker": "M",
+      "text": "The animation department wants us to complete the episode's storyboards in five weeks.",
+      "start": 11.91,
+      "end": 16.65,
+      "clipSrc": "../../audio-sentences/t8-47-s02.mp3",
+      "clipSourceStart": 11.83,
+      "vi": "Bộ phận hoạt hình muốn chúng ta hoàn thành storyboard của tập trong năm tuần.",
+      "listeningKeywords": [
+        "animation department",
+        "complete",
+        "storyboards"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "complete",
+          "vi": "hoàn thành"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-47-u02-k1",
+          "en": "animation department",
+          "vi": [],
+          "start": 12.09,
+          "end": 13.14,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u02-k2",
+          "en": "complete",
+          "vi": [
+            "hoàn thành"
+          ],
+          "start": 13.71,
+          "end": 14.16,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u02-k3",
+          "en": "storyboards",
+          "vi": [],
+          "start": 14.79,
+          "end": 15.63,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-47-u03",
+      "speaker": "W",
+      "text": "I'll go grab some lunch for us before we get started.",
+      "start": 16.98,
+      "end": 19.65,
+      "clipSrc": "../../audio-sentences/t8-47-s03.mp3",
+      "clipSourceStart": 16.9,
+      "vi": "Tôi sẽ đi lấy bữa trưa cho chúng ta trước khi bắt đầu.",
+      "listeningKeywords": [
+        "grab",
+        "lunch",
+        "started"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "lunch",
+          "vi": "bữa trưa"
+        },
+        {
+          "en": "started",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-47-u03-k1",
+          "en": "grab",
+          "vi": [],
+          "start": 17.34,
+          "end": 17.61,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u03-k2",
+          "en": "lunch",
+          "vi": [
+            "bữa trưa"
+          ],
+          "start": 17.79,
+          "end": 18.15,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u03-k3",
+          "en": "started",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 19.08,
+          "end": 19.65,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-47-u04",
+      "speaker": "W",
+      "text": "Do you like Danny's Café on the corner?",
+      "start": 19.92,
+      "end": 21.99,
+      "clipSrc": "../../audio-sentences/t8-47-s04.mp3",
+      "clipSourceStart": 19.84,
+      "vi": "Bạn có thích Danny's Café ở góc phố không?",
+      "listeningKeywords": [
+        "like",
+        "Danny's Caf",
+        "corner"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "thích"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-47-u04-k1",
+          "en": "like",
+          "vi": [
+            "thích"
+          ],
+          "start": 20.19,
+          "end": 20.46,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u04-k2",
+          "en": "corner",
+          "vi": [],
+          "start": 21.54,
+          "end": 21.99,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-47-u05",
+      "speaker": "M",
+      "text": "Sounds good. Thank you.",
+      "start": 22.17,
+      "end": 23.61,
+      "clipSrc": "../../audio-sentences/t8-47-s05.mp3",
+      "clipSourceStart": 22.09,
+      "vi": "Nghe hay đó. Cảm ơn.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t8-47-u06",
+      "speaker": "M",
+      "text": "After you get back, we can read through the script so we can check the timing of each scene.",
+      "start": 24.09,
+      "end": 28.5,
+      "clipSrc": "../../audio-sentences/t8-47-s06.mp3",
+      "clipSourceStart": 24.01,
+      "vi": "Sau khi bạn về, chúng ta có thể đọc qua kịch bản để kiểm tra thời gian của mỗi cảnh.",
+      "listeningKeywords": [
+        "read",
+        "script",
+        "check",
+        "timing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "read",
+          "vi": "đọc"
+        },
+        {
+          "en": "script",
+          "vi": "kịch bản"
+        },
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-47-u06-k1",
+          "en": "read",
+          "vi": [
+            "đọc"
+          ],
+          "start": 25.38,
+          "end": 25.65,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u06-k2",
+          "en": "script",
+          "vi": [
+            "kịch bản"
+          ],
+          "start": 26.04,
+          "end": 26.43,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u06-k3",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 26.94,
+          "end": 27.15,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-47-u06-k4",
+          "en": "timing",
+          "vi": [],
+          "start": 27.27,
+          "end": 27.72,
+          "anchorSource": "t8-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

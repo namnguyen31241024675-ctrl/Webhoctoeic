@@ -1,0 +1,382 @@
+{
+  "conversationId": "t6-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-65-u01",
+      "speaker": "W",
+      "text": "Thank you for holding.",
+      "start": 6.93,
+      "end": 8.16,
+      "clipSrc": "../../audio-sentences/t6-65-s01.mp3",
+      "clipSourceStart": 6.85,
+      "vi": "Cảm ơn đã chờ.",
+      "listeningKeywords": [
+        "holding"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "holding",
+          "vi": "chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u01-k1",
+          "en": "holding",
+          "vi": [
+            "chờ"
+          ],
+          "start": 7.62,
+          "end": 8.16,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u02",
+      "speaker": "W",
+      "text": "This is Bianca. How can I help you?",
+      "start": 8.46,
+      "end": 10.71,
+      "clipSrc": "../../audio-sentences/t6-65-s02.mp3",
+      "clipSourceStart": 8.38,
+      "vi": "Tôi là Bianca. Tôi có thể giúp gì?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 10.135773,
+          "end": 10.41,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u03",
+      "speaker": "M",
+      "text": "Hi. I have a ticket for the bus to Springdale this morning, but my plans have changed and I need to switch my destination.",
+      "start": 11.22,
+      "end": 18.51,
+      "clipSrc": "../../audio-sentences/t6-65-s03.mp3",
+      "clipSourceStart": 11.14,
+      "vi": "Chào. Tôi có vé xe buýt đến Springdale sáng nay, nhưng kế hoạch thay đổi và tôi cần đổi điểm đến.",
+      "listeningKeywords": [
+        "ticket",
+        "Springdale",
+        "changed",
+        "destination"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ticket",
+          "vi": "vé"
+        },
+        {
+          "en": "Springdale",
+          "vi": "Springdale"
+        },
+        {
+          "en": "changed",
+          "vi": "thay đổi"
+        },
+        {
+          "en": "changed",
+          "vi": "đổi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u03-k1",
+          "en": "ticket",
+          "vi": [
+            "vé"
+          ],
+          "start": 12.33,
+          "end": 12.69,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u03-k2",
+          "en": "Springdale",
+          "vi": [
+            "Springdale"
+          ],
+          "start": 13.38,
+          "end": 14.01,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u03-k3",
+          "en": "changed",
+          "vi": [
+            "thay đổi",
+            "đổi"
+          ],
+          "start": 15.99,
+          "end": 16.5,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u03-k4",
+          "en": "destination",
+          "vi": [],
+          "start": 17.73,
+          "end": 18.51,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u04",
+      "speaker": "W",
+      "text": "Sure. I can help you with that.",
+      "start": 18.81,
+      "end": 20.82,
+      "clipSrc": "../../audio-sentences/t6-65-s04.mp3",
+      "clipSourceStart": 18.73,
+      "vi": "Chắc chắn. Tôi có thể giúp.",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u04-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 19.86,
+          "end": 20.13,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u05",
+      "speaker": "M",
+      "text": "Thanks very much. I need the bus to Centerton instead.",
+      "start": 21.15,
+      "end": 24.78,
+      "clipSrc": "../../audio-sentences/t6-65-s05.mp3",
+      "clipSourceStart": 21.07,
+      "vi": "Cảm ơn nhiều. Tôi cần xe đến Centerton thay vì vậy.",
+      "listeningKeywords": [
+        "need",
+        "bus",
+        "Centerton instead"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u05-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 22.77,
+          "end": 23.01,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u05-k2",
+          "en": "bus",
+          "vi": [],
+          "start": 23.1,
+          "end": 23.4,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u06",
+      "speaker": "W",
+      "text": "No problem. If you purchased your bus ticket electronically, I just need your confirmation number.",
+      "start": 25.14,
+      "end": 30.93,
+      "clipSrc": "../../audio-sentences/t6-65-s06.mp3",
+      "clipSourceStart": 25.06,
+      "vi": "Không vấn đề. Nếu bạn mua vé xe buýt điện tử, tôi chỉ cần số xác nhận.",
+      "listeningKeywords": [
+        "problem",
+        "purchased",
+        "bus ticket electronically",
+        "confirmation number"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        },
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "bus ticket electronically",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "bus ticket electronically",
+          "vi": "vé"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u06-k1",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 25.41,
+          "end": 25.95,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u06-k2",
+          "en": "purchased",
+          "vi": [
+            "mua"
+          ],
+          "start": 26.79,
+          "end": 27.24,
+          "anchorSource": "t6-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u06-k3",
+          "en": "bus ticket electronically",
+          "vi": [
+            "xe buýt",
+            "vé"
+          ],
+          "start": 27.39,
+          "end": 28.86,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u06-k4",
+          "en": "confirmation number",
+          "vi": [],
+          "start": 29.76,
+          "end": 30.93,
+          "anchorSource": "t6-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-65-u07",
+      "speaker": "M",
+      "text": "OK, let me just find the e-mail that has it.",
+      "start": 31.2,
+      "end": 34.2,
+      "clipSrc": "../../audio-sentences/t6-65-s07.mp3",
+      "clipSourceStart": 31.12,
+      "vi": "OK, để tôi tìm email có nó.",
+      "listeningKeywords": [
+        "find",
+        "e-mail"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "find",
+          "vi": "tìm"
+        },
+        {
+          "en": "e-mail",
+          "vi": "email"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-65-u07-k1",
+          "en": "find",
+          "vi": [
+            "tìm"
+          ],
+          "start": 32.73,
+          "end": 33.0,
+          "anchorSource": "t6-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-65-u07-k2",
+          "en": "e-mail",
+          "vi": [
+            "email"
+          ],
+          "start": 33.18,
+          "end": 33.54,
+          "anchorSource": "t6-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

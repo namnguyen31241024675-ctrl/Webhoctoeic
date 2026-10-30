@@ -1,0 +1,541 @@
+{
+  "conversationId": "t4-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      21,
+      22
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-68-u01",
+      "speaker": "M",
+      "text": "Welcome to the garden center.",
+      "start": 7.11,
+      "end": 8.52,
+      "clipSrc": "../../audio-sentences/t4-68-s01.mp3",
+      "clipSourceStart": 7.03,
+      "vi": "Chào mừng đến với trung tâm vườn.",
+      "listeningKeywords": [
+        "garden center"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "garden center",
+          "vi": "trung tâm vườn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u01-k1",
+          "en": "garden center",
+          "vi": [
+            "trung tâm vườn"
+          ],
+          "start": 7.71,
+          "end": 8.52,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u02",
+      "speaker": "M",
+      "text": "Can I help you?",
+      "start": 8.7,
+      "end": 9.42,
+      "clipSrc": "../../audio-sentences/t4-68-s02.mp3",
+      "clipSourceStart": 8.62,
+      "vi": "Tôi có thể giúp gì cho bạn?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 8.97,
+          "end": 9.21,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u03",
+      "speaker": "W",
+      "text": "Hi. I've started growing rose bushes, and I've heard they require special care.",
+      "start": 9.66,
+      "end": 14.46,
+      "clipSrc": "../../audio-sentences/t4-68-meaning-03.mp3",
+      "clipSourceStart": 9.58,
+      "vi": "Chào. Tôi đã bắt đầu trồng bụi hoa hồng, và tôi nghe chúng cần chăm sóc đặc biệt.",
+      "listeningKeywords": [
+        "started",
+        "rose bushes",
+        "require special care"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "started",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "rose bushes",
+          "vi": "bụi hoa hồng"
+        },
+        {
+          "en": "require special care",
+          "vi": "chăm sóc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u03-k1",
+          "en": "started",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 10.92,
+          "end": 11.4,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u03-k2",
+          "en": "rose bushes",
+          "vi": [
+            "bụi hoa hồng"
+          ],
+          "start": 11.73,
+          "end": 12.6,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u03-k3",
+          "en": "require special care",
+          "vi": [
+            "chăm sóc"
+          ],
+          "start": 13.35,
+          "end": 14.46,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u04",
+      "speaker": "W",
+      "text": "Are there any products you can recommend?",
+      "start": 14.76,
+      "end": 16.62,
+      "clipSrc": "../../audio-sentences/t4-68-s05.mp3",
+      "clipSourceStart": 14.68,
+      "vi": "Có sản phẩm nào bạn có thể khuyến nghị không?",
+      "listeningKeywords": [
+        "products",
+        "recommend"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "products",
+          "vi": "sản phẩm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u04-k1",
+          "en": "products",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 15.33,
+          "end": 15.78,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u04-k2",
+          "en": "recommend",
+          "vi": [],
+          "start": 16.02,
+          "end": 16.59,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u05",
+      "speaker": "M",
+      "text": "Yes! But first, I'd like to show you a great resource on our Web site.",
+      "start": 16.89,
+      "end": 21.42,
+      "clipSrc": "../../audio-sentences/t4-68-s06.mp3",
+      "clipSourceStart": 16.81,
+      "vi": "Vâng! Nhưng trước tiên, tôi muốn cho bạn xem một tài nguyên tuyệt vời trên trang web của chúng tôi.",
+      "listeningKeywords": [
+        "show",
+        "resource",
+        "Web site"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "show",
+          "vi": "xem"
+        },
+        {
+          "en": "Web site",
+          "vi": "trang web"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u05-k1",
+          "en": "show",
+          "vi": [
+            "xem"
+          ],
+          "start": 19.2,
+          "end": 19.47,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u05-k2",
+          "en": "resource",
+          "vi": [],
+          "start": 20.07,
+          "end": 20.55,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u05-k3",
+          "en": "Web site",
+          "vi": [
+            "trang web"
+          ],
+          "start": 20.82,
+          "end": 21.42,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u06",
+      "speaker": "M",
+      "text": "Have you seen our blog?",
+      "start": 21.66,
+      "end": 22.98,
+      "clipSrc": "../../audio-sentences/t4-68-s07.mp3",
+      "clipSourceStart": 21.58,
+      "vi": "Bạn đã xem blog của chúng tôi chưa?",
+      "listeningKeywords": [
+        "seen",
+        "blog"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "seen",
+          "vi": "xem"
+        },
+        {
+          "en": "blog",
+          "vi": "blog"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u06-k1",
+          "en": "seen",
+          "vi": [
+            "xem"
+          ],
+          "start": 21.96,
+          "end": 22.23,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u06-k2",
+          "en": "blog",
+          "vi": [
+            "blog"
+          ],
+          "start": 22.35,
+          "end": 22.98,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u07",
+      "speaker": "W",
+      "text": "No, I haven't.",
+      "start": 23.13,
+      "end": 24.21,
+      "clipSrc": "../../audio-sentences/t4-68-s08.mp3",
+      "clipSourceStart": 23.05,
+      "vi": "Không, chưa.",
+      "listeningKeywords": [
+        "haven't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "haven't",
+          "vi": "chưa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u07-k1",
+          "en": "haven't",
+          "vi": [
+            "chưa"
+          ],
+          "start": 23.67,
+          "end": 24.21,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u08",
+      "speaker": "M",
+      "text": "We have monthly posts on many gardening topics, and there's a recent one about growing roses.",
+      "start": 24.48,
+      "end": 30.15,
+      "clipSrc": "../../audio-sentences/t4-68-s09.mp3",
+      "clipSourceStart": 24.4,
+      "vi": "Chúng tôi có bài đăng hàng tháng về nhiều chủ đề làm vườn, và có một bài gần đây về trồng hoa hồng.",
+      "listeningKeywords": [
+        "monthly posts",
+        "gardening topics",
+        "recent",
+        "growing roses"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "monthly posts",
+          "vi": "đăng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u08-k1",
+          "en": "monthly posts",
+          "vi": [
+            "đăng"
+          ],
+          "start": 24.9,
+          "end": 26.04,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u08-k2",
+          "en": "gardening topics",
+          "vi": [],
+          "start": 26.55,
+          "end": 27.66,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u08-k3",
+          "en": "recent",
+          "vi": [],
+          "start": 28.23,
+          "end": 28.59,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u08-k4",
+          "en": "growing roses",
+          "vi": [],
+          "start": 29.19,
+          "end": 30.15,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u09",
+      "speaker": "W",
+      "text": "I'll check it out! Thanks so much.",
+      "start": 30.39,
+      "end": 32.58,
+      "clipSrc": "../../audio-sentences/t4-68-s10.mp3",
+      "clipSourceStart": 30.31,
+      "vi": "Tôi sẽ kiểm tra! Cảm ơn rất nhiều.",
+      "listeningKeywords": [
+        "check"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u09-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 30.6,
+          "end": 30.87,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u10",
+      "speaker": "M",
+      "text": "You're welcome. Now— let me show you our fertilizers.",
+      "start": 32.67,
+      "end": 36.18,
+      "clipSrc": "../../audio-sentences/t4-68-meaning-10.mp3",
+      "clipSourceStart": 32.59,
+      "vi": "Không có chi. Bây giờ— để tôi cho bạn xem phân bón của chúng tôi.",
+      "listeningKeywords": [
+        "welcome",
+        "show",
+        "fertilizers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "show",
+          "vi": "xem"
+        },
+        {
+          "en": "fertilizers",
+          "vi": "phân bón"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u10-k1",
+          "en": "welcome",
+          "vi": [],
+          "start": 32.88,
+          "end": 33.3,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u10-k2",
+          "en": "show",
+          "vi": [
+            "xem"
+          ],
+          "start": 34.62,
+          "end": 34.86,
+          "anchorSource": "t4-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-68-u10-k3",
+          "en": "fertilizers",
+          "vi": [
+            "phân bón"
+          ],
+          "start": 35.28,
+          "end": 36.18,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-68-u11",
+      "speaker": "M",
+      "text": "They're in aisle six.",
+      "start": 36.3,
+      "end": 37.8,
+      "clipSrc": "../../audio-sentences/t4-68-s13.mp3",
+      "clipSourceStart": 36.22,
+      "vi": "Chúng ở lối đi sáu.",
+      "listeningKeywords": [
+        "aisle six"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "aisle six",
+          "vi": "lối đi"
+        },
+        {
+          "en": "aisle six",
+          "vi": "sáu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-68-u11-k1",
+          "en": "aisle six",
+          "vi": [
+            "lối đi",
+            "sáu"
+          ],
+          "start": 36.75,
+          "end": 37.8,
+          "anchorSource": "t4-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "conversationId": "t1-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-38-u01",
+      "speaker": "W",
+      "text": "Thanks for agreeing to help me organize the library's annual fund-raising dinner, Klaus.",
+      "start": 5.49,
+      "end": 9.6,
+      "clipSrc": "../../audio-sentences/t1-38-s01.mp3",
+      "clipSourceStart": 5.41,
+      "vi": "Cảm ơn anh đã đồng ý giúp tôi tổ chức bữa tiệc tối gây quỹ thường niên của thư viện, Klaus.",
+      "listeningKeywords": [
+        "organize",
+        "fund-raising dinner",
+        "Klaus"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "organize",
+          "vi": "tổ chức"
+        },
+        {
+          "en": "Klaus",
+          "vi": "Klaus"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u01-k1",
+          "en": "organize",
+          "vi": [
+            "tổ chức"
+          ],
+          "start": 6.96,
+          "end": 7.47,
+          "anchorSource": "t1-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u01-k2",
+          "en": "fund-raising dinner",
+          "vi": [],
+          "start": 8.37,
+          "end": 9.15,
+          "anchorSource": "t1-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u01-k3",
+          "en": "Klaus",
+          "vi": [
+            "Klaus"
+          ],
+          "start": 9.15,
+          "end": 9.6,
+          "anchorSource": "t1-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u02",
+      "speaker": "W",
+      "text": "We hope the event brings in enough money to expand our children's book section.",
+      "start": 9.99,
+      "end": 13.86,
+      "clipSrc": "../../audio-sentences/t1-38-s02.mp3",
+      "clipSourceStart": 9.91,
+      "vi": "Chúng tôi hy vọng sự kiện sẽ mang lại đủ tiền để mở rộng phần sách dành cho thiếu nhi.",
+      "listeningKeywords": [
+        "event brings",
+        "money",
+        "expand",
+        "children's book section"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "event brings",
+          "vi": "sự kiện"
+        },
+        {
+          "en": "event brings",
+          "vi": "mang"
+        },
+        {
+          "en": "money",
+          "vi": "tiền"
+        },
+        {
+          "en": "expand",
+          "vi": "mở rộng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u02-k1",
+          "en": "event brings",
+          "vi": [
+            "sự kiện",
+            "mang"
+          ],
+          "start": 10.59,
+          "end": 11.28,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u02-k2",
+          "en": "money",
+          "vi": [
+            "tiền"
+          ],
+          "start": 11.73,
+          "end": 12.0,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u02-k3",
+          "en": "expand",
+          "vi": [
+            "mở rộng"
+          ],
+          "start": 12.12,
+          "end": 12.54,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u02-k4",
+          "en": "children's book section",
+          "vi": [],
+          "start": 12.66,
+          "end": 13.86,
+          "anchorSource": "t1-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u03",
+      "speaker": "M",
+      "text": "What task would you like me to start with?",
+      "start": 14.22,
+      "end": 16.17,
+      "clipSrc": "../../audio-sentences/t1-38-s03.mp3",
+      "clipSourceStart": 14.14,
+      "vi": "Tôi nên bắt đầu với công việc nào đây?",
+      "listeningKeywords": [
+        "task",
+        "start"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u03-k1",
+          "en": "task",
+          "vi": [],
+          "start": 14.49,
+          "end": 14.85,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u03-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 15.54,
+          "end": 15.84,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u04",
+      "speaker": "W",
+      "text": "Well, I could use some help sending out the invitations.",
+      "start": 16.53,
+      "end": 19.83,
+      "clipSrc": "../../audio-sentences/t1-38-s04.mp3",
+      "clipSourceStart": 16.45,
+      "vi": "Chà, tôi cần sự giúp đỡ trong việc gửi thư mời.",
+      "listeningKeywords": [
+        "use",
+        "sending",
+        "invitations"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sending",
+          "vi": "gửi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u04-k1",
+          "en": "use",
+          "vi": [],
+          "start": 17.7,
+          "end": 17.88,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u04-k2",
+          "en": "sending",
+          "vi": [
+            "gửi"
+          ],
+          "start": 18.33,
+          "end": 18.69,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u04-k3",
+          "en": "invitations",
+          "vi": [],
+          "start": 19.05,
+          "end": 19.83,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u05",
+      "speaker": "M",
+      "text": "OK, I can take care of that.",
+      "start": 20.31,
+      "end": 21.9,
+      "clipSrc": "../../audio-sentences/t1-38-s05.mp3",
+      "clipSourceStart": 20.23,
+      "vi": "Được rồi, tôi có thể đảm nhận việc đó.",
+      "listeningKeywords": [
+        "take",
+        "care"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "take",
+          "vi": "đảm nhận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u05-k1",
+          "en": "take",
+          "vi": [
+            "đảm nhận"
+          ],
+          "start": 21.15,
+          "end": 21.3,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-38-u05-k2",
+          "en": "care",
+          "vi": [],
+          "start": 21.3,
+          "end": 21.54,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u06",
+      "speaker": "M",
+      "text": "Is there a list of attendees available?",
+      "start": 22.393705,
+      "end": 24.39,
+      "clipSrc": "../../audio-sentences/t1-38-s06.mp3",
+      "clipSourceStart": 22.314,
+      "vi": "Có sẵn danh sách người tham dự không?",
+      "listeningKeywords": [
+        "list of attendees"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "list of attendees",
+          "vi": "danh sách người tham dự"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u06-k1",
+          "en": "list of attendees",
+          "vi": [
+            "danh sách người tham dự"
+          ],
+          "start": 22.86,
+          "end": 23.85,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u07",
+      "speaker": "W",
+      "text": "It's in my computer files.",
+      "start": 24.72,
+      "end": 26.34,
+      "clipSrc": "../../audio-sentences/t1-38-s07.mp3",
+      "clipSourceStart": 24.64,
+      "vi": "Nó nằm trong tệp máy tính của tôi.",
+      "listeningKeywords": [
+        "computer files"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "computer files",
+          "vi": "tệp máy tính"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u07-k1",
+          "en": "computer files",
+          "vi": [
+            "tệp máy tính"
+          ],
+          "start": 25.35,
+          "end": 26.34,
+          "anchorSource": "t1-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-38-u08",
+      "speaker": "W",
+      "text": "I'll e-mail it to you.",
+      "start": 26.82,
+      "end": 28.08,
+      "clipSrc": "../../audio-sentences/t1-38-s08.mp3",
+      "clipSourceStart": 26.74,
+      "vi": "Tôi sẽ gửi email cho anh.",
+      "listeningKeywords": [
+        "mail"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mail",
+          "vi": "email"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-38-u08-k1",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 27.21,
+          "end": 27.45,
+          "anchorSource": "t1-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

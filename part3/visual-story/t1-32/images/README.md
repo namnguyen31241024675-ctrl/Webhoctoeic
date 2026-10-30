@@ -1,0 +1,1 @@
+Bộ 5 ảnh PNG riêng được tạo bằng built-in image_gen cho bài thử t1-32, dựa trên nhân vật/phong cách trong ảnh tham khảo. Đây là ảnh minh họa dạng ảnh chụp, không phải ảnh gốc ETS. Không có SVG/emoji hoặc ảnh placeholder trong Visual Story Player. Prompt và SHA-256 nằm ở image-prompts.json và image-provenance.json.

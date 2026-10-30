@@ -1,0 +1,454 @@
+{
+  "conversationId": "t7-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-50-u01",
+      "speaker": "M1",
+      "text": "We need to come up with a new menu design for our seaside restaurant.",
+      "start": 7.02,
+      "end": 10.59,
+      "clipSrc": "../../audio-sentences/t7-50-s01.mp3",
+      "clipSourceStart": 6.94,
+      "vi": "Chúng ta cần nghĩ ra thiết kế menu mới cho nhà hàng ven biển của chúng ta.",
+      "listeningKeywords": [
+        "menu design",
+        "seaside restaurant"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "menu design",
+          "vi": "thiết kế"
+        },
+        {
+          "en": "menu design",
+          "vi": "menu"
+        },
+        {
+          "en": "seaside restaurant",
+          "vi": "nhà hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u01-k1",
+          "en": "menu design",
+          "vi": [
+            "thiết kế",
+            "menu"
+          ],
+          "start": 8.28,
+          "end": 9.12,
+          "anchorSource": "t7-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u01-k2",
+          "en": "seaside restaurant",
+          "vi": [
+            "nhà hàng"
+          ],
+          "start": 9.48,
+          "end": 10.59,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u02",
+      "speaker": "M1",
+      "text": "Something memorable. Do you two have any suggestions?",
+      "start": 10.71,
+      "end": 13.92,
+      "clipSrc": "../../audio-sentences/t7-50-s02.mp3",
+      "clipSourceStart": 10.63,
+      "vi": "Cái gì đó đáng nhớ. Hai người có gợi ý gì không?",
+      "listeningKeywords": [
+        "memorable",
+        "suggestions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "memorable",
+          "vi": "đáng nhớ"
+        },
+        {
+          "en": "suggestions",
+          "vi": "gợi ý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u02-k1",
+          "en": "memorable",
+          "vi": [
+            "đáng nhớ"
+          ],
+          "start": 11.16,
+          "end": 11.76,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u02-k2",
+          "en": "suggestions",
+          "vi": [
+            "gợi ý"
+          ],
+          "start": 13.08,
+          "end": 13.92,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u03",
+      "speaker": "M2",
+      "text": "Maybe we could use a dolphin jumping out of the water.",
+      "start": 14.4,
+      "end": 17.58,
+      "clipSrc": "../../audio-sentences/t7-50-s03.mp3",
+      "clipSourceStart": 14.32,
+      "vi": "Có lẽ chúng ta có thể dùng hình cá heo nhảy ra khỏi mặt nước.",
+      "listeningKeywords": [
+        "use",
+        "dolphin",
+        "water"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "dùng"
+        },
+        {
+          "en": "dolphin",
+          "vi": "cá heo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u03-k1",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 15.3,
+          "end": 15.63,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u03-k2",
+          "en": "dolphin",
+          "vi": [
+            "cá heo"
+          ],
+          "start": 15.72,
+          "end": 16.32,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u03-k3",
+          "en": "water",
+          "vi": [],
+          "start": 17.07,
+          "end": 17.58,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u04",
+      "speaker": "M2",
+      "text": "Junko, what do you think?",
+      "start": 18.03,
+      "end": 20.16,
+      "clipSrc": "../../audio-sentences/t7-50-s04.mp3",
+      "clipSourceStart": 17.95,
+      "vi": "Junko, chị nghĩ sao?",
+      "listeningKeywords": [
+        "think"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u04-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 19.71,
+          "end": 20.16,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u05",
+      "speaker": "W",
+      "text": "Oh, I really like that idea! And it's fitting, since our restaurant is at the beach.",
+      "start": 20.49,
+      "end": 25.95,
+      "clipSrc": "../../audio-sentences/t7-50-s05.mp3",
+      "clipSourceStart": 20.41,
+      "vi": "Ồ, em rất thích ý tưởng đó! Và nó phù hợp, vì nhà hàng của chúng ta ở bãi biển.",
+      "listeningKeywords": [
+        "idea",
+        "fitting",
+        "restaurant",
+        "beach"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "ý tưởng"
+        },
+        {
+          "en": "restaurant",
+          "vi": "nhà hàng"
+        },
+        {
+          "en": "beach",
+          "vi": "bãi biển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u05-k1",
+          "en": "idea",
+          "vi": [
+            "ý tưởng"
+          ],
+          "start": 22.32,
+          "end": 22.83,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u05-k2",
+          "en": "fitting",
+          "vi": [],
+          "start": 23.61,
+          "end": 24.12,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u05-k3",
+          "en": "restaurant",
+          "vi": [
+            "nhà hàng"
+          ],
+          "start": 24.687988,
+          "end": 25.183735,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u05-k4",
+          "en": "beach",
+          "vi": [
+            "bãi biển"
+          ],
+          "start": 25.53,
+          "end": 25.95,
+          "anchorSource": "t7-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u06",
+      "speaker": "W",
+      "text": "Minoru, can you put together a graphic for the rest of us to look at?",
+      "start": 26.49,
+      "end": 30.6,
+      "clipSrc": "../../audio-sentences/t7-50-s06.mp3",
+      "clipSourceStart": 26.41,
+      "vi": "Minoru, anh có thể làm một graphic để mọi người xem không?",
+      "listeningKeywords": [
+        "put",
+        "graphic",
+        "rest",
+        "look"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "graphic",
+          "vi": "graphic"
+        },
+        {
+          "en": "look",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u06-k1",
+          "en": "put",
+          "vi": [],
+          "start": 28.08,
+          "end": 28.26,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u06-k2",
+          "en": "graphic",
+          "vi": [
+            "graphic"
+          ],
+          "start": 28.77,
+          "end": 29.22,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u06-k3",
+          "en": "rest",
+          "vi": [],
+          "start": 29.43,
+          "end": 29.7,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u06-k4",
+          "en": "look",
+          "vi": [
+            "xem"
+          ],
+          "start": 30.03,
+          "end": 30.24,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u07",
+      "speaker": "M2",
+      "text": "I'll start working on it immediately.",
+      "start": 31.02,
+      "end": 33.18,
+      "clipSrc": "../../audio-sentences/t7-50-s07.mp3",
+      "clipSourceStart": 30.94,
+      "vi": "Tôi sẽ bắt đầu ngay lập tức.",
+      "listeningKeywords": [
+        "start"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u07-k1",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 31.229077,
+          "end": 31.65,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-50-u08",
+      "speaker": "M1",
+      "text": "Great. Hopefully, we can finalize something before next month's community fair.",
+      "start": 33.54,
+      "end": 38.28,
+      "clipSrc": "../../audio-sentences/t7-50-s08.mp3",
+      "clipSourceStart": 33.46,
+      "vi": "Tốt. Hy vọng chúng ta có thể hoàn tất trước hội chợ cộng đồng tháng tới",
+      "listeningKeywords": [
+        "finalize",
+        "month's community fair"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "finalize",
+          "vi": "hoàn tất"
+        },
+        {
+          "en": "month's community fair",
+          "vi": "hội chợ cộng đồng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-50-u08-k1",
+          "en": "finalize",
+          "vi": [
+            "hoàn tất"
+          ],
+          "start": 35.31,
+          "end": 35.88,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-50-u08-k2",
+          "en": "month's community fair",
+          "vi": [
+            "hội chợ cộng đồng"
+          ],
+          "start": 37.02,
+          "end": 38.28,
+          "anchorSource": "t7-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

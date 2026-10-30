@@ -1,0 +1,617 @@
+{
+  "conversationId": "t2-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-32-u01",
+      "speaker": "W",
+      "text": "How were your deliveries?",
+      "start": 6.03,
+      "end": 7.41,
+      "clipSrc": "../../audio-sentences/t2-32-s01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Các chuyến giao hàng hôm nay thế nào?",
+      "listeningKeywords": [
+        "deliveries"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "deliveries",
+          "vi": "Các chuyến giao hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u01-k1",
+          "en": "deliveries",
+          "vi": [
+            "Các chuyến giao hàng"
+          ],
+          "start": 6.6,
+          "end": 7.41,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u02",
+      "speaker": "M",
+      "text": "Not bad, except at that new residential building on South Street.",
+      "start": 7.92,
+      "end": 12.12,
+      "clipSrc": "../../audio-sentences/t2-32-s02.mp3",
+      "clipSourceStart": 7.84,
+      "vi": "Không tệ, ngoại trừ ở tòa nhà chung cư mới trên phố South.",
+      "listeningKeywords": [
+        "Not",
+        "residential",
+        "building",
+        "South Street"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Not",
+          "vi": "Không"
+        },
+        {
+          "en": "building",
+          "vi": "tòa nhà"
+        },
+        {
+          "en": "South Street",
+          "vi": "phố"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u02-k1",
+          "en": "Not",
+          "vi": [
+            "Không"
+          ],
+          "start": 7.92,
+          "end": 8.28,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u02-k2",
+          "en": "residential",
+          "vi": [],
+          "start": 10.17,
+          "end": 10.86,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u02-k3",
+          "en": "building",
+          "vi": [
+            "tòa nhà"
+          ],
+          "start": 10.86,
+          "end": 11.22,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u02-k4",
+          "en": "South Street",
+          "vi": [
+            "phố"
+          ],
+          "start": 11.37,
+          "end": 12.12,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u03",
+      "speaker": "M",
+      "text": "I had to call them on my phone to come pick up their food.",
+      "start": 12.54,
+      "end": 15.42,
+      "clipSrc": "../../audio-sentences/t2-32-s03.mp3",
+      "clipSourceStart": 12.46,
+      "vi": "Tôi phải gọi điện cho họ để họ ra lấy đồ ăn.",
+      "listeningKeywords": [
+        "call",
+        "phone",
+        "pick",
+        "food"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi điện"
+        },
+        {
+          "en": "pick",
+          "vi": "lấy"
+        },
+        {
+          "en": "food",
+          "vi": "đồ ăn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u03-k1",
+          "en": "call",
+          "vi": [
+            "gọi điện"
+          ],
+          "start": 12.96,
+          "end": 13.23,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u03-k2",
+          "en": "phone",
+          "vi": [],
+          "start": 13.71,
+          "end": 14.1,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u03-k3",
+          "en": "pick",
+          "vi": [
+            "lấy"
+          ],
+          "start": 14.46,
+          "end": 14.7,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u03-k4",
+          "en": "food",
+          "vi": [
+            "đồ ăn"
+          ],
+          "start": 15.0,
+          "end": 15.42,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u04",
+      "speaker": "M",
+      "text": "At first, I tried to call on the building intercom, but it's still broken.",
+      "start": 15.96,
+      "end": 19.98,
+      "clipSrc": "../../audio-sentences/t2-32-s04.mp3",
+      "clipSourceStart": 15.88,
+      "vi": "Ban đầu tôi thử gọi qua hệ thống liên lạc nội bộ của tòa nhà, nhưng nó vẫn bị hỏng.",
+      "listeningKeywords": [
+        "tried",
+        "call",
+        "building",
+        "intercom"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        },
+        {
+          "en": "building",
+          "vi": "tòa nhà"
+        },
+        {
+          "en": "intercom",
+          "vi": "hệ thống liên lạc nội bộ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u04-k1",
+          "en": "tried",
+          "vi": [],
+          "start": 16.71,
+          "end": 17.01,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u04-k2",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 17.1,
+          "end": 17.4,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u04-k3",
+          "en": "building",
+          "vi": [
+            "tòa nhà"
+          ],
+          "start": 17.61,
+          "end": 17.97,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u04-k4",
+          "en": "intercom",
+          "vi": [
+            "hệ thống liên lạc nội bộ"
+          ],
+          "start": 17.97,
+          "end": 18.6,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u05",
+      "speaker": "W",
+      "text": "You're not the first to say that.",
+      "start": 20.64,
+      "end": 22.29,
+      "clipSrc": "../../audio-sentences/t2-32-s05.mp3",
+      "clipSourceStart": 20.56,
+      "vi": "Anh không phải người đầu tiên nói vậy đâu.",
+      "listeningKeywords": [
+        "not"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u05-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 20.82,
+          "end": 21.03,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u06",
+      "speaker": "W",
+      "text": "Last week, a customer called to complain that their food was cold by the time they found it.",
+      "start": 22.59,
+      "end": 27.51,
+      "clipSrc": "../../audio-sentences/t2-32-s06.mp3",
+      "clipSourceStart": 22.51,
+      "vi": "Tuần trước, một khách hàng gọi điện phàn nàn rằng đồ ăn đã nguội lạnh khi họ tìm thấy.",
+      "listeningKeywords": [
+        "called",
+        "complain",
+        "cold",
+        "found"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "called",
+          "vi": "gọi điện"
+        },
+        {
+          "en": "cold",
+          "vi": "nguội"
+        },
+        {
+          "en": "cold",
+          "vi": "lạnh"
+        },
+        {
+          "en": "found",
+          "vi": "tìm thấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u06-k1",
+          "en": "called",
+          "vi": [
+            "gọi điện"
+          ],
+          "start": 23.97,
+          "end": 24.27,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u06-k2",
+          "en": "complain",
+          "vi": [],
+          "start": 24.36,
+          "end": 24.93,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u06-k3",
+          "en": "cold",
+          "vi": [
+            "nguội",
+            "lạnh"
+          ],
+          "start": 25.77,
+          "end": 26.28,
+          "anchorSource": "t2-32-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u06-k4",
+          "en": "found",
+          "vi": [
+            "tìm thấy"
+          ],
+          "start": 26.94,
+          "end": 27.3,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u07",
+      "speaker": "M",
+      "text": "Maybe we just can't make deliveries there until the landlord fixes the intercom system.",
+      "start": 28.14,
+      "end": 33.0,
+      "clipSrc": "../../audio-sentences/t2-32-s07.mp3",
+      "clipSourceStart": 28.06,
+      "vi": "Có lẽ chúng ta không thể giao hàng ở đó cho đến khi chủ nhà sửa hệ thống liên lạc nội bộ.",
+      "listeningKeywords": [
+        "can't",
+        "deliveries",
+        "landlord fixes",
+        "intercom"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "deliveries",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "landlord fixes",
+          "vi": "sửa"
+        },
+        {
+          "en": "intercom",
+          "vi": "hệ thống liên lạc nội bộ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u07-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 28.95,
+          "end": 29.25,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u07-k2",
+          "en": "deliveries",
+          "vi": [
+            "giao hàng"
+          ],
+          "start": 29.52,
+          "end": 30.09,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u07-k3",
+          "en": "landlord fixes",
+          "vi": [
+            "sửa"
+          ],
+          "start": 30.9,
+          "end": 31.83,
+          "anchorSource": "t2-32-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u07-k4",
+          "en": "intercom",
+          "vi": [
+            "hệ thống liên lạc nội bộ"
+          ],
+          "start": 31.95,
+          "end": 32.46,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u08",
+      "speaker": "W",
+      "text": "I'm going to update the instructions on our mobile app telling customers to meet us at the building's front door.",
+      "start": 33.6,
+      "end": 39.36,
+      "clipSrc": "../../audio-sentences/t2-32-s08.mp3",
+      "clipSourceStart": 33.52,
+      "vi": "Tôi sẽ cập nhật hướng dẫn trên ứng dụng di động của chúng ta, bảo khách hàng ra gặp chúng ta ở cửa chính tòa nhà.",
+      "listeningKeywords": [
+        "update",
+        "mobile app",
+        "telling",
+        "building's front door"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "update",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "mobile app",
+          "vi": "ứng dụng di động"
+        },
+        {
+          "en": "building's front door",
+          "vi": "tòa nhà"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u08-k1",
+          "en": "update",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 34.23,
+          "end": 34.62,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u08-k2",
+          "en": "mobile app",
+          "vi": [
+            "ứng dụng di động"
+          ],
+          "start": 35.7,
+          "end": 36.36,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u08-k3",
+          "en": "telling",
+          "vi": [],
+          "start": 36.36,
+          "end": 36.69,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u08-k4",
+          "en": "building's front door",
+          "vi": [
+            "tòa nhà"
+          ],
+          "start": 38.22,
+          "end": 39.36,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-32-u09",
+      "speaker": "W",
+      "text": "Let's see if that helps.",
+      "start": 39.57,
+      "end": 40.92,
+      "clipSrc": "../../audio-sentences/t2-32-s09.mp3",
+      "clipSourceStart": 39.49,
+      "vi": "Xem thử cách này có giúp không.",
+      "listeningKeywords": [
+        "see",
+        "helps"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "Xem"
+        },
+        {
+          "en": "helps",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-32-u09-k1",
+          "en": "see",
+          "vi": [
+            "Xem"
+          ],
+          "start": 39.87,
+          "end": 40.08,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-32-u09-k2",
+          "en": "helps",
+          "vi": [
+            "giúp"
+          ],
+          "start": 40.44,
+          "end": 40.92,
+          "anchorSource": "t2-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

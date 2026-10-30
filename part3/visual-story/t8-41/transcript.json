@@ -1,0 +1,453 @@
+{
+  "conversationId": "t8-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-41-u01",
+      "speaker": "W",
+      "text": "Jong-Gyu, I have some amazing news.",
+      "start": 5.91,
+      "end": 9.0,
+      "clipSrc": "../../audio-sentences/t8-41-s01.mp3",
+      "clipSourceStart": 5.83,
+      "vi": "Jong-Gyu, tôi có tin tuyệt vời.",
+      "listeningKeywords": [
+        "Jong-Gyu",
+        "amazing news"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Jong-Gyu",
+          "vi": "Jong-Gyu"
+        },
+        {
+          "en": "amazing news",
+          "vi": "tin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u01-k1",
+          "en": "amazing news",
+          "vi": [
+            "tin"
+          ],
+          "start": 7.44,
+          "end": 9.0,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u02",
+      "speaker": "W",
+      "text": "Our proposal was approved!",
+      "start": 9.18,
+      "end": 10.98,
+      "clipSrc": "../../audio-sentences/t8-41-s02.mp3",
+      "clipSourceStart": 9.1,
+      "vi": "Đề xuất của chúng ta đã được phê duyệt!",
+      "listeningKeywords": [
+        "proposal",
+        "approved"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "proposal",
+          "vi": "Đề xuất"
+        },
+        {
+          "en": "approved",
+          "vi": "phê duyệt"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u02-k1",
+          "en": "proposal",
+          "vi": [
+            "Đề xuất"
+          ],
+          "start": 9.39,
+          "end": 10.05,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u02-k2",
+          "en": "approved",
+          "vi": [
+            "phê duyệt"
+          ],
+          "start": 10.26,
+          "end": 10.98,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u03",
+      "speaker": "M",
+      "text": "You mean our design for the new wing of the city hall building? That's fantastic.",
+      "start": 11.25,
+      "end": 15.75,
+      "clipSrc": "../../audio-sentences/t8-41-s03.mp3",
+      "clipSourceStart": 11.17,
+      "vi": "Ý bạn là thiết kế của chúng ta cho cánh mới của tòa thị chính? Thật tuyệt vời.",
+      "listeningKeywords": [
+        "design",
+        "wing",
+        "city hall",
+        "building"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "design",
+          "vi": "thiết kế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u03-k1",
+          "en": "wing",
+          "vi": [],
+          "start": 12.93,
+          "end": 13.2,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u03-k2",
+          "en": "city hall",
+          "vi": [],
+          "start": 13.38,
+          "end": 14.01,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u03-k3",
+          "en": "building",
+          "vi": [],
+          "start": 14.01,
+          "end": 14.46,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u04",
+      "speaker": "W",
+      "text": "Yes! I just spoke with a representative from the mayor's office.",
+      "start": 15.81,
+      "end": 19.83,
+      "clipSrc": "../../audio-sentences/t8-41-s04.mp3",
+      "clipSourceStart": 15.75,
+      "vi": "Vâng! Tôi vừa nói chuyện với đại diện từ văn phòng thị trưởng.",
+      "listeningKeywords": [
+        "spoke",
+        "representative",
+        "mayor's office"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spoke",
+          "vi": "nói chuyện"
+        },
+        {
+          "en": "representative",
+          "vi": "đại diện"
+        },
+        {
+          "en": "mayor's office",
+          "vi": "thị trưởng"
+        },
+        {
+          "en": "mayor's office",
+          "vi": "văn phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u04-k1",
+          "en": "spoke",
+          "vi": [
+            "nói chuyện"
+          ],
+          "start": 17.28,
+          "end": 17.58,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u04-k2",
+          "en": "representative",
+          "vi": [
+            "đại diện"
+          ],
+          "start": 17.76,
+          "end": 18.6,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u04-k3",
+          "en": "mayor's office",
+          "vi": [
+            "thị trưởng",
+            "văn phòng"
+          ],
+          "start": 18.87,
+          "end": 19.83,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u05",
+      "speaker": "W",
+      "text": "The mayor wants to meet with us next week.",
+      "start": 20.13,
+      "end": 22.56,
+      "clipSrc": "../../audio-sentences/t8-41-s05.mp3",
+      "clipSourceStart": 20.05,
+      "vi": "Thị trưởng muốn gặp chúng ta tuần tới.",
+      "listeningKeywords": [
+        "mayor",
+        "meet"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mayor",
+          "vi": "Thị trưởng"
+        },
+        {
+          "en": "meet",
+          "vi": "gặp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u05-k1",
+          "en": "mayor",
+          "vi": [
+            "Thị trưởng"
+          ],
+          "start": 20.28,
+          "end": 20.61,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u05-k2",
+          "en": "meet",
+          "vi": [
+            "gặp"
+          ],
+          "start": 21.09,
+          "end": 21.39,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u06",
+      "speaker": "M",
+      "text": "It's a good thing we took those aerial photographs of the site.",
+      "start": 22.74,
+      "end": 25.68,
+      "clipSrc": "../../audio-sentences/t8-41-s06.mp3",
+      "clipSourceStart": 22.66,
+      "vi": "Thật tốt khi chúng ta chụp những ảnh hàng không của địa điểm đó.",
+      "listeningKeywords": [
+        "took",
+        "aerial photographs",
+        "site"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "aerial photographs",
+          "vi": "ảnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u06-k1",
+          "en": "took",
+          "vi": [],
+          "start": 23.61,
+          "end": 23.85,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u06-k2",
+          "en": "aerial photographs",
+          "vi": [
+            "ảnh"
+          ],
+          "start": 24.06,
+          "end": 25.14,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u07",
+      "speaker": "M",
+      "text": "We should use those to create a 3-D model of the building.",
+      "start": 26.13,
+      "end": 29.22,
+      "clipSrc": "../../audio-sentences/t8-41-s07.mp3",
+      "clipSourceStart": 26.05,
+      "vi": "Chúng ta nên dùng chúng để tạo mô hình 3D của tòa nhà.",
+      "listeningKeywords": [
+        "use",
+        "3",
+        "model",
+        "building"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "dùng"
+        },
+        {
+          "en": "building",
+          "vi": "tòa nhà"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u07-k1",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 26.52,
+          "end": 26.79,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u07-k2",
+          "en": "3",
+          "vi": [],
+          "start": 27.66,
+          "end": 27.95361,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u07-k3",
+          "en": "model",
+          "vi": [],
+          "start": 28.138103,
+          "end": 28.56,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u07-k4",
+          "en": "building",
+          "vi": [
+            "tòa nhà"
+          ],
+          "start": 28.77,
+          "end": 29.22,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-41-u08",
+      "speaker": "W",
+      "text": "You're right. Then we can bring that to the meeting.",
+      "start": 29.43,
+      "end": 32.49,
+      "clipSrc": "../../audio-sentences/t8-41-s08.mp3",
+      "clipSourceStart": 29.35,
+      "vi": "Bạn đúng. Sau đó chúng ta có thể mang đến cuộc họp.",
+      "listeningKeywords": [
+        "bring",
+        "meeting"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bring",
+          "vi": "mang"
+        },
+        {
+          "en": "meeting",
+          "vi": "cuộc họp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-41-u08-k1",
+          "en": "bring",
+          "vi": [
+            "mang"
+          ],
+          "start": 31.17,
+          "end": 31.44,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-41-u08-k2",
+          "en": "meeting",
+          "vi": [
+            "cuộc họp"
+          ],
+          "start": 31.92,
+          "end": 32.49,
+          "anchorSource": "t8-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "conversationId": "t4-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-44-u01",
+      "speaker": "W",
+      "text": "Hi. This is Giovanni Marino's agent. I'm calling to reschedule his planned appearance on the Sunday Morning Show.",
+      "start": 6.12,
+      "end": 12.9,
+      "clipSrc": "../../audio-sentences/t4-44-meaning-01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Chào. Đây là đại diện của Giovanni Marino. Tôi gọi để lên lịch lại lịch xuất hiện đã lên kế hoạch của anh ấy trên Sunday Morning Show.",
+      "listeningKeywords": [
+        "Giovanni Marino's agent",
+        "calling",
+        "reschedule",
+        "appearance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        },
+        {
+          "en": "reschedule",
+          "vi": "lên lịch lại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u01-k1",
+          "en": "Giovanni Marino's agent",
+          "vi": [],
+          "start": 7.17,
+          "end": 8.88,
+          "anchorSource": "t4-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u01-k2",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 9.39,
+          "end": 9.81,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u01-k3",
+          "en": "reschedule",
+          "vi": [
+            "lên lịch lại"
+          ],
+          "start": 9.96,
+          "end": 10.53,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u01-k4",
+          "en": "appearance",
+          "vi": [],
+          "start": 11.01,
+          "end": 11.55,
+          "anchorSource": "t4-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-44-u02",
+      "speaker": "M",
+      "text": "Right. We have him booked to appear on the show in July to promote his new movie.",
+      "start": 13.2,
+      "end": 18.06,
+      "clipSrc": "../../audio-sentences/t4-44-meaning-02.mp3",
+      "clipSourceStart": 13.12,
+      "vi": "Đúng rồi. Chúng tôi đã đặt lịch cho anh ấy xuất hiện trên chương trình vào tháng Bảy để quảng bá bộ phim mới.",
+      "listeningKeywords": [
+        "booked",
+        "appear",
+        "show",
+        "July"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "booked",
+          "vi": "đặt"
+        },
+        {
+          "en": "July",
+          "vi": "tháng Bảy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u02-k1",
+          "en": "booked",
+          "vi": [
+            "đặt"
+          ],
+          "start": 14.73,
+          "end": 14.97,
+          "anchorSource": "t4-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u02-k2",
+          "en": "appear",
+          "vi": [],
+          "start": 15.09,
+          "end": 15.45,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u02-k3",
+          "en": "show",
+          "vi": [],
+          "start": 15.69,
+          "end": 15.96,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u02-k4",
+          "en": "July",
+          "vi": [
+            "tháng Bảy"
+          ],
+          "start": 16.08,
+          "end": 16.65,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-44-u03",
+      "speaker": "W",
+      "text": "Unfortunately, the movie he's acting in is behind schedule, and he'll now be on location through the end of August.",
+      "start": 18.39,
+      "end": 24.78,
+      "clipSrc": "../../audio-sentences/t4-44-s06.mp3",
+      "clipSourceStart": 18.31,
+      "vi": "Thật không may, bộ phim anh ấy đang đóng bị chậm tiến độ, và anh ấy sẽ ở địa điểm quay đến cuối tháng Tám.",
+      "listeningKeywords": [
+        "acting",
+        "behind",
+        "schedule",
+        "on location"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "acting",
+          "vi": "đóng"
+        },
+        {
+          "en": "on location",
+          "vi": "địa điểm quay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u03-k1",
+          "en": "acting",
+          "vi": [
+            "đóng"
+          ],
+          "start": 20.22,
+          "end": 20.64,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u03-k2",
+          "en": "behind",
+          "vi": [],
+          "start": 20.94,
+          "end": 21.36,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u03-k3",
+          "en": "schedule",
+          "vi": [],
+          "start": 21.36,
+          "end": 21.87,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u03-k4",
+          "en": "on location",
+          "vi": [
+            "địa điểm quay"
+          ],
+          "start": 22.83,
+          "end": 23.52,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-44-u04",
+      "speaker": "M",
+      "text": "Hmm, I see. Let me look at our guest calendar.",
+      "start": 25.2,
+      "end": 28.65,
+      "clipSrc": "../../audio-sentences/t4-44-meaning-04.mp3",
+      "clipSourceStart": 25.12,
+      "vi": "Hmm, tôi hiểu rồi. Để tôi xem lịch khách mời.",
+      "listeningKeywords": [
+        "see",
+        "guest calendar"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "hiểu"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "guest calendar",
+          "vi": "lịch khách mời"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u04-k1",
+          "en": "see",
+          "vi": [
+            "hiểu",
+            "xem"
+          ],
+          "start": 25.95,
+          "end": 26.46,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u04-k2",
+          "en": "guest calendar",
+          "vi": [
+            "lịch khách mời"
+          ],
+          "start": 27.75,
+          "end": 28.65,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-44-u05",
+      "speaker": "M",
+      "text": "I have a slot I'm looking to fill on September fourteenth—would that work?",
+      "start": 29.4,
+      "end": 34.26,
+      "clipSrc": "../../audio-sentences/t4-44-s09.mp3",
+      "clipSourceStart": 29.32,
+      "vi": "Tôi có một khoảng trống cần lấp vào ngày 14 tháng Chín—có được không?",
+      "listeningKeywords": [
+        "slot",
+        "looking",
+        "fill",
+        "September fourteenth"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "slot",
+          "vi": "khoảng trống"
+        },
+        {
+          "en": "fill",
+          "vi": "lấp"
+        },
+        {
+          "en": "September fourteenth",
+          "vi": "tháng Chín"
+        },
+        {
+          "en": "September fourteenth",
+          "vi": "14"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u05-k1",
+          "en": "slot",
+          "vi": [
+            "khoảng trống"
+          ],
+          "start": 30.24,
+          "end": 30.66,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u05-k2",
+          "en": "looking",
+          "vi": [],
+          "start": 30.81,
+          "end": 31.11,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u05-k3",
+          "en": "fill",
+          "vi": [
+            "lấp"
+          ],
+          "start": 31.23,
+          "end": 31.56,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u05-k4",
+          "en": "September fourteenth",
+          "vi": [
+            "tháng Chín",
+            "14"
+          ],
+          "start": 31.71,
+          "end": 33.36,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-44-u06",
+      "speaker": "W",
+      "text": "Yes, that would be great, thanks.",
+      "start": 34.59,
+      "end": 37.02,
+      "clipSrc": "../../audio-sentences/t4-44-s10.mp3",
+      "clipSourceStart": 34.51,
+      "vi": "Vâng, sẽ tuyệt vời, cảm ơn.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t4-44-u07",
+      "speaker": "M",
+      "text": "All right. I'll update the contract with the new date and e-mail it to you.",
+      "start": 37.23,
+      "end": 41.43,
+      "clipSrc": "../../audio-sentences/t4-44-meaning-07.mp3",
+      "clipSourceStart": 37.15,
+      "vi": "Được rồi. Tôi sẽ cập nhật hợp đồng với ngày mới và gửi email cho bạn.",
+      "listeningKeywords": [
+        "update",
+        "contract",
+        "date",
+        "mail"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "update",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "contract",
+          "vi": "hợp đồng"
+        },
+        {
+          "en": "mail",
+          "vi": "email"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-44-u07-k1",
+          "en": "update",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 38.52,
+          "end": 38.85,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u07-k3",
+          "en": "date",
+          "vi": [],
+          "start": 38.52,
+          "end": 38.85,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u07-k2",
+          "en": "contract",
+          "vi": [
+            "hợp đồng"
+          ],
+          "start": 38.94,
+          "end": 39.51,
+          "anchorSource": "t4-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-44-u07-k4",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 40.65,
+          "end": 40.89,
+          "anchorSource": "t4-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

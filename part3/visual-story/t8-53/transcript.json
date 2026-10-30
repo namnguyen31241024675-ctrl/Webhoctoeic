@@ -1,0 +1,543 @@
+{
+  "conversationId": "t8-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      13,
+      14
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-53-u01",
+      "speaker": "W",
+      "text": "Hi! How are you enjoying the agricultural trade show?",
+      "start": 5.97,
+      "end": 9.42,
+      "clipSrc": "../../audio-sentences/t8-53-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Chào! Anh xem triển lãm thương mại nông nghiệp như thế nào rồi?",
+      "listeningKeywords": [
+        "enjoying",
+        "agricultural trade",
+        "show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "show",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u01-k1",
+          "en": "enjoying",
+          "vi": [],
+          "start": 7.38,
+          "end": 7.8,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u01-k2",
+          "en": "agricultural trade",
+          "vi": [],
+          "start": 7.95,
+          "end": 9.06,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u01-k3",
+          "en": "show",
+          "vi": [
+            "xem"
+          ],
+          "start": 9.06,
+          "end": 9.42,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u02",
+      "speaker": "M",
+      "text": "I've seen some great demonstrations.",
+      "start": 9.87,
+      "end": 12.03,
+      "clipSrc": "../../audio-sentences/t8-53-s02.mp3",
+      "clipSourceStart": 9.79,
+      "vi": "Tôi đã xem được một số buổi trình diễn tuyệt vời.",
+      "listeningKeywords": [
+        "seen",
+        "demonstrations"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "seen",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u02-k1",
+          "en": "seen",
+          "vi": [
+            "xem"
+          ],
+          "start": 10.08,
+          "end": 10.38,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u02-k2",
+          "en": "demonstrations",
+          "vi": [],
+          "start": 11.04,
+          "end": 12.03,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u03",
+      "speaker": "M",
+      "text": "That being said, one of the reasons I came to this show was to visit your booth.",
+      "start": 12.33,
+      "end": 16.98,
+      "clipSrc": "../../audio-sentences/t8-53-s03.mp3",
+      "clipSourceStart": 12.25,
+      "vi": "Dù vậy, một trong những lý do tôi đến triển lãm này là để thăm gian hàng của các bạn.",
+      "listeningKeywords": [
+        "reasons",
+        "show",
+        "visit",
+        "booth"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "visit",
+          "vi": "thăm"
+        },
+        {
+          "en": "visit",
+          "vi": "đến"
+        },
+        {
+          "en": "booth",
+          "vi": "gian hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u03-k1",
+          "en": "reasons",
+          "vi": [],
+          "start": 14.04,
+          "end": 14.52,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u03-k2",
+          "en": "show",
+          "vi": [],
+          "start": 15.3,
+          "end": 15.6,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u03-k3",
+          "en": "visit",
+          "vi": [
+            "thăm",
+            "đến"
+          ],
+          "start": 15.96,
+          "end": 16.29,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u03-k4",
+          "en": "booth",
+          "vi": [
+            "gian hàng"
+          ],
+          "start": 16.53,
+          "end": 16.98,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u04",
+      "speaker": "M",
+      "text": "I've been watching some promotional videos online about the machinery that you sell.",
+      "start": 17.31,
+      "end": 21.48,
+      "clipSrc": "../../audio-sentences/t8-53-s04.mp3",
+      "clipSourceStart": 17.23,
+      "vi": "Tôi đã xem một số video quảng cáo trực tuyến về máy móc mà các bạn bán.",
+      "listeningKeywords": [
+        "watching",
+        "promotional videos online",
+        "machinery",
+        "sell"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "promotional videos online",
+          "vi": "trực tuyến"
+        },
+        {
+          "en": "machinery",
+          "vi": "máy móc"
+        },
+        {
+          "en": "sell",
+          "vi": "bán"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u04-k1",
+          "en": "watching",
+          "vi": [],
+          "start": 17.67,
+          "end": 18.03,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u04-k2",
+          "en": "promotional videos online",
+          "vi": [
+            "trực tuyến"
+          ],
+          "start": 18.24,
+          "end": 19.74,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u04-k3",
+          "en": "machinery",
+          "vi": [
+            "máy móc"
+          ],
+          "start": 20.1,
+          "end": 20.73,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u04-k4",
+          "en": "sell",
+          "vi": [
+            "bán"
+          ],
+          "start": 21.03,
+          "end": 21.48,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u05",
+      "speaker": "W",
+      "text": "Is this our new line of automated farming technology?",
+      "start": 21.84,
+      "end": 25.47,
+      "clipSrc": "../../audio-sentences/t8-53-s05.mp3",
+      "clipSourceStart": 21.76,
+      "vi": "Đây có phải là dòng công nghệ nông nghiệp tự động mới của chúng tôi không?",
+      "listeningKeywords": [
+        "line",
+        "automated farming technology"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "line",
+          "vi": "dòng"
+        },
+        {
+          "en": "automated farming technology",
+          "vi": "công nghệ nông nghiệp tự động"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u05-k1",
+          "en": "line",
+          "vi": [
+            "dòng"
+          ],
+          "start": 22.95,
+          "end": 23.31,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u05-k2",
+          "en": "automated farming technology",
+          "vi": [
+            "công nghệ nông nghiệp tự động"
+          ],
+          "start": 23.49,
+          "end": 25.47,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u06",
+      "speaker": "M",
+      "text": "That's right. I watched a video about a machine that can transplant seedlings from small pots to bigger pots.",
+      "start": 25.68,
+      "end": 32.04,
+      "clipSrc": "../../audio-sentences/t8-53-s06.mp3",
+      "clipSourceStart": 25.6,
+      "vi": "Đúng vậy. Tôi đã xem video về một máy có thể cấy cây con từ chậu nhỏ sang chậu lớn.",
+      "listeningKeywords": [
+        "watched",
+        "seedlings",
+        "small pots",
+        "bigger pots"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "seedlings",
+          "vi": "cây con"
+        },
+        {
+          "en": "small pots",
+          "vi": "nhỏ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u06-k1",
+          "en": "watched",
+          "vi": [],
+          "start": 26.76,
+          "end": 27.141,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u06-k2",
+          "en": "seedlings",
+          "vi": [
+            "cây con"
+          ],
+          "start": 29.52,
+          "end": 30.12,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u06-k3",
+          "en": "small pots",
+          "vi": [
+            "nhỏ"
+          ],
+          "start": 30.3,
+          "end": 32.04,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u07",
+      "speaker": "M",
+      "text": "It handles 10,000 plants in an hour?",
+      "start": 32.43,
+      "end": 34.89,
+      "clipSrc": "../../audio-sentences/t8-53-s07.mp3",
+      "clipSourceStart": 32.35,
+      "vi": "Nó xử lý 10.000 cây trong một giờ ư?",
+      "listeningKeywords": [
+        "handles",
+        "10,000",
+        "plants",
+        "hour"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plants",
+          "vi": "cây"
+        },
+        {
+          "en": "hour",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u07-k1",
+          "en": "handles",
+          "vi": [],
+          "start": 32.61,
+          "end": 33.06,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u07-k2",
+          "en": "plants",
+          "vi": [
+            "cây"
+          ],
+          "start": 33.69,
+          "end": 34.08,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u07-k3",
+          "en": "hour",
+          "vi": [
+            "giờ"
+          ],
+          "start": 34.38,
+          "end": 34.89,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u08",
+      "speaker": "W",
+      "text": "It sure does! And we have several payment options.",
+      "start": 35.19,
+      "end": 38.76,
+      "clipSrc": "../../audio-sentences/t8-53-s08.mp3",
+      "clipSourceStart": 35.11,
+      "vi": "Đúng vậy đấy! Và chúng tôi có nhiều lựa chọn thanh toán.",
+      "listeningKeywords": [
+        "payment options"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "payment options",
+          "vi": "thanh toán"
+        },
+        {
+          "en": "payment options",
+          "vi": "lựa chọn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u08-k1",
+          "en": "payment options",
+          "vi": [
+            "thanh toán",
+            "lựa chọn"
+          ],
+          "start": 37.71,
+          "end": 38.76,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-53-u09",
+      "speaker": "W",
+      "text": "Let me give you some details about our financing plans.",
+      "start": 39.03,
+      "end": 42.18,
+      "clipSrc": "../../audio-sentences/t8-53-s09.mp3",
+      "clipSourceStart": 38.95,
+      "vi": "Để tôi cho anh một số chi tiết về lựa chọn chi trả của chúng tôi.",
+      "listeningKeywords": [
+        "give",
+        "details",
+        "financing plans"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "give",
+          "vi": "cho"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-53-u09-k1",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 39.33,
+          "end": 39.54,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u09-k2",
+          "en": "details",
+          "vi": [],
+          "start": 39.87,
+          "end": 40.38,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-53-u09-k3",
+          "en": "financing plans",
+          "vi": [],
+          "start": 40.77,
+          "end": 42.18,
+          "anchorSource": "t8-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

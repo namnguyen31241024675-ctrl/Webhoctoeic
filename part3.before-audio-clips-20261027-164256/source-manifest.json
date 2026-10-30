@@ -1,0 +1,1116 @@
+[
+  {
+    "conversation": "t1-32",
+    "audio": "audio/E26-T01-32-34.mp3",
+    "sha256": "cc5eab6c394dc6eaaff635d26ca813f9018c77b8b8dc10fc97e70b1c756a75dd",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    "timingCoverage": 0.975,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio/E26-T01-35-37.mp3",
+    "sha256": "f14d58b603f0e8e50761c18172d6175e31ea2f48ad63b1b458a78346ff4f5578",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "timingCoverage": 0.882,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio/E26-T01-38-40.mp3",
+    "sha256": "b29930a9b561a578fb374d1dcb0869ce6aaaab2b0fd7f4b1d405a3e55e8f6b5e",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio/E26-T01-41-43.mp3",
+    "sha256": "a15ac30c8d0d365e6bfbb5bd2ad29ce4de064ba814667ce861294d1629e642d2",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "timingCoverage": 0.986,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio/E26-T01-44-46.mp3",
+    "sha256": "5a0b674eb1c21dad62f817951db6725b88f4198784ace39d6dec44c5e30ecc9b",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        13
+      ]
+    },
+    "timingCoverage": 0.955,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio/E26-T01-47-49.mp3",
+    "sha256": "6058dbe9f492d34350ad900bfed74694f9fa32efda4589d8c559e8778f72c851",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        14
+      ]
+    },
+    "timingCoverage": 0.966,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio/E26-T01-50-52.mp3",
+    "sha256": "226285d853e0e00edbe0e426e841252ad307f488c4a34decafb1f8bb7a11ad74",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        15
+      ]
+    },
+    "timingCoverage": 0.968,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio/E26-T01-53-55.mp3",
+    "sha256": "af1aa73871cc4fe32945cfdd866f6804d6b1a9e5aae6dcfcb18a4c8131b5e7b2",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    "timingCoverage": 0.974,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio/E26-T01-56-58.mp3",
+    "sha256": "c38e321f362ab0ad8ef7a760e1ed943245adac703e246d7d3e8892893bca736a",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    "timingCoverage": 0.975,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 5,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio/E26-T01-59-61.mp3",
+    "sha256": "32e8d396c7e973528294adb37bf7e1bcff7079043ab64b6a54aed963a14a9d94",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    "timingCoverage": 0.979,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio/E26-T01-62-64.mp3",
+    "sha256": "1239da23bdf06b4d9861f32181a25128e890ce2798c95af59e02b3c160227849",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    "timingCoverage": 0.958,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio/E26-T01-65-67.mp3",
+    "sha256": "1e6855a226faf0bf45e4df97822dae47bbaa4c3b80fa2717ee322f42cd81cefa",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio/E26-T01-68-70.mp3",
+    "sha256": "ed5f2d1623fd90f2e38f5d10fde4b0bfde0e497045f4a1fc36d6c1752fc6036b",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    "timingCoverage": 0.958,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio/E26-T02-32-34.mp3",
+    "sha256": "35d12dfe151affec6a82a69e6b4995bf5136f856c57a84ddc9e7e0a01bbebbab",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        7,
+        8
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio/E26-T02-35-37.mp3",
+    "sha256": "024c52b0e0cea8e745923c36a180b5dc7417569b8efdbc586789990fb43723dd",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio/E26-T02-38-40.mp3",
+    "sha256": "08d14864cafe7258b7fdb44cbb7e09f6abd0a9b4eedc74ca46ca81513a5c6328",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "timingCoverage": 0.964,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio/E26-T02-41-43.mp3",
+    "sha256": "b26773952072c9eaa158972e1c13688ee2396c4fa8c4965d9198cedb128af5f8",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "timingCoverage": 0.957,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio/E26-T02-44-46.mp3",
+    "sha256": "2286da23d6df0c04165932033b456152b74678d7ca1f1405d1d9b650e05d32bc",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "timingCoverage": 0.955,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 5,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio/E26-T02-47-49.mp3",
+    "sha256": "30bc840451ef7d4454143abf68d1ba900d98bcbec8fa6911995109d87deeab01",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio/E26-T02-50-52.mp3",
+    "sha256": "e8d33cc68479618b2d8961efd3c8313a43632ab2cc778fd4d99e9639d682ddc9",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "timingCoverage": 0.979,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio/E26-T02-53-55.mp3",
+    "sha256": "34a45af815865739aee6affc58366ab799beb1021e3cb156b7f5569acadd342b",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "timingCoverage": 0.955,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio/E26-T02-56-58.mp3",
+    "sha256": "2a2fed4c00f5cd44d746b61886d1a90767c21f4cb3e589714136ba8b45887d89",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    "timingCoverage": 0.964,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio/E26-T02-59-61.mp3",
+    "sha256": "635b0f1261dd34e36d7f8fe7c34ed06394bb8aa001ed2c2a00c5967aed5ce405",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    "timingCoverage": 0.978,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio/E26-T02-62-64.mp3",
+    "sha256": "fecaa3462e77e1583d1e70f7a316b16aa58293e2e5b17d6f1a1621d126e9f787",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    "timingCoverage": 0.99,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 15,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio/E26-T02-65-67.mp3",
+    "sha256": "8d33e5712f25b52c71030a0de089835a20d8a2a03a027b058071cd888e1dff99",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    "timingCoverage": 0.97,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 16,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio/E26-T02-68-70.mp3",
+    "sha256": "7fb99810859a45a79cc70e89af4b73e6ec75a34b050a7cf3429767cc075b0cd2",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    "timingCoverage": 0.911,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio/E26-T03-32-34.mp3",
+    "sha256": "314b1064cf24517e39cb3c6c2b253112c75827f542d6bcc94f09eb28ebdd3e4d",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    "timingCoverage": 0.921,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio/E26-T03-35-37.mp3",
+    "sha256": "41cc49899f21fe11aebdb206d0642b7d70665167f9b02985f2353baca1e82db5",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "timingCoverage": 0.939,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio/E26-T03-38-40.mp3",
+    "sha256": "9ef5e5d17bbccaab6e89736a77cabba99b921197b64228220aebea0fea39b837",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "timingCoverage": 0.957,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio/E26-T03-41-43.mp3",
+    "sha256": "e7af69a17e58f117922a7a7d93f4c5900af9df9eeeb8e070fecea93016688ac1",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "timingCoverage": 0.99,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio/E26-T03-44-46.mp3",
+    "sha256": "5c7e44132dac0c857293a509c893fd83a0131974c4b3b3bd2455dfcd386c56cd",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    "timingCoverage": 0.97,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio/E26-T03-47-49.mp3",
+    "sha256": "8d7051e4ff55b45b1e4adc3ab5a1907ab888132960ccd62ea58bb4a9007d3ac4",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        13,
+        14
+      ],
+      "transcriptCorrection": {
+        "file": "C:\\Users\\Nam\\Documents\\transcript 2026 ets.pdf",
+        "pages": [
+          76
+        ],
+        "reason": "Supplied individual Test 3 PDF contains unrelated transcript for 47-49. Scan read visually and checked against audio."
+      }
+    },
+    "timingCoverage": 0.976,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio/E26-T03-50-52.mp3",
+    "sha256": "6c262d9388e414a4025a377aa1ba6d5680bab2db4da695574817a5151b6fe979",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        14,
+        15
+      ],
+      "transcriptCorrection": {
+        "file": "C:\\Users\\Nam\\Documents\\transcript 2026 ets.pdf",
+        "pages": [
+          77
+        ],
+        "reason": "Supplied individual Test 3 PDF contains unrelated transcript for 50-52. Scan read visually and checked against audio."
+      }
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio/E26-T03-53-55.mp3",
+    "sha256": "a8b7a1980a9f678acc009807b20fc52c87ad29d1e1c2c9cfb14e7ef365318b1b",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    "timingCoverage": 0.99,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio/E26-T03-56-58.mp3",
+    "sha256": "f76ecf47422baf91362f5acb979b5627d22077a356e4c93eea024a5afdcea5a5",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    "timingCoverage": 0.99,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio/E26-T03-59-61.mp3",
+    "sha256": "8908804150643ec74e31c41ebf0e939750d97a4fa14d5738a3e0d214952ca02d",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    "timingCoverage": 0.99,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio/E26-T03-62-64.mp3",
+    "sha256": "2b9638e65c1ebff259e7c2be152902ca18f784ea8e13fb6ea27449a352478106",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    "timingCoverage": 0.937,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 5,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio/E26-T03-65-67.mp3",
+    "sha256": "6a8380301d0eb5f106bbf554a2c2874108aeb9e5686a2a2bdbcfd3c956ec56be",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio/E26-T03-68-70.mp3",
+    "sha256": "90d75a67e84b73fbccaa1a655f30c858ca398cb349923b8974ec0f63c0935e93",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio/E26-T04-32-34.mp3",
+    "sha256": "f5021bead79404605d3bee328ee3dbe41e535eb2476579f78ddaa75cfcf62ea5",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        8
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio/E26-T04-35-37.mp3",
+    "sha256": "4676665bb732652036f683823012733b1a788bcc53381332217e6910394a0387",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        9
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio/E26-T04-38-40.mp3",
+    "sha256": "e209c2fa8a449384779f30e2f2529a31781205e1cddb0a9598ba019e1be673be",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "timingCoverage": 0.983,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio/E26-T04-41-43.mp3",
+    "sha256": "219e407f29ccec8cdad0ae8030c39ead1445d74763e034be7d2479b641d81e88",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "timingCoverage": 0.978,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio/E26-T04-44-46.mp3",
+    "sha256": "4a14e82749bc2038d03480c095a85a2fad86f6164aaf0a05076159e99e5674eb",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    "timingCoverage": 0.911,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio/E26-T04-47-49.mp3",
+    "sha256": "3e792991ba113f218c0e723d7dad8db3cd46f8a1a65814c558cad666892cf2f7",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 12,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio/E26-T04-50-52.mp3",
+    "sha256": "047b7e7bda49f88d305f35cc07488cd8f815207f9b74efb87a65b2ed7c5a685a",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "timingCoverage": 0.988,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio/E26-T04-53-55.mp3",
+    "sha256": "67f379ffdeaa694f8eefd15643ecd4732af560c1b5b2e08282cae988f3f70123",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    "timingCoverage": 0.987,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 7,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio/E26-T04-56-58.mp3",
+    "sha256": "d2c3b3192b7112b611166123005b21ebfb555e619d01dc1aed2ecd1d31f86536",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    "timingCoverage": 0.945,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio/E26-T04-59-61.mp3",
+    "sha256": "88c5dd24b3f7c25cbb9fc3d6a373bb0e5e97bc03f8ddf40dcdb2edc73e315b4b",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    "timingCoverage": 0.954,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio/E26-T04-62-64.mp3",
+    "sha256": "968d6b686eade5d068cd959649878edb75d4dec47e713ee5ba46893d4a9da05a",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    "timingCoverage": 0.942,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 13,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio/E26-T04-65-67.mp3",
+    "sha256": "2b505d369cd467e40ab7729490cfd4d901559304eeaa1ddc4aa939ae45a635c5",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    "timingCoverage": 0.991,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 16,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio/E26-T04-68-70.mp3",
+    "sha256": "c25787ec1d91f464b9cf740410feefdea7bd6b497e3ed8e3285995c8fd713111",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 13,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio/E26-T05-32-34.mp3",
+    "sha256": "ce5ab1cb34db8eb1a1b2ffff4e17a38669a933edcb979f959df4eca99d3c42e9",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        7,
+        8
+      ]
+    },
+    "timingCoverage": 0.937,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio/E26-T05-35-37.mp3",
+    "sha256": "043f328b4a4c4bf5981d8dd3874227a17a6a12ba26df4b2d022585dc4082cb7c",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    "timingCoverage": 0.938,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio/E26-T05-38-40.mp3",
+    "sha256": "4838d6159f68a53d82fca8e4b09ec433d2c572352b631c710403c57738048728",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    "timingCoverage": 0.939,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio/E26-T05-41-43.mp3",
+    "sha256": "c96b73372090537101b3e4f7c274964a4d6811532d67376c5fef50ef05eb740c",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    "timingCoverage": 0.932,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 9,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio/E26-T05-44-46.mp3",
+    "sha256": "9acd5a1f71df9c0383e96ae5910f63631b9637bd80f3d943cddbf519e53a2e9c",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    "timingCoverage": 0.967,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio/E26-T05-47-49.mp3",
+    "sha256": "1224f790da1cc546e141fcc61979ced75f1b7762fec1727d92ff990166beac68",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    "timingCoverage": 0.968,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio/E26-T05-50-52.mp3",
+    "sha256": "07429a221036e14e6d438ee772a34b900f3b67fe2ac51a08c4ed98cd386c58a4",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    "timingCoverage": 0.959,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio/E26-T05-53-55.mp3",
+    "sha256": "61589c9371d1ce5e756edcbf44d5f00e493c3f3e0ddade2dc9669ea446ab96df",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    "timingCoverage": 0.945,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio/E26-T05-56-58.mp3",
+    "sha256": "196a96ec21b0292e6872cf63510fd4522571b2c9bf460b44a7bb10f116e46cf3",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    "timingCoverage": 0.962,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 8,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio/E26-T05-59-61.mp3",
+    "sha256": "c7215cebcad3d12053f98b1d2b15610e10bee294c9b811251e6957cf2744230a",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    "timingCoverage": 0.977,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 13,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio/E26-T05-62-64.mp3",
+    "sha256": "674e2fc499523ffa89c1267c48cabd141854fb3857b4e0625ddc4adfaf8ab12d",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    "timingCoverage": 1.0,
+    "timingMethod": "Audio word times from transcript-constrained Vosk recognition, checked against independent recognition",
+    "sentenceCount": 13,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio/E26-T05-65-67.mp3",
+    "sha256": "ecb137b3196de54eba61d89d4905424b3ed848a1db4bd0694a87b802e79eebd0",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    "timingCoverage": 0.939,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 11,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio/E26-T05-68-70.mp3",
+    "sha256": "25aebbc698fe0a46e910432c6f9b293631bfefda360921f1ec10fbd9f8167558",
+    "source": {
+      "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    "timingCoverage": 0.948,
+    "timingMethod": "Vosk speech recognition word anchors matched to supplied transcript",
+    "sentenceCount": 10,
+    "sentenceTiming": "Measured speech word times; short ASR substitutions bracketed by source context; 3 short utterances use measured audio-energy onset/offset.",
+    "sentenceSplitRule": "Full stop only within each speaker turn"
+  }
+]

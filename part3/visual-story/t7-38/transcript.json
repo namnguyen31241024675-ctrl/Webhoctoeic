@@ -1,0 +1,552 @@
+{
+  "conversationId": "t7-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-38-u01",
+      "speaker": "M",
+      "text": "Dr. Ruiz, do you have a minute?",
+      "start": 5.55,
+      "end": 7.77,
+      "clipSrc": "../../audio-sentences/t7-38-s01.mp3",
+      "clipSourceStart": 5.47,
+      "vi": "Bác sĩ Ruiz, ngài có chút thời gian không?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t7-38-u02",
+      "speaker": "W",
+      "text": "Sure.",
+      "start": 8.1,
+      "end": 8.61,
+      "clipSrc": "../../audio-sentences/t7-38-s02.mp3",
+      "clipSourceStart": 8.02,
+      "vi": "Có.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t7-38-u03",
+      "speaker": "M",
+      "text": "It looks like the hospital has a little money left over in our staff development budget.",
+      "start": 9.0,
+      "end": 13.92,
+      "clipSrc": "../../audio-sentences/t7-38-s03.mp3",
+      "clipSourceStart": 8.92,
+      "vi": "Hình như bệnh viện còn dư một ít tiền trong ngân sách phát triển nhân viên.",
+      "listeningKeywords": [
+        "looks",
+        "hospital",
+        "left",
+        "staff development budget"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "left",
+          "vi": "còn"
+        },
+        {
+          "en": "staff development budget",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "staff development budget",
+          "vi": "ngân sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u03-k1",
+          "en": "looks",
+          "vi": [],
+          "start": 9.21,
+          "end": 9.57,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u03-k2",
+          "en": "hospital",
+          "vi": [],
+          "start": 9.96,
+          "end": 10.56,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u03-k3",
+          "en": "left",
+          "vi": [
+            "còn"
+          ],
+          "start": 11.46,
+          "end": 11.76,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u03-k4",
+          "en": "staff development budget",
+          "vi": [
+            "nhân viên",
+            "ngân sách"
+          ],
+          "start": 12.405044,
+          "end": 13.92,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u04",
+      "speaker": "M",
+      "text": "Can you think of anything we could spend it on? I'm just looking for ideas.",
+      "start": 14.46,
+      "end": 18.9,
+      "clipSrc": "../../audio-sentences/t7-38-s04.mp3",
+      "clipSourceStart": 14.38,
+      "vi": "Ngài có nghĩ ra thứ gì để chi tiêu không? Tôi chỉ đang tìm ý tưởng thôi.",
+      "listeningKeywords": [
+        "spend",
+        "looking",
+        "ideas"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spend",
+          "vi": "chi"
+        },
+        {
+          "en": "looking",
+          "vi": "tìm"
+        },
+        {
+          "en": "ideas",
+          "vi": "ý tưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u04-k1",
+          "en": "spend",
+          "vi": [
+            "chi"
+          ],
+          "start": 16.14,
+          "end": 16.5,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u04-k2",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 17.73,
+          "end": 18.06,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u04-k3",
+          "en": "ideas",
+          "vi": [
+            "ý tưởng"
+          ],
+          "start": 18.21,
+          "end": 18.9,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u05",
+      "speaker": "W",
+      "text": "Well, I'd love it if we could get a subscription to Prescriber Med's newsletter.",
+      "start": 19.26,
+      "end": 24.27,
+      "clipSrc": "../../audio-sentences/t7-38-s05.mp3",
+      "clipSourceStart": 19.18,
+      "vi": "Ừm, tôi rất muốn chúng ta đăng ký nhận bản tin của Prescriber Med.",
+      "listeningKeywords": [
+        "love",
+        "get",
+        "subscription",
+        "newsletter"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "get",
+          "vi": "nhận"
+        },
+        {
+          "en": "subscription",
+          "vi": "đăng ký"
+        },
+        {
+          "en": "newsletter",
+          "vi": "bản tin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u05-k1",
+          "en": "love",
+          "vi": [],
+          "start": 19.83,
+          "end": 20.16,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u05-k2",
+          "en": "get",
+          "vi": [
+            "nhận"
+          ],
+          "start": 20.76,
+          "end": 21.03,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u05-k3",
+          "en": "subscription",
+          "vi": [
+            "đăng ký"
+          ],
+          "start": 21.12,
+          "end": 22.05,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u05-k4",
+          "en": "newsletter",
+          "vi": [
+            "bản tin"
+          ],
+          "start": 23.46,
+          "end": 24.27,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u06",
+      "speaker": "W",
+      "text": "A lot of the expert summaries in it are useful for my clinical practice work.",
+      "start": 24.81,
+      "end": 29.16,
+      "clipSrc": "../../audio-sentences/t7-38-s06.mp3",
+      "clipSourceStart": 24.73,
+      "vi": "Có rất nhiều tóm tắt chuyên gia trong đó hữu ích cho công việc lâm sàng của tôi.",
+      "listeningKeywords": [
+        "summaries",
+        "useful",
+        "clinical practice",
+        "work"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "work",
+          "vi": "công việc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u06-k1",
+          "en": "summaries",
+          "vi": [],
+          "start": 25.940118,
+          "end": 26.49,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u06-k2",
+          "en": "useful",
+          "vi": [],
+          "start": 26.85,
+          "end": 27.45,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u06-k3",
+          "en": "clinical practice",
+          "vi": [],
+          "start": 27.78,
+          "end": 28.71,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u06-k4",
+          "en": "work",
+          "vi": [
+            "công việc"
+          ],
+          "start": 28.71,
+          "end": 29.16,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u07",
+      "speaker": "M",
+      "text": "Sounds good. I'm going to ask other doctors, too, and see how best to use these funds.",
+      "start": 29.49,
+      "end": 34.89,
+      "clipSrc": "../../audio-sentences/t7-38-s07.mp3",
+      "clipSourceStart": 29.41,
+      "vi": "Nghe hay đấy. Tôi cũng sẽ hỏi các bác sĩ khác để xem cách sử dụng quỹ này tốt nhất.",
+      "listeningKeywords": [
+        "ask",
+        "doctors",
+        "see",
+        "funds"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u07-k1",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 31.17,
+          "end": 31.44,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u07-k2",
+          "en": "doctors",
+          "vi": [],
+          "start": 31.68,
+          "end": 32.16,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u07-k3",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 32.88,
+          "end": 33.12,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u07-k4",
+          "en": "funds",
+          "vi": [],
+          "start": 34.32,
+          "end": 34.89,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u08",
+      "speaker": "W",
+      "text": "Great. I'd suggest maybe sending out a survey, though.",
+      "start": 35.34,
+      "end": 39.21,
+      "clipSrc": "../../audio-sentences/t7-38-s08.mp3",
+      "clipSourceStart": 35.26,
+      "vi": "Tuyệt. Nhưng tôi đề nghị gửi một cuộc khảo sát đi.",
+      "listeningKeywords": [
+        "suggest",
+        "sending",
+        "survey",
+        "though"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sending",
+          "vi": "gửi"
+        },
+        {
+          "en": "survey",
+          "vi": "khảo sát"
+        },
+        {
+          "en": "though",
+          "vi": "Nhưng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u08-k1",
+          "en": "suggest",
+          "vi": [],
+          "start": 36.66,
+          "end": 37.26,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u08-k2",
+          "en": "sending",
+          "vi": [
+            "gửi"
+          ],
+          "start": 37.62,
+          "end": 38.07,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u08-k3",
+          "en": "survey",
+          "vi": [
+            "khảo sát"
+          ],
+          "start": 38.25,
+          "end": 38.82,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-38-u08-k4",
+          "en": "though",
+          "vi": [
+            "Nhưng"
+          ],
+          "start": 38.82,
+          "end": 39.21,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u09",
+      "speaker": "W",
+      "text": "That'd be more convenient.",
+      "start": 39.51,
+      "end": 40.89,
+      "clipSrc": "../../audio-sentences/t7-38-s09.mp3",
+      "clipSourceStart": 39.43,
+      "vi": "Như vậy sẽ tiện hơn.",
+      "listeningKeywords": [
+        "convenient"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "convenient",
+          "vi": "tiện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u09-k1",
+          "en": "convenient",
+          "vi": [
+            "tiện"
+          ],
+          "start": 40.08,
+          "end": 40.89,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-38-u10",
+      "speaker": "M",
+      "text": "Good idea! I'll do that.",
+      "start": 41.28,
+      "end": 42.99,
+      "clipSrc": "../../audio-sentences/t7-38-s10.mp3",
+      "clipSourceStart": 41.2,
+      "vi": "Ý hay! Tôi sẽ làm thế.",
+      "listeningKeywords": [
+        "idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "Ý hay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-38-u10-k1",
+          "en": "idea",
+          "vi": [
+            "Ý hay"
+          ],
+          "start": 41.52,
+          "end": 42.0,
+          "anchorSource": "t7-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

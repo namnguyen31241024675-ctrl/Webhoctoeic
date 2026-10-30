@@ -1,0 +1,365 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t1-56",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T01-56-58.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 7.11,
+    "dialogueEnd": 36.84
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: loan — khoản vay",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: repair shop — cửa hàng sửa chữa",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: snowmobiles — xe trượt tuyết",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa cảnh 4: inventory — hàng tồn kho",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 7.11,
+      "end": 13.53,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "loan",
+          "x": 0.52,
+          "y": 0.6,
+          "width": 0.4,
+          "height": 0.25,
+          "utteranceIds": [
+            "t1-56-u02"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M2",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "W",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 13.53,
+      "end": 18.48,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "repair shop",
+          "x": 0.7,
+          "y": 0.5,
+          "width": 0.27,
+          "height": 0.36,
+          "utteranceIds": [
+            "t1-56-u03"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M2",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "W",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 18.48,
+      "end": 29.19,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "snowmobiles",
+          "x": 0.5,
+          "y": 0.4,
+          "width": 0.46,
+          "height": 0.55,
+          "utteranceIds": [
+            "t1-56-u04"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M2",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 29.19,
+      "end": 36.84,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "inventory",
+          "x": 0.61,
+          "y": 0.5,
+          "width": 0.37,
+          "height": 0.43,
+          "utteranceIds": [
+            "t1-56-u05"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M2",
+          "x": 0.02,
+          "y": 0.04,
+          "width": 0.29,
+          "height": 0.88
+        },
+        {
+          "speaker": "M1",
+          "x": 0.34,
+          "y": 0.04,
+          "width": 0.3,
+          "height": 0.88
+        },
+        {
+          "speaker": "W",
+          "x": 0.67,
+          "y": 0.04,
+          "width": 0.31,
+          "height": 0.88
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "loan",
+      "vi": "khoản vay",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "repair shop",
+      "vi": "cửa hàng sửa chữa",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "snowmobiles",
+      "vi": "xe trượt tuyết",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "inventory",
+      "vi": "hàng tồn kho",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": [],
+  "speakers": [
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.7050000000000001,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M1",
+      "label": "Người nam 1",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.37,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M2",
+      "label": "Người nam 2",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.044999999999999984,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    }
+  ],
+  "speakerHighlightMethod": "Explicit per-photo cast regions; off-screen speakers are indicated in the speaker strip, never assigned to another visible person."
+}

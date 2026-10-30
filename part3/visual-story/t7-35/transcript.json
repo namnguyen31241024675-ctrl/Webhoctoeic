@@ -1,0 +1,510 @@
+{
+  "conversationId": "t7-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-35-u01",
+      "speaker": "M",
+      "text": "Amina, do you have a few minutes? I finished preparing the sample dish that you asked for.",
+      "start": 6.12,
+      "end": 11.46,
+      "clipSrc": "../../audio-sentences/t7-35-s01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Amina, cô có ít phút không? Tôi đã làm xong món mẫu mà cô yêu cầu.",
+      "listeningKeywords": [
+        "finished",
+        "preparing",
+        "sample dish"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "finished",
+          "vi": "xong"
+        },
+        {
+          "en": "sample dish",
+          "vi": "mẫu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u01-k1",
+          "en": "finished",
+          "vi": [
+            "xong"
+          ],
+          "start": 8.64,
+          "end": 9.09,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u01-k2",
+          "en": "preparing",
+          "vi": [],
+          "start": 9.12,
+          "end": 9.63,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u01-k3",
+          "en": "sample dish",
+          "vi": [
+            "mẫu"
+          ],
+          "start": 9.72,
+          "end": 10.44,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u02",
+      "speaker": "M",
+      "text": "You can try it now if you'd like.",
+      "start": 11.79,
+      "end": 13.59,
+      "clipSrc": "../../audio-sentences/t7-35-s02.mp3",
+      "clipSourceStart": 11.71,
+      "vi": "Cô muốn thử ngay bây giờ không?",
+      "listeningKeywords": [
+        "try",
+        "like"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u02-k1",
+          "en": "try",
+          "vi": [],
+          "start": 12.24,
+          "end": 12.54,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u02-k2",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 13.26,
+          "end": 13.59,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u03",
+      "speaker": "W",
+      "text": "Sure, I have time now.",
+      "start": 13.98,
+      "end": 15.45,
+      "clipSrc": "../../audio-sentences/t7-35-s03.mp3",
+      "clipSourceStart": 13.9,
+      "vi": "Được, giờ tôi rảnh.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t7-35-u04",
+      "speaker": "W",
+      "text": "I think the pasta is delicious.",
+      "start": 16.05,
+      "end": 17.97,
+      "clipSrc": "../../audio-sentences/t7-35-s04.mp3",
+      "clipSourceStart": 15.97,
+      "vi": "Tôi thấy món pasta ngon lắm.",
+      "listeningKeywords": [
+        "think",
+        "pasta",
+        "delicious"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "thấy"
+        },
+        {
+          "en": "pasta",
+          "vi": "pasta"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u04-k1",
+          "en": "think",
+          "vi": [
+            "thấy"
+          ],
+          "start": 16.17,
+          "end": 16.485712,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u04-k2",
+          "en": "pasta",
+          "vi": [
+            "pasta"
+          ],
+          "start": 16.53,
+          "end": 17.01,
+          "anchorSource": "t7-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u04-k3",
+          "en": "delicious",
+          "vi": [],
+          "start": 17.22,
+          "end": 17.97,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u05",
+      "speaker": "W",
+      "text": "I like the hint of fresh lemon flavor.",
+      "start": 18.54,
+      "end": 20.64,
+      "clipSrc": "../../audio-sentences/t7-35-s05.mp3",
+      "clipSourceStart": 18.46,
+      "vi": "Tôi thích chút hương chanh tươi nhẹ nhàng này.",
+      "listeningKeywords": [
+        "like",
+        "hint",
+        "lemon"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "thích"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u05-k1",
+          "en": "like",
+          "vi": [
+            "thích"
+          ],
+          "start": 18.69,
+          "end": 19.02,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u05-k2",
+          "en": "hint",
+          "vi": [],
+          "start": 19.17,
+          "end": 19.44,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u05-k3",
+          "en": "lemon",
+          "vi": [],
+          "start": 19.83,
+          "end": 20.16,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u06",
+      "speaker": "W",
+      "text": "It'll make a great addition to our summer menu.",
+      "start": 21.15,
+      "end": 23.34,
+      "clipSrc": "../../audio-sentences/t7-35-s06.mp3",
+      "clipSourceStart": 21.07,
+      "vi": "Nó sẽ là một bổ sung tuyệt vời cho thực đơn mùa hè của chúng ta.",
+      "listeningKeywords": [
+        "addition",
+        "summer menu"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "summer menu",
+          "vi": "thực đơn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u06-k1",
+          "en": "addition",
+          "vi": [],
+          "start": 21.96,
+          "end": 22.35,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u06-k2",
+          "en": "summer menu",
+          "vi": [
+            "thực đơn"
+          ],
+          "start": 22.59,
+          "end": 23.34,
+          "anchorSource": "t7-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u07",
+      "speaker": "M",
+      "text": "I agree. But we don't use lemons in any other dish.",
+      "start": 23.61,
+      "end": 27.36,
+      "clipSrc": "../../audio-sentences/t7-35-s07.mp3",
+      "clipSourceStart": 23.53,
+      "vi": "Tôi đồng ý. Nhưng chúng ta không dùng chanh trong món nào khác.",
+      "listeningKeywords": [
+        "don't",
+        "use",
+        "lemons",
+        "dish"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "use",
+          "vi": "dùng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u07-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 25.26,
+          "end": 25.53,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u07-k2",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 25.53,
+          "end": 25.77,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u07-k3",
+          "en": "lemons",
+          "vi": [],
+          "start": 25.77,
+          "end": 26.22,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u07-k4",
+          "en": "dish",
+          "vi": [],
+          "start": 26.88,
+          "end": 27.36,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u08",
+      "speaker": "M",
+      "text": "Should I get in touch with our fruit and vegetable supplier?",
+      "start": 27.72,
+      "end": 30.63,
+      "clipSrc": "../../audio-sentences/t7-35-s08.mp3",
+      "clipSourceStart": 27.64,
+      "vi": "Tôi có nên liên lạc với nhà cung cấp rau củ quả không?",
+      "listeningKeywords": [
+        "get",
+        "touch",
+        "fruit",
+        "vegetable supplier"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "vegetable supplier",
+          "vi": "nhà cung cấp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u08-k1",
+          "en": "get",
+          "vi": [],
+          "start": 28.2,
+          "end": 28.41,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u08-k2",
+          "en": "touch",
+          "vi": [],
+          "start": 28.53,
+          "end": 28.8,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u08-k3",
+          "en": "fruit",
+          "vi": [],
+          "start": 29.13,
+          "end": 29.43,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u08-k4",
+          "en": "vegetable supplier",
+          "vi": [
+            "nhà cung cấp"
+          ],
+          "start": 29.58,
+          "end": 30.63,
+          "anchorSource": "t7-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-35-u09",
+      "speaker": "W",
+      "text": "Thanks. Just ask him what the cost difference would be if we added five kilograms of lemons to our regular delivery.",
+      "start": 31.02,
+      "end": 38.28,
+      "clipSrc": "../../audio-sentences/t7-35-s09.mp3",
+      "clipSourceStart": 30.94,
+      "vi": "Cảm ơn. Chỉ cần hỏi ông ấy nếu thêm năm kilogram chanh vào đơn hàng định kỳ thì chi phí chênh lệch bao nhiêu thôi.",
+      "listeningKeywords": [
+        "ask",
+        "cost",
+        "lemons",
+        "regular delivery"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-35-u09-k1",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 32.43,
+          "end": 32.73,
+          "anchorSource": "t7-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u09-k2",
+          "en": "cost",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 33.51,
+          "end": 33.84,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u09-k3",
+          "en": "lemons",
+          "vi": [],
+          "start": 36.45,
+          "end": 36.96,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-35-u09-k4",
+          "en": "regular delivery",
+          "vi": [],
+          "start": 37.26,
+          "end": 38.28,
+          "anchorSource": "t7-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

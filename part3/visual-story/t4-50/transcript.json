@@ -1,0 +1,399 @@
+{
+  "conversationId": "t4-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-50-u01",
+      "speaker": "W",
+      "text": "OK, Mr. Jebreen. Here's your new library card.",
+      "start": 5.88,
+      "end": 8.94,
+      "clipSrc": "../../audio-sentences/t4-50-meaning-01.mp3",
+      "clipSourceStart": 5.8,
+      "vi": "OK, ông Jebreen. Đây là thẻ thư viện mới của ông.",
+      "listeningKeywords": [
+        "library card"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "library card",
+          "vi": "thẻ thư viện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u01-k1",
+          "en": "library card",
+          "vi": [
+            "thẻ thư viện"
+          ],
+          "start": 8.13,
+          "end": 8.94,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-50-u02",
+      "speaker": "W",
+      "text": "Remember that you can borrow books, CDs, and DVDs from our collection with it.",
+      "start": 9.39,
+      "end": 13.74,
+      "clipSrc": "../../audio-sentences/t4-50-s03.mp3",
+      "clipSourceStart": 9.31,
+      "vi": "Nhớ rằng ông có thể mượn sách, CD và DVD từ bộ sưu tập của chúng tôi bằng nó.",
+      "listeningKeywords": [
+        "Remember",
+        "borrow",
+        "CDs",
+        "DVDs"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Remember",
+          "vi": "Nhớ"
+        },
+        {
+          "en": "borrow",
+          "vi": "mượn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u02-k1",
+          "en": "Remember",
+          "vi": [
+            "Nhớ"
+          ],
+          "start": 9.39,
+          "end": 9.87,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u02-k2",
+          "en": "borrow",
+          "vi": [
+            "mượn"
+          ],
+          "start": 10.32,
+          "end": 10.59,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u02-k3",
+          "en": "CDs",
+          "vi": [],
+          "start": 11.07,
+          "end": 11.7,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u02-k4",
+          "en": "DVDs",
+          "vi": [],
+          "start": 11.97,
+          "end": 12.54,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-50-u03",
+      "speaker": "M",
+      "text": "Thank you. I read somewhere that people can also borrow digital items.",
+      "start": 14.04,
+      "end": 18.48,
+      "clipSrc": "../../audio-sentences/t4-50-meaning-03.mp3",
+      "clipSourceStart": 13.96,
+      "vi": "Cảm ơn. Tôi đọc đâu đó rằng mọi người cũng có thể mượn các mặt hàng kỹ thuật số.",
+      "listeningKeywords": [
+        "read",
+        "somewhere",
+        "borrow",
+        "digital items"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "read",
+          "vi": "đọc"
+        },
+        {
+          "en": "borrow",
+          "vi": "mượn"
+        },
+        {
+          "en": "digital items",
+          "vi": "hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u03-k1",
+          "en": "read",
+          "vi": [
+            "đọc"
+          ],
+          "start": 15.21,
+          "end": 15.54,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u03-k2",
+          "en": "somewhere",
+          "vi": [],
+          "start": 15.54,
+          "end": 15.99,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u03-k3",
+          "en": "borrow",
+          "vi": [
+            "mượn"
+          ],
+          "start": 17.07,
+          "end": 17.49,
+          "anchorSource": "t4-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u03-k4",
+          "en": "digital items",
+          "vi": [
+            "hàng"
+          ],
+          "start": 17.55,
+          "end": 18.48,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-50-u04",
+      "speaker": "W",
+      "text": "Yes! We offer the Cloud-Camel application.",
+      "start": 18.84,
+      "end": 21.93,
+      "clipSrc": "../../audio-sentences/t4-50-s06.mp3",
+      "clipSourceStart": 18.76,
+      "vi": "Vâng! Chúng tôi cung cấp ứng dụng Cloud-Camel.",
+      "listeningKeywords": [
+        "offer",
+        "application"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offer",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "application",
+          "vi": "ứng dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u04-k1",
+          "en": "offer",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 19.95,
+          "end": 20.19,
+          "anchorSource": "t4-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u04-k2",
+          "en": "application",
+          "vi": [
+            "ứng dụng"
+          ],
+          "start": 21.09,
+          "end": 21.93,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-50-u05",
+      "speaker": "W",
+      "text": "All you have to do is download the app and use the information on your card to set up an account.",
+      "start": 22.41,
+      "end": 27.06,
+      "clipSrc": "../../audio-sentences/t4-50-s07.mp3",
+      "clipSourceStart": 22.33,
+      "vi": "Tất cả những gì ông phải làm là tải ứng dụng và sử dụng thông tin trên thẻ để thiết lập tài khoản.",
+      "listeningKeywords": [
+        "download",
+        "use",
+        "card",
+        "account"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        },
+        {
+          "en": "account",
+          "vi": "tài khoản"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u05-k1",
+          "en": "download",
+          "vi": [],
+          "start": 23.52,
+          "end": 23.97,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u05-k2",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 24.48,
+          "end": 24.69,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u05-k3",
+          "en": "card",
+          "vi": [],
+          "start": 25.59,
+          "end": 25.98,
+          "anchorSource": "t4-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u05-k4",
+          "en": "account",
+          "vi": [
+            "tài khoản"
+          ],
+          "start": 26.61,
+          "end": 27.06,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-50-u06",
+      "speaker": "M",
+      "text": "That's great. I go on a business trip every month, so having easy access to online content will be convenient.",
+      "start": 27.3,
+      "end": 34.62,
+      "clipSrc": "../../audio-sentences/t4-50-meaning-06.mp3",
+      "clipSourceStart": 27.22,
+      "vi": "Tuyệt vời. Tôi đi công tác mỗi tháng, vì vậy việc dễ dàng truy cập nội dung trực tuyến sẽ tiện lợi.",
+      "listeningKeywords": [
+        "business trip",
+        "easy access",
+        "online content",
+        "convenient"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "online content",
+          "vi": "trực tuyến"
+        },
+        {
+          "en": "convenient",
+          "vi": "tiện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-50-u06-k1",
+          "en": "business trip",
+          "vi": [],
+          "start": 29.28,
+          "end": 30.0,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u06-k2",
+          "en": "easy access",
+          "vi": [],
+          "start": 31.53,
+          "end": 32.37,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u06-k3",
+          "en": "online content",
+          "vi": [
+            "trực tuyến"
+          ],
+          "start": 32.55,
+          "end": 33.6,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-50-u06-k4",
+          "en": "convenient",
+          "vi": [
+            "tiện"
+          ],
+          "start": 33.9,
+          "end": 34.62,
+          "anchorSource": "t4-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

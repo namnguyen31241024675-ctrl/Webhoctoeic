@@ -1,0 +1,31 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "Five separate photographic illustrations for ETS 2026 Test 1 questions 32–34; source dialogue unchanged",
+  "scene1": "One standalone 16:9 photographic scene matching the provided collage's fictional colleagues: a curly dark-haired male colleague in pale blue shirt and an East Asian female colleague with straight dark hair and cream cardigan, discussing focus-group results for spicy cheddar cheese at a warm glass-walled office table. Cheese sample, laptop, report and notebook visible. Natural expressions/hands, soft editorial daylight. No collage, numbers, subtitles, logos, invented quotations or quantified survey data.",
+  "otherScenes": [
+    {
+      "id": 2,
+      "prompt": "Create ONE standalone widescreen 16:9 photographic illustration for a polished English-learning visual story. Reference role: keep the same fictional curly dark-haired male colleague in pale blue shirt and East Asian female colleague with dark hair and cream cardigan; same warm glass-walled office and natural editorial photographic style. No collage, panels, numbered badges, captions, subtitles, speech bubbles, watermark or logos. No fabricated quotes, percentages or readable invented survey data. Natural hands and realistic photographic detail. No vector, cartoon or SVG styling. Close-up tabletop view of a paper focus-group feedback report being discussed, with one colleague's hand pointing at it and a small spicy cheddar cheese sample beside the report. The sheet has understated abstract green feedback marks, no numbers or legible quotations. Warm office table and laptop softly blurred behind. Focus the composition on the report on the left/center and cheese sample lower right. This illustrates positive customer feedback for a cheese product; do not invent any new ETS facts.",
+      "tool": "built-in image_gen",
+      "reference": "C:\\Users\\Nam\\Documents\\Codex\\2026-10-26\\m-2\\outputs\\TOEIC-Web\\part3\\visual-story\\t1-32\\images\\scene-01.png"
+    },
+    {
+      "id": 3,
+      "prompt": "Create ONE standalone widescreen 16:9 photographic illustration for a polished English-learning visual story. Reference role: keep the same fictional curly dark-haired male colleague in pale blue shirt and East Asian female colleague with dark hair and cream cardigan; same warm glass-walled office and natural editorial photographic style. No collage, panels, numbered badges, captions, subtitles, speech bubbles, watermark or logos. No fabricated quotes, percentages or readable invented survey data. Natural hands and realistic photographic detail. No vector, cartoon or SVG styling. Photographic cutaway illustrating a cooking idea: a real human hand gently stirs a creamy sauce in a small saucepan while adding a modest amount of cheddar cheese, with a bowl of cheese and a simple recipe sheet without readable text on the counter. Warm contemporary demonstration kitchen counter, natural light, close-up of sauce and ingredients. This is a conceptual illustration of using cheese in recipes and adding it to sauces, not another fictional dialogue. No people faces needed. Clear visible saucepan and sauce with room for clickable hotspots.",
+      "tool": "built-in image_gen",
+      "reference": "C:\\Users\\Nam\\Documents\\Codex\\2026-10-26\\m-2\\outputs\\TOEIC-Web\\part3\\visual-story\\t1-32\\images\\scene-01.png"
+    },
+    {
+      "id": 4,
+      "prompt": "Create ONE standalone widescreen 16:9 photographic illustration for a polished English-learning visual story. Reference role: keep the same fictional curly dark-haired male colleague in pale blue shirt and East Asian female colleague with dark hair and cream cardigan; same warm glass-walled office and natural editorial photographic style. No collage, panels, numbered badges, captions, subtitles, speech bubbles, watermark or logos. No fabricated quotes, percentages or readable invented survey data. Natural hands and realistic photographic detail. No vector, cartoon or SVG styling. Medium candid photograph of the SAME male colleague proposing an idea to the SAME female colleague at the same office table. He gestures naturally toward a transparent bowl of shredded cheddar on the table; she listens with interest. Keep both recognizably consistent with reference, believable faces and hands. A plain cheese sample and notebook nearby. The visual concept is offering a shredded version that melts easily when cooked; no fabricated packaging copy or invented facts. Bowl of shredded cheese clearly visible in lower foreground.",
+      "tool": "built-in image_gen",
+      "reference": "C:\\Users\\Nam\\Documents\\Codex\\2026-10-26\\m-2\\outputs\\TOEIC-Web\\part3\\visual-story\\t1-32\\images\\scene-01.png"
+    },
+    {
+      "id": 5,
+      "prompt": "Create ONE standalone widescreen 16:9 photographic illustration for a polished English-learning visual story. Reference role: keep the same fictional curly dark-haired male colleague in pale blue shirt and East Asian female colleague with dark hair and cream cardigan; same warm glass-walled office and natural editorial photographic style. No collage, panels, numbered badges, captions, subtitles, speech bubbles, watermark or logos. No fabricated quotes, percentages or readable invented survey data. Natural hands and realistic photographic detail. No vector, cartoon or SVG styling. Candid medium photographic scene of the SAME female colleague in cream cardigan making a phone call at the same office table while taking notes, matching her face/hair/clothes from reference. Laptop open to the side, notebook with no readable invented text, cheese sample on table. Office background softly blurred. This visually supports her intention to get in touch with the production manager; do not add a sign, labels, other characters or fabricated communication. Phone and notebook clearly visible for hotspots.",
+      "tool": "built-in image_gen",
+      "reference": "C:\\Users\\Nam\\Documents\\Codex\\2026-10-26\\m-2\\outputs\\TOEIC-Web\\part3\\visual-story\\t1-32\\images\\scene-01.png"
+    }
+  ]
+}

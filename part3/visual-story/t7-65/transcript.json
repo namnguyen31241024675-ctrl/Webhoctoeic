@@ -1,0 +1,586 @@
+{
+  "conversationId": "t7-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-65-u01",
+      "speaker": "M",
+      "text": "Hi, Farida. I'm excited to see the designs you created.",
+      "start": 7.41,
+      "end": 11.52,
+      "clipSrc": "../../audio-sentences/t7-65-s01.mp3",
+      "clipSourceStart": 7.33,
+      "vi": "Chào Farida. Tôi hào hứng xem các thiết kế cô tạo.",
+      "listeningKeywords": [
+        "excited",
+        "see",
+        "designs",
+        "created"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "excited",
+          "vi": "hào hứng"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "designs",
+          "vi": "các thiết kế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u01-k1",
+          "en": "excited",
+          "vi": [
+            "hào hứng"
+          ],
+          "start": 9.06,
+          "end": 9.63,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u01-k2",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 9.72,
+          "end": 9.96,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u01-k3",
+          "en": "designs",
+          "vi": [
+            "các thiết kế"
+          ],
+          "start": 10.14,
+          "end": 10.71,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u01-k4",
+          "en": "created",
+          "vi": [],
+          "start": 10.86,
+          "end": 11.52,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u02",
+      "speaker": "M",
+      "text": "People spend a lot of time outside during the summer, so we want to get our sunscreen on store shelves before the summer rush.",
+      "start": 11.85,
+      "end": 19.5,
+      "clipSrc": "../../audio-sentences/t7-65-s02.mp3",
+      "clipSourceStart": 11.77,
+      "vi": "Mọi người dành nhiều thời gian ngoài trời mùa hè, nên chúng ta muốn đưa kem chống nắng lên kệ trước cao điểm hè.",
+      "listeningKeywords": [
+        "spend",
+        "sunscreen",
+        "store shelves",
+        "summer rush"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spend",
+          "vi": "dành"
+        },
+        {
+          "en": "sunscreen",
+          "vi": "kem chống nắng"
+        },
+        {
+          "en": "store shelves",
+          "vi": "kệ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u02-k1",
+          "en": "spend",
+          "vi": [
+            "dành"
+          ],
+          "start": 12.24,
+          "end": 12.6,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u02-k2",
+          "en": "sunscreen",
+          "vi": [
+            "kem chống nắng"
+          ],
+          "start": 16.358026,
+          "end": 17.01,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u02-k3",
+          "en": "store shelves",
+          "vi": [
+            "kệ"
+          ],
+          "start": 17.16,
+          "end": 18.09,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u02-k4",
+          "en": "summer rush",
+          "vi": [],
+          "start": 18.63,
+          "end": 19.5,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u03",
+      "speaker": "M",
+      "text": "We need to pick a logo design quickly.",
+      "start": 19.86,
+      "end": 22.02,
+      "clipSrc": "../../audio-sentences/t7-65-s03.mp3",
+      "clipSourceStart": 19.78,
+      "vi": "Chúng ta cần chọn thiết kế logo nhanh.",
+      "listeningKeywords": [
+        "pick",
+        "logo",
+        "design"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "logo",
+          "vi": "logo"
+        },
+        {
+          "en": "design",
+          "vi": "thiết kế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u03-k1",
+          "en": "pick",
+          "vi": [],
+          "start": 20.31,
+          "end": 20.55,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u03-k2",
+          "en": "logo",
+          "vi": [
+            "logo"
+          ],
+          "start": 20.61,
+          "end": 21.0,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u03-k3",
+          "en": "design",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 21.0,
+          "end": 21.42,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u04",
+      "speaker": "W",
+      "text": "Take a look at these logo designs.",
+      "start": 22.41,
+      "end": 24.39,
+      "clipSrc": "../../audio-sentences/t7-65-s04.mp3",
+      "clipSourceStart": 22.33,
+      "vi": "Xem các thiết kế logo này.",
+      "listeningKeywords": [
+        "Take",
+        "look",
+        "logo designs"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "look",
+          "vi": "Xem"
+        },
+        {
+          "en": "logo designs",
+          "vi": "các thiết kế"
+        },
+        {
+          "en": "logo designs",
+          "vi": "logo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u04-k1",
+          "en": "Take",
+          "vi": [],
+          "start": 22.41,
+          "end": 22.71,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u04-k2",
+          "en": "look",
+          "vi": [
+            "Xem"
+          ],
+          "start": 22.8,
+          "end": 23.01,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u04-k3",
+          "en": "logo designs",
+          "vi": [
+            "các thiết kế",
+            "logo"
+          ],
+          "start": 23.37,
+          "end": 24.39,
+          "anchorSource": "t7-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u05",
+      "speaker": "W",
+      "text": "All of them will grab the attention of shoppers.",
+      "start": 24.63,
+      "end": 26.79,
+      "clipSrc": "../../audio-sentences/t7-65-s05.mp3",
+      "clipSourceStart": 24.55,
+      "vi": "Tất cả sẽ thu hút sự chú ý của người mua sắm.",
+      "listeningKeywords": [
+        "grab",
+        "attention",
+        "shoppers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "attention",
+          "vi": "chú ý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u05-k1",
+          "en": "grab",
+          "vi": [],
+          "start": 25.26,
+          "end": 25.53,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u05-k2",
+          "en": "attention",
+          "vi": [
+            "chú ý"
+          ],
+          "start": 25.65,
+          "end": 26.1,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u05-k3",
+          "en": "shoppers",
+          "vi": [],
+          "start": 26.19,
+          "end": 26.79,
+          "anchorSource": "t7-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u06",
+      "speaker": "M",
+      "text": "I like this one with the palm tree in a circle.",
+      "start": 27.36,
+      "end": 30.18,
+      "clipSrc": "../../audio-sentences/t7-65-s06.mp3",
+      "clipSourceStart": 27.28,
+      "vi": "Tôi thích cái có cây cọ trong vòng tròn.",
+      "listeningKeywords": [
+        "like",
+        "palm tree",
+        "circle"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "thích"
+        },
+        {
+          "en": "palm tree",
+          "vi": "cây cọ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u06-k1",
+          "en": "like",
+          "vi": [
+            "thích"
+          ],
+          "start": 27.42,
+          "end": 27.78,
+          "anchorSource": "t7-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u06-k2",
+          "en": "palm tree",
+          "vi": [
+            "cây cọ"
+          ],
+          "start": 28.62,
+          "end": 29.34,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u06-k3",
+          "en": "circle",
+          "vi": [],
+          "start": 29.49,
+          "end": 30.18,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u07",
+      "speaker": "W",
+      "text": "I agree. The single palm tree's a simple, clean logo.",
+      "start": 30.57,
+      "end": 35.13,
+      "clipSrc": "../../audio-sentences/t7-65-s07.mp3",
+      "clipSourceStart": 30.49,
+      "vi": "Tôi đồng ý. Cây cọ đơn giản là logo sạch sẽ.",
+      "listeningKeywords": [
+        "palm tree",
+        "simple",
+        "clean",
+        "logo"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "palm tree",
+          "vi": "Cây cọ"
+        },
+        {
+          "en": "logo",
+          "vi": "logo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u07-k1",
+          "en": "simple",
+          "vi": [],
+          "start": 33.414789,
+          "end": 33.99,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u07-k2",
+          "en": "clean",
+          "vi": [],
+          "start": 34.05,
+          "end": 34.56,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u07-k3",
+          "en": "logo",
+          "vi": [
+            "logo"
+          ],
+          "start": 34.59,
+          "end": 35.13,
+          "anchorSource": "t7-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u08",
+      "speaker": "M",
+      "text": "Before we make our decision, I'd like to show it to a focus group that represents our target audience.",
+      "start": 35.64,
+      "end": 41.43,
+      "clipSrc": "../../audio-sentences/t7-65-s08.mp3",
+      "clipSourceStart": 35.56,
+      "vi": "Trước khi quyết định, tôi muốn cho nhóm tập trung đại diện khán giả mục tiêu xem.",
+      "listeningKeywords": [
+        "show",
+        "focus",
+        "represents",
+        "target audience"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "show",
+          "vi": "xem"
+        },
+        {
+          "en": "focus",
+          "vi": "tập trung"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u08-k1",
+          "en": "show",
+          "vi": [
+            "xem"
+          ],
+          "start": 37.92,
+          "end": 38.22,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u08-k2",
+          "en": "focus",
+          "vi": [
+            "tập trung"
+          ],
+          "start": 38.58,
+          "end": 39.06,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u08-k3",
+          "en": "represents",
+          "vi": [],
+          "start": 39.6,
+          "end": 40.2,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-65-u08-k4",
+          "en": "target audience",
+          "vi": [],
+          "start": 40.35,
+          "end": 41.43,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-65-u09",
+      "speaker": "M",
+      "text": "We have a large group coming in next week.",
+      "start": 41.94,
+      "end": 44.28,
+      "clipSrc": "../../audio-sentences/t7-65-s09.mp3",
+      "clipSourceStart": 41.86,
+      "vi": "Chúng ta có nhóm lớn đến tuần tới.",
+      "listeningKeywords": [
+        "large group"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "large group",
+          "vi": "nhóm lớn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-65-u09-k1",
+          "en": "large group",
+          "vi": [
+            "nhóm lớn"
+          ],
+          "start": 42.3,
+          "end": 42.99,
+          "anchorSource": "t7-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

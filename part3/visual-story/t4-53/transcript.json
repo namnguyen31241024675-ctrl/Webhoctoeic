@@ -1,0 +1,447 @@
+{
+  "conversationId": "t4-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-53-u01",
+      "speaker": "W",
+      "text": "Have you reviewed the data from the workplace survey? You really should.",
+      "start": 5.97,
+      "end": 10.17,
+      "clipSrc": "../../audio-sentences/t4-53-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Bạn đã xem xét dữ liệu từ cuộc khảo sát nơi làm việc chưa? Bạn thực sự nên làm vậy.",
+      "listeningKeywords": [
+        "reviewed",
+        "data",
+        "workplace survey"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reviewed",
+          "vi": "xem xét"
+        },
+        {
+          "en": "workplace survey",
+          "vi": "khảo sát nơi làm việc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u01-k1",
+          "en": "data",
+          "vi": [],
+          "start": 7.14,
+          "end": 7.5,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u01-k2",
+          "en": "workplace survey",
+          "vi": [
+            "khảo sát nơi làm việc"
+          ],
+          "start": 7.8,
+          "end": 8.94,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u02",
+      "speaker": "W",
+      "text": "It looks like most staff feel positive about the direction that the company is going in.",
+      "start": 10.47,
+      "end": 15.18,
+      "clipSrc": "../../audio-sentences/t4-53-s02.mp3",
+      "clipSourceStart": 10.39,
+      "vi": "Có vẻ như hầu hết nhân viên cảm thấy tích cực về hướng đi của công ty.",
+      "listeningKeywords": [
+        "looks",
+        "staff",
+        "positive",
+        "direction"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looks",
+          "vi": "Có vẻ"
+        },
+        {
+          "en": "staff",
+          "vi": "nhân viên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u02-k1",
+          "en": "looks",
+          "vi": [
+            "Có vẻ"
+          ],
+          "start": 10.62,
+          "end": 10.89,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u02-k2",
+          "en": "staff",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 11.49,
+          "end": 11.94,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u02-k3",
+          "en": "positive",
+          "vi": [],
+          "start": 12.15,
+          "end": 12.81,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u02-k4",
+          "en": "direction",
+          "vi": [],
+          "start": 13.17,
+          "end": 13.62,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u03",
+      "speaker": "W",
+      "text": "But almost 40 percent feel like their individual contributions aren't being recognized.",
+      "start": 15.66,
+      "end": 21.93,
+      "clipSrc": "../../audio-sentences/t4-53-s03.mp3",
+      "clipSourceStart": 15.58,
+      "vi": "Nhưng gần 40 phần trăm cảm thấy những đóng góp cá nhân của họ không được công nhận.",
+      "listeningKeywords": [
+        "40 percent",
+        "contributions",
+        "aren't",
+        "recognized"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "contributions",
+          "vi": "những đóng góp"
+        },
+        {
+          "en": "aren't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u03-k1",
+          "en": "40 percent",
+          "vi": [],
+          "start": 16.5,
+          "end": 17.37,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u03-k2",
+          "en": "contributions",
+          "vi": [
+            "những đóng góp"
+          ],
+          "start": 18.96,
+          "end": 20.13,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u03-k3",
+          "en": "aren't",
+          "vi": [
+            "không"
+          ],
+          "start": 20.31,
+          "end": 20.58,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u03-k4",
+          "en": "recognized",
+          "vi": [],
+          "start": 20.88,
+          "end": 21.93,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u04",
+      "speaker": "M",
+      "text": "Well, the company's certainly had other priorities.",
+      "start": 22.41,
+      "end": 25.65,
+      "clipSrc": "../../audio-sentences/t4-53-s04.mp3",
+      "clipSourceStart": 22.33,
+      "vi": "Chà, công ty chắc chắn có những ưu tiên khác.",
+      "listeningKeywords": [
+        "company's",
+        "priorities"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "company's",
+          "vi": "công ty"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u04-k1",
+          "en": "company's",
+          "vi": [
+            "công ty"
+          ],
+          "start": 23.25,
+          "end": 23.82,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u04-k2",
+          "en": "priorities",
+          "vi": [],
+          "start": 24.75,
+          "end": 25.65,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u05",
+      "speaker": "M",
+      "text": "I wonder how the management team's going to respond.",
+      "start": 26.25,
+      "end": 28.71,
+      "clipSrc": "../../audio-sentences/t4-53-s05.mp3",
+      "clipSourceStart": 26.17,
+      "vi": "Tôi tự hỏi đội ngũ quản lý sẽ phản ứng thế nào.",
+      "listeningKeywords": [
+        "wonder",
+        "management team",
+        "respond"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wonder",
+          "vi": "tự hỏi"
+        },
+        {
+          "en": "management team",
+          "vi": "đội ngũ quản lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u05-k1",
+          "en": "wonder",
+          "vi": [
+            "tự hỏi"
+          ],
+          "start": 26.4,
+          "end": 26.67,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u05-k2",
+          "en": "respond",
+          "vi": [],
+          "start": 28.05,
+          "end": 28.71,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u06",
+      "speaker": "W",
+      "text": "I've suggested many times that they give out awards every quarter for exceptional performance.",
+      "start": 29.1,
+      "end": 34.8,
+      "clipSrc": "../../audio-sentences/t4-53-s06.mp3",
+      "clipSourceStart": 29.02,
+      "vi": "Tôi đã gợi ý nhiều lần rằng họ nên trao giải thưởng hàng quý cho hiệu suất xuất sắc.",
+      "listeningKeywords": [
+        "suggested",
+        "give",
+        "awards",
+        "exceptional performance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "suggested",
+          "vi": "gợi ý"
+        },
+        {
+          "en": "give",
+          "vi": "cho"
+        },
+        {
+          "en": "awards",
+          "vi": "giải thưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u06-k1",
+          "en": "suggested",
+          "vi": [
+            "gợi ý"
+          ],
+          "start": 29.4,
+          "end": 30.15,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u06-k2",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 31.35,
+          "end": 31.56,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u06-k3",
+          "en": "awards",
+          "vi": [
+            "giải thưởng"
+          ],
+          "start": 31.74,
+          "end": 32.34,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u06-k4",
+          "en": "exceptional performance",
+          "vi": [],
+          "start": 33.33,
+          "end": 34.8,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-53-u07",
+      "speaker": "W",
+      "text": "Maybe now they'll finally start doing it.",
+      "start": 35.16,
+      "end": 37.23,
+      "clipSrc": "../../audio-sentences/t4-53-s07.mp3",
+      "clipSourceStart": 35.08,
+      "vi": "Có lẽ bây giờ họ cuối cùng sẽ bắt đầu làm điều đó.",
+      "listeningKeywords": [
+        "finally",
+        "start",
+        "doing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "doing",
+          "vi": "làm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-53-u07-k1",
+          "en": "finally",
+          "vi": [],
+          "start": 35.94,
+          "end": 36.33,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u07-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 36.33,
+          "end": 36.6,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-53-u07-k3",
+          "en": "doing",
+          "vi": [
+            "làm"
+          ],
+          "start": 36.6,
+          "end": 36.96,
+          "anchorSource": "t4-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

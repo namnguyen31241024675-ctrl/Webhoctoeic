@@ -1,0 +1,551 @@
+{
+  "conversationId": "t5-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-56-u01",
+      "speaker": "W",
+      "text": "Did you see that the results of last month's employee survey have been compiled? All the staff feedback is available.",
+      "start": 5.88,
+      "end": 12.06,
+      "clipSrc": "../../audio-sentences/t5-56-s01.mp3",
+      "clipSourceStart": 5.8,
+      "vi": "Anh có thấy kết quả khảo sát nhân viên tháng trước đã được tổng hợp chưa? Tất cả phản hồi từ nhân viên đều sẵn sàng.",
+      "listeningKeywords": [
+        "see",
+        "employee survey",
+        "compiled",
+        "staff feedback"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "thấy"
+        },
+        {
+          "en": "employee survey",
+          "vi": "khảo sát nhân viên"
+        },
+        {
+          "en": "employee survey",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "staff feedback",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "staff feedback",
+          "vi": "nhân viên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u01-k1",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 6.24,
+          "end": 6.48,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u01-k2",
+          "en": "employee survey",
+          "vi": [
+            "khảo sát nhân viên",
+            "nhân viên"
+          ],
+          "start": 7.92,
+          "end": 8.79,
+          "anchorSource": "t5-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u01-k3",
+          "en": "compiled",
+          "vi": [],
+          "start": 9.12,
+          "end": 9.75,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u01-k4",
+          "en": "staff feedback",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 10.56,
+          "end": 11.34,
+          "anchorSource": "t5-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u02",
+      "speaker": "M",
+      "text": "Yes, and I just finished reviewing the comments.",
+      "start": 12.33,
+      "end": 15.72,
+      "clipSrc": "../../audio-sentences/t5-56-s02.mp3",
+      "clipSourceStart": 12.25,
+      "vi": "Vâng, và tôi vừa xem xong các bình luận.",
+      "listeningKeywords": [
+        "finished",
+        "reviewing",
+        "comments"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "finished",
+          "vi": "xong"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u02-k1",
+          "en": "finished",
+          "vi": [
+            "xong"
+          ],
+          "start": 13.89,
+          "end": 14.28,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u02-k2",
+          "en": "reviewing",
+          "vi": [],
+          "start": 14.28,
+          "end": 14.82,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u02-k3",
+          "en": "comments",
+          "vi": [],
+          "start": 14.91,
+          "end": 15.72,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u03",
+      "speaker": "W",
+      "text": "You know, I noticed one recurring complaint.",
+      "start": 16.02,
+      "end": 18.84,
+      "clipSrc": "../../audio-sentences/t5-56-s03.mp3",
+      "clipSourceStart": 15.94,
+      "vi": "Anh biết đấy, tôi nhận thấy một khiếu nại lặp lại nhiều lần.",
+      "listeningKeywords": [
+        "know",
+        "noticed",
+        "recurring complaint"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        },
+        {
+          "en": "noticed",
+          "vi": "nhận thấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u03-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 16.17,
+          "end": 16.53,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u03-k2",
+          "en": "noticed",
+          "vi": [
+            "nhận thấy"
+          ],
+          "start": 16.89,
+          "end": 17.4,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u03-k3",
+          "en": "recurring complaint",
+          "vi": [],
+          "start": 17.64,
+          "end": 18.84,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u04",
+      "speaker": "W",
+      "text": "The size of the break room is too small.",
+      "start": 19.23,
+      "end": 21.3,
+      "clipSrc": "../../audio-sentences/t5-56-s04.mp3",
+      "clipSourceStart": 19.15,
+      "vi": "Kích thước phòng nghỉ quá nhỏ.",
+      "listeningKeywords": [
+        "size",
+        "break room",
+        "small"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "size",
+          "vi": "Kích thước"
+        },
+        {
+          "en": "break room",
+          "vi": "phòng"
+        },
+        {
+          "en": "small",
+          "vi": "nhỏ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u04-k1",
+          "en": "size",
+          "vi": [
+            "Kích thước"
+          ],
+          "start": 19.38,
+          "end": 19.77,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u04-k2",
+          "en": "break room",
+          "vi": [
+            "phòng"
+          ],
+          "start": 19.98,
+          "end": 20.49,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u04-k3",
+          "en": "small",
+          "vi": [
+            "nhỏ"
+          ],
+          "start": 20.85,
+          "end": 21.3,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u05",
+      "speaker": "W",
+      "text": "Perhaps we could enlarge the break room by having the wall taken down between it and the meeting room next door.",
+      "start": 21.75,
+      "end": 27.18,
+      "clipSrc": "../../audio-sentences/t5-56-s05.mp3",
+      "clipSourceStart": 21.67,
+      "vi": "Có lẽ chúng ta có thể mở rộng phòng nghỉ bằng cách phá bỏ bức tường giữa nó và phòng họp bên cạnh.",
+      "listeningKeywords": [
+        "enlarge",
+        "break room",
+        "wall",
+        "taken"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "break room",
+          "vi": "phòng"
+        },
+        {
+          "en": "break room",
+          "vi": "phòng"
+        },
+        {
+          "en": "wall",
+          "vi": "bức tường"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u05-k1",
+          "en": "enlarge",
+          "vi": [],
+          "start": 22.56,
+          "end": 23.01,
+          "anchorSource": "t5-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u05-k2",
+          "en": "break room",
+          "vi": [
+            "phòng"
+          ],
+          "start": 23.13,
+          "end": 23.7,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u05-k3",
+          "en": "wall",
+          "vi": [
+            "bức tường"
+          ],
+          "start": 24.3,
+          "end": 24.54,
+          "anchorSource": "t5-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u05-k4",
+          "en": "taken",
+          "vi": [],
+          "start": 24.54,
+          "end": 24.87,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u06",
+      "speaker": "M",
+      "text": "Well, we do have money available in the budget.",
+      "start": 27.51,
+      "end": 30.66,
+      "clipSrc": "../../audio-sentences/t5-56-s06.mp3",
+      "clipSourceStart": 27.43,
+      "vi": "Ừm, chúng ta vẫn còn tiền trong ngân sách.",
+      "listeningKeywords": [
+        "money available",
+        "budget"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "money available",
+          "vi": "tiền"
+        },
+        {
+          "en": "budget",
+          "vi": "ngân sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u06-k1",
+          "en": "money available",
+          "vi": [
+            "tiền"
+          ],
+          "start": 29.22,
+          "end": 30.03,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u06-k2",
+          "en": "budget",
+          "vi": [
+            "ngân sách"
+          ],
+          "start": 30.24,
+          "end": 30.66,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u07",
+      "speaker": "W",
+      "text": "Then could you reach out to your contact at the construction company?",
+      "start": 31.08,
+      "end": 34.38,
+      "clipSrc": "../../audio-sentences/t5-56-s07.mp3",
+      "clipSourceStart": 31.0,
+      "vi": "Vậy anh có thể liên hệ với người quen ở công ty xây dựng không?",
+      "listeningKeywords": [
+        "reach",
+        "contact",
+        "construction company"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "contact",
+          "vi": "liên hệ"
+        },
+        {
+          "en": "construction company",
+          "vi": "công ty xây dựng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u07-k1",
+          "en": "reach",
+          "vi": [],
+          "start": 31.89,
+          "end": 32.19,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u07-k2",
+          "en": "contact",
+          "vi": [
+            "liên hệ"
+          ],
+          "start": 32.64,
+          "end": 33.18,
+          "anchorSource": "t5-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u07-k3",
+          "en": "construction company",
+          "vi": [
+            "công ty xây dựng"
+          ],
+          "start": 33.33,
+          "end": 34.38,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-56-u08",
+      "speaker": "M",
+      "text": "I can't do it this afternoon, since I need to see a dentist, but I will definitely make the call.",
+      "start": 34.74,
+      "end": 40.35,
+      "clipSrc": "../../audio-sentences/t5-56-s08.mp3",
+      "clipSourceStart": 34.66,
+      "vi": "Tôi không thể làm chiều nay vì phải gặp nha sĩ, nhưng tôi chắc chắn sẽ gọi.",
+      "listeningKeywords": [
+        "can't",
+        "see",
+        "dentist",
+        "call"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-56-u08-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 34.86,
+          "end": 35.19,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u08-k2",
+          "en": "see",
+          "vi": [],
+          "start": 37.11,
+          "end": 37.32,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u08-k3",
+          "en": "dentist",
+          "vi": [],
+          "start": 37.38,
+          "end": 37.95,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-56-u08-k4",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 39.87,
+          "end": 40.35,
+          "anchorSource": "t5-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

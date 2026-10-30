@@ -1,0 +1,583 @@
+{
+  "conversationId": "t2-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      21,
+      22
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-68-u01",
+      "speaker": "M",
+      "text": "Ms. Kwon, thank you for sending me to the upcoming robotics conference.",
+      "start": 6.57,
+      "end": 10.5,
+      "clipSrc": "../../audio-sentences/t2-68-s01.mp3",
+      "clipSourceStart": 6.49,
+      "vi": "Cô Kwon, cảm ơn vì đã gửi tôi đến hội nghị robot sắp tới.",
+      "listeningKeywords": [
+        "sending",
+        "robotics conference"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sending",
+          "vi": "gửi"
+        },
+        {
+          "en": "robotics conference",
+          "vi": "hội nghị"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u01-k1",
+          "en": "sending",
+          "vi": [
+            "gửi"
+          ],
+          "start": 8.16,
+          "end": 8.52,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u01-k2",
+          "en": "robotics conference",
+          "vi": [
+            "hội nghị"
+          ],
+          "start": 9.42,
+          "end": 10.5,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u02",
+      "speaker": "M",
+      "text": "I didn't expect an opportunity like this so soon after being hired here.",
+      "start": 10.92,
+      "end": 14.67,
+      "clipSrc": "../../audio-sentences/t2-68-s02.mp3",
+      "clipSourceStart": 10.84,
+      "vi": "Tôi không ngờ có cơ hội như thế này sớm sau khi được thuê ở đây.",
+      "listeningKeywords": [
+        "didn't",
+        "expect",
+        "opportunity",
+        "hired"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "didn't",
+          "vi": "không"
+        },
+        {
+          "en": "expect",
+          "vi": "ngờ"
+        },
+        {
+          "en": "opportunity",
+          "vi": "cơ hội"
+        },
+        {
+          "en": "hired",
+          "vi": "thuê"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u02-k1",
+          "en": "didn't",
+          "vi": [
+            "không"
+          ],
+          "start": 11.07,
+          "end": 11.34,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u02-k2",
+          "en": "expect",
+          "vi": [
+            "ngờ"
+          ],
+          "start": 11.34,
+          "end": 11.79,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u02-k3",
+          "en": "opportunity",
+          "vi": [
+            "cơ hội"
+          ],
+          "start": 11.88,
+          "end": 12.48,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u02-k4",
+          "en": "hired",
+          "vi": [
+            "thuê"
+          ],
+          "start": 14.01,
+          "end": 14.34,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u03",
+      "speaker": "W",
+      "text": "It's important for you to be familiar with current robot designs.",
+      "start": 14.97,
+      "end": 18.6,
+      "clipSrc": "../../audio-sentences/t2-68-s03.mp3",
+      "clipSourceStart": 14.89,
+      "vi": "Điều quan trọng là bạn phải quen thuộc với các thiết kế robot hiện tại.",
+      "listeningKeywords": [
+        "important",
+        "familiar",
+        "robot designs"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "familiar",
+          "vi": "quen thuộc"
+        },
+        {
+          "en": "robot designs",
+          "vi": "thiết kế robot"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u03-k1",
+          "en": "important",
+          "vi": [],
+          "start": 15.33,
+          "end": 15.93,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u03-k2",
+          "en": "familiar",
+          "vi": [
+            "quen thuộc"
+          ],
+          "start": 16.47,
+          "end": 17.07,
+          "anchorSource": "t2-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u03-k3",
+          "en": "robot designs",
+          "vi": [
+            "thiết kế robot"
+          ],
+          "start": 17.64,
+          "end": 18.6,
+          "anchorSource": "t2-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u04",
+      "speaker": "W",
+      "text": "There are always new trends and technologies coming out, and I want you to stay ahead of developments in our industry.",
+      "start": 19.14,
+      "end": 24.6,
+      "clipSrc": "../../audio-sentences/t2-68-s04.mp3",
+      "clipSourceStart": 19.06,
+      "vi": "Luôn có xu hướng và công nghệ mới xuất hiện, và tôi muốn bạn dẫn đầu các phát triển trong ngành của chúng ta.",
+      "listeningKeywords": [
+        "trends",
+        "technologies",
+        "stay ahead",
+        "developments"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "trends",
+          "vi": "xu hướng"
+        },
+        {
+          "en": "technologies",
+          "vi": "công nghệ"
+        },
+        {
+          "en": "stay ahead",
+          "vi": "dẫn đầu"
+        },
+        {
+          "en": "developments",
+          "vi": "phát triển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u04-k1",
+          "en": "trends",
+          "vi": [
+            "xu hướng"
+          ],
+          "start": 20.01,
+          "end": 20.43,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u04-k2",
+          "en": "technologies",
+          "vi": [
+            "công nghệ"
+          ],
+          "start": 20.55,
+          "end": 21.18,
+          "anchorSource": "t2-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u04-k3",
+          "en": "stay ahead",
+          "vi": [
+            "dẫn đầu"
+          ],
+          "start": 22.56,
+          "end": 23.16,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u04-k4",
+          "en": "developments",
+          "vi": [
+            "phát triển"
+          ],
+          "start": 23.28,
+          "end": 23.82,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u05",
+      "speaker": "M",
+      "text": "I agree. Plus, it'll give me the chance to introduce myself to potential clients.",
+      "start": 25.11,
+      "end": 29.97,
+      "clipSrc": "../../audio-sentences/t2-68-meaning-05.mp3",
+      "clipSourceStart": 25.03,
+      "vi": "Tôi đồng ý. Ngoài ra, nó sẽ cho tôi cơ hội giới thiệu bản thân với khách hàng tiềm năng.",
+      "listeningKeywords": [
+        "give",
+        "chance",
+        "introduce myself",
+        "potential clients"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "give",
+          "vi": "cho"
+        },
+        {
+          "en": "potential clients",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u05-k1",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 26.97,
+          "end": 27.21,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u05-k2",
+          "en": "chance",
+          "vi": [],
+          "start": 27.45,
+          "end": 27.78,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u05-k3",
+          "en": "introduce myself",
+          "vi": [],
+          "start": 27.87,
+          "end": 28.8,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u05-k4",
+          "en": "potential clients",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 28.89,
+          "end": 29.97,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u06",
+      "speaker": "W",
+      "text": "Oh, about that: here's a handout I provide to all new hires.",
+      "start": 30.27,
+      "end": 34.47,
+      "clipSrc": "../../audio-sentences/t2-68-s07.mp3",
+      "clipSourceStart": 30.19,
+      "vi": "Ồ, về điều đó: đây là tài liệu tôi cung cấp cho tất cả nhân viên mới.",
+      "listeningKeywords": [
+        "handout",
+        "provide",
+        "hires"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "provide",
+          "vi": "cung cấp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u06-k1",
+          "en": "handout",
+          "vi": [],
+          "start": 32.31,
+          "end": 32.82,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u06-k2",
+          "en": "provide",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 32.91,
+          "end": 33.33,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u06-k3",
+          "en": "hires",
+          "vi": [],
+          "start": 33.93,
+          "end": 34.47,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u07",
+      "speaker": "W",
+      "text": "It includes some helpful tips— especially this one.",
+      "start": 34.83,
+      "end": 37.62,
+      "clipSrc": "../../audio-sentences/t2-68-s08.mp3",
+      "clipSourceStart": 34.75,
+      "vi": "Nó bao gồm một số mẹo hữu ích— đặc biệt là cái này.",
+      "listeningKeywords": [
+        "includes",
+        "helpful tips"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "includes",
+          "vi": "bao gồm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u07-k1",
+          "en": "includes",
+          "vi": [
+            "bao gồm"
+          ],
+          "start": 34.98,
+          "end": 35.426049,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u07-k2",
+          "en": "helpful tips",
+          "vi": [],
+          "start": 35.548956,
+          "end": 36.36,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u08",
+      "speaker": "W",
+      "text": "Do you have your business cards yet?",
+      "start": 38.1,
+      "end": 39.75,
+      "clipSrc": "../../audio-sentences/t2-68-s09.mp3",
+      "clipSourceStart": 38.02,
+      "vi": "Bạn đã có danh thiếp chưa?",
+      "listeningKeywords": [
+        "business cards"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "business cards",
+          "vi": "danh thiếp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u08-k1",
+          "en": "business cards",
+          "vi": [
+            "danh thiếp"
+          ],
+          "start": 38.73,
+          "end": 39.39,
+          "anchorSource": "t2-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-68-u09",
+      "speaker": "M",
+      "text": "Hmm. I haven't received them, but I'll call the printer today for an update.",
+      "start": 40.32,
+      "end": 44.4,
+      "clipSrc": "../../audio-sentences/t2-68-meaning-09.mp3",
+      "clipSourceStart": 40.24,
+      "vi": "Hmm. Tôi chưa nhận được, nhưng tôi sẽ gọi cho nhà in hôm nay để cập nhật.",
+      "listeningKeywords": [
+        "haven't",
+        "received",
+        "call",
+        "printer"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "haven't",
+          "vi": "chưa"
+        },
+        {
+          "en": "received",
+          "vi": "nhận được"
+        },
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-68-u09-k1",
+          "en": "haven't",
+          "vi": [
+            "chưa"
+          ],
+          "start": 41.19,
+          "end": 41.46,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u09-k2",
+          "en": "received",
+          "vi": [
+            "nhận được"
+          ],
+          "start": 41.46,
+          "end": 41.97,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u09-k3",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 42.692542,
+          "end": 42.93,
+          "anchorSource": "t2-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-68-u09-k4",
+          "en": "printer",
+          "vi": [],
+          "start": 43.02,
+          "end": 43.35,
+          "anchorSource": "t2-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

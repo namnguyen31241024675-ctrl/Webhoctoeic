@@ -1,0 +1,456 @@
+{
+  "conversationId": "t5-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-32-u01",
+      "speaker": "W",
+      "text": "Hello, Tariq. Could you do me a favor?",
+      "start": 6.03,
+      "end": 8.37,
+      "clipSrc": "../../audio-sentences/t5-32-meaning-01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Chào Tariq. Bạn có thể giúp tôi một việc không?",
+      "listeningKeywords": [
+        "favor"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "favor",
+          "vi": "giúp tôi một việc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u01-k1",
+          "en": "favor",
+          "vi": [
+            "giúp tôi một việc"
+          ],
+          "start": 7.83,
+          "end": 8.37,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u02",
+      "speaker": "M",
+      "text": "Sure—what is it?",
+      "start": 8.76,
+      "end": 10.05,
+      "clipSrc": "../../audio-sentences/t5-32-s03.mp3",
+      "clipSourceStart": 8.68,
+      "vi": "Chắc chắn rồi—việc gì vậy?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t5-32-u03",
+      "speaker": "W",
+      "text": "I'm meeting with the Gerhard Group at ten A.M. for the product pitch, and I need copies of your market analysis report made for each representative.",
+      "start": 10.47,
+      "end": 19.26,
+      "clipSrc": "../../audio-sentences/t5-32-s04.mp3",
+      "clipSourceStart": 10.39,
+      "vi": "Tôi sẽ gặp nhóm Gerhard lúc 10 giờ sáng để trình bày sản phẩm, và tôi cần bản sao báo cáo phân tích thị trường của bạn cho từng đại diện.",
+      "listeningKeywords": [
+        "meeting",
+        "Gerhard Group",
+        "product pitch",
+        "market analysis report"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "meeting",
+          "vi": "gặp"
+        },
+        {
+          "en": "product pitch",
+          "vi": "sản phẩm"
+        },
+        {
+          "en": "market analysis report",
+          "vi": "báo cáo phân tích thị trường"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u03-k1",
+          "en": "meeting",
+          "vi": [
+            "gặp"
+          ],
+          "start": 10.71,
+          "end": 11.07,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u03-k2",
+          "en": "Gerhard Group",
+          "vi": [],
+          "start": 11.28,
+          "end": 12.21,
+          "anchorSource": "t5-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u03-k3",
+          "en": "product pitch",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 13.17,
+          "end": 14.1,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u03-k4",
+          "en": "market analysis report",
+          "vi": [
+            "báo cáo phân tích thị trường"
+          ],
+          "start": 15.87,
+          "end": 17.49,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u04",
+      "speaker": "M",
+      "text": "Aren't you at the office right now?",
+      "start": 19.68,
+      "end": 21.63,
+      "clipSrc": "../../audio-sentences/t5-32-s05.mp3",
+      "clipSourceStart": 19.6,
+      "vi": "Bạn không đang ở văn phòng sao?",
+      "listeningKeywords": [
+        "Aren't",
+        "office"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Aren't",
+          "vi": "không"
+        },
+        {
+          "en": "office",
+          "vi": "văn phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u04-k1",
+          "en": "Aren't",
+          "vi": [
+            "không"
+          ],
+          "start": 19.68,
+          "end": 20.04,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u04-k2",
+          "en": "office",
+          "vi": [
+            "văn phòng"
+          ],
+          "start": 20.64,
+          "end": 21.0,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u05",
+      "speaker": "W",
+      "text": "Actually, I came in early today, but I couldn't get the copy machine to work.",
+      "start": 22.08,
+      "end": 26.67,
+      "clipSrc": "../../audio-sentences/t5-32-s06.mp3",
+      "clipSourceStart": 22.0,
+      "vi": "Thực ra, tôi đến sớm hôm nay, nhưng không thể làm máy photocopy hoạt động.",
+      "listeningKeywords": [
+        "early",
+        "couldn't",
+        "copy machine",
+        "work"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "couldn't",
+          "vi": "không"
+        },
+        {
+          "en": "copy machine",
+          "vi": "máy photocopy"
+        },
+        {
+          "en": "work",
+          "vi": "hoạt động"
+        },
+        {
+          "en": "work",
+          "vi": "làm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u05-k1",
+          "en": "early",
+          "vi": [],
+          "start": 23.31,
+          "end": 23.64,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u05-k2",
+          "en": "couldn't",
+          "vi": [
+            "không"
+          ],
+          "start": 24.54,
+          "end": 24.9,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u05-k3",
+          "en": "copy machine",
+          "vi": [
+            "máy photocopy"
+          ],
+          "start": 25.2,
+          "end": 26.1,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u05-k4",
+          "en": "work",
+          "vi": [
+            "hoạt động",
+            "làm"
+          ],
+          "start": 26.22,
+          "end": 26.67,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u06",
+      "speaker": "M",
+      "text": "Seriously? We bought it last month!",
+      "start": 27.0,
+      "end": 29.7,
+      "clipSrc": "../../audio-sentences/t5-32-s07.mp3",
+      "clipSourceStart": 26.92,
+      "vi": "Thật sao? Chúng ta mua nó tháng trước mà!",
+      "listeningKeywords": [
+        "bought"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bought",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u06-k1",
+          "en": "bought",
+          "vi": [
+            "mua"
+          ],
+          "start": 28.32,
+          "end": 28.65,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u07",
+      "speaker": "W",
+      "text": "I'm afraid so.",
+      "start": 30.24,
+      "end": 31.26,
+      "clipSrc": "../../audio-sentences/t5-32-s08.mp3",
+      "clipSourceStart": 30.16,
+      "vi": "Tôi e là vậy.",
+      "listeningKeywords": [
+        "afraid"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "afraid",
+          "vi": "e"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u07-k1",
+          "en": "afraid",
+          "vi": [
+            "e"
+          ],
+          "start": 30.48,
+          "end": 30.84,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u08",
+      "speaker": "M",
+      "text": "I just got off the train.",
+      "start": 31.74,
+      "end": 33.18,
+      "clipSrc": "../../audio-sentences/t5-32-s09.mp3",
+      "clipSourceStart": 31.66,
+      "vi": "Tôi vừa xuống tàu.",
+      "listeningKeywords": [
+        "train"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "train",
+          "vi": "tàu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u08-k1",
+          "en": "train",
+          "vi": [
+            "tàu"
+          ],
+          "start": 32.73,
+          "end": 33.18,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-32-u09",
+      "speaker": "M",
+      "text": "I'll stop at Business Express on McAllister Street and take care of it on my way to the office.",
+      "start": 33.3,
+      "end": 38.1,
+      "clipSrc": "../../audio-sentences/t5-32-s10.mp3",
+      "clipSourceStart": 33.22,
+      "vi": "Tôi sẽ ghé Business Express trên phố McAllister và xử lý việc đó trên đường đến văn phòng.",
+      "listeningKeywords": [
+        "stop",
+        "Business Express",
+        "McAllister Street",
+        "care"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Business Express",
+          "vi": "Business Express"
+        },
+        {
+          "en": "McAllister Street",
+          "vi": "phố"
+        },
+        {
+          "en": "care",
+          "vi": "xử lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-32-u09-k1",
+          "en": "stop",
+          "vi": [],
+          "start": 33.54,
+          "end": 33.87,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u09-k2",
+          "en": "Business Express",
+          "vi": [
+            "Business Express"
+          ],
+          "start": 33.99,
+          "end": 34.92,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u09-k3",
+          "en": "McAllister Street",
+          "vi": [
+            "phố"
+          ],
+          "start": 35.04,
+          "end": 36.0,
+          "anchorSource": "t5-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-32-u09-k4",
+          "en": "care",
+          "vi": [
+            "xử lý"
+          ],
+          "start": 36.42,
+          "end": 36.66,
+          "anchorSource": "t5-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

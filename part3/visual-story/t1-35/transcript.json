@@ -1,0 +1,476 @@
+{
+  "conversationId": "t1-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-35-u01",
+      "speaker": "M",
+      "text": "Hi. I'm calling to book three tickets for this Thursday's tennis match.",
+      "start": 6.12,
+      "end": 10.44,
+      "clipSrc": "../../audio-sentences/t1-35-meaning-01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Xin chào. Tôi gọi điện để đặt ba vé cho trận đấu quần vợt vào thứ Năm này.",
+      "listeningKeywords": [
+        "calling",
+        "book",
+        "tickets",
+        "Thursday's tennis match"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi điện"
+        },
+        {
+          "en": "book",
+          "vi": "đặt"
+        },
+        {
+          "en": "tickets",
+          "vi": "vé"
+        },
+        {
+          "en": "Thursday's tennis match",
+          "vi": "trận đấu quần vợt"
+        },
+        {
+          "en": "Thursday's tennis match",
+          "vi": "thứ Năm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u01-k1",
+          "en": "calling",
+          "vi": [
+            "gọi điện"
+          ],
+          "start": 6.96,
+          "end": 7.32,
+          "anchorSource": "t1-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u01-k2",
+          "en": "book",
+          "vi": [
+            "đặt"
+          ],
+          "start": 7.44,
+          "end": 7.68,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u01-k3",
+          "en": "tickets",
+          "vi": [
+            "vé"
+          ],
+          "start": 8.04,
+          "end": 8.49,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u01-k4",
+          "en": "Thursday's tennis match",
+          "vi": [
+            "trận đấu quần vợt",
+            "thứ Năm"
+          ],
+          "start": 8.91,
+          "end": 10.44,
+          "anchorSource": "t1-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u02",
+      "speaker": "M",
+      "text": "Are there any seats left?",
+      "start": 10.89,
+      "end": 12.21,
+      "clipSrc": "../../audio-sentences/t1-35-s03.mp3",
+      "clipSourceStart": 10.81,
+      "vi": "Còn chỗ trống nào không?",
+      "listeningKeywords": [
+        "seats",
+        "left"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "seats",
+          "vi": "chỗ"
+        },
+        {
+          "en": "left",
+          "vi": "Còn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u02-k1",
+          "en": "seats",
+          "vi": [
+            "chỗ"
+          ],
+          "start": 11.4,
+          "end": 11.79,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u02-k2",
+          "en": "left",
+          "vi": [
+            "Còn"
+          ],
+          "start": 11.79,
+          "end": 12.21,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u03",
+      "speaker": "W",
+      "text": "Just a few! Tickets for Thursday's match have been selling quickly.",
+      "start": 12.63,
+      "end": 16.68,
+      "clipSrc": "../../audio-sentences/t1-35-s04.mp3",
+      "clipSourceStart": 12.55,
+      "vi": "Chỉ còn vài chỗ thôi! Vé cho trận đấu thứ Năm đang bán rất nhanh.",
+      "listeningKeywords": [
+        "Tickets",
+        "Thursday's match",
+        "selling"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Tickets",
+          "vi": "Vé"
+        },
+        {
+          "en": "Thursday's match",
+          "vi": "trận đấu"
+        },
+        {
+          "en": "Thursday's match",
+          "vi": "thứ Năm"
+        },
+        {
+          "en": "selling",
+          "vi": "bán"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u03-k1",
+          "en": "Tickets",
+          "vi": [
+            "Vé"
+          ],
+          "start": 13.89,
+          "end": 14.37,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u03-k2",
+          "en": "Thursday's match",
+          "vi": [
+            "trận đấu",
+            "thứ Năm"
+          ],
+          "start": 14.52,
+          "end": 15.39,
+          "anchorSource": "t1-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u03-k3",
+          "en": "selling",
+          "vi": [
+            "bán"
+          ],
+          "start": 15.75,
+          "end": 16.14,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u04",
+      "speaker": "M",
+      "text": "I'm not surprised! After all, Ife Rotimi won the regional championship tournament last month.",
+      "start": 17.13,
+      "end": 23.43,
+      "clipSrc": "../../audio-sentences/t1-35-s05.mp3",
+      "clipSourceStart": 17.05,
+      "vi": "Tôi không ngạc nhiên đâu! Suy cho cùng, Ife Rotimi đã giành chức vô địch giải đấu khu vực vào tháng trước.",
+      "listeningKeywords": [
+        "not",
+        "Ife Rotimi",
+        "won",
+        "championship tournament"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "Ife Rotimi",
+          "vi": "Ife Rotimi"
+        },
+        {
+          "en": "won",
+          "vi": "giành"
+        },
+        {
+          "en": "championship tournament",
+          "vi": "chức vô địch"
+        },
+        {
+          "en": "championship tournament",
+          "vi": "giải đấu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u04-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 17.34,
+          "end": 17.58,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u04-k2",
+          "en": "won",
+          "vi": [
+            "giành"
+          ],
+          "start": 20.67,
+          "end": 20.91,
+          "anchorSource": "t1-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u04-k3",
+          "en": "championship tournament",
+          "vi": [
+            "chức vô địch",
+            "giải đấu"
+          ],
+          "start": 21.51,
+          "end": 22.71,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u05",
+      "speaker": "M",
+      "text": "Everyone wants to see her play after her incredible performance.",
+      "start": 24.03,
+      "end": 28.05,
+      "clipSrc": "../../audio-sentences/t1-35-s06.mp3",
+      "clipSourceStart": 23.95,
+      "vi": "Mọi người đều muốn xem cô ấy thi đấu sau màn trình diễn đáng kinh ngạc đó.",
+      "listeningKeywords": [
+        "see",
+        "play",
+        "incredible performance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "incredible performance",
+          "vi": "màn trình diễn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u05-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 24.99,
+          "end": 25.2,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u05-k2",
+          "en": "play",
+          "vi": [],
+          "start": 25.38,
+          "end": 25.86,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u05-k3",
+          "en": "incredible performance",
+          "vi": [
+            "màn trình diễn"
+          ],
+          "start": 26.49,
+          "end": 28.05,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u06",
+      "speaker": "W",
+      "text": "Well, there's only one group of three seats together.",
+      "start": 30.24,
+      "end": 32.91,
+      "clipSrc": "../../audio-sentences/t1-35-s07.mp3",
+      "clipSourceStart": 30.16,
+      "vi": "Chà, chỉ còn duy nhất một cụm ba ghế cạnh nhau.",
+      "listeningKeywords": [
+        "group",
+        "seats"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "seats",
+          "vi": "ghế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u06-k1",
+          "en": "group",
+          "vi": [],
+          "start": 31.38,
+          "end": 31.65,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u06-k2",
+          "en": "seats",
+          "vi": [
+            "ghế"
+          ],
+          "start": 32.01,
+          "end": 32.34,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-35-u07",
+      "speaker": "W",
+      "text": "Advance payment is required to hold them.",
+      "start": 33.48,
+      "end": 35.73,
+      "clipSrc": "../../audio-sentences/t1-35-s08.mp3",
+      "clipSourceStart": 33.4,
+      "vi": "Cần phải thanh toán trước để giữ chỗ.",
+      "listeningKeywords": [
+        "Advance payment",
+        "required",
+        "hold"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Advance payment",
+          "vi": "thanh toán trước"
+        },
+        {
+          "en": "hold",
+          "vi": "giữ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-35-u07-k1",
+          "en": "Advance payment",
+          "vi": [
+            "thanh toán trước"
+          ],
+          "start": 33.48,
+          "end": 34.38,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u07-k2",
+          "en": "required",
+          "vi": [],
+          "start": 34.5,
+          "end": 34.98,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-35-u07-k3",
+          "en": "hold",
+          "vi": [
+            "giữ"
+          ],
+          "start": 35.13,
+          "end": 35.43,
+          "anchorSource": "t1-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

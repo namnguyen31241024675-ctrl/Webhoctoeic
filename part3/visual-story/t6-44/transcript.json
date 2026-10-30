@@ -1,0 +1,571 @@
+{
+  "conversationId": "t6-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-44-u01",
+      "speaker": "M",
+      "text": "Silvia, I just heard the city mayor will hold a press conference this afternoon.",
+      "start": 6.06,
+      "end": 10.32,
+      "clipSrc": "../../audio-sentences/t6-44-s01.mp3",
+      "clipSourceStart": 5.98,
+      "vi": "Silvia, tôi vừa nghe thị trưởng sẽ tổ chức họp báo chiều nay.",
+      "listeningKeywords": [
+        "city mayor",
+        "hold",
+        "press conference"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "city mayor",
+          "vi": "thị trưởng"
+        },
+        {
+          "en": "hold",
+          "vi": "tổ chức"
+        },
+        {
+          "en": "press conference",
+          "vi": "họp báo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u01-k1",
+          "en": "city mayor",
+          "vi": [
+            "thị trưởng"
+          ],
+          "start": 7.65,
+          "end": 8.25,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u01-k2",
+          "en": "hold",
+          "vi": [
+            "tổ chức"
+          ],
+          "start": 8.49,
+          "end": 8.73,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u01-k3",
+          "en": "press conference",
+          "vi": [
+            "họp báo"
+          ],
+          "start": 8.76,
+          "end": 9.48,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u02",
+      "speaker": "M",
+      "text": "Can you cover it? I'll be at the opening of the new train station.",
+      "start": 10.53,
+      "end": 13.95,
+      "clipSrc": "../../audio-sentences/t6-44-s02.mp3",
+      "clipSourceStart": 10.45,
+      "vi": "Bạn có thể đưa tin không? Tôi sẽ ở lễ khai trương ga tàu mới.",
+      "listeningKeywords": [
+        "cover",
+        "opening",
+        "train",
+        "station"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "opening",
+          "vi": "khai trương"
+        },
+        {
+          "en": "train",
+          "vi": "tàu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u02-k1",
+          "en": "cover",
+          "vi": [],
+          "start": 10.83,
+          "end": 11.19,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u02-k2",
+          "en": "opening",
+          "vi": [
+            "khai trương"
+          ],
+          "start": 12.3,
+          "end": 12.66,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u02-k3",
+          "en": "train",
+          "vi": [
+            "tàu"
+          ],
+          "start": 13.02,
+          "end": 13.32,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u02-k4",
+          "en": "station",
+          "vi": [],
+          "start": 13.32,
+          "end": 13.95,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u03",
+      "speaker": "W",
+      "text": "OK, I'll get a camera crew together right away.",
+      "start": 14.25,
+      "end": 16.98,
+      "clipSrc": "../../audio-sentences/t6-44-s03.mp3",
+      "clipSourceStart": 14.17,
+      "vi": "OK, tôi sẽ tập hợp đội quay phim ngay.",
+      "listeningKeywords": [
+        "get",
+        "camera crew",
+        "away"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "camera crew",
+          "vi": "đội quay phim"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u03-k1",
+          "en": "get",
+          "vi": [],
+          "start": 15.21,
+          "end": 15.39,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u03-k2",
+          "en": "camera crew",
+          "vi": [
+            "đội quay phim"
+          ],
+          "start": 15.42,
+          "end": 15.96,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u03-k3",
+          "en": "away",
+          "vi": [],
+          "start": 16.62,
+          "end": 16.98,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u04",
+      "speaker": "W",
+      "text": "I hope the mayor will provide details about the proposal to build an offshore wind farm.",
+      "start": 17.46,
+      "end": 21.81,
+      "clipSrc": "../../audio-sentences/t6-44-s04.mp3",
+      "clipSourceStart": 17.38,
+      "vi": "Hy vọng thị trưởng sẽ cung cấp chi tiết về đề xuất xây dựng trang trại gió ngoài khơi.",
+      "listeningKeywords": [
+        "provide",
+        "details",
+        "build",
+        "offshore wind farm"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "provide",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "build",
+          "vi": "xây dựng"
+        },
+        {
+          "en": "offshore wind farm",
+          "vi": "trang trại gió"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u04-k1",
+          "en": "provide",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 18.42,
+          "end": 18.78,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u04-k2",
+          "en": "details",
+          "vi": [],
+          "start": 18.81,
+          "end": 19.38,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u04-k3",
+          "en": "build",
+          "vi": [
+            "xây dựng"
+          ],
+          "start": 20.43,
+          "end": 20.67,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u04-k4",
+          "en": "offshore wind farm",
+          "vi": [
+            "trang trại gió"
+          ],
+          "start": 20.82,
+          "end": 21.81,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u05",
+      "speaker": "M",
+      "text": "Yes, that's what I heard he'll discuss.",
+      "start": 22.08,
+      "end": 24.15,
+      "clipSrc": "../../audio-sentences/t6-44-s05.mp3",
+      "clipSourceStart": 22.0,
+      "vi": "Vâng, tôi nghe ông ấy sẽ thảo luận về đó.",
+      "listeningKeywords": [
+        "he'll",
+        "discuss"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "discuss",
+          "vi": "thảo luận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u05-k1",
+          "en": "he'll",
+          "vi": [],
+          "start": 23.22,
+          "end": 23.4,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u05-k2",
+          "en": "discuss",
+          "vi": [
+            "thảo luận"
+          ],
+          "start": 23.4,
+          "end": 24.15,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u06",
+      "speaker": "M",
+      "text": "There's a lot of interest in wind energy, so this will likely be the lead story on tonight's news.",
+      "start": 24.6,
+      "end": 29.64,
+      "clipSrc": "../../audio-sentences/t6-44-s06.mp3",
+      "clipSourceStart": 24.52,
+      "vi": "Có nhiều quan tâm đến năng lượng gió, nên có lẽ đây sẽ là tin chính tối nay.",
+      "listeningKeywords": [
+        "interest",
+        "wind energy",
+        "lead story",
+        "tonight's news"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wind energy",
+          "vi": "năng lượng gió"
+        },
+        {
+          "en": "tonight's news",
+          "vi": "tin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u06-k1",
+          "en": "interest",
+          "vi": [],
+          "start": 25.23,
+          "end": 25.56,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u06-k2",
+          "en": "wind energy",
+          "vi": [
+            "năng lượng gió"
+          ],
+          "start": 25.65,
+          "end": 26.49,
+          "anchorSource": "t6-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u06-k3",
+          "en": "lead story",
+          "vi": [],
+          "start": 27.99,
+          "end": 28.59,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u06-k4",
+          "en": "tonight's news",
+          "vi": [
+            "tin"
+          ],
+          "start": 28.74,
+          "end": 29.64,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u07",
+      "speaker": "W",
+      "text": "Perfect. I'm going to ask the mayor about funding for the project.",
+      "start": 29.94,
+      "end": 33.54,
+      "clipSrc": "../../audio-sentences/t6-44-s07.mp3",
+      "clipSourceStart": 29.86,
+      "vi": "Hoàn hảo. Tôi sẽ hỏi thị trưởng về nguồn tài trợ cho dự án.",
+      "listeningKeywords": [
+        "ask",
+        "mayor",
+        "funding",
+        "project"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "mayor",
+          "vi": "thị trưởng"
+        },
+        {
+          "en": "funding",
+          "vi": "nguồn tài trợ"
+        },
+        {
+          "en": "project",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u07-k1",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 31.47,
+          "end": 31.77,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u07-k2",
+          "en": "mayor",
+          "vi": [
+            "thị trưởng"
+          ],
+          "start": 31.86,
+          "end": 32.13,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u07-k3",
+          "en": "funding",
+          "vi": [
+            "nguồn tài trợ"
+          ],
+          "start": 32.4,
+          "end": 32.79,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u07-k4",
+          "en": "project",
+          "vi": [
+            "dự án"
+          ],
+          "start": 33.0,
+          "end": 33.54,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-44-u08",
+      "speaker": "W",
+      "text": "The city residents will want to know where the finances will come from.",
+      "start": 34.08,
+      "end": 37.44,
+      "clipSrc": "../../audio-sentences/t6-44-s08.mp3",
+      "clipSourceStart": 34.0,
+      "vi": "Dân cư thành phố sẽ muốn biết tiền từ đâu.",
+      "listeningKeywords": [
+        "city residents",
+        "want",
+        "know",
+        "finances"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "city residents",
+          "vi": "Dân cư"
+        },
+        {
+          "en": "want",
+          "vi": "muốn"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-44-u08-k1",
+          "en": "city residents",
+          "vi": [
+            "Dân cư"
+          ],
+          "start": 34.17,
+          "end": 35.07,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u08-k2",
+          "en": "want",
+          "vi": [
+            "muốn"
+          ],
+          "start": 35.22,
+          "end": 35.43,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u08-k3",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 35.55,
+          "end": 35.79,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-44-u08-k4",
+          "en": "finances",
+          "vi": [],
+          "start": 36.03,
+          "end": 36.69,
+          "anchorSource": "t6-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

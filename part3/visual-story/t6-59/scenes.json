@@ -1,0 +1,266 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t6-59",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T06-59-61.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.0,
+    "dialogueEnd": 41.28
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 59–61, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 59–61, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 59–61, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 59–61, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.0,
+      "end": 14.49,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1-1",
+          "vocabularyId": "vocab-1-1",
+          "label": "T-shirts",
+          "x": 0.49,
+          "y": 0.36,
+          "width": 0.31,
+          "height": 0.52,
+          "utteranceIds": [
+            "t6-59-u02"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.02,
+          "width": 0.44,
+          "height": 0.91
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.035,
+          "width": 0.42,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 14.49,
+      "end": 24.21,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.02,
+          "width": 0.44,
+          "height": 0.91
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.035,
+          "width": 0.42,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 24.21,
+      "end": 33.48,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.02,
+          "width": 0.44,
+          "height": 0.91
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.035,
+          "width": 0.42,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 33.48,
+      "end": 41.28,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.02,
+          "width": 0.44,
+          "height": 0.91
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.035,
+          "width": 0.42,
+          "height": 0.9
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1-1",
+      "en": "T-shirts",
+      "vi": "áo thun",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.04,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.055,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

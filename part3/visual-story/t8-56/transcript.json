@@ -1,0 +1,622 @@
+{
+  "conversationId": "t8-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-56-u01",
+      "speaker": "W",
+      "text": "OK. You're all set to board flight 1216 to Toronto.",
+      "start": 7.23,
+      "end": 11.85,
+      "clipSrc": "../../audio-sentences/t8-56-s01.mp3",
+      "clipSourceStart": 7.15,
+      "vi": "OK. Các bạn đã sẵn sàng lên chuyến bay 1216 đến Toronto.",
+      "listeningKeywords": [
+        "set",
+        "flight",
+        "1216",
+        "Toronto"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "flight",
+          "vi": "chuyến bay"
+        },
+        {
+          "en": "1216",
+          "vi": "1216"
+        },
+        {
+          "en": "Toronto",
+          "vi": "Toronto"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u01-k1",
+          "en": "set",
+          "vi": [],
+          "start": 8.55,
+          "end": 8.91,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u01-k2",
+          "en": "flight",
+          "vi": [
+            "chuyến bay"
+          ],
+          "start": 9.27,
+          "end": 9.63,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u01-k3",
+          "en": "Toronto",
+          "vi": [
+            "Toronto"
+          ],
+          "start": 11.07,
+          "end": 11.85,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u02",
+      "speaker": "W",
+      "text": "Thank you for flying with us.",
+      "start": 12.12,
+      "end": 13.53,
+      "clipSrc": "../../audio-sentences/t8-56-s02.mp3",
+      "clipSourceStart": 12.04,
+      "vi": "Cảm ơn vì đã bay cùng chúng tôi.",
+      "listeningKeywords": [
+        "flying"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "flying",
+          "vi": "bay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u02-k1",
+          "en": "flying",
+          "vi": [
+            "bay"
+          ],
+          "start": 12.66,
+          "end": 13.05,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u03",
+      "speaker": "W",
+      "text": "Unfortunately, I've just learned that the flight is delayed because of inclement weather in Canada.",
+      "start": 13.95,
+      "end": 19.53,
+      "clipSrc": "../../audio-sentences/t8-56-s03.mp3",
+      "clipSourceStart": 13.87,
+      "vi": "Rất tiếc, tôi vừa biết rằng chuyến bay bị trì hoãn vì thời tiết xấu ở Canada.",
+      "listeningKeywords": [
+        "learned",
+        "flight",
+        "delayed",
+        "inclement weather"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "flight",
+          "vi": "chuyến bay"
+        },
+        {
+          "en": "inclement weather",
+          "vi": "thời tiết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u03-k1",
+          "en": "learned",
+          "vi": [],
+          "start": 15.54,
+          "end": 15.99,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u03-k2",
+          "en": "flight",
+          "vi": [
+            "chuyến bay"
+          ],
+          "start": 16.32,
+          "end": 16.71,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u03-k3",
+          "en": "delayed",
+          "vi": [],
+          "start": 16.83,
+          "end": 17.43,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u03-k4",
+          "en": "inclement weather",
+          "vi": [
+            "thời tiết"
+          ],
+          "start": 18.03,
+          "end": 18.84,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u04",
+      "speaker": "M1",
+      "text": "Oh, no! My colleague here and I are presenting at a conference in Toronto this evening.",
+      "start": 20.07,
+      "end": 25.47,
+      "clipSrc": "../../audio-sentences/t8-56-s04.mp3",
+      "clipSourceStart": 19.99,
+      "vi": "Ồ không! Đồng nghiệp của tôi ở đây và tôi sẽ trình bày tại một hội nghị ở Toronto tối nay.",
+      "listeningKeywords": [
+        "colleague",
+        "presenting",
+        "conference",
+        "Toronto"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "colleague",
+          "vi": "Đồng nghiệp"
+        },
+        {
+          "en": "presenting",
+          "vi": "trình bày"
+        },
+        {
+          "en": "conference",
+          "vi": "hội nghị"
+        },
+        {
+          "en": "Toronto",
+          "vi": "Toronto"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u04-k1",
+          "en": "colleague",
+          "vi": [
+            "Đồng nghiệp"
+          ],
+          "start": 21.54,
+          "end": 22.05,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u04-k2",
+          "en": "presenting",
+          "vi": [
+            "trình bày"
+          ],
+          "start": 22.86,
+          "end": 23.4,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u04-k3",
+          "en": "conference",
+          "vi": [
+            "hội nghị"
+          ],
+          "start": 23.55,
+          "end": 24.12,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u04-k4",
+          "en": "Toronto",
+          "vi": [
+            "Toronto"
+          ],
+          "start": 24.27,
+          "end": 24.75,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u05",
+      "speaker": "M1",
+      "text": "Do you have any idea how long the delay might be?",
+      "start": 25.95,
+      "end": 29.07,
+      "clipSrc": "../../audio-sentences/t8-56-s05.mp3",
+      "clipSourceStart": 25.87,
+      "vi": "Cô có biết trì hoãn bao lâu không?",
+      "listeningKeywords": [
+        "idea",
+        "long",
+        "delay"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "long",
+          "vi": "bao lâu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u05-k1",
+          "en": "idea",
+          "vi": [],
+          "start": 26.88,
+          "end": 27.3,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u05-k2",
+          "en": "long",
+          "vi": [
+            "bao lâu"
+          ],
+          "start": 27.51,
+          "end": 27.96,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u05-k3",
+          "en": "delay",
+          "vi": [],
+          "start": 28.08,
+          "end": 28.44,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u06",
+      "speaker": "W",
+      "text": "We'll be hearing from Toronto regularly.",
+      "start": 29.46,
+      "end": 31.53,
+      "clipSrc": "../../audio-sentences/t8-56-s06.mp3",
+      "clipSourceStart": 29.38,
+      "vi": "Chúng tôi sẽ nhận tin từ Toronto liên tục.",
+      "listeningKeywords": [
+        "Toronto regularly"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Toronto regularly",
+          "vi": "liên tục"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u06-k1",
+          "en": "Toronto regularly",
+          "vi": [
+            "liên tục"
+          ],
+          "start": 30.36,
+          "end": 31.53,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u07",
+      "speaker": "W",
+      "text": "I'm sorry, but that's all we know at this point.",
+      "start": 32.13,
+      "end": 34.92,
+      "clipSrc": "../../audio-sentences/t8-56-s07.mp3",
+      "clipSourceStart": 32.05,
+      "vi": "Xin lỗi, nhưng đó là tất cả những gì chúng tôi biết lúc này.",
+      "listeningKeywords": [
+        "know",
+        "point"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u07-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 33.87,
+          "end": 34.11,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u07-k2",
+          "en": "point",
+          "vi": [],
+          "start": 34.44,
+          "end": 34.92,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u08",
+      "speaker": "M2",
+      "text": "It's all right, Jinyu.",
+      "start": 35.37,
+      "end": 36.72,
+      "clipSrc": "../../audio-sentences/t8-56-s08.mp3",
+      "clipSourceStart": 35.29,
+      "vi": "Không sao, Jinyu.",
+      "listeningKeywords": [
+        "Jinyu"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Jinyu",
+          "vi": "Jinyu"
+        }
+      ],
+      "keywordCues": []
+    },
+    {
+      "id": "t8-56-u09",
+      "speaker": "M2",
+      "text": "I doubt we'll get there in time.",
+      "start": 36.78,
+      "end": 38.7,
+      "clipSrc": "../../audio-sentences/t8-56-s09.mp3",
+      "clipSourceStart": 36.72,
+      "vi": "Tôi không nghĩ chúng ta sẽ đến kịp giờ.",
+      "listeningKeywords": [
+        "doubt",
+        "get"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "get",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u09-k1",
+          "en": "doubt",
+          "vi": [],
+          "start": 37.02,
+          "end": 37.38,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u09-k2",
+          "en": "get",
+          "vi": [
+            "đến"
+          ],
+          "start": 37.59,
+          "end": 37.83,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u10",
+      "speaker": "M2",
+      "text": "Maybe the organizers can reschedule us for tomorrow.",
+      "start": 39.12,
+      "end": 42.3,
+      "clipSrc": "../../audio-sentences/t8-56-s10.mp3",
+      "clipSourceStart": 39.04,
+      "vi": "Có lẽ ban tổ chức có thể sắp xếp lại cho chúng ta vào ngày mai.",
+      "listeningKeywords": [
+        "organizers",
+        "reschedule"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "organizers",
+          "vi": "ban tổ chức"
+        },
+        {
+          "en": "reschedule",
+          "vi": "sắp xếp lại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u10-k1",
+          "en": "organizers",
+          "vi": [
+            "ban tổ chức"
+          ],
+          "start": 39.75,
+          "end": 40.38,
+          "anchorSource": "t8-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u10-k2",
+          "en": "reschedule",
+          "vi": [
+            "sắp xếp lại"
+          ],
+          "start": 40.59,
+          "end": 41.34,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u11",
+      "speaker": "M2",
+      "text": "I'll call them.",
+      "start": 42.57,
+      "end": 43.26,
+      "clipSrc": "../../audio-sentences/t8-56-s11.mp3",
+      "clipSourceStart": 42.49,
+      "vi": "Tôi sẽ gọi họ.",
+      "listeningKeywords": [
+        "call"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u11-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 42.72,
+          "end": 42.99,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-56-u12",
+      "speaker": "W",
+      "text": "In the meantime, I can offer you meal vouchers if you like.",
+      "start": 43.65,
+      "end": 47.31,
+      "clipSrc": "../../audio-sentences/t8-56-s12.mp3",
+      "clipSourceStart": 43.57,
+      "vi": "Trong lúc đó, tôi có thể cung cấp phiếu ăn cho các anh nếu muốn.",
+      "listeningKeywords": [
+        "meantime",
+        "offer",
+        "meal vouchers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offer",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "offer",
+          "vi": "cho"
+        },
+        {
+          "en": "meal vouchers",
+          "vi": "phiếu ăn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-56-u12-k1",
+          "en": "meantime",
+          "vi": [],
+          "start": 43.92,
+          "end": 44.49,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u12-k2",
+          "en": "offer",
+          "vi": [
+            "cung cấp",
+            "cho"
+          ],
+          "start": 45.36,
+          "end": 45.6,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-56-u12-k3",
+          "en": "meal vouchers",
+          "vi": [
+            "phiếu ăn"
+          ],
+          "start": 45.75,
+          "end": 46.62,
+          "anchorSource": "t8-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

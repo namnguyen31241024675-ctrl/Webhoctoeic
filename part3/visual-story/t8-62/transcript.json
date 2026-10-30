@@ -1,0 +1,544 @@
+{
+  "conversationId": "t8-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-62-u01",
+      "speaker": "W",
+      "text": "Hi. I'm here to pick up my car.",
+      "start": 7.2,
+      "end": 9.45,
+      "clipSrc": "../../audio-sentences/t8-62-s01.mp3",
+      "clipSourceStart": 7.12,
+      "vi": "Chào. Tôi đến để lấy xe.",
+      "listeningKeywords": [
+        "pick",
+        "car"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "pick",
+          "vi": "lấy"
+        },
+        {
+          "en": "car",
+          "vi": "xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u01-k1",
+          "en": "pick",
+          "vi": [
+            "lấy"
+          ],
+          "start": 8.52,
+          "end": 8.73,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u01-k2",
+          "en": "car",
+          "vi": [
+            "xe"
+          ],
+          "start": 9.0,
+          "end": 9.45,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u02",
+      "speaker": "W",
+      "text": "My name's Olga Popova.",
+      "start": 9.81,
+      "end": 11.49,
+      "clipSrc": "../../audio-sentences/t8-62-s02.mp3",
+      "clipSourceStart": 9.73,
+      "vi": "Tên tôi là Olga Popova.",
+      "listeningKeywords": [
+        "name's Olga Popova"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "name's Olga Popova",
+          "vi": "Tên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u02-k1",
+          "en": "name's Olga Popova",
+          "vi": [
+            "Tên"
+          ],
+          "start": 9.99,
+          "end": 11.49,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u03",
+      "speaker": "W",
+      "text": "You replaced one of my tires.",
+      "start": 11.91,
+      "end": 13.47,
+      "clipSrc": "../../audio-sentences/t8-62-s03.mp3",
+      "clipSourceStart": 11.83,
+      "vi": "Anh đã thay một lốp xe của tôi.",
+      "listeningKeywords": [
+        "replaced",
+        "tires"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "replaced",
+          "vi": "thay"
+        },
+        {
+          "en": "tires",
+          "vi": "lốp xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u03-k1",
+          "en": "replaced",
+          "vi": [
+            "thay"
+          ],
+          "start": 12.06,
+          "end": 12.54,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u03-k2",
+          "en": "tires",
+          "vi": [
+            "lốp xe"
+          ],
+          "start": 12.9,
+          "end": 13.47,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u04",
+      "speaker": "M",
+      "text": "Yes, Ms. Popova. Your car is ready.",
+      "start": 13.77,
+      "end": 16.23,
+      "clipSrc": "../../audio-sentences/t8-62-s04.mp3",
+      "clipSourceStart": 13.69,
+      "vi": "Vâng, cô Popova. Xe của cô đã sẵn sàng.",
+      "listeningKeywords": [
+        "car",
+        "ready"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "car",
+          "vi": "Xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u04-k1",
+          "en": "car",
+          "vi": [
+            "Xe"
+          ],
+          "start": 15.33,
+          "end": 15.69,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u04-k2",
+          "en": "ready",
+          "vi": [],
+          "start": 15.84,
+          "end": 16.23,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u05",
+      "speaker": "M",
+      "text": "Your bill is $133.",
+      "start": 16.53,
+      "end": 17.25,
+      "clipSrc": "../../audio-sentences/t8-62-s05.mp3",
+      "clipSourceStart": 16.45,
+      "vi": "Hóa đơn là 133 đô la.",
+      "listeningKeywords": [
+        "bill",
+        "$133"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bill",
+          "vi": "Hóa đơn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u05-k1",
+          "en": "bill",
+          "vi": [
+            "Hóa đơn"
+          ],
+          "start": 16.74,
+          "end": 17.07,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u06",
+      "speaker": "W",
+      "text": "That's quite a bit more than listed on your Web site.",
+      "start": 19.47,
+      "end": 22.02,
+      "clipSrc": "../../audio-sentences/t8-62-s06.mp3",
+      "clipSourceStart": 19.39,
+      "vi": "Đó khá là nhiều hơn so với liệt kê trên website của anh.",
+      "listeningKeywords": [
+        "listed",
+        "Web site"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "listed",
+          "vi": "liệt kê"
+        },
+        {
+          "en": "Web site",
+          "vi": "website"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u06-k1",
+          "en": "listed",
+          "vi": [
+            "liệt kê"
+          ],
+          "start": 20.76,
+          "end": 21.12,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u06-k2",
+          "en": "Web site",
+          "vi": [
+            "website"
+          ],
+          "start": 21.39,
+          "end": 22.02,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u07",
+      "speaker": "W",
+      "text": "I thought the cost would be $98.",
+      "start": 22.32,
+      "end": 23.46,
+      "clipSrc": "../../audio-sentences/t8-62-s07.mp3",
+      "clipSourceStart": 22.24,
+      "vi": "Tôi nghĩ chi phí sẽ là 98 đô la.",
+      "listeningKeywords": [
+        "thought",
+        "cost",
+        "$98"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "thought",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u07-k1",
+          "en": "thought",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 22.56,
+          "end": 22.83,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u07-k2",
+          "en": "cost",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 22.92,
+          "end": 23.22,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u08",
+      "speaker": "M",
+      "text": "Let me look at the work order.",
+      "start": 24.9,
+      "end": 26.28,
+      "clipSrc": "../../audio-sentences/t8-62-s08.mp3",
+      "clipSourceStart": 24.82,
+      "vi": "Để tôi xem lệnh làm việc.",
+      "listeningKeywords": [
+        "work order"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "work order",
+          "vi": "làm việc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u08-k1",
+          "en": "work order",
+          "vi": [
+            "làm việc"
+          ],
+          "start": 25.65,
+          "end": 26.28,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u09",
+      "speaker": "M",
+      "text": "It looks like I billed you for the wrong tire.",
+      "start": 26.79,
+      "end": 29.46,
+      "clipSrc": "../../audio-sentences/t8-62-s09.mp3",
+      "clipSourceStart": 26.71,
+      "vi": "Có vẻ tôi đã tính hóa đơn cho lốp sai.",
+      "listeningKeywords": [
+        "looks",
+        "like",
+        "billed",
+        "wrong tire"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looks",
+          "vi": "Có vẻ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u09-k1",
+          "en": "looks",
+          "vi": [
+            "Có vẻ"
+          ],
+          "start": 27.15,
+          "end": 27.42,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u09-k2",
+          "en": "like",
+          "vi": [],
+          "start": 27.42,
+          "end": 27.66,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u09-k3",
+          "en": "billed",
+          "vi": [],
+          "start": 27.81,
+          "end": 28.11,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u09-k4",
+          "en": "wrong tire",
+          "vi": [],
+          "start": 28.53,
+          "end": 29.46,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u10",
+      "speaker": "M",
+      "text": "Apologies- let me fix that.",
+      "start": 29.85,
+      "end": 31.83,
+      "clipSrc": "../../audio-sentences/t8-62-s10.mp3",
+      "clipSourceStart": 29.77,
+      "vi": "Xin lỗi- để tôi sửa.",
+      "listeningKeywords": [
+        "fix"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fix",
+          "vi": "sửa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u10-k1",
+          "en": "fix",
+          "vi": [
+            "sửa"
+          ],
+          "start": 31.2,
+          "end": 31.5,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-62-u11",
+      "speaker": "M",
+      "text": "Also, if you'd like to share your e-mail, I can sign you up for our rewards program.",
+      "start": 32.31,
+      "end": 37.44,
+      "clipSrc": "../../audio-sentences/t8-62-s11.mp3",
+      "clipSourceStart": 32.23,
+      "vi": "Ngoài ra, nếu cô muốn chia sẻ email, tôi có thể đăng ký cô vào chương trình tính thưởng của chúng tôi.",
+      "listeningKeywords": [
+        "share",
+        "mail",
+        "sign",
+        "rewards program"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "share",
+          "vi": "chia sẻ"
+        },
+        {
+          "en": "mail",
+          "vi": "email"
+        },
+        {
+          "en": "sign",
+          "vi": "ký"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-62-u11-k1",
+          "en": "share",
+          "vi": [
+            "chia sẻ"
+          ],
+          "start": 33.81,
+          "end": 34.08,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u11-k2",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 34.44,
+          "end": 34.83,
+          "anchorSource": "t8-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u11-k3",
+          "en": "sign",
+          "vi": [
+            "ký"
+          ],
+          "start": 35.4,
+          "end": 35.67,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-62-u11-k4",
+          "en": "rewards program",
+          "vi": [],
+          "start": 36.3,
+          "end": 37.44,
+          "anchorSource": "t8-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

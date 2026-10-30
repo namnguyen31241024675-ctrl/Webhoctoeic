@@ -1,0 +1,293 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t4-35",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T04-35-37.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.09,
+    "dialogueEnd": 41.22
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa cảnh 1: seafood deliveries — các chuyến giao hải sản",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa cảnh 2: restaurants — nhà hàng",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa cảnh 3: traffic — giao thông",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa cảnh 4: Webcams — camera trực tuyến",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.09,
+      "end": 15.09,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1",
+          "vocabularyId": "vocab-1",
+          "label": "seafood deliveries",
+          "x": 0.55,
+          "y": 0.65,
+          "width": 0.43,
+          "height": 0.3
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 15.09,
+      "end": 25.29,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2",
+          "vocabularyId": "vocab-2",
+          "label": "restaurants",
+          "x": 0.64,
+          "y": 0.5,
+          "width": 0.3,
+          "height": 0.45
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 25.29,
+      "end": 31.62,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3",
+          "vocabularyId": "vocab-3",
+          "label": "traffic",
+          "x": 0.64,
+          "y": 0.39,
+          "width": 0.35,
+          "height": 0.51
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 31.62,
+      "end": 41.22,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4",
+          "vocabularyId": "vocab-4",
+          "label": "Webcams",
+          "x": 0.66,
+          "y": 0.4,
+          "width": 0.32,
+          "height": 0.48
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.05,
+          "y": 0.04,
+          "width": 0.6,
+          "height": 0.89
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1",
+      "en": "seafood deliveries",
+      "vi": "các chuyến giao hải sản",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2",
+      "en": "restaurants",
+      "vi": "nhà hàng",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3",
+      "en": "traffic",
+      "vi": "giao thông",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4",
+      "en": "Webcams",
+      "vi": "camera trực tuyến",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "missing": [],
+  "speakers": [
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.22999999999999998,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    },
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-4",
+        "x": 0.22999999999999998,
+        "y": 0.03666666666666668,
+        "width": 0.24,
+        "height": 0.42666666666666664
+      }
+    }
+  ],
+  "speakerHighlightMethod": "Explicit per-photo cast regions; off-screen speakers are indicated in the speaker strip, never assigned to another visible person."
+}

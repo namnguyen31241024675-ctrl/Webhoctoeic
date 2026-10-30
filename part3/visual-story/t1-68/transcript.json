@@ -1,0 +1,333 @@
+{
+  "conversationId": "t1-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      22,
+      23
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-68-u01",
+      "speaker": "M",
+      "text": "Good news! We have finally received the go-ahead for our department's project to install bicycle racks at the train station downtown.",
+      "start": 6.87,
+      "end": 15.21,
+      "clipSrc": "../../audio-sentences/t1-68-s01.mp3",
+      "clipSourceStart": 6.79,
+      "vi": "Tin tốt đây! Cuối cùng chúng ta đã nhận được sự đồng ý cho dự án của bộ phận mình về việc lắp đặt giá để xe đạp tại ga tàu trung tâm thành phố.",
+      "listeningKeywords": [
+        "received",
+        "install",
+        "bicycle racks",
+        "station downtown"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "received",
+          "vi": "nhận được"
+        },
+        {
+          "en": "install",
+          "vi": "lắp đặt"
+        },
+        {
+          "en": "bicycle racks",
+          "vi": "giá để xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-68-u01-k1",
+          "en": "received",
+          "vi": [
+            "nhận được"
+          ],
+          "start": 8.85,
+          "end": 9.33,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u01-k2",
+          "en": "install",
+          "vi": [
+            "lắp đặt"
+          ],
+          "start": 11.79,
+          "end": 12.24,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u01-k3",
+          "en": "bicycle racks",
+          "vi": [
+            "giá để xe"
+          ],
+          "start": 12.24,
+          "end": 13.2,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u01-k4",
+          "en": "station downtown",
+          "vi": [],
+          "start": 13.83,
+          "end": 15.21,
+          "anchorSource": "t1-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-68-u02",
+      "speaker": "W",
+      "text": "At last! So, now we need to decide where to place the racks.",
+      "start": 15.57,
+      "end": 20.52,
+      "clipSrc": "../../audio-sentences/t1-68-s02.mp3",
+      "clipSourceStart": 15.49,
+      "vi": "Cuối cùng cũng được rồi! Vậy bây giờ chúng ta cần quyết định nơi đặt các giá để xe.",
+      "listeningKeywords": [
+        "decide",
+        "place",
+        "racks"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "place",
+          "vi": "nơi"
+        },
+        {
+          "en": "racks",
+          "vi": "giá để xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-68-u02-k1",
+          "en": "decide",
+          "vi": [],
+          "start": 18.33,
+          "end": 18.93,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u02-k2",
+          "en": "place",
+          "vi": [
+            "nơi"
+          ],
+          "start": 19.41,
+          "end": 19.83,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u02-k3",
+          "en": "racks",
+          "vi": [
+            "giá để xe"
+          ],
+          "start": 19.95,
+          "end": 20.52,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-68-u03",
+      "speaker": "W",
+      "text": "How about by the station entrance?",
+      "start": 21.0,
+      "end": 23.04,
+      "clipSrc": "../../audio-sentences/t1-68-s03.mp3",
+      "clipSourceStart": 20.92,
+      "vi": "Ngay cạnh lối vào nhà ga thì sao?",
+      "listeningKeywords": [
+        "station entrance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "station entrance",
+          "vi": "lối vào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-68-u03-k1",
+          "en": "station entrance",
+          "vi": [
+            "lối vào"
+          ],
+          "start": 21.93,
+          "end": 23.04,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-68-u04",
+      "speaker": "M",
+      "text": "Hmm. If we asked riders, I bet they'd say that the most convenient spot is as close to the platform as possible.",
+      "start": 23.76,
+      "end": 31.68,
+      "clipSrc": "../../audio-sentences/t1-68-meaning-04.mp3",
+      "clipSourceStart": 23.68,
+      "vi": "Hừm. Nếu chúng ta hỏi những người đi xe, tôi cá là họ sẽ nói rằng vị trí thuận tiện nhất là càng gần sân ga càng tốt.",
+      "listeningKeywords": [
+        "asked",
+        "convenient spot",
+        "close",
+        "platform"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "asked",
+          "vi": "hỏi"
+        },
+        {
+          "en": "convenient spot",
+          "vi": "tiện"
+        },
+        {
+          "en": "close",
+          "vi": "gần"
+        },
+        {
+          "en": "platform",
+          "vi": "sân ga"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-68-u04-k1",
+          "en": "asked",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 24.81,
+          "end": 25.14,
+          "anchorSource": "t1-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u04-k2",
+          "en": "convenient spot",
+          "vi": [
+            "tiện"
+          ],
+          "start": 28.11,
+          "end": 29.22,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u04-k3",
+          "en": "close",
+          "vi": [
+            "gần"
+          ],
+          "start": 29.64,
+          "end": 30.06,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u04-k4",
+          "en": "platform",
+          "vi": [
+            "sân ga"
+          ],
+          "start": 30.3,
+          "end": 30.9,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-68-u05",
+      "speaker": "W",
+      "text": "Let's do that. I'll contact some companies for estimates.",
+      "start": 31.98,
+      "end": 36.0,
+      "clipSrc": "../../audio-sentences/t1-68-meaning-05.mp3",
+      "clipSourceStart": 31.9,
+      "vi": "Hãy làm như vậy đi. Tôi sẽ liên hệ với một số công ty để lấy báo giá.",
+      "listeningKeywords": [
+        "contact",
+        "companies",
+        "estimates"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "contact",
+          "vi": "liên hệ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-68-u05-k1",
+          "en": "contact",
+          "vi": [
+            "liên hệ"
+          ],
+          "start": 33.69,
+          "end": 34.29,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u05-k2",
+          "en": "companies",
+          "vi": [],
+          "start": 34.47,
+          "end": 35.07,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-68-u05-k3",
+          "en": "estimates",
+          "vi": [],
+          "start": 35.28,
+          "end": 36.0,
+          "anchorSource": "t1-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

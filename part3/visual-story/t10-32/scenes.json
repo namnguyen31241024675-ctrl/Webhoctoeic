@@ -1,0 +1,288 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t10-32",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T10-32-34.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.03,
+    "dialogueEnd": 27.66
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 32–34, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 32–34, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 32–34, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 32–34, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.03,
+      "end": 10.56,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 10.56,
+      "end": 20.91,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2-1",
+          "vocabularyId": "vocab-2-1",
+          "label": "musical instruments",
+          "x": 0.39,
+          "y": 0.02,
+          "width": 0.26,
+          "height": 0.45,
+          "utteranceIds": [
+            "t10-32-u03"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 20.91,
+      "end": 23.04,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 23.04,
+      "end": 27.66,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "practice rooms",
+          "x": 0.24,
+          "y": 0.55,
+          "width": 0.52,
+          "height": 0.38,
+          "utteranceIds": [
+            "t10-32-u05"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-2-1",
+      "en": "musical instruments",
+      "vi": "nhạc cụ",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4-1",
+      "en": "practice rooms",
+      "vi": "phòng tập nhạc",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

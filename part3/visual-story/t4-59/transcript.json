@@ -1,0 +1,433 @@
+{
+  "conversationId": "t4-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-59-u01",
+      "speaker": "W",
+      "text": "Hi, Shinji. I wanted to ask you about the order we got from the department store chain.",
+      "start": 6.03,
+      "end": 10.83,
+      "clipSrc": "../../audio-sentences/t4-59-meaning-01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Chào, Shinji. Tôi muốn hỏi bạn về đơn hàng chúng ta nhận được từ chuỗi cửa hàng bách hóa.",
+      "listeningKeywords": [
+        "wanted",
+        "ask",
+        "department store chain"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wanted",
+          "vi": "muốn"
+        },
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "department store chain",
+          "vi": "cửa hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u01-k1",
+          "en": "wanted",
+          "vi": [
+            "muốn"
+          ],
+          "start": 7.35,
+          "end": 7.68,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u01-k2",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 7.86,
+          "end": 8.19,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u01-k3",
+          "en": "department store chain",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 9.75,
+          "end": 10.83,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u02",
+      "speaker": "W",
+      "text": "You know, the one that placed an order for 5,000 jigsaw puzzles?",
+      "start": 11.13,
+      "end": 14.46,
+      "clipSrc": "../../audio-sentences/t4-59-s03.mp3",
+      "clipSourceStart": 11.05,
+      "vi": "Bạn biết đấy, cái đặt hàng 5.000 câu đố ghép hình?",
+      "listeningKeywords": [
+        "placed",
+        "order",
+        "5,000",
+        "jigsaw puzzles"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "order",
+          "vi": "đặt hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u02-k1",
+          "en": "placed",
+          "vi": [],
+          "start": 12.09,
+          "end": 12.45,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u02-k2",
+          "en": "order",
+          "vi": [
+            "đặt hàng"
+          ],
+          "start": 12.54,
+          "end": 12.75,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u02-k3",
+          "en": "jigsaw puzzles",
+          "vi": [],
+          "start": 13.59,
+          "end": 14.46,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u03",
+      "speaker": "M",
+      "text": "Yes. They want the order in a week so they can stock them before the holiday.",
+      "start": 14.82,
+      "end": 19.56,
+      "clipSrc": "../../audio-sentences/t4-59-meaning-03.mp3",
+      "clipSourceStart": 14.74,
+      "vi": "Vâng. Họ muốn đơn hàng trong một tuần để có thể dự trữ trước kỳ nghỉ.",
+      "listeningKeywords": [
+        "order",
+        "stock",
+        "holiday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "order",
+          "vi": "đơn hàng"
+        },
+        {
+          "en": "stock",
+          "vi": "hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u03-k1",
+          "en": "order",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 16.5,
+          "end": 16.8,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u03-k2",
+          "en": "holiday",
+          "vi": [],
+          "start": 18.96,
+          "end": 19.56,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u04",
+      "speaker": "W",
+      "text": "A week is not a long time.",
+      "start": 19.98,
+      "end": 22.02,
+      "clipSrc": "../../audio-sentences/t4-59-s06.mp3",
+      "clipSourceStart": 19.9,
+      "vi": "Một tuần không phải là thời gian dài.",
+      "listeningKeywords": [
+        "not",
+        "long"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "long",
+          "vi": "dài"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u04-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 20.76,
+          "end": 21.15,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u04-k2",
+          "en": "long",
+          "vi": [
+            "dài"
+          ],
+          "start": 21.18,
+          "end": 21.45,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u05",
+      "speaker": "M",
+      "text": "We've had short timelines before.",
+      "start": 22.59,
+      "end": 24.48,
+      "clipSrc": "../../audio-sentences/t4-59-s07.mp3",
+      "clipSourceStart": 22.51,
+      "vi": "Chúng ta đã có thời hạn ngắn trước đây.",
+      "listeningKeywords": [
+        "short timelines"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "short timelines",
+          "vi": "thời hạn ngắn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u05-k1",
+          "en": "short timelines",
+          "vi": [
+            "thời hạn ngắn"
+          ],
+          "start": 23.07,
+          "end": 23.97,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u06",
+      "speaker": "M",
+      "text": "Anyway, our illustrators sent some new puzzle illustrations, right? I heard they're making a special edition.",
+      "start": 24.72,
+      "end": 30.99,
+      "clipSrc": "../../audio-sentences/t4-59-s08.mp3",
+      "clipSourceStart": 24.64,
+      "vi": "Dù sao, các họa sĩ minh họa của chúng ta đã gửi một số minh họa câu đố mới, phải không? Tôi nghe họ đang làm phiên bản đặc biệt.",
+      "listeningKeywords": [
+        "illustrators",
+        "sent",
+        "illustrations",
+        "special edition"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sent",
+          "vi": "gửi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u06-k1",
+          "en": "sent",
+          "vi": [
+            "gửi"
+          ],
+          "start": 26.19,
+          "end": 26.46,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u06-k2",
+          "en": "illustrations",
+          "vi": [],
+          "start": 27.42,
+          "end": 28.23,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u06-k3",
+          "en": "special edition",
+          "vi": [],
+          "start": 30.03,
+          "end": 30.99,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u07",
+      "speaker": "W",
+      "text": "Yes, and I'm so excited! I've got the sketches right here.",
+      "start": 31.23,
+      "end": 34.86,
+      "clipSrc": "../../audio-sentences/t4-59-s09.mp3",
+      "clipSourceStart": 31.15,
+      "vi": "Vâng, và tôi rất hào hứng! Tôi có bản phác thảo ngay đây.",
+      "listeningKeywords": [
+        "excited",
+        "got",
+        "sketches"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "excited",
+          "vi": "hào hứng"
+        },
+        {
+          "en": "got",
+          "vi": "có"
+        },
+        {
+          "en": "sketches",
+          "vi": "bản phác thảo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u07-k1",
+          "en": "excited",
+          "vi": [
+            "hào hứng"
+          ],
+          "start": 32.28,
+          "end": 33.0,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u07-k2",
+          "en": "got",
+          "vi": [
+            "có"
+          ],
+          "start": 33.57,
+          "end": 33.78,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-59-u07-k3",
+          "en": "sketches",
+          "vi": [
+            "bản phác thảo"
+          ],
+          "start": 33.84,
+          "end": 34.32,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-59-u08",
+      "speaker": "W",
+      "text": "Let me show you.",
+      "start": 35.01,
+      "end": 35.85,
+      "clipSrc": "../../audio-sentences/t4-59-s10.mp3",
+      "clipSourceStart": 34.93,
+      "vi": "Để tôi cho bạn xem.",
+      "listeningKeywords": [
+        "show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "show",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-59-u08-k1",
+          "en": "show",
+          "vi": [
+            "xem"
+          ],
+          "start": 35.31,
+          "end": 35.55,
+          "anchorSource": "t4-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

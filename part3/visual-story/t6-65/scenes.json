@@ -1,0 +1,238 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t6-65",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T06-65-67.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.93,
+    "dialogueEnd": 34.2
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 65–67, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 65–67, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 65–67, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa hội thoại Test 6 câu 65–67, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.93,
+      "end": 11.22,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.27,
+          "y": 0.025,
+          "width": 0.55,
+          "height": 0.93
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 11.22,
+      "end": 18.81,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.09,
+          "y": 0.025,
+          "width": 0.6,
+          "height": 0.93
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 18.81,
+      "end": 25.14,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "W",
+          "x": 0.25,
+          "y": 0.025,
+          "width": 0.55,
+          "height": 0.93
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 25.14,
+      "end": 34.2,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "e-mail",
+          "x": 0.4,
+          "y": 0.4,
+          "width": 0.4,
+          "height": 0.51,
+          "utteranceIds": [
+            "t6-65-u07"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.08,
+          "y": 0.035,
+          "width": 0.65,
+          "height": 0.88
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-4-1",
+      "en": "e-mail",
+      "vi": "thư điện tử",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-2",
+        "x": 0.27,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.425,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

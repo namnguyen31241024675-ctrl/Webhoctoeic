@@ -1,0 +1,47 @@
+{
+  "threeSpeakers": {
+    "cards": [
+      "M1",
+      "M2",
+      "W"
+    ],
+    "focus": [
+      "M2"
+    ]
+  },
+  "spacePause": true,
+  "forward": {
+    "paused": true,
+    "position": 17.1
+  },
+  "seekStart": 14.1,
+  "backward": {
+    "paused": true,
+    "position": 14.1
+  },
+  "camera": {
+    "details": [
+      "1telephoto",
+      "2LCD screen"
+    ],
+    "photo": "http://127.0.0.1:8770/part3/visual-story/t10-53/images/scene-02-v2.png",
+    "speaker": "M"
+  },
+  "vocabulary": true,
+  "pronunciationStatus": "Đã phát âm.",
+  "popupKeepsAudioPaused": true,
+  "quiz": {
+    "hotspots": 0,
+    "listenFirst": true,
+    "photos": 0
+  },
+  "sourceWarning": {
+    "cards": [
+      "Ký hiệu PDF · M",
+      "Ký hiệu PDF · W"
+    ],
+    "personFrames": 0,
+    "visible": true
+  },
+  "sentenceArrows": true
+}

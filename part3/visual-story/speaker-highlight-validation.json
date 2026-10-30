@@ -1,0 +1,15 @@
+{
+  "conversations": 65,
+  "scenes": 261,
+  "sourceUtterances": 530,
+  "speakerIdsMatchAllTranscripts": true,
+  "browserRepresentativeChecks": {
+    "femaleFrame": "W",
+    "maleFrame": "M",
+    "threeSpeakerFrame": "M2",
+    "pauseClearsHighlight": true,
+    "cutawayUsesOffscreenSpeakerCard": true
+  },
+  "fullUITraversal": "Automation timeout; representative interaction checks and all 65 data configurations passed.",
+  "originalPhotosAndAudioUnchanged": true
+}

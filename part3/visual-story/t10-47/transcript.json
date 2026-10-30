@@ -1,0 +1,469 @@
+{
+  "conversationId": "t10-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-47-u01",
+      "speaker": "M",
+      "text": "Excuse me—officer? Do you happen to know where rideshare drivers park to wait for passengers? It's my first time at this airport.",
+      "start": 6.15,
+      "end": 13.89,
+      "clipSrc": "../../audio-sentences/t10-47-s01.mp3",
+      "clipSourceStart": 6.07,
+      "vi": "Xin lỗi—cảnh sát ạ? Ngài có biết các tài xế dịch vụ đi chung xe đậu ở đâu để chờ khách không? Đây là lần đầu tôi đến sân bay này.",
+      "listeningKeywords": [
+        "officer",
+        "rideshare drivers park",
+        "wait",
+        "passengers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "rideshare drivers park",
+          "vi": "tài xế"
+        },
+        {
+          "en": "wait",
+          "vi": "chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u01-k1",
+          "en": "officer",
+          "vi": [],
+          "start": 6.93,
+          "end": 7.53,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u01-k2",
+          "en": "rideshare drivers park",
+          "vi": [
+            "tài xế"
+          ],
+          "start": 9.03,
+          "end": 10.5,
+          "anchorSource": "t10-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u01-k3",
+          "en": "wait",
+          "vi": [
+            "chờ"
+          ],
+          "start": 10.68,
+          "end": 10.92,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u01-k4",
+          "en": "passengers",
+          "vi": [],
+          "start": 11.04,
+          "end": 11.76,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u02",
+      "speaker": "W",
+      "text": "Yes. Drive to the pickup area by terminal A.",
+      "start": 14.25,
+      "end": 18.06,
+      "clipSrc": "../../audio-sentences/t10-47-s02.mp3",
+      "clipSourceStart": 14.17,
+      "vi": "Có chứ. Lái xe đến khu vực đón khách bên nhà ga A.",
+      "listeningKeywords": [
+        "Drive",
+        "pickup area",
+        "terminal"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Drive",
+          "vi": "Lái xe"
+        },
+        {
+          "en": "pickup area",
+          "vi": "khu vực đón khách"
+        },
+        {
+          "en": "terminal",
+          "vi": "nhà ga"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u02-k1",
+          "en": "Drive",
+          "vi": [
+            "Lái xe"
+          ],
+          "start": 15.18,
+          "end": 15.72,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u02-k2",
+          "en": "pickup area",
+          "vi": [
+            "khu vực đón khách"
+          ],
+          "start": 15.96,
+          "end": 16.8,
+          "anchorSource": "t10-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u02-k3",
+          "en": "terminal",
+          "vi": [
+            "nhà ga"
+          ],
+          "start": 17.01,
+          "end": 17.61,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u03",
+      "speaker": "W",
+      "text": "Look out for the orange sign that says \"rideshare.\" I'm sure you'll see other drivers there.",
+      "start": 18.39,
+      "end": 23.85,
+      "clipSrc": "../../audio-sentences/t10-47-s03.mp3",
+      "clipSourceStart": 18.31,
+      "vi": "Hãy tìm biển màu cam có chữ “rideshare”. Tôi chắc bạn sẽ thấy các tài xế khác ở đó.",
+      "listeningKeywords": [
+        "orange sign",
+        "rideshare",
+        "see",
+        "drivers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "orange sign",
+          "vi": "biển"
+        },
+        {
+          "en": "rideshare",
+          "vi": "rideshare"
+        },
+        {
+          "en": "see",
+          "vi": "thấy"
+        },
+        {
+          "en": "drivers",
+          "vi": "tài xế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u03-k1",
+          "en": "orange sign",
+          "vi": [
+            "biển"
+          ],
+          "start": 19.2,
+          "end": 20.1,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u03-k2",
+          "en": "rideshare",
+          "vi": [
+            "rideshare"
+          ],
+          "start": 20.7,
+          "end": 21.6,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u03-k3",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 22.53,
+          "end": 22.77,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u03-k4",
+          "en": "drivers",
+          "vi": [
+            "tài xế"
+          ],
+          "start": 23.01,
+          "end": 23.46,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u04",
+      "speaker": "W",
+      "text": "By the way, I recommend taking the terminal bypass.",
+      "start": 24.36,
+      "end": 27.6,
+      "clipSrc": "../../audio-sentences/t10-47-s04.mp3",
+      "clipSourceStart": 24.28,
+      "vi": "Nhân tiện, tôi khuyên bạn nên đi đường vòng quanh nhà ga.",
+      "listeningKeywords": [
+        "recommend",
+        "terminal bypass"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "recommend",
+          "vi": "khuyên"
+        },
+        {
+          "en": "terminal bypass",
+          "vi": "nhà ga"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u04-k1",
+          "en": "recommend",
+          "vi": [
+            "khuyên"
+          ],
+          "start": 25.26,
+          "end": 25.92,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u04-k2",
+          "en": "terminal bypass",
+          "vi": [
+            "nhà ga"
+          ],
+          "start": 26.34,
+          "end": 27.6,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u05",
+      "speaker": "W",
+      "text": "That bridge will take you there faster.",
+      "start": 27.87,
+      "end": 29.73,
+      "clipSrc": "../../audio-sentences/t10-47-s05.mp3",
+      "clipSourceStart": 27.79,
+      "vi": "Cây cầu đó sẽ đưa bạn đến nơi nhanh hơn.",
+      "listeningKeywords": [
+        "bridge",
+        "take",
+        "faster"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bridge",
+          "vi": "Cây cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u05-k1",
+          "en": "bridge",
+          "vi": [
+            "Cây cầu"
+          ],
+          "start": 28.11,
+          "end": 28.44,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u05-k2",
+          "en": "take",
+          "vi": [],
+          "start": 28.59,
+          "end": 28.83,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u05-k3",
+          "en": "faster",
+          "vi": [],
+          "start": 29.1,
+          "end": 29.73,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u06",
+      "speaker": "M",
+      "text": "Great. Thank you. Oh—is there a fuel station near the airport? My tank is almost empty.",
+      "start": 30.0,
+      "end": 35.94,
+      "clipSrc": "../../audio-sentences/t10-47-s06.mp3",
+      "clipSourceStart": 29.92,
+      "vi": "Tuyệt quá. Cảm ơn chị. À—có trạm xăng nào gần sân bay không? Bình xăng của tôi gần hết rồi.",
+      "listeningKeywords": [
+        "fuel station near",
+        "airport",
+        "tank",
+        "almost empty"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "airport",
+          "vi": "sân bay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u06-k1",
+          "en": "fuel station near",
+          "vi": [],
+          "start": 32.79,
+          "end": 33.72,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u06-k2",
+          "en": "airport",
+          "vi": [
+            "sân bay"
+          ],
+          "start": 33.84,
+          "end": 34.35,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u06-k3",
+          "en": "tank",
+          "vi": [],
+          "start": 34.71,
+          "end": 35.04,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u06-k4",
+          "en": "almost empty",
+          "vi": [],
+          "start": 35.16,
+          "end": 35.94,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-47-u07",
+      "speaker": "W",
+      "text": "You'll see one by the rental-car lot on your way out.",
+      "start": 36.24,
+      "end": 39.06,
+      "clipSrc": "../../audio-sentences/t10-47-s07.mp3",
+      "clipSourceStart": 36.16,
+      "vi": "Bạn sẽ thấy một trạm gần bãi xe thuê xe khi ra khỏi sân bay.",
+      "listeningKeywords": [
+        "see",
+        "rental-car"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "thấy"
+        },
+        {
+          "en": "rental-car",
+          "vi": "xe"
+        },
+        {
+          "en": "rental-car",
+          "vi": "xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-47-u07-k1",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 36.45,
+          "end": 36.72,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-47-u07-k2",
+          "en": "rental-car",
+          "vi": [
+            "xe"
+          ],
+          "start": 37.2,
+          "end": 37.83,
+          "anchorSource": "t10-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

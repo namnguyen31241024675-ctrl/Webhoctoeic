@@ -1,0 +1,531 @@
+{
+  "conversationId": "t7-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      19,
+      20
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-68-u01",
+      "speaker": "W",
+      "text": "Stefan, have you given any more thought to that parcel of land that's available for lease? If we leased it, we'd have space for a lot more crops this spring and summer.",
+      "start": 6.51,
+      "end": 16.74,
+      "clipSrc": "../../audio-sentences/t7-68-s01.mp3",
+      "clipSourceStart": 6.43,
+      "vi": "Stefan, anh đã nghĩ thêm về mảnh đất có sẵn cho thuê chưa? Nếu thuê, chúng ta sẽ có không gian cho nhiều cây trồng hơn mùa xuân và hè này.",
+      "listeningKeywords": [
+        "given",
+        "thought",
+        "land",
+        "crops"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "given",
+          "vi": "cho"
+        },
+        {
+          "en": "given",
+          "vi": "cho"
+        },
+        {
+          "en": "thought",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u01-k1",
+          "en": "given",
+          "vi": [
+            "cho"
+          ],
+          "start": 7.95,
+          "end": 8.28,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u01-k2",
+          "en": "thought",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 8.7,
+          "end": 9.09,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u01-k3",
+          "en": "land",
+          "vi": [],
+          "start": 10.11,
+          "end": 10.5,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u01-k4",
+          "en": "crops",
+          "vi": [],
+          "start": 15.12,
+          "end": 15.57,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u02",
+      "speaker": "M",
+      "text": "Yes, with the extra growing space, we'd definitely increase our yield.",
+      "start": 17.22,
+      "end": 21.48,
+      "clipSrc": "../../audio-sentences/t7-68-s02.mp3",
+      "clipSourceStart": 17.14,
+      "vi": "Có, với không gian trồng thêm, chúng ta chắc chắn tăng năng suất.",
+      "listeningKeywords": [
+        "extra growing space",
+        "definitely",
+        "increase",
+        "yield"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "definitely",
+          "vi": "chắc chắn"
+        },
+        {
+          "en": "increase",
+          "vi": "tăng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u02-k1",
+          "en": "extra growing space",
+          "vi": [],
+          "start": 18.36,
+          "end": 19.44,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u02-k2",
+          "en": "definitely",
+          "vi": [
+            "chắc chắn"
+          ],
+          "start": 19.689919,
+          "end": 20.4,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u02-k3",
+          "en": "increase",
+          "vi": [
+            "tăng"
+          ],
+          "start": 20.4,
+          "end": 20.82,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u02-k4",
+          "en": "yield",
+          "vi": [],
+          "start": 21.0,
+          "end": 21.48,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u03",
+      "speaker": "M",
+      "text": "What crops do you think would be best?",
+      "start": 21.87,
+      "end": 23.85,
+      "clipSrc": "../../audio-sentences/t7-68-s03.mp3",
+      "clipSourceStart": 21.79,
+      "vi": "Anh nghĩ cây trồng nào tốt nhất?",
+      "listeningKeywords": [
+        "crops",
+        "think",
+        "best"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u03-k1",
+          "en": "crops",
+          "vi": [],
+          "start": 22.2,
+          "end": 22.62,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u03-k2",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 22.83,
+          "end": 23.07,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u03-k3",
+          "en": "best",
+          "vi": [],
+          "start": 23.34,
+          "end": 23.85,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u04",
+      "speaker": "W",
+      "text": "Well, we could plant more celery, which is our most popular crop.",
+      "start": 24.3,
+      "end": 28.17,
+      "clipSrc": "../../audio-sentences/t7-68-s04.mp3",
+      "clipSourceStart": 24.22,
+      "vi": "Ừm, chúng ta có thể trồng thêm cần tây, là cây trồng phổ biến nhất.",
+      "listeningKeywords": [
+        "plant",
+        "celery",
+        "popular crop"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plant",
+          "vi": "trồng"
+        },
+        {
+          "en": "plant",
+          "vi": "trồng"
+        },
+        {
+          "en": "plant",
+          "vi": "cây"
+        },
+        {
+          "en": "celery",
+          "vi": "cần tây"
+        },
+        {
+          "en": "popular crop",
+          "vi": "phổ biến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u04-k1",
+          "en": "plant",
+          "vi": [
+            "trồng",
+            "cây"
+          ],
+          "start": 25.11,
+          "end": 25.41,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u04-k2",
+          "en": "celery",
+          "vi": [
+            "cần tây"
+          ],
+          "start": 25.59,
+          "end": 26.22,
+          "anchorSource": "t7-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u04-k3",
+          "en": "popular crop",
+          "vi": [
+            "phổ biến"
+          ],
+          "start": 27.15,
+          "end": 28.17,
+          "anchorSource": "t7-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u05",
+      "speaker": "W",
+      "text": "And we could even add cabbage as a new crop in the spring.",
+      "start": 28.47,
+      "end": 31.47,
+      "clipSrc": "../../audio-sentences/t7-68-s05.mp3",
+      "clipSourceStart": 28.39,
+      "vi": "Và thậm chí thêm bắp cải làm cây mới mùa xuân.",
+      "listeningKeywords": [
+        "add",
+        "cabbage",
+        "crop",
+        "spring"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "add",
+          "vi": "thêm"
+        },
+        {
+          "en": "cabbage",
+          "vi": "bắp cải"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u05-k1",
+          "en": "add",
+          "vi": [
+            "thêm"
+          ],
+          "start": 29.31,
+          "end": 29.49,
+          "anchorSource": "t7-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u05-k2",
+          "en": "cabbage",
+          "vi": [
+            "bắp cải"
+          ],
+          "start": 29.49,
+          "end": 30.0,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u05-k3",
+          "en": "crop",
+          "vi": [],
+          "start": 30.39,
+          "end": 30.72,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u05-k4",
+          "en": "spring",
+          "vi": [],
+          "start": 30.93,
+          "end": 31.47,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u06",
+      "speaker": "M",
+      "text": "That makes sense. We'll need to extend our irrigation system to the new parcel, though, and that could be expensive.",
+      "start": 31.83,
+      "end": 38.85,
+      "clipSrc": "../../audio-sentences/t7-68-s06.mp3",
+      "clipSourceStart": 31.75,
+      "vi": "Hợp lý. Nhưng chúng ta cần mở rộng hệ thống tưới đến mảnh mới, và có thể đắt.",
+      "listeningKeywords": [
+        "sense",
+        "extend",
+        "irrigation system",
+        "parcel"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sense",
+          "vi": "Hợp lý"
+        },
+        {
+          "en": "extend",
+          "vi": "mở rộng"
+        },
+        {
+          "en": "irrigation system",
+          "vi": "hệ thống tưới"
+        },
+        {
+          "en": "parcel",
+          "vi": "mảnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u06-k1",
+          "en": "sense",
+          "vi": [
+            "Hợp lý"
+          ],
+          "start": 32.362581,
+          "end": 32.85,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u06-k2",
+          "en": "extend",
+          "vi": [
+            "mở rộng"
+          ],
+          "start": 33.99,
+          "end": 34.47,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u06-k3",
+          "en": "irrigation system",
+          "vi": [
+            "hệ thống tưới"
+          ],
+          "start": 34.65,
+          "end": 35.76,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u06-k4",
+          "en": "parcel",
+          "vi": [
+            "mảnh"
+          ],
+          "start": 36.24,
+          "end": 36.69,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u07",
+      "speaker": "M",
+      "text": "I can call Lynden Ag Supply for an estimate on that.",
+      "start": 39.3,
+      "end": 42.42,
+      "clipSrc": "../../audio-sentences/t7-68-s07.mp3",
+      "clipSourceStart": 39.22,
+      "vi": "Tôi có thể gọi Lynden Ag Supply để lấy ước tính.",
+      "listeningKeywords": [
+        "call",
+        "Supply",
+        "estimate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        },
+        {
+          "en": "Supply",
+          "vi": "Supply"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-68-u07-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 39.66,
+          "end": 39.93,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u07-k2",
+          "en": "Supply",
+          "vi": [
+            "Supply"
+          ],
+          "start": 40.68,
+          "end": 41.13,
+          "anchorSource": "t7-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-68-u07-k3",
+          "en": "estimate",
+          "vi": [],
+          "start": 41.46,
+          "end": 41.88,
+          "anchorSource": "t7-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-68-u08",
+      "speaker": "W",
+      "text": "Sure, that would be great.",
+      "start": 42.78,
+      "end": 44.34,
+      "clipSrc": "../../audio-sentences/t7-68-s08.mp3",
+      "clipSourceStart": 42.7,
+      "vi": "Chắc chắn, tốt lắm.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

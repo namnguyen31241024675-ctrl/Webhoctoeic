@@ -1,0 +1,4503 @@
+[
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s01.mp3",
+    "sourceStart": 6.04,
+    "sourceEnd": 6.72,
+    "sha256": "20335c2d852befcb280e06cfa9503c9f2f4d959c5ed00f8f8a45ae773d5f96bf"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s02.mp3",
+    "sourceStart": 6.67,
+    "sourceEnd": 10.56,
+    "sha256": "4530a683ef7325e1aa1d071164505a9a1e388c0a34d48b7654323abb39c46271"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s03.mp3",
+    "sourceStart": 10.81,
+    "sourceEnd": 12.33,
+    "sha256": "5c49048c0449923de7f3f73abc88c7ff1c84f7b051f28a205b737f3a7a307759"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s04.mp3",
+    "sourceStart": 12.55,
+    "sourceEnd": 16.8,
+    "sha256": "32d6f68427a767e63cfa354d62f43f5d6bbee3791250d92d7592dff7162c17ae"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s05.mp3",
+    "sourceStart": 17.05,
+    "sourceEnd": 23.55,
+    "sha256": "35ee3e9f5c41842e69c80902b77ebee99f48a06e115aa32a344228aedc860b26"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s06.mp3",
+    "sourceStart": 23.95,
+    "sourceEnd": 28.17,
+    "sha256": "e7e2351f4b6396b488ed5f92c96eb33f0d94362e2642a0c510aa7e01971fdda9"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s07.mp3",
+    "sourceStart": 30.16,
+    "sourceEnd": 33.03,
+    "sha256": "3cd134b32d6f219b140b32a31d1c6698b5059902e1d4a5ea6f749b9907bb8580"
+  },
+  {
+    "conversation": "t1-35",
+    "audio": "audio-sentences/t1-35-s08.mp3",
+    "sourceStart": 33.4,
+    "sourceEnd": 35.85,
+    "sha256": "6fc8ff628f9f0b5eeaa9659ee07ad24121b239ba240c69bb1cca23ba15149460"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s01.mp3",
+    "sourceStart": 5.41,
+    "sourceEnd": 9.72,
+    "sha256": "faba93a5dbd690417678694d051b7d2abed55d9a2a2495c1fd380ee2534d57d0"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s02.mp3",
+    "sourceStart": 9.91,
+    "sourceEnd": 13.98,
+    "sha256": "7aa5074dca0a2f1fec022e9089d9bc21319435403a360f891f74397cba2b1215"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s03.mp3",
+    "sourceStart": 14.14,
+    "sourceEnd": 16.29,
+    "sha256": "c51f33b86c4eb98733a16b0882e8d963a4a4d00482932e3cf990318cfebb122e"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s04.mp3",
+    "sourceStart": 16.45,
+    "sourceEnd": 19.95,
+    "sha256": "4c37d7c03aae71bbba9e9d8b50e3fbedd4a210e7b2de6e2be33c7d70a45fe149"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s05.mp3",
+    "sourceStart": 20.23,
+    "sourceEnd": 22.02,
+    "sha256": "f3c73d24c6ed1f05f3bc6fab180e254823a41be723228e088c0ef6d37f9055d0"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s06.mp3",
+    "sourceStart": 22.314,
+    "sourceEnd": 24.51,
+    "sha256": "0c9b669ae8090de60297681ade150e93a6f8d9d3650303bb784f9dcef0394358"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s07.mp3",
+    "sourceStart": 24.64,
+    "sourceEnd": 26.46,
+    "sha256": "32f2ded4719a54855c7790509c42c1c18d20cd1ce965a79fa726d5b36e1e0803"
+  },
+  {
+    "conversation": "t1-38",
+    "audio": "audio-sentences/t1-38-s08.mp3",
+    "sourceStart": 26.74,
+    "sourceEnd": 28.2,
+    "sha256": "d0b14d029cd24997200305d3cdcb323f1c7ea8982b9745a9d844c2d2375dc6e2"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s01.mp3",
+    "sourceStart": 7.09,
+    "sourceEnd": 8.73,
+    "sha256": "9ccc959648d5564636a91a93a117cbfced7ccc5e6c9932fbb96fc2212bc787e9"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s02.mp3",
+    "sourceStart": 8.92,
+    "sourceEnd": 13.2,
+    "sha256": "0c1d1e1b83e6baa57cb9be60cb56b3aa0c50729de3449a47c21f1ec68561358d"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s03.mp3",
+    "sourceStart": 13.33,
+    "sourceEnd": 14.1,
+    "sha256": "82c2dfb2e16080721533d3e68c04f05f07964cebe86d5b95a79d687f1792962d"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s04.mp3",
+    "sourceStart": 14.08,
+    "sourceEnd": 17.01,
+    "sha256": "e39bf81db5da2714ce11f11b5cdc9c3c085ea212ff91ccc9427b380e1d2fb9fa"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s05.mp3",
+    "sourceStart": 17.23,
+    "sourceEnd": 19.2,
+    "sha256": "132f5c8f27d34ba0d34b16f1429a0ae0dfc71440a1bec3167f21386dd63f3fb3"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s06.mp3",
+    "sourceStart": 19.48,
+    "sourceEnd": 21.09,
+    "sha256": "966c77fa90b1e93630a86109b42f1d5acc59f21ccbfdbf1e2918020d7fa94804"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s07.mp3",
+    "sourceStart": 21.19,
+    "sourceEnd": 22.38,
+    "sha256": "4e32c77850a5f5251aaab89007d1207b934a6363cc701b899bf25ca7e19b260f"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s08.mp3",
+    "sourceStart": 22.63,
+    "sourceEnd": 25.32,
+    "sha256": "0590aad655f7ebf21832a86b5f5c0af7363b9a4b4ebac3764c7fffddb54af089"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s09.mp3",
+    "sourceStart": 25.51,
+    "sourceEnd": 29.64,
+    "sha256": "1c36ad5e1d078c5f580db257fda03b1444580bbe0d4601fbd4e9c8c264cb98a8"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s10.mp3",
+    "sourceStart": 29.83,
+    "sourceEnd": 30.42,
+    "sha256": "e9923f8055bf196c4480d41bd11bf99496541c52f43db6d02c4a8798841a123e"
+  },
+  {
+    "conversation": "t1-41",
+    "audio": "audio-sentences/t1-41-s11.mp3",
+    "sourceStart": 30.43,
+    "sourceEnd": 32.64,
+    "sha256": "75cf9ecedd7c7ff5c319c94e59d1b0009d6049badc0bf1ea19e524b2162248cf"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s01.mp3",
+    "sourceStart": 5.95,
+    "sourceEnd": 8.19,
+    "sha256": "9681210246c2083d04ac1a3403fa2ad67268999485b66031382340de296b0244"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s02.mp3",
+    "sourceStart": 8.56,
+    "sourceEnd": 9.66,
+    "sha256": "dc78031cfe074afd4fb658e9d47a195dc8613eea847dbd00134965337627d12c"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s03.mp3",
+    "sourceStart": 9.94,
+    "sourceEnd": 10.56,
+    "sha256": "8a2ebdb804de82b0604f2f2e21a869d38c5ee27bb23fd5d82d2bc5427dfea0ef"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s04.mp3",
+    "sourceStart": 10.54,
+    "sourceEnd": 20.01,
+    "sha256": "a1089b3493998a82515728e9b5c440d8a1cf125284244ab65850dada5c4634ea"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s05.mp3",
+    "sourceStart": 22.66,
+    "sourceEnd": 24.18,
+    "sha256": "70188752be7c78cf01e67915801df6564fd9ebbed2923bc75f982ee1097651f2"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s06.mp3",
+    "sourceStart": 24.31,
+    "sourceEnd": 26.16,
+    "sha256": "f1c9139614f6233b2b629ebace994ce47c1593c75294e83d6683727f97afb667"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s07.mp3",
+    "sourceStart": 26.26,
+    "sourceEnd": 26.94,
+    "sha256": "643bd595c13a60910fcb4caa980af33beb8c2595c6163055c327c3fd229d018c"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s08.mp3",
+    "sourceStart": 27.28,
+    "sourceEnd": 28.92,
+    "sha256": "ae41375bcaed89549eac913e7f681ee8a6cb98572289bbd7ef8811e0ea440656"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s09.mp3",
+    "sourceStart": 29.41,
+    "sourceEnd": 31.53,
+    "sha256": "118333394519a1ba936efb642fe486b7bd4d13d1868fe25bcbc13fd5d88ad7df"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s10.mp3",
+    "sourceStart": 31.87,
+    "sourceEnd": 36.03,
+    "sha256": "843a97fbca07a4123fb5df38aa73f9502a79943a3c2827449ac3d6dd4befbca3"
+  },
+  {
+    "conversation": "t1-44",
+    "audio": "audio-sentences/t1-44-s11.mp3",
+    "sourceStart": 36.4,
+    "sourceEnd": 42.99,
+    "sha256": "e0a27e1e5422e90315840d51e3549ee7e69e68c9b3f85bcfa84ee1c136e15668"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s01.mp3",
+    "sourceStart": 6.01,
+    "sourceEnd": 12.87,
+    "sha256": "3efdc734c8a68737f22ae37f7c86302d1491e7dc342e693998fb8dbb4ae9df25"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s02.mp3",
+    "sourceStart": 13.99,
+    "sourceEnd": 15.33,
+    "sha256": "984212c8b281f340757d3e81744115699bf1a91e1d5f96152851cd87fed69702"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s03.mp3",
+    "sourceStart": 15.55,
+    "sourceEnd": 20.1,
+    "sha256": "1654c7e32f4a527b1e357a6434be06c5fb402271fcda98051ff9fc6fdae2ea64"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s04.mp3",
+    "sourceStart": 20.5,
+    "sourceEnd": 23.19,
+    "sha256": "7c9eafde092e1bfa91e9158102aaf6cd53a9d9b75a42e1ec5a0fb40ea137d8a1"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s05.mp3",
+    "sourceStart": 23.29,
+    "sourceEnd": 26.04,
+    "sha256": "b5aee93456521413f5404ad56700a5fe6ef6ab80a4684c404581d4a4764c824f"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s06.mp3",
+    "sourceStart": 26.38,
+    "sourceEnd": 29.28,
+    "sha256": "e065bd78b6ee6f865893d8eaca3ea58947774b72c67c035c78cb47335666fb80"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s07.mp3",
+    "sourceStart": 29.32,
+    "sourceEnd": 35.37,
+    "sha256": "016d305075e1d34259ef325477e79aeadd77a8586763ae32f9ba5be5a7d88109"
+  },
+  {
+    "conversation": "t1-47",
+    "audio": "audio-sentences/t1-47-s08.mp3",
+    "sourceStart": 35.35,
+    "sourceEnd": 37.98,
+    "sha256": "0bb9a5bd736251f9529cb38d5ac58d738a6cc293c838ff4853d3d170b77b8e36"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s01.mp3",
+    "sourceStart": 5.77,
+    "sourceEnd": 6.96,
+    "sha256": "173f1d265a715c9d0e0e78d5de0ffb95c6572f573884cbca1b2ae3a9d21352e7"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s02.mp3",
+    "sourceStart": 7.21,
+    "sourceEnd": 10.86,
+    "sha256": "54626a477cb8f1a26ef1e080986b2f140a80069d013ce82cb9be307e7f495211"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s03.mp3",
+    "sourceStart": 11.05,
+    "sourceEnd": 14.76,
+    "sha256": "0a96ccc8473b17736c74731863902dacbf820acbda5c21fad10ae0e9347a639e"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s04.mp3",
+    "sourceStart": 15.01,
+    "sourceEnd": 19.2,
+    "sha256": "5273ae889c9177625f5bc2fd360b4b0bcad0c0fb0ba2e958a3338e677fca87d5"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s05.mp3",
+    "sourceStart": 19.48,
+    "sourceEnd": 22.62,
+    "sha256": "29b0383cfe1ba62ff1fd6f42e8d248605949b1d94797e6fc07aa105a19816374"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s06.mp3",
+    "sourceStart": 22.9,
+    "sourceEnd": 25.8,
+    "sha256": "713ae3e04e00e394f5434d43935913b6b2d7d79745e5f52cb6fdec0e2e8528d6"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s07.mp3",
+    "sourceStart": 26.56,
+    "sourceEnd": 28.5,
+    "sha256": "25abf9efbc8237f1f4d8ebdb51d9cbf44b2540e3865f991544739fa0b7081ae6"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s08.mp3",
+    "sourceStart": 28.63,
+    "sourceEnd": 31.83,
+    "sha256": "5562ef9a3d223bd014fc465f36edcf9a8c9267acd86854ebad9044d30baf5ed9"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s09.mp3",
+    "sourceStart": 31.96,
+    "sourceEnd": 33.87,
+    "sha256": "8b726dc931f2c5509436a978a88ed938e9e778a0abca51f1a5bf196af22f0130"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s10.mp3",
+    "sourceStart": 34.03,
+    "sourceEnd": 34.71,
+    "sha256": "c9ffa700caf39d29fcc6f51517aaf148ec763bbfd872bb4c5393719c9cb787e2"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s11.mp3",
+    "sourceStart": 34.84,
+    "sourceEnd": 38.22,
+    "sha256": "d63dd637d3a15f99a8d5b13d9f8243d8937a71bb43809eb4b5ed3ceee0039103"
+  },
+  {
+    "conversation": "t1-50",
+    "audio": "audio-sentences/t1-50-s12.mp3",
+    "sourceStart": 38.62,
+    "sourceEnd": 40.56,
+    "sha256": "d6048240eaa75e793160e097525833a1997255f1e2a0882c1d09ff76ae421498"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s01.mp3",
+    "sourceStart": 5.89,
+    "sourceEnd": 10.35,
+    "sha256": "07ceb680c3d968f60b898fede5b0d92917eb77f68c145d7e1f93ac3ff80b5d27"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s02.mp3",
+    "sourceStart": 10.45,
+    "sourceEnd": 11.07,
+    "sha256": "e2401e7524e0d92bea0bcc2a91133c93990cc5be99eff9927e6a2617c5531473"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s03.mp3",
+    "sourceStart": 11.01,
+    "sourceEnd": 14.19,
+    "sha256": "e760c3ba20a158c74ed659d138f0d9fca9491948a21d23aef1a9c88a659827e8"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s04.mp3",
+    "sourceStart": 14.59,
+    "sourceEnd": 18.78,
+    "sha256": "db82279bbfae5559dd36469e358afbc1664b425d5938487735f94627031f52a4"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s05.mp3",
+    "sourceStart": 18.97,
+    "sourceEnd": 24.03,
+    "sha256": "f6dc252efc83f11d1cfbf9b614e00202dbdbcdde9fa27d28d6acec955da6f2a8"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s06.mp3",
+    "sourceStart": 24.25,
+    "sourceEnd": 26.19,
+    "sha256": "7b7c48c574a34d752cf6727628af0640a964a6f206d4bd84525104c85a45c32c"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s07.mp3",
+    "sourceStart": 26.32,
+    "sourceEnd": 27.66,
+    "sha256": "67ceb49965d086b92a9db447ca1840d96103a7150fe73f0819f1e474962e05f9"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s08.mp3",
+    "sourceStart": 27.91,
+    "sourceEnd": 30.66,
+    "sha256": "fa1741486fff7a65d47285793c81e6bf2d84cd460a79222c7bfe682aba9a451e"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s09.mp3",
+    "sourceStart": 30.94,
+    "sourceEnd": 31.65,
+    "sha256": "1341e5dcad5aa169981ce288a08f201aa9c59f9ddd12d2e3c4f68463d89a266b"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s10.mp3",
+    "sourceStart": 31.84,
+    "sourceEnd": 34.8,
+    "sha256": "0a926e96402932c5c2e94bc315786f6fb61a1b151584c116f48f8f7cf66e4bde"
+  },
+  {
+    "conversation": "t1-53",
+    "audio": "audio-sentences/t1-53-s11.mp3",
+    "sourceStart": 34.99,
+    "sourceEnd": 38.58,
+    "sha256": "0e9e8b6a8fee4e043848dcbcf3d162283163b40f0c1767b31c874f81de8ab8d6"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio-sentences/t1-56-s01.mp3",
+    "sourceStart": 7.03,
+    "sourceEnd": 9.72,
+    "sha256": "a37bb5d956b228925a3c47d1482d19bad55ff1a9fd36ff01890726d3b266ea41"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio-sentences/t1-56-s02.mp3",
+    "sourceStart": 9.94,
+    "sourceEnd": 13.2,
+    "sha256": "7bb812007a6d1f5767588f14131f22df2523ffe858f25939832a49fbf8e9d917"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio-sentences/t1-56-s03.mp3",
+    "sourceStart": 13.45,
+    "sourceEnd": 18.24,
+    "sha256": "c972e5ffa90aae884652b7c85bce79db0b9dc7035919d87eedbc21ad1cf17ede"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio-sentences/t1-56-s04.mp3",
+    "sourceStart": 18.4,
+    "sourceEnd": 28.95,
+    "sha256": "7e39883e06cedd5c180d7f4a4facc65cd24578b0f2ed19e8fcf161cb3bf18ebc"
+  },
+  {
+    "conversation": "t1-56",
+    "audio": "audio-sentences/t1-56-s05.mp3",
+    "sourceStart": 29.11,
+    "sourceEnd": 36.96,
+    "sha256": "f884cd9d770ae492c600b7f02f6b1c431b800bb06f6c17b8d39c33cb77a33c16"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 10.65,
+    "sha256": "88bc6cb5f56713fd73e69991f6f47f075f82258488c7d9f584df3bde983d82e5"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s02.mp3",
+    "sourceStart": 11.05,
+    "sourceEnd": 20.19,
+    "sha256": "9ce89cb26f1f369664d066aa5f620800fd717c8f76583ce06db71a3ad89f647b"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s03.mp3",
+    "sourceStart": 20.62,
+    "sourceEnd": 24.93,
+    "sha256": "4e7f2fe9234bd9a8c0df872bdf684e20fda0295682a45c126832c31f5c5c0f6b"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s04.mp3",
+    "sourceStart": 25.27,
+    "sourceEnd": 28.86,
+    "sha256": "72546ef4bf6363fc1dc6434ca2c7ba7988cf825637771eb3cc4d66448c712539"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s05.mp3",
+    "sourceStart": 29.29,
+    "sourceEnd": 38.85,
+    "sha256": "0002a663308642e9924526efe1b34c1d7ffefbb685279c55b727206c6a246795"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s06.mp3",
+    "sourceStart": 39.34,
+    "sourceEnd": 40.8,
+    "sha256": "e0731d66df67a1fcff09386440c4cedc0b6bac4401cdff24d1ed93dd1653a15b"
+  },
+  {
+    "conversation": "t1-59",
+    "audio": "audio-sentences/t1-59-s07.mp3",
+    "sourceStart": 41.08,
+    "sourceEnd": 46.62,
+    "sha256": "0c51a5b5901635a56fd5362a772fedf06e5a0554e413923bb074616f5c9c493d"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s01.mp3",
+    "sourceStart": 6.88,
+    "sourceEnd": 10.44,
+    "sha256": "1b061190e122f8d177657090290d5085e5407954eea034fe36896580dc0d1f16"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s02.mp3",
+    "sourceStart": 10.87,
+    "sourceEnd": 14.64,
+    "sha256": "2f2fa92a63cc04afee68c4e613397fb302afa0777407f9a1a9ff89812b051032"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s03.mp3",
+    "sourceStart": 14.92,
+    "sourceEnd": 16.8,
+    "sha256": "b045c03873065b6a1f7cd855725bd3caa16a6b6fafe009f941bf1a681eb897f6"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s04.mp3",
+    "sourceStart": 19.75,
+    "sourceEnd": 20.46,
+    "sha256": "f363edf390bbf3bf9f2d46df90e29b426fe1b00f0255c76eabb30917f156726b"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s05.mp3",
+    "sourceStart": 20.65,
+    "sourceEnd": 22.89,
+    "sha256": "4da051669f0bda468c50ae3de2790bc6e6aafd1de3813dcde597ad3a6fcab8f3"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s06.mp3",
+    "sourceStart": 23.26,
+    "sourceEnd": 26.76,
+    "sha256": "bcf5af65011a54a848056714f583166a69b390e2d512480961654e5ee646516d"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s07.mp3",
+    "sourceStart": 27.1,
+    "sourceEnd": 27.75,
+    "sha256": "e92470d4d37ecc87f16e7fd49ec05bb908cf512643d5ecadd91645c949113196"
+  },
+  {
+    "conversation": "t1-62",
+    "audio": "audio-sentences/t1-62-s08.mp3",
+    "sourceStart": 28.09,
+    "sourceEnd": 35.16,
+    "sha256": "293176b825da1aba1460333044dc2e84f91b57a78fbd7965d7e5e3b17dad3d77"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s01.mp3",
+    "sourceStart": 7.45,
+    "sourceEnd": 15.0,
+    "sha256": "97adf6b486f0d1275e8b8b8531f78a437e97f507709c7aa217705051492137bd"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s02.mp3",
+    "sourceStart": 15.43,
+    "sourceEnd": 17.31,
+    "sha256": "c52c101163e6521d624719357521aafdd71997f051d3ed37bbdfdc3cae362544"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s03.mp3",
+    "sourceStart": 17.41,
+    "sourceEnd": 23.31,
+    "sha256": "84faca0381d32ec7aca68f4ebad584aedf32bdc297753609654c8f3b44ca715d"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s04.mp3",
+    "sourceStart": 23.65,
+    "sourceEnd": 25.44,
+    "sha256": "f5806fb37853fe257a873fb6e988452f1f870bbc55d102aef7b1e74a8f1a0739"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s05.mp3",
+    "sourceStart": 25.78,
+    "sourceEnd": 33.81,
+    "sha256": "7b6694f000f53ad4471fdd62b6edfd7a2ee776ca3449bf6b4acca7bd31c1a8b8"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s06.mp3",
+    "sourceStart": 37.18,
+    "sourceEnd": 39.09,
+    "sha256": "1acf8394925dc1966599c089a6d019d236213375b27829c6e2d392dcd7d75f2c"
+  },
+  {
+    "conversation": "t1-65",
+    "audio": "audio-sentences/t1-65-s07.mp3",
+    "sourceStart": 39.16,
+    "sourceEnd": 43.86,
+    "sha256": "8e77dc3328d7002d0ae42e3cd1307cbc8175d1eb025a4f49648af93350207af2"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s01.mp3",
+    "sourceStart": 6.79,
+    "sourceEnd": 15.33,
+    "sha256": "1c1dd047ec59c884f0501a24c6743df4bdbdf3a0be69bb98a5e4234d9e04747d"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s02.mp3",
+    "sourceStart": 15.49,
+    "sourceEnd": 20.64,
+    "sha256": "68174dda74ebc9cb04aee7f311fca41b177baece5f3ef506c5bbfdd254a6bec2"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s03.mp3",
+    "sourceStart": 20.92,
+    "sourceEnd": 23.16,
+    "sha256": "e2197d2590c6868fd828197f8b27231d77a124807cbb49529a86fce609163b2a"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s04.mp3",
+    "sourceStart": 23.68,
+    "sourceEnd": 24.12,
+    "sha256": "4bb6a19725b2f6aa0a88f3abf2371fa7d0b56b690d14bb053f25c848ba78eaf4"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s05.mp3",
+    "sourceStart": 24.31,
+    "sourceEnd": 31.8,
+    "sha256": "93e5d4cb8f442ac6c0e082c86e668c4fde02fb4c2bfffd33421d654c26581b26"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s06.mp3",
+    "sourceStart": 31.9,
+    "sourceEnd": 33.06,
+    "sha256": "e2036bd456bd62fee1a54601bd515928ab3123c90aa92d673ee33249a328f319"
+  },
+  {
+    "conversation": "t1-68",
+    "audio": "audio-sentences/t1-68-s07.mp3",
+    "sourceStart": 33.31,
+    "sourceEnd": 36.12,
+    "sha256": "cf92281c7e4a3d5a874c856ac8e2578b792a7c6e70f266eda9708747be62f188"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s01.mp3",
+    "sourceStart": 5.95,
+    "sourceEnd": 7.53,
+    "sha256": "d1b1c50ce05129b8d31cb37cfd3094410aa1436e0cb831ddee060eed0f3b8f3b"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s02.mp3",
+    "sourceStart": 7.84,
+    "sourceEnd": 12.24,
+    "sha256": "010d0a52b5d9f51b9413614103ab51111a72e9cb9995e2a97a0c26e348075fde"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s03.mp3",
+    "sourceStart": 12.46,
+    "sourceEnd": 15.54,
+    "sha256": "d59bdf8b79a333f9604abfcc666a11234ef3ec819f3dbe35728f56d7faf41ddc"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s04.mp3",
+    "sourceStart": 15.88,
+    "sourceEnd": 20.1,
+    "sha256": "1333f140050969eff5e6f66460555ac1882eccbeb8ae1b4821d7943ef4851960"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s05.mp3",
+    "sourceStart": 20.56,
+    "sourceEnd": 22.41,
+    "sha256": "2b0df6404b2250efd3b392cdb4922c057b11410dbb8c2d2ee85d7b76374dcf08"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s06.mp3",
+    "sourceStart": 22.51,
+    "sourceEnd": 27.63,
+    "sha256": "2e1392e18f93163e02ea7dd148dd9d2460286dce616e919e2b3a6459a4be69cf"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s07.mp3",
+    "sourceStart": 28.06,
+    "sourceEnd": 33.12,
+    "sha256": "ee98591d473662c0c6e4c606f4e98f1ad3aa7ae311011475977988759ed19644"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s08.mp3",
+    "sourceStart": 33.52,
+    "sourceEnd": 39.48,
+    "sha256": "dae52f00312a0b00799b1fb1c5f083abfbef4e401cf0fd2de0c776f7c52c3822"
+  },
+  {
+    "conversation": "t2-32",
+    "audio": "audio-sentences/t2-32-s09.mp3",
+    "sourceStart": 39.49,
+    "sourceEnd": 41.04,
+    "sha256": "bd96adfef54e3d39745f6b32592d09740b402b364af562611b3a4a9642be2f83"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s01.mp3",
+    "sourceStart": 6.04,
+    "sourceEnd": 11.61,
+    "sha256": "1e0fb0d3bddc1e59f29487637a81f51036f1e3d125078d77b78d6ab8e2e02999"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s02.mp3",
+    "sourceStart": 12.07,
+    "sourceEnd": 16.17,
+    "sha256": "a15d25222dc61040a77332d593bcd362e4c1eaa6a9a11890ffda932da9e37173"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s03.mp3",
+    "sourceStart": 16.51,
+    "sourceEnd": 17.37,
+    "sha256": "79b23d29f0b5152c6ed48d38499fda35fa905d8305e1d3c566665139c05e643f"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s04.mp3",
+    "sourceStart": 17.68,
+    "sourceEnd": 19.59,
+    "sha256": "b72a939d4400364494ca61383615bc15261f1526256066eac958c37d5dce4ede"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s05.mp3",
+    "sourceStart": 19.84,
+    "sourceEnd": 21.81,
+    "sha256": "5f45a9a276885453970620497a44ad0f3a5724bae75a463cd2bcee04978bb503"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s06.mp3",
+    "sourceStart": 22.21,
+    "sourceEnd": 28.29,
+    "sha256": "23874973d1647bb6a33ecd33d59697858f9100412598ba047c41a93a79cfacbf"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s07.mp3",
+    "sourceStart": 28.24,
+    "sourceEnd": 32.7,
+    "sha256": "500294fef8b5ca984200d5b822940442b54d34e0496e4e1822b4a149a1a5ae52"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s08.mp3",
+    "sourceStart": 33.04,
+    "sourceEnd": 35.55,
+    "sha256": "ef57d3e7cacdcbef5ecfa0bf8c920fdc665e2905d502af3754d48f7415c70464"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s09.mp3",
+    "sourceStart": 35.98,
+    "sourceEnd": 37.14,
+    "sha256": "e18617674d2e024bb47d7c538af2ff726321dd7e2c411480eb5b1af9c5cdb03b"
+  },
+  {
+    "conversation": "t2-35",
+    "audio": "audio-sentences/t2-35-s10.mp3",
+    "sourceStart": 37.48,
+    "sourceEnd": 39.45,
+    "sha256": "3b4bb319a82fb86b603d378ed8e797bf1dc0a5c8e5e2b767444d48f510f73646"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s01.mp3",
+    "sourceStart": 5.41,
+    "sourceEnd": 12.87,
+    "sha256": "e29a7c31a8397b1b9a718c2614bf4e93487a295818c35767dd355dfea6c50e9d"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s02.mp3",
+    "sourceStart": 13.12,
+    "sourceEnd": 17.73,
+    "sha256": "a32b493aac84a6caef61bc5da2df33751cab5547836a735f824cae604abe9306"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s03.mp3",
+    "sourceStart": 17.89,
+    "sourceEnd": 24.03,
+    "sha256": "a6b69855c5c8acc6fbc4df9e925959e3e9e0c2580a65108f33b3ce477947186b"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s04.mp3",
+    "sourceStart": 24.31,
+    "sourceEnd": 30.99,
+    "sha256": "177cd2bbaa1c5daf241fb35f0b8fda69b6e387146ef4dc7ad64c62935831e037"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s05.mp3",
+    "sourceStart": 31.21,
+    "sourceEnd": 33.45,
+    "sha256": "a47d5669a9112daf7dbe48bdf28dd0aa57d32e846cbc8117157534a41583d740"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s06.mp3",
+    "sourceStart": 33.67,
+    "sourceEnd": 42.06,
+    "sha256": "f93e88868b38106a6e0bf25923554800705fafff326800d15c8496c87f5c631b"
+  },
+  {
+    "conversation": "t2-38",
+    "audio": "audio-sentences/t2-38-s07.mp3",
+    "sourceStart": 42.31,
+    "sourceEnd": 47.64,
+    "sha256": "a458f0cc7ca77b14566e1e73a399c7654fb8c176cff7fe0fc56e638600a2ad1a"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s01.mp3",
+    "sourceStart": 5.77,
+    "sourceEnd": 11.22,
+    "sha256": "681d840a9376995b8c1f2f9d48fec8caff1bdbe4e06c6f83c035c1e6c6542fdd"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s02.mp3",
+    "sourceStart": 11.47,
+    "sourceEnd": 14.1,
+    "sha256": "ace43488f39e49656755d3294550ddb32f4b583a5fd649c1ce6605b08edc014c"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s03.mp3",
+    "sourceStart": 14.32,
+    "sourceEnd": 17.07,
+    "sha256": "91d4a24a8d42bfe58f6f617607c734c8b28981791199f3f11056c0c36598efe7"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s04.mp3",
+    "sourceStart": 17.29,
+    "sourceEnd": 18.15,
+    "sha256": "da40bc1f54ade513b9fd1613b6a95a7e6be3894a5e9006d7c735b10512ae2cc5"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s05.mp3",
+    "sourceStart": 18.28,
+    "sourceEnd": 28.5,
+    "sha256": "e60690945cffe4d86ebd8dca5311fd798ad6c0ff44ef61b6713c9c94c4deeb01"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s06.mp3",
+    "sourceStart": 28.69,
+    "sourceEnd": 31.8,
+    "sha256": "635a72d3699a6f3dcb561110a4ac6fa8e456d39543bfbf473e389a00301c3d43"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s07.mp3",
+    "sourceStart": 32.02,
+    "sourceEnd": 32.94,
+    "sha256": "ad9546cbccb04d763bbb53ee87c5b76f6085d35a9066723e1dfc420e018187e1"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s08.mp3",
+    "sourceStart": 33.07,
+    "sourceEnd": 35.25,
+    "sha256": "5f74778e2ed5ab9b09a5e34179d17a54d887d8929b62fbeb70f95ea07d26d128"
+  },
+  {
+    "conversation": "t2-41",
+    "audio": "audio-sentences/t2-41-s09.mp3",
+    "sourceStart": 35.35,
+    "sourceEnd": 38.55,
+    "sha256": "23997fe58be795135d0598d95e51f188bf047ba37895e25a42cd4301f7211f3d"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio-sentences/t2-44-s01.mp3",
+    "sourceStart": 5.98,
+    "sourceEnd": 13.26,
+    "sha256": "182e0560fb5eb3f163ac5870dd83ff3d90b0701ae5c7d87ac81462391092102b"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio-sentences/t2-44-s02.mp3",
+    "sourceStart": 13.48,
+    "sourceEnd": 21.57,
+    "sha256": "99f5a5e703d479f71557e8da7fd53f49a1999f3f8c7bc4cd74567a135eb7149a"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio-sentences/t2-44-s03.mp3",
+    "sourceStart": 21.85,
+    "sourceEnd": 26.67,
+    "sha256": "8c7e409881635c9550fbc82d2b35e4b91d14cf6e72503fc7e4f4bdab7e9e828f"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio-sentences/t2-44-s04.mp3",
+    "sourceStart": 26.83,
+    "sourceEnd": 29.97,
+    "sha256": "2cc8ace6fb37ff60450db5caf453ccada787e5ee6dce3be835ba7a69d72c8110"
+  },
+  {
+    "conversation": "t2-44",
+    "audio": "audio-sentences/t2-44-s05.mp3",
+    "sourceStart": 30.22,
+    "sourceEnd": 36.18,
+    "sha256": "a4fd95d37a17a6d58a097cd565a306acbe88e9b869da3dc967d15d85a90166e1"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s01.mp3",
+    "sourceStart": 6.01,
+    "sourceEnd": 8.28,
+    "sha256": "e8afcef57cb95f1c150b46b2b5a2aceb108ffd94c9b475603716998ebc3981d6"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s02.mp3",
+    "sourceStart": 8.25,
+    "sourceEnd": 9.27,
+    "sha256": "cc428ca0d97d3b7af9bf145b2cc0a494998499c6577a3f6c4be0c5fe70742dd1"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s03.mp3",
+    "sourceStart": 9.43,
+    "sourceEnd": 10.17,
+    "sha256": "b3508b3eb2e959dfb89b150fe7f2ccdd808e3f3be9aafd30a4afc90246411563"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s04.mp3",
+    "sourceStart": 10.09,
+    "sourceEnd": 13.02,
+    "sha256": "fc238d147c6715e1932190d732b849926bcd49218b80370cc38d017b45ff30d8"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s05.mp3",
+    "sourceStart": 13.3,
+    "sourceEnd": 15.48,
+    "sha256": "7d081581e084c39e8e79f4bc9c9dbd2953394013cca4d143dd01d81b1aef3853"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s06.mp3",
+    "sourceStart": 15.73,
+    "sourceEnd": 18.0,
+    "sha256": "d6ad62bffc1dd5d6d8a3811d37523b08ca063b1edebdb30cdb2bb77481d1ee84"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s07.mp3",
+    "sourceStart": 18.01,
+    "sourceEnd": 18.69,
+    "sha256": "3866f4bc041d6e6b7280a4983e1334f29b8c81b0a3a1b6a41bf7898023ce808b"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s08.mp3",
+    "sourceStart": 18.67,
+    "sourceEnd": 20.04,
+    "sha256": "09e32d4af03c2cd3016007abaf6316d93202c522d52fe685f8fdbad6caa33a39"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s09.mp3",
+    "sourceStart": 20.29,
+    "sourceEnd": 23.88,
+    "sha256": "76eac26d90a09604e8b19872cfe482f8dfa180ac9734cc3fbd10da630cfa3aec"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s10.mp3",
+    "sourceStart": 24.16,
+    "sourceEnd": 28.23,
+    "sha256": "1a91106da498c6bb6db8d5b5d95898e91fcd3b475cc5730bb4414e7153459124"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s11.mp3",
+    "sourceStart": 28.21,
+    "sourceEnd": 29.01,
+    "sha256": "79201a3dfc85fa73d63068210dabefda7f46bb137a36b439b2578b2d45c6711f"
+  },
+  {
+    "conversation": "t2-47",
+    "audio": "audio-sentences/t2-47-s12.mp3",
+    "sourceStart": 29.08,
+    "sourceEnd": 33.18,
+    "sha256": "05e49c35fe65ddbae673b8b58c17b370ffcd241394e1a2e91e172cf13126f0e1"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s01.mp3",
+    "sourceStart": 7.0,
+    "sourceEnd": 10.62,
+    "sha256": "8f7b9ba7dfaf0d15be652b9637fe153bff1367e512acdfe69702fb025559ad07"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s02.mp3",
+    "sourceStart": 10.6,
+    "sourceEnd": 12.06,
+    "sha256": "15b6c95c379c49948620102eb85a92f79d5a8f3c0a52b4f4674b36035c64dccd"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s03.mp3",
+    "sourceStart": 12.19,
+    "sourceEnd": 14.07,
+    "sha256": "7e5b7ac24d4428ca8819de2d79408f19566b0cfced596055b40ee13a55a882d3"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s04.mp3",
+    "sourceStart": 14.35,
+    "sourceEnd": 15.51,
+    "sha256": "0562577ddcddefb6df50ddf7d8639054aa000edcc63cf1bd98acc7f1e62deb31"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s05.mp3",
+    "sourceStart": 15.79,
+    "sourceEnd": 19.65,
+    "sha256": "8425d6cf018135b1f0d4fb795c7b562e1fe93b1255fa683e56895574087a415d"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s06.mp3",
+    "sourceStart": 19.9,
+    "sourceEnd": 22.8,
+    "sha256": "5f3a6c7d0e0922c36c68c17368a982385585785b82a81624a591df895b48aa52"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s07.mp3",
+    "sourceStart": 23.02,
+    "sourceEnd": 31.5,
+    "sha256": "f20602485cd681b72b87b985a25904e62b262c2a6ec9971f7b34257f54d3f6b0"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s08.mp3",
+    "sourceStart": 31.87,
+    "sourceEnd": 32.52,
+    "sha256": "523a8409e7a8ed565b15eecc9c19dc70ad4e1e2181349945ec7edab51d12498e"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s09.mp3",
+    "sourceStart": 32.59,
+    "sourceEnd": 34.98,
+    "sha256": "6f0d2434050985e493ce32b43cbd541468e654156467c42285efe5d7a0bf8e8a"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s10.mp3",
+    "sourceStart": 35.11,
+    "sourceEnd": 37.77,
+    "sha256": "648dd8ddfbf78ed9a0814af952308e4a0f01b6208a20e025a891fa7f3e19c297"
+  },
+  {
+    "conversation": "t2-50",
+    "audio": "audio-sentences/t2-50-s11.mp3",
+    "sourceStart": 38.11,
+    "sourceEnd": 40.89,
+    "sha256": "ec366ef4fcf503fc4a3c0d1eeb976b9f46dd73cce278048b4c73e7ae63fa1404"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 12.24,
+    "sha256": "36d20b102a78b0fb64cff880a1718f701b2bafbfdc5eaad2f715c5d7b143a353"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s02.mp3",
+    "sourceStart": 12.43,
+    "sourceEnd": 15.72,
+    "sha256": "336af5da275e956be1f6c0811882b623d52ed2f26497d46fbe9ae4e6bcc80e1a"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s03.mp3",
+    "sourceStart": 15.88,
+    "sourceEnd": 18.57,
+    "sha256": "96bd61dada77d51e4e5e547fd128a34672ef1f2ed71f789c5fd7a138dc27009b"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s04.mp3",
+    "sourceStart": 18.73,
+    "sourceEnd": 23.46,
+    "sha256": "bec5998626b23a3274a6f9dffda1a02059b525f19e799d6219facb2f0118d81a"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s05.mp3",
+    "sourceStart": 23.71,
+    "sourceEnd": 26.43,
+    "sha256": "86f6ccdf558bd12d909f3c098c126751fa94315d8acf40ceecc0b1d4e967d7f0"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s06.mp3",
+    "sourceStart": 26.68,
+    "sourceEnd": 29.49,
+    "sha256": "1cac3a20984580635e49abe71f79ee933b4efbedf7e4d13a67709e1c46c2d5e7"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s07.mp3",
+    "sourceStart": 29.53,
+    "sourceEnd": 30.39,
+    "sha256": "2f0bd6b2396adac21a27391ec10d95015775c852c5817fc3fdba58006de8c301"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s08.mp3",
+    "sourceStart": 30.64,
+    "sourceEnd": 35.19,
+    "sha256": "d9cf2ee9cae9964153ea13474d4a798ec208047749bae1f279168609e20a7405"
+  },
+  {
+    "conversation": "t2-53",
+    "audio": "audio-sentences/t2-53-s09.mp3",
+    "sourceStart": 35.53,
+    "sourceEnd": 36.9,
+    "sha256": "e0389c38103f060734d159263c131fb28f2ba2b452766ecb634915fca943e303"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s01.mp3",
+    "sourceStart": 7.09,
+    "sourceEnd": 9.21,
+    "sha256": "513b13a188928b0dd61e5fede4359e0399e82401056f10666980ff06b8368092"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s02.mp3",
+    "sourceStart": 9.31,
+    "sourceEnd": 13.11,
+    "sha256": "283e28e03e49a0f232db0e762eadfbeb543ea6fb5e672348b48c6be2a81c05ed"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s03.mp3",
+    "sourceStart": 13.45,
+    "sourceEnd": 15.63,
+    "sha256": "8ac8141ffc70e4485a56752528b8138e4aa96772b2cd34f63dd2ec0fc3dd279a"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s04.mp3",
+    "sourceStart": 15.85,
+    "sourceEnd": 16.74,
+    "sha256": "4812efdf2fcfbbd12beba87ae26fcce1b79c2f4349f26761bc0938b22515a141"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s05.mp3",
+    "sourceStart": 17.05,
+    "sourceEnd": 19.29,
+    "sha256": "8741152f425877ce7305248008c539d9616e142b4230b495d601634bc9a10853"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s06.mp3",
+    "sourceStart": 19.66,
+    "sourceEnd": 24.99,
+    "sha256": "1fe7bbcd5d9a4003c74d271562ccada6e5d4c59acdb63f9e4aac63c074a3d042"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s07.mp3",
+    "sourceStart": 25.21,
+    "sourceEnd": 28.2,
+    "sha256": "ca3b6fa54c1ea1172dd15da9ce9f2a81b054814b0fadbdd201d7695032d0ee4c"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s08.mp3",
+    "sourceStart": 28.39,
+    "sourceEnd": 30.93,
+    "sha256": "b7d0fa535083fe1aea6629522ea3daaaae63a07b67c0facdb4f21062fed471d7"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s09.mp3",
+    "sourceStart": 31.09,
+    "sourceEnd": 35.4,
+    "sha256": "edf5f4aa3e0ae73d506eb9109f0c5df3c3c184554f6d72c643ded94d2de09a1e"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s10.mp3",
+    "sourceStart": 35.8,
+    "sourceEnd": 40.71,
+    "sha256": "e89a826e4fd27cb0ea8f02dc3f7b0229ec68ad8528a0edd3228ee68ed572d6c5"
+  },
+  {
+    "conversation": "t2-56",
+    "audio": "audio-sentences/t2-56-s11.mp3",
+    "sourceStart": 41.08,
+    "sourceEnd": 45.99,
+    "sha256": "8aa39bd8fc2cce3d5b5467bf5aba08dee931d1ec31d01d3d4cf362bc44f68cbd"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 6.63,
+    "sha256": "ea918743308b016948d2c7230c240011ccfcb94852102cf7d8f9f1a9aad87b7a"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s02.mp3",
+    "sourceStart": 6.7,
+    "sourceEnd": 9.03,
+    "sha256": "2fa0de38ce7809a398552ce86bbd3083118bc1a9ea2aba881a08b65a9df80fc0"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s03.mp3",
+    "sourceStart": 9.19,
+    "sourceEnd": 11.58,
+    "sha256": "a27a0826ad153b1409c899b66c25c7c90b05688a4bee3261597f988153560372"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s04.mp3",
+    "sourceStart": 11.89,
+    "sourceEnd": 13.83,
+    "sha256": "22e5cd045f971e9129cbaa53302d295181986c8172b9b4fbcc0da73ce1f34175"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s05.mp3",
+    "sourceStart": 14.02,
+    "sourceEnd": 15.9,
+    "sha256": "04e84860f6376fa5e6662487afd0ab198a1528798b4a3afb8cef647989e451d4"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s06.mp3",
+    "sourceStart": 16.0,
+    "sourceEnd": 22.71,
+    "sha256": "c1a89f1f344b77c3d375ce90512d8eaa35d246bb8f611ef953a0df950aeec0a0"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s07.mp3",
+    "sourceStart": 23.2,
+    "sourceEnd": 29.31,
+    "sha256": "e06372885f8956881fe56ab9a78c6c3c3eb3af5fd0ee581a86be46c8b556f273"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s08.mp3",
+    "sourceStart": 29.62,
+    "sourceEnd": 34.68,
+    "sha256": "2516126efadd040abef1cf7fca1ac7deb0ebf48c43f367b47e0fb7fae575d360"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s09.mp3",
+    "sourceStart": 34.87,
+    "sourceEnd": 36.15,
+    "sha256": "91c33e9d656a8c38622103a68892d4be330c71091232db7a3f0a39293b8d7416"
+  },
+  {
+    "conversation": "t2-59",
+    "audio": "audio-sentences/t2-59-s10.mp3",
+    "sourceStart": 36.34,
+    "sourceEnd": 40.98,
+    "sha256": "53bde69cb0159f65b246da60bf655c46c582bf25bf15baa6c7c3c22ca3125ae8"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s01.mp3",
+    "sourceStart": 6.88,
+    "sourceEnd": 8.79,
+    "sha256": "abfc4613466326bbc2801bc3b4cfa27921dd9ae7e7efa7201d3fada7aed7741a"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s02.mp3",
+    "sourceStart": 9.01,
+    "sourceEnd": 12.84,
+    "sha256": "1594ecb87f5d1e7016383116c07111a50d6983a926966b80adc1c8fef8dd6aaa"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s03.mp3",
+    "sourceStart": 13.12,
+    "sourceEnd": 14.64,
+    "sha256": "1c1bdc69bfe758677cc66132a580002cd5186e8d757e58c1eabdadaa5a57efc1"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s04.mp3",
+    "sourceStart": 14.65,
+    "sourceEnd": 16.05,
+    "sha256": "58d5b976b3d08d4c8e32504841bec33bb7a73af44140f7c3a72966176cd5ad07"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s05.mp3",
+    "sourceStart": 16.39,
+    "sourceEnd": 21.42,
+    "sha256": "e0785576c57eb0013bfda80bfe24c047c02930e7109c94406203cfd865315aba"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s06.mp3",
+    "sourceStart": 21.79,
+    "sourceEnd": 22.38,
+    "sha256": "f6b3d76f466a5bc331a01a79790c9fdc4656765c72044b4c8dd6f21b8c6ef928"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s07.mp3",
+    "sourceStart": 22.3,
+    "sourceEnd": 24.09,
+    "sha256": "ae684573b77b818c1972c37ff191d9ee2d2a07fb15c1027c5051aec030c8a7fb"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s08.mp3",
+    "sourceStart": 24.31,
+    "sourceEnd": 25.5,
+    "sha256": "c359895a41a3fbfed3de5658330c69cc4c9a14c32a875264146bdf6df340c8e9"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s09.mp3",
+    "sourceStart": 25.75,
+    "sourceEnd": 29.79,
+    "sha256": "1649f555334d7a6e32b676c046c8d5f9593da176413c90f25c5745a15cca2a25"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s10.mp3",
+    "sourceStart": 29.98,
+    "sourceEnd": 31.62,
+    "sha256": "904ff7ce78b0dfa33043973254b596587c4ffd1b9ad9f87f391ffa1f1f7cca0a"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s11.mp3",
+    "sourceStart": 31.72,
+    "sourceEnd": 32.7,
+    "sha256": "a4917a26c9638f79a6b529a1699cad60f1de56269bc33a79b145678790f96ee2"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s12.mp3",
+    "sourceStart": 32.89,
+    "sourceEnd": 35.13,
+    "sha256": "925efd8684c761a8d708eedf33319957928a0d29cc349c96570caafa197d5b83"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s13.mp3",
+    "sourceStart": 35.44,
+    "sourceEnd": 36.96,
+    "sha256": "e1bfb0274319d4a437b92eaf9c05d15a7adf2735c5b4e0595bf1c0966b08804c"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s14.mp3",
+    "sourceStart": 37.03,
+    "sourceEnd": 38.73,
+    "sha256": "de8760852ba067e3f6a8c63e5119fd04dbde508c1ed80587ace9ebaf6038f166"
+  },
+  {
+    "conversation": "t2-62",
+    "audio": "audio-sentences/t2-62-s15.mp3",
+    "sourceStart": 38.8,
+    "sourceEnd": 41.79,
+    "sha256": "671cc66ecd99e5a7b8fd0bd6db25f3c706bde6e72f2667463c25bdbc57b56dfa"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s01.mp3",
+    "sourceStart": 6.97,
+    "sourceEnd": 8.91,
+    "sha256": "e0689392bc2775d4bb63ac386f38ebdba778142e224165438fe4e312966ff979"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s02.mp3",
+    "sourceStart": 8.83,
+    "sourceEnd": 9.96,
+    "sha256": "eba3baa170ac700ed1c6e03da02e52f509c2ead5b5a64132fbda99fba2c689bb"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s03.mp3",
+    "sourceStart": 10.09,
+    "sourceEnd": 14.31,
+    "sha256": "3d85ef0e2685eac9b3592438fe09891b7285ab9e3f2ec50ad329dba721e83e24"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s04.mp3",
+    "sourceStart": 14.65,
+    "sourceEnd": 18.36,
+    "sha256": "5d13ac15c9fcb7b4bb9ef30d8019a38c11539fa1260bb657c92b1abae932c41a"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s05.mp3",
+    "sourceStart": 18.7,
+    "sourceEnd": 22.02,
+    "sha256": "733aa2779624e24dc3ee7397a6d74b0028d82fcfaad497f3365a986f7976d8ab"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s06.mp3",
+    "sourceStart": 22.39,
+    "sourceEnd": 24.12,
+    "sha256": "98060ae53b82f0faa2c564a9e8e9d9d6297727cc3d98fae4f5eb69b656143ec6"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s07.mp3",
+    "sourceStart": 24.13,
+    "sourceEnd": 25.17,
+    "sha256": "8bca3eb329237add79dad8e11ac9d659424d4450c76daf8b19a2083ca0646faa"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s08.mp3",
+    "sourceStart": 25.33,
+    "sourceEnd": 27.15,
+    "sha256": "3e4bf4988349a68e56b5c69f6e9739c089c50efe42133e6cc041f5869a98ca65"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s09.mp3",
+    "sourceStart": 27.76,
+    "sourceEnd": 29.49,
+    "sha256": "84fce46ba49729380bbf69147f76cd905a0d39c63b1f22250091696ebbf0bcff"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s10.mp3",
+    "sourceStart": 29.85,
+    "sourceEnd": 30.48,
+    "sha256": "de0a1d89bc032b324b028b7ad9662dd63dd2012db6d3d0f58c189a7326163306"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s11.mp3",
+    "sourceStart": 30.7,
+    "sourceEnd": 33.45,
+    "sha256": "a15217473d580fcd8f6988340086d027bc7d1e2bf7bcf765415a8a08eaed49fc"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s12.mp3",
+    "sourceStart": 33.52,
+    "sourceEnd": 36.63,
+    "sha256": "4637cd716d5f9b5df89456271990070a666de3b8ea9f25e89b546cfa7c0e3a2b"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s13.mp3",
+    "sourceStart": 36.58,
+    "sourceEnd": 37.65,
+    "sha256": "c1b2f6863da9be5801c8cd5d902a4d4dd2fcd58534b59f10e4c2be6092eca724"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s14.mp3",
+    "sourceStart": 37.63,
+    "sourceEnd": 39.75,
+    "sha256": "3e356197359bbcb87f96255704192fbae768ab73b6d4bcd0e9eeb17c6710f0ed"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s15.mp3",
+    "sourceStart": 39.67,
+    "sourceEnd": 40.59,
+    "sha256": "cd1422eb9c14363ea4570f2c9b836746e8a78f147a69a52b358d2e7c6cbb823c"
+  },
+  {
+    "conversation": "t2-65",
+    "audio": "audio-sentences/t2-65-s16.mp3",
+    "sourceStart": 40.63,
+    "sourceEnd": 41.67,
+    "sha256": "385570186ef80b8de4bfea8348cb40153d4f4bcee77c266d84b63d0a61b9ad8f"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s01.mp3",
+    "sourceStart": 6.49,
+    "sourceEnd": 10.62,
+    "sha256": "138f4105695e80adca6d00e89af107002d53840b638b43975e54225a34a57555"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s02.mp3",
+    "sourceStart": 10.84,
+    "sourceEnd": 14.79,
+    "sha256": "ef9890a4a489eee0a94d56b6d317eb37223e3eab2cd5655d50316a0c94e61c17"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s03.mp3",
+    "sourceStart": 14.89,
+    "sourceEnd": 18.72,
+    "sha256": "0975f22cccb14d78b2004e8f735f163b3c79e3106fd20bf80967da417c828c1c"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s04.mp3",
+    "sourceStart": 19.06,
+    "sourceEnd": 24.72,
+    "sha256": "fd2cda1e968d4dfa7a3b6a5521bde2ac73925783ae816c705fde6a9510a7dd84"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s05.mp3",
+    "sourceStart": 25.03,
+    "sourceEnd": 25.92,
+    "sha256": "487c9c08bc08a093dce7362619ea8dfe16c6c6319b7dfe8ccb0eaeae04d847ba"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s06.mp3",
+    "sourceStart": 26.08,
+    "sourceEnd": 30.09,
+    "sha256": "c6ee2cb42dd283f0cb043fae97708a472cd02d0b873f2d827657700e6d5be401"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s07.mp3",
+    "sourceStart": 30.19,
+    "sourceEnd": 34.59,
+    "sha256": "30ff7d6347a02de16c427220d382187baa88f6ff169a48b6e9122bc32e3502b3"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s08.mp3",
+    "sourceStart": 34.75,
+    "sourceEnd": 37.74,
+    "sha256": "27e91cddd09881d3da34dbd081926e79c3472f3851dc165cee613558675df4d5"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s09.mp3",
+    "sourceStart": 38.02,
+    "sourceEnd": 39.87,
+    "sha256": "6e640baa2d874379683d47dee3d928df2fc98973aecbb3e75751b69ed5c05a1a"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s10.mp3",
+    "sourceStart": 40.24,
+    "sourceEnd": 40.8,
+    "sha256": "8b8c67adcabd76ec6059efd8bd4fc10a1969dcd8c6510964f47500272a958e49"
+  },
+  {
+    "conversation": "t2-68",
+    "audio": "audio-sentences/t2-68-s11.mp3",
+    "sourceStart": 40.99,
+    "sourceEnd": 44.52,
+    "sha256": "5a2c556baa8978c6185516f7ebaa6438ed6bf3f39c9a163b52bb1f6f19cac2d3"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 7.29,
+    "sha256": "7eb38316bb4a69a9d815a5418e79f9f88a914cb3cb15185d8a1ecd2ae4493d79"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s02.mp3",
+    "sourceStart": 7.36,
+    "sourceEnd": 12.87,
+    "sha256": "bec7b17aac181c7c88bccafb103b2ef25f15a76c34ab92c579d2e2dce8a5fb1b"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s03.mp3",
+    "sourceStart": 12.85,
+    "sourceEnd": 13.53,
+    "sha256": "b0cc0d651863bdb4835f8643c937a53bd3ba1e59d7f2e7856833ed197bf91d97"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s04.mp3",
+    "sourceStart": 13.66,
+    "sourceEnd": 15.9,
+    "sha256": "63b63074b528f37b1779e97528e13c57d74cc8fd39605db66c2224afca7aab7e"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s05.mp3",
+    "sourceStart": 15.97,
+    "sourceEnd": 18.6,
+    "sha256": "cb3f4a3ac8a656814bfb68e3c073d68a089374ed506e56236ef57b275673e848"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s06.mp3",
+    "sourceStart": 18.64,
+    "sourceEnd": 19.68,
+    "sha256": "476ebbbc3696ff1be537eb4d81986fffd9eccb1b940bd2dd77b1a629db36c8b8"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s07.mp3",
+    "sourceStart": 19.99,
+    "sourceEnd": 27.48,
+    "sha256": "143788bdd20e5b7bd02fc365453157c3c7635ff9b7b82b6c775b4ac3b89aa8f3"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s08.mp3",
+    "sourceStart": 27.76,
+    "sourceEnd": 28.26,
+    "sha256": "f82f3c5ee4704eeb7a428e98ccdd551173e83b67da0cac3bfab48bad7b208428"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s09.mp3",
+    "sourceStart": 28.39,
+    "sourceEnd": 30.15,
+    "sha256": "c1d7d1f0db844d87ac0e4abcbfb1cafb2027975fc2e1b3b5f4a44f872572ad14"
+  },
+  {
+    "conversation": "t3-32",
+    "audio": "audio-sentences/t3-32-s10.mp3",
+    "sourceStart": 30.28,
+    "sourceEnd": 33.6,
+    "sha256": "4a6c9c58e9121b6a6313e78c6b61ffe067dd896be2ef5a2ec13b9991f0388bc4"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s01.mp3",
+    "sourceStart": 7.3,
+    "sourceEnd": 11.91,
+    "sha256": "31ba77cabade5b0f90a1b8a41fc817e614d7af3d5eed2861d44631e669e3a6b5"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s02.mp3",
+    "sourceStart": 11.98,
+    "sourceEnd": 12.63,
+    "sha256": "d48fd6914c253639b94536d1589717d7e7d530951931788756534e7b472b2a5f"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s03.mp3",
+    "sourceStart": 12.55,
+    "sourceEnd": 14.22,
+    "sha256": "6af2c4e415b89399827c712c4868c04edba3ebc6df57166e8bcd209f86eb332a"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s04.mp3",
+    "sourceStart": 14.59,
+    "sourceEnd": 18.15,
+    "sha256": "2f9e1a7a3e472ee916b0ef3dc823d33f2b4ba371d06541bdad2f88318e7409f5"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s05.mp3",
+    "sourceStart": 18.16,
+    "sourceEnd": 21.33,
+    "sha256": "b1052c6f425f3448501ca36d40ad26f7aaf259c118963719d1593a0ba6c9443b"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s06.mp3",
+    "sourceStart": 21.34,
+    "sourceEnd": 23.22,
+    "sha256": "5f4a0267728471583af1a564c0f7bd473a3a58e09c5fe2cfe2a2cbddee9c84f2"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s07.mp3",
+    "sourceStart": 23.35,
+    "sourceEnd": 26.76,
+    "sha256": "f60cf5860f9e1b203eba35c7abc553dbc2fdf461c02ca69d673ce8f9ba51c155"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s08.mp3",
+    "sourceStart": 26.8,
+    "sourceEnd": 27.63,
+    "sha256": "ae5bad82ef9a4413e64adea2f44b6043d8c3950dbb41b151154b9bbecb17c9d9"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s09.mp3",
+    "sourceStart": 27.91,
+    "sourceEnd": 31.11,
+    "sha256": "07e48f29b198b9bb0e0c28408f7c95b155ff612ccead668dc2bd61dfedf7c52d"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s10.mp3",
+    "sourceStart": 31.18,
+    "sourceEnd": 33.54,
+    "sha256": "88182357907457470eed3d66dee068d38005a70d0fde626dc13513eeed5139ef"
+  },
+  {
+    "conversation": "t3-35",
+    "audio": "audio-sentences/t3-35-s11.mp3",
+    "sourceStart": 33.73,
+    "sourceEnd": 35.64,
+    "sha256": "2675c94e2d824371f54053713cadd9652c377d24a1d885b343980420fe7afe1e"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s01.mp3",
+    "sourceStart": 5.44,
+    "sourceEnd": 15.09,
+    "sha256": "8a258dd56b85e53e0296dd91d8c8821bdfd813145555315b83500ee5db7395b0"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s02.mp3",
+    "sourceStart": 15.07,
+    "sourceEnd": 16.5,
+    "sha256": "aaa0f8ff419df5f395b30d486cbd2a4108cfd6a86a621eb9b294f080f7be94e7"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s03.mp3",
+    "sourceStart": 16.84,
+    "sourceEnd": 21.57,
+    "sha256": "da96094f6fdac22ea1cd032d539f86b2bd448ffd689305dcdcb8bfb0b043c87b"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s04.mp3",
+    "sourceStart": 21.67,
+    "sourceEnd": 25.29,
+    "sha256": "4b560bd974f87ca096051f83dc41f3f30c7254144004f16afa27e03d7acc0527"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s05.mp3",
+    "sourceStart": 25.42,
+    "sourceEnd": 30.39,
+    "sha256": "dc3308addb2111aaa93226048dd86f1f8e3300e256c332683b4af689a46adc81"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s06.mp3",
+    "sourceStart": 30.76,
+    "sourceEnd": 35.13,
+    "sha256": "805479d7db5f9eea172f071da7d5ed63462cf1669f1fdb56e32427a991149fd6"
+  },
+  {
+    "conversation": "t3-38",
+    "audio": "audio-sentences/t3-38-s07.mp3",
+    "sourceStart": 35.32,
+    "sourceEnd": 36.84,
+    "sha256": "8e589d120a228979d92380703f4e30a8ceab44c46c2ac208b7d5ab1009fb35b0"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s01.mp3",
+    "sourceStart": 5.77,
+    "sourceEnd": 9.63,
+    "sha256": "c21295f76452212f0adab612650c37da842f6ccab23e2fc8634d4af77b6ca5e5"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s02.mp3",
+    "sourceStart": 9.7,
+    "sourceEnd": 13.2,
+    "sha256": "71dc51806dadb8f1783004e0b1f329efb8c991b1716cc005914b40e830c069de"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s03.mp3",
+    "sourceStart": 13.51,
+    "sourceEnd": 16.77,
+    "sha256": "22a402d2e25c73c41a9ee1a1b58a7f0243b4c29c1a90d81e9fb7add38d6b5670"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s04.mp3",
+    "sourceStart": 17.08,
+    "sourceEnd": 20.94,
+    "sha256": "5cb448d83df973b53ee42771b4939e27d2f6d9a3e6d1e92af66c8f93e4cb8fb1"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s05.mp3",
+    "sourceStart": 21.19,
+    "sourceEnd": 24.69,
+    "sha256": "32b66bddadd43e87bf241ecedb6d17385f250be498370d8cf693236377936f1c"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s06.mp3",
+    "sourceStart": 24.94,
+    "sourceEnd": 30.48,
+    "sha256": "ba76e827187825f9764134712137cd1e08122964047a306792a7ce8357bdafb9"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s07.mp3",
+    "sourceStart": 30.91,
+    "sourceEnd": 35.76,
+    "sha256": "ab43d376755a6c8a49ce19e100bb608bc83d7d2264bde46aae891a7ee8ec166d"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s08.mp3",
+    "sourceStart": 35.98,
+    "sourceEnd": 37.95,
+    "sha256": "8cd624cfdfe53090b11ab8e72d286a3cd430f93392a720d9551f17e7277d8d0c"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s09.mp3",
+    "sourceStart": 38.08,
+    "sourceEnd": 40.14,
+    "sha256": "e46bc008550c4dc4f0a0a7ea44aab147f55e3dd5e85f2912843ff381defce99f"
+  },
+  {
+    "conversation": "t3-41",
+    "audio": "audio-sentences/t3-41-s10.mp3",
+    "sourceStart": 40.12,
+    "sourceEnd": 42.36,
+    "sha256": "18a9481837a9c4f4291ff203e0ecb338c5352b1fa0ae39c056c0e152d6762606"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s01.mp3",
+    "sourceStart": 6.01,
+    "sourceEnd": 6.84,
+    "sha256": "987ef0fc60e2ae8fd432fedf89c7a5d4c33fe01c33f6baed2f2e15b93666897b"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s02.mp3",
+    "sourceStart": 6.88,
+    "sourceEnd": 10.8,
+    "sha256": "8595e87da2042cb280d0cf74f99b8c4718410b49587b330be474c6e6554afc93"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s03.mp3",
+    "sourceStart": 10.93,
+    "sourceEnd": 13.86,
+    "sha256": "09e6610ce84df992b2f7ddcff460801e0743e35afa581d2626d19bfc6937f6cc"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s04.mp3",
+    "sourceStart": 13.93,
+    "sourceEnd": 20.19,
+    "sha256": "46ad20c637360756eac16d49867f58b79ba57ad30fc6524cefc3856c061baebb"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s05.mp3",
+    "sourceStart": 20.29,
+    "sourceEnd": 23.7,
+    "sha256": "ec92daa7b513fee08abb6b0d4e59b2870702502b252d25d132916390ad1d6547"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s06.mp3",
+    "sourceStart": 23.83,
+    "sourceEnd": 26.94,
+    "sha256": "5513c9a576f39bca1c3ea69efbb7e6a65b86fa39120e66e9fc8822e5c5217755"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s07.mp3",
+    "sourceStart": 26.98,
+    "sourceEnd": 27.69,
+    "sha256": "bc220dba349ef9e3f9612556c97132504829b0d983629dcae2ef36f33ea2b5e2"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s08.mp3",
+    "sourceStart": 27.73,
+    "sourceEnd": 29.43,
+    "sha256": "1d15acb9c4defb7957bc34699683784080e1bc364173f4f38cf6bfe95dd3d213"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s09.mp3",
+    "sourceStart": 29.47,
+    "sourceEnd": 30.24,
+    "sha256": "6aba2617ee370ceb16ca7f8c286ea5af3cf3ff67fcd124c178a499ae7deb8997"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s10.mp3",
+    "sourceStart": 30.37,
+    "sourceEnd": 35.28,
+    "sha256": "781d5d3260b5ad323101c25f9fe7932345a0b1218cd948f881f791a57f3353b1"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s11.mp3",
+    "sourceStart": 35.29,
+    "sourceEnd": 37.53,
+    "sha256": "84c2b207c27dc39682e9616f2b23848a217c8ad62320b242c16786373a7a701f"
+  },
+  {
+    "conversation": "t3-44",
+    "audio": "audio-sentences/t3-44-s12.mp3",
+    "sourceStart": 37.6,
+    "sourceEnd": 39.66,
+    "sha256": "3b728cea29b5c4c7ca9ba569334af5e420cbf1eadbcae7cac24de070a7104ada"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s01.mp3",
+    "sourceStart": 5.98,
+    "sourceEnd": 13.83,
+    "sha256": "a456f195631c4e3936d3d25614e46e35fddf13dc5e4571ff74fe90b080c9e1ed"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s02.mp3",
+    "sourceStart": 13.96,
+    "sourceEnd": 15.84,
+    "sha256": "990d88bc721c6f784ce5b9c8573e47a66fd7c407a2ce219d88819d1de688a581"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s03.mp3",
+    "sourceStart": 15.91,
+    "sourceEnd": 16.71,
+    "sha256": "45be8bbc9526aed68b29ceb1d326f8eeccc34af767e54e9ecd20d77dbc48f7ab"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s04.mp3",
+    "sourceStart": 16.75,
+    "sourceEnd": 23.7,
+    "sha256": "8f497b72467548997d1ce1212a77298ee5c1d880ee8054369a486a9feaa0dc16"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s05.mp3",
+    "sourceStart": 23.8,
+    "sourceEnd": 26.01,
+    "sha256": "0e8539cdd47be769f3be6769afcd27edadbceac25b11391f9485e0d741e747da"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s06.mp3",
+    "sourceStart": 25.99,
+    "sourceEnd": 26.76,
+    "sha256": "1529e5704a1a1a4683c2bb3e7a2834d8f19a57c518fdde2efe4fb631eb580055"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s07.mp3",
+    "sourceStart": 26.8,
+    "sourceEnd": 28.17,
+    "sha256": "fd7fbcb9b4f5fd04c2ff0519974f55da6d7cb7b65f0e4be14bf00f16eb9abba2"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s08.mp3",
+    "sourceStart": 28.15,
+    "sourceEnd": 29.88,
+    "sha256": "104b8124922478733b52831f8411209e02d8883ad5cec64be20d3324a92ed6bf"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s09.mp3",
+    "sourceStart": 29.86,
+    "sourceEnd": 31.23,
+    "sha256": "8d18315982255fe6d40bccdfda2e147d04e3c52aea83508d3b900258e77d67e8"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s10.mp3",
+    "sourceStart": 31.6,
+    "sourceEnd": 32.88,
+    "sha256": "5dcd84c905699a1f5e985b77b1b752cc592e81d50c60513d6070c779f01e89f3"
+  },
+  {
+    "conversation": "t3-47",
+    "audio": "audio-sentences/t3-47-s11.mp3",
+    "sourceStart": 32.98,
+    "sourceEnd": 34.62,
+    "sha256": "5b32afc87249d90f441389022cec7330b3ee8c1b1414a195abd13796440d20df"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s01.mp3",
+    "sourceStart": 5.74,
+    "sourceEnd": 8.49,
+    "sha256": "5bc3e6e42daea3bb991b87a53d6c3930cf919f4ca945f7dd4db3b3fc1ab92e97"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s02.mp3",
+    "sourceStart": 8.8,
+    "sourceEnd": 15.36,
+    "sha256": "e75c4139262ab6d64128a931d85c1995a452c4bf659a33ddc48372e829600f50"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s03.mp3",
+    "sourceStart": 15.67,
+    "sourceEnd": 20.97,
+    "sha256": "5450882459fe6e40879af1f6f67bf463504f18e2d61aae2ef9bc900027530bc4"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s04.mp3",
+    "sourceStart": 21.07,
+    "sourceEnd": 23.22,
+    "sha256": "9956a126a66f0e53a65ca48bdfbb037d14b76f8b56478b766f6e0d0a2d847930"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s05.mp3",
+    "sourceStart": 23.53,
+    "sourceEnd": 29.16,
+    "sha256": "f4e0179a15a9f72d3835529b315d6bd5fe3ad7116e37fdc4c15443dd41fa2640"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s06.mp3",
+    "sourceStart": 29.68,
+    "sourceEnd": 35.91,
+    "sha256": "ae6cf40d42c9feb4944fb037b3e9d56d54e4c8f427f8ff75a9d32f110ef2ad6e"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s07.mp3",
+    "sourceStart": 36.22,
+    "sourceEnd": 37.14,
+    "sha256": "5743c065f3182b02b0a4ee9a08f58dc59c8de7e7635ef7377c45318b51c4cb5f"
+  },
+  {
+    "conversation": "t3-50",
+    "audio": "audio-sentences/t3-50-s08.mp3",
+    "sourceStart": 37.12,
+    "sourceEnd": 42.66,
+    "sha256": "70afb070c21bfe80f1734b8cbd7a123ae2dc4aae9ded0f568be4e82860a32d38"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s01.mp3",
+    "sourceStart": 5.89,
+    "sourceEnd": 6.96,
+    "sha256": "4feda63830d9e11d0974eee3193d296c42c82c67f17619b3c8c2b337c26e53a8"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s02.mp3",
+    "sourceStart": 6.91,
+    "sourceEnd": 8.37,
+    "sha256": "d9ae5ae4b8b990fd4db662d79ac87d49f283aaa472124fcc802a2637e375a91c"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s03.mp3",
+    "sourceStart": 8.44,
+    "sourceEnd": 12.3,
+    "sha256": "bebe81dfccd1d2e0c4085d0a973878b101fe9faff38f101e1e17c5b9f247880d"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s04.mp3",
+    "sourceStart": 12.37,
+    "sourceEnd": 14.4,
+    "sha256": "29e9d847280dbee8cc8ea3b0df50f6a93e62d72d1bb08b6752927e417b327a10"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s05.mp3",
+    "sourceStart": 14.38,
+    "sourceEnd": 18.15,
+    "sha256": "bf601361e85119ad36eff9f6966b9e025763f5ab13462aa27999da126e5ea6a6"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s06.mp3",
+    "sourceStart": 18.46,
+    "sourceEnd": 22.47,
+    "sha256": "039f6e2f4124950081ecad9274f3b31473b0ad2678119ccf7dc7a589d7026071"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s07.mp3",
+    "sourceStart": 22.78,
+    "sourceEnd": 26.79,
+    "sha256": "293582688f1c4d7e3ad026eed704c57d3c29f859bc289f7aec408d5189f29cf3"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s08.mp3",
+    "sourceStart": 26.86,
+    "sourceEnd": 30.27,
+    "sha256": "e58d521cd3443c583e7acac3dddc2f80bdca9e2075a8424afa4cde8e43267857"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s09.mp3",
+    "sourceStart": 30.58,
+    "sourceEnd": 33.63,
+    "sha256": "ff27c617759f1ede6990b996ec21de4994c04917071de71f4528754ee5a98284"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s10.mp3",
+    "sourceStart": 33.61,
+    "sourceEnd": 34.53,
+    "sha256": "8fae1661eb3c2ce52bd3e83ce118ad07ce76dc989028282db1b287eb480f8273"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s11.mp3",
+    "sourceStart": 34.54,
+    "sourceEnd": 39.81,
+    "sha256": "2fde3c4067ceb56b94b7401d4ae22852ac07de7b462e50ad2934f0f3fb7be6f1"
+  },
+  {
+    "conversation": "t3-53",
+    "audio": "audio-sentences/t3-53-s12.mp3",
+    "sourceStart": 40.12,
+    "sourceEnd": 42.33,
+    "sha256": "2c30ff223225e4bab05bfd2ca7876dd994f8c57a44c728ef309eeb984af58789"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s01.mp3",
+    "sourceStart": 7.12,
+    "sourceEnd": 15.06,
+    "sha256": "2894b5a185ef383c9cbf4c2c2bdc2740db3114e119d7a11693eb015afaf2d5ba"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s02.mp3",
+    "sourceStart": 15.43,
+    "sourceEnd": 17.73,
+    "sha256": "722b7b50b8c12ba9c9f8f3f58e98b1a605f23b0f1d5b311be74ea366e9916b14"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s03.mp3",
+    "sourceStart": 17.74,
+    "sourceEnd": 21.51,
+    "sha256": "715602c5966810f9707cad035acfac9812a6bda5964743b8e04d881dead8b733"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s04.mp3",
+    "sourceStart": 21.85,
+    "sourceEnd": 23.04,
+    "sha256": "92e79d1d69a3be435e243a53db0f13e0e24f54b13eca3a81dfe9917f6e4df6dc"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s05.mp3",
+    "sourceStart": 23.14,
+    "sourceEnd": 25.53,
+    "sha256": "466af4a57d6b6dc548c2e8e6fcbf27ebb9c38302ae44f3e73ecdc71e920a1275"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s06.mp3",
+    "sourceStart": 25.81,
+    "sourceEnd": 27.45,
+    "sha256": "6c7459da7fc167d4e303d3a913dcba3eb7b6516d356e0cdfb47f3fe0101f2eb0"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s07.mp3",
+    "sourceStart": 27.58,
+    "sourceEnd": 31.62,
+    "sha256": "b173af87e74a45972e5da361ab67dadfbc124b88729e0dae9a86bd3398a03227"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s08.mp3",
+    "sourceStart": 31.66,
+    "sourceEnd": 33.6,
+    "sha256": "e5e6f9a864943f7f968dcb5cab324d2f8f81110ef6451c250573623ca424eb52"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s09.mp3",
+    "sourceStart": 33.73,
+    "sourceEnd": 38.28,
+    "sha256": "073010ca77a1406f9b49a6039fd7dc1c7862599ecf747deba4d198a4e64c56fd"
+  },
+  {
+    "conversation": "t3-56",
+    "audio": "audio-sentences/t3-56-s10.mp3",
+    "sourceStart": 38.41,
+    "sourceEnd": 40.65,
+    "sha256": "600b06c358d7ef1ae22572763d2a22c5a8f476b5640ed75281c16a4f7bbf9deb"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 10.47,
+    "sha256": "a3e1612981c65cd39a22f5f8fc33e2d8aa8e5980fb4dd325c6e59a9519fa6990"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s02.mp3",
+    "sourceStart": 10.6,
+    "sourceEnd": 11.73,
+    "sha256": "e5d61e3c90eb56ce5a46556aeae52b03b7d2ccde709d7cdb591ab3a42bce653c"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s03.mp3",
+    "sourceStart": 12.16,
+    "sourceEnd": 17.411,
+    "sha256": "49d76ff6605987efef289d837bf178f3e325dd45921970faa1d51f2ca8faaec4"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s04.mp3",
+    "sourceStart": 18.22,
+    "sourceEnd": 21.18,
+    "sha256": "0142e23f96d3d5aacce1c8ea8c04f111d5159b1874cfbbb9a728749be4cab69d"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s05.mp3",
+    "sourceStart": 21.43,
+    "sourceEnd": 24.6,
+    "sha256": "99fee5ba5d34174c50f3b70f9c6d86b3a003bd0b693aff7cd24d85f690ad54ad"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s06.mp3",
+    "sourceStart": 24.76,
+    "sourceEnd": 28.29,
+    "sha256": "c9c6a465cfa54dcf030ff31c438c1517d1970afb76b4baee2d613589aecbce0b"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s07.mp3",
+    "sourceStart": 28.6,
+    "sourceEnd": 31.8,
+    "sha256": "0d77eda4931f2e0fdd9a9f5ed7cca6ef98bd04ceda0f4418ad7cf76c6297e916"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s08.mp3",
+    "sourceStart": 31.93,
+    "sourceEnd": 33.93,
+    "sha256": "2201dc397276c87eb3a476343057b18587c8aaabcc861d558b0ee746bcdf25ad"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s09.mp3",
+    "sourceStart": 34.15,
+    "sourceEnd": 40.74,
+    "sha256": "8faefb511311d7f7a571ebd6a61baf26b226d560ad2c999e165c125e5a557c95"
+  },
+  {
+    "conversation": "t3-59",
+    "audio": "audio-sentences/t3-59-s10.mp3",
+    "sourceStart": 40.9,
+    "sourceEnd": 41.79,
+    "sha256": "e0e99912b00fe07f936544123c3759d4c9d06b1c6cc372ab59f191b9f15a63c9"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio-sentences/t3-62-s01.mp3",
+    "sourceStart": 7.27,
+    "sourceEnd": 21.12,
+    "sha256": "f9b160f5e9872d4825fe9a7addc5ccabc0a251f51e768e5e1bbb83cae88f5d54"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio-sentences/t3-62-s02.mp3",
+    "sourceStart": 21.22,
+    "sourceEnd": 23.55,
+    "sha256": "34eb33856d80b57405eb39cbca70f6f0e70c42c7ac455909f569d13bab25467c"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio-sentences/t3-62-s03.mp3",
+    "sourceStart": 23.62,
+    "sourceEnd": 25.08,
+    "sha256": "fd8394db5f52b33417ab5a073564a9052aba403a5a18e56cdcccf3aebbc17e8e"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio-sentences/t3-62-s04.mp3",
+    "sourceStart": 25.27,
+    "sourceEnd": 30.0,
+    "sha256": "c85154fa4ab48c131b3d48dbd6b314d08cd7a2010e543fb16bead9e9d4e90f93"
+  },
+  {
+    "conversation": "t3-62",
+    "audio": "audio-sentences/t3-62-s05.mp3",
+    "sourceStart": 30.07,
+    "sourceEnd": 36.42,
+    "sha256": "0e94537c426578e7e15a915ce21338f4333ea926e30d6d7f5c829b00274b3169"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s01.mp3",
+    "sourceStart": 6.94,
+    "sourceEnd": 9.45,
+    "sha256": "24787ac47a23deee1c5eac63439aeb6e7804c7346324535a705a792ced3fbf37"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s02.mp3",
+    "sourceStart": 9.64,
+    "sourceEnd": 10.29,
+    "sha256": "daa50918e1f15f103f4a05b958fe7e9b2f7617aa00535fe2b87d1858f13faafb"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s03.mp3",
+    "sourceStart": 10.3,
+    "sourceEnd": 13.2,
+    "sha256": "7214f74129c9d4851eeb13f418b7563d1a2cac063d82a5e33544828a8dd1669e"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s04.mp3",
+    "sourceStart": 13.51,
+    "sourceEnd": 14.19,
+    "sha256": "2c1ebcae7a58a98bd9d179a11ca18b4de93edf83ece3946e54d9a7a387e6b743"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s05.mp3",
+    "sourceStart": 14.2,
+    "sourceEnd": 16.92,
+    "sha256": "543572fc52310ff2b79c73e195897c5ad6eb73fab89877663b1345870d49a7db"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s06.mp3",
+    "sourceStart": 17.23,
+    "sourceEnd": 21.42,
+    "sha256": "2da7155b94ae1fccaa1939af25e0067a10fe62e96ab5fbd466ad7bf99bb7099d"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s07.mp3",
+    "sourceStart": 21.67,
+    "sourceEnd": 24.36,
+    "sha256": "1966f7f05fcbdc3464f71bdabded55d145019410bbfc00afb1227bfad9f47b76"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s08.mp3",
+    "sourceStart": 24.4,
+    "sourceEnd": 26.73,
+    "sha256": "e82d64790d213b99e1251ef74228a7bf1973d5f8023ee43b876ee95cf72c4533"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s09.mp3",
+    "sourceStart": 26.92,
+    "sourceEnd": 27.93,
+    "sha256": "be2f46207eaf2c47b5c3a95b09a17fd65b00d9929fc2535e1ec104112cbdff7e"
+  },
+  {
+    "conversation": "t3-65",
+    "audio": "audio-sentences/t3-65-s10.mp3",
+    "sourceStart": 28.06,
+    "sourceEnd": 30.72,
+    "sha256": "3dec92af687fa8153fa9b0cafd04403f87c1107e638b0a706835159954c66056"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s01.mp3",
+    "sourceStart": 6.37,
+    "sourceEnd": 7.26,
+    "sha256": "e6df8583d2b12263f9b32279af5d6f75ead61207308999e1d96ef43aaaceb54d"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s02.mp3",
+    "sourceStart": 7.36,
+    "sourceEnd": 12.72,
+    "sha256": "115d948ae18e3fe2742bbf835e11fc0b34d63ef42eaf6344a56de163422cd071"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s03.mp3",
+    "sourceStart": 12.91,
+    "sourceEnd": 14.49,
+    "sha256": "a63f0b4b6d1ae9c9c6cb8e286c9c02f454f7e33b426da89573030798e6fc4160"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s04.mp3",
+    "sourceStart": 14.5,
+    "sourceEnd": 18.06,
+    "sha256": "39019c68244f6169204de5be04ffb0d3a18b590fca23e05f1f02093b7df070e4"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s05.mp3",
+    "sourceStart": 18.43,
+    "sourceEnd": 19.59,
+    "sha256": "6086c53887e8ed7f214db1c4e8dd455ae019e6943fdfec1a2008faa6da9ab67c"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s06.mp3",
+    "sourceStart": 19.78,
+    "sourceEnd": 23.43,
+    "sha256": "cd89891dbfc2fb6a2838be41ebfb8ff3ab2122170b22d5ec305d9e91c8f2fa9a"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s07.mp3",
+    "sourceStart": 23.86,
+    "sourceEnd": 27.84,
+    "sha256": "0b6921b41f3f5001b4149bb12019fd1f7cb2251b3e5ba492e8ad3fdd709a7c89"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s08.mp3",
+    "sourceStart": 28.33,
+    "sourceEnd": 28.95,
+    "sha256": "a39e820262b848c1f6cf5176cfc0b74f3d0973e79b3d81d55852bc82a6630787"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s09.mp3",
+    "sourceStart": 29.29,
+    "sourceEnd": 33.24,
+    "sha256": "565d6168b2578b2a66044b2c4106d4ebecb9d2a1c52508b3397da5fc125146c9"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s10.mp3",
+    "sourceStart": 33.4,
+    "sourceEnd": 34.2,
+    "sha256": "66d74cd0ac7aa23d1364e0058935109107746623b7a068d52cd4358c01fdc56e"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s11.mp3",
+    "sourceStart": 34.2,
+    "sourceEnd": 35.31,
+    "sha256": "1f0e457d9a609215a7bf8c4e3e1915bdcc37f285a620cd908bf94440866ed1bc"
+  },
+  {
+    "conversation": "t3-68",
+    "audio": "audio-sentences/t3-68-s12.mp3",
+    "sourceStart": 35.41,
+    "sourceEnd": 36.39,
+    "sha256": "9a1890c9ebd97a258702a0b642fe672df65aed5dd07b443f4b9502fbe548659c"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s01.mp3",
+    "sourceStart": 5.86,
+    "sourceEnd": 6.9,
+    "sha256": "f937370442dfd48118c94ba1906b97396a7278239bd658cc20d1e4e82a50cd1b"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s02.mp3",
+    "sourceStart": 6.97,
+    "sourceEnd": 9.66,
+    "sha256": "3f1fa8283cc366a57f882a2222a04f5bfe6fd800f324ee0401dfb50cd9e71ebb"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s03.mp3",
+    "sourceStart": 9.85,
+    "sourceEnd": 11.82,
+    "sha256": "88a938dc1f3c45cd1f0fee0d104e8228c436b87587d14733bea1a1e1ecb4a360"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s04.mp3",
+    "sourceStart": 11.95,
+    "sourceEnd": 15.54,
+    "sha256": "86f37bc3a2806b19b25196b217623323f63bd3aaaba738acbc23d0b45a1659be"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s05.mp3",
+    "sourceStart": 15.85,
+    "sourceEnd": 18.06,
+    "sha256": "bc596da56b9e2084422b08ddbfa47a1b117a156130b65a0baa3edbe4a9a1cd49"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s06.mp3",
+    "sourceStart": 18.19,
+    "sourceEnd": 18.99,
+    "sha256": "16ce8a8b84785846e88f2f283193f58f9a4a756cc965708d7d3b8049b9161c76"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s07.mp3",
+    "sourceStart": 19.12,
+    "sourceEnd": 23.58,
+    "sha256": "569ad4a37b876edf5a92cfb791846f6855091952c43e5e7345b301c7eea82540"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s08.mp3",
+    "sourceStart": 23.83,
+    "sourceEnd": 28.59,
+    "sha256": "c0cbff5e9492743a95b656e81aa3f802cbbd07633a6e5c5c94af1c7fcd6911c5"
+  },
+  {
+    "conversation": "t4-32",
+    "audio": "audio-sentences/t4-32-s09.mp3",
+    "sourceStart": 28.69,
+    "sourceEnd": 29.88,
+    "sha256": "5d7fb32b6c5f7aa6a9848dd813465da329eef97b33f57435cb217291d001ca68"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s01.mp3",
+    "sourceStart": 6.01,
+    "sourceEnd": 9.72,
+    "sha256": "450fc3968aec85bc4b1fe1bfe94216c98d1afa29d1cf60489d9fffd66350532a"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s02.mp3",
+    "sourceStart": 9.82,
+    "sourceEnd": 14.88,
+    "sha256": "9e7396ac9dcdc3fdf53d66b372ef9ab7cea64b1e90bfc0679815c7e0380bf45d"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s03.mp3",
+    "sourceStart": 15.01,
+    "sourceEnd": 16.74,
+    "sha256": "4aacb70b86da58a460454e9ad91055942f59934127a38923837b6d4179a66845"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s04.mp3",
+    "sourceStart": 16.84,
+    "sourceEnd": 20.55,
+    "sha256": "7f28d8e4673592d1ad32a805e5267e1e12613a17a55b652341ea0a4967a9c03c"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s05.mp3",
+    "sourceStart": 20.83,
+    "sourceEnd": 25.05,
+    "sha256": "a8b2286508915c4d244dbc3c57a359f7e32abc9bef106a1f3398d28d5ba730e5"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s06.mp3",
+    "sourceStart": 25.21,
+    "sourceEnd": 28.86,
+    "sha256": "2b0d4cfad8b12e28cd555662131fc7c3e2c5bef14c361b01933cea7cd420b98f"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s07.mp3",
+    "sourceStart": 28.9,
+    "sourceEnd": 31.5,
+    "sha256": "78eedcc8ba2551621899bff55314cd888e8e9106dbed2fc5ad4046fbacc02931"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s08.mp3",
+    "sourceStart": 31.54,
+    "sourceEnd": 35.94,
+    "sha256": "5bb2f1e763db7527e3a3d016c97b633013ebc80a57d8931a6b410c75b6a5e0f3"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s09.mp3",
+    "sourceStart": 35.98,
+    "sourceEnd": 37.14,
+    "sha256": "6f9c46d5dc2385bf8b30b4f400a677dca11bc69a59b1f2e6ccf783457a8ce305"
+  },
+  {
+    "conversation": "t4-35",
+    "audio": "audio-sentences/t4-35-s10.mp3",
+    "sourceStart": 37.39,
+    "sourceEnd": 41.34,
+    "sha256": "2a05c3820e351feca5ce0aa6abd7c934566a918c62d3b00883e307c5d809b8a3"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s01.mp3",
+    "sourceStart": 5.44,
+    "sourceEnd": 10.65,
+    "sha256": "53f1652988d809b94973ad451cb55d2b595425b0f5f1481be824c7e9b627a8da"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s02.mp3",
+    "sourceStart": 10.96,
+    "sourceEnd": 16.35,
+    "sha256": "fb416ac006be17b86bfc963e1d33ea180eb023b55e979e98819e6bf184bf0f13"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s03.mp3",
+    "sourceStart": 16.69,
+    "sourceEnd": 18.51,
+    "sha256": "96ebbfa09e683d7f09b42a84800d8cec78013c6efce08354a26fabe4a6e6199b"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s04.mp3",
+    "sourceStart": 18.58,
+    "sourceEnd": 23.07,
+    "sha256": "a43f108d8c446442d3e9670f601a9c97d96d77f92e5af5dd53055769a6a72a9a"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s05.mp3",
+    "sourceStart": 23.26,
+    "sourceEnd": 27.63,
+    "sha256": "59f8a260a251dbed576efa5ca2057e76de61f2b621fdb9db3137810691fb1cc4"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s06.mp3",
+    "sourceStart": 27.94,
+    "sourceEnd": 30.84,
+    "sha256": "990c5781face27c52df16191d89700a4350849c77683d42bf33cced4dec0add0"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s07.mp3",
+    "sourceStart": 31.18,
+    "sourceEnd": 39.24,
+    "sha256": "b6d652b870f6367f806bd8d2b9f200a4374203bf9a8c0ad00ddb57bd4bc34a68"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s08.mp3",
+    "sourceStart": 39.46,
+    "sourceEnd": 42.69,
+    "sha256": "bad793f4aae1ea82f22a5a108819e1806bbf31dd4615975a95c834bfdd7e5698"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s09.mp3",
+    "sourceStart": 42.79,
+    "sourceEnd": 43.47,
+    "sha256": "05a09a39015cfe9c8e2d6555d948bad6fa7e239f26434fcce5a8256714357a26"
+  },
+  {
+    "conversation": "t4-38",
+    "audio": "audio-sentences/t4-38-s10.mp3",
+    "sourceStart": 43.63,
+    "sourceEnd": 45.18,
+    "sha256": "63718f4b9532fd093e8be7b1cb2f5ea9e32b245b027994e76beb9f07248751f8"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s01.mp3",
+    "sourceStart": 5.8,
+    "sourceEnd": 7.89,
+    "sha256": "28629283f70ca002ebe41f18e46a7c1e9dcc9d3370b4fc6a3b97bfd0b233f53e"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s02.mp3",
+    "sourceStart": 8.17,
+    "sourceEnd": 12.87,
+    "sha256": "436223b355c9b673e73ca87ee4499e4688a29f8b22846d30968b045de7b42944"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s03.mp3",
+    "sourceStart": 12.88,
+    "sourceEnd": 14.67,
+    "sha256": "d0f6101dfc701fbbedd31c04886002f9f4bdb07f3bee0263a057eecc71b76901"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s04.mp3",
+    "sourceStart": 14.8,
+    "sourceEnd": 16.26,
+    "sha256": "7738883b574702783ce25ceaeca7341e3d516641d6b7e30924c47595cefd8647"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s05.mp3",
+    "sourceStart": 16.39,
+    "sourceEnd": 19.68,
+    "sha256": "67f62a4016e0f8ddd35b470028b3b851a25b8009cf48cd8eab818b529fae7bc5"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s06.mp3",
+    "sourceStart": 19.99,
+    "sourceEnd": 23.85,
+    "sha256": "6380f40711c9a7194fc7a38296c2ccccf71a8235d066dd52daf269ec74018ebc"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s07.mp3",
+    "sourceStart": 24.01,
+    "sourceEnd": 29.46,
+    "sha256": "72f548851c9f9b12721b79eac4ab41ce51a7661c7e614c59c1478075e60b0c4e"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s08.mp3",
+    "sourceStart": 29.53,
+    "sourceEnd": 30.6,
+    "sha256": "f76477e295ab254f7155198fa9742e9b5b319d722f89eaec367cd1faead0f0e5"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s09.mp3",
+    "sourceStart": 30.73,
+    "sourceEnd": 34.53,
+    "sha256": "611b07d03de5b1e83ebcdb4867fcfa3a32462f3a57b68969d9b9976390f86e67"
+  },
+  {
+    "conversation": "t4-41",
+    "audio": "audio-sentences/t4-41-s10.mp3",
+    "sourceStart": 34.69,
+    "sourceEnd": 37.23,
+    "sha256": "20c75f9177cdb3878da9e7f039479ebf8ee7e08d567e733c631e129ec6ca3e92"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s01.mp3",
+    "sourceStart": 6.04,
+    "sourceEnd": 6.69,
+    "sha256": "cc766c5857482fe163feb75a4dd1f1f5bf3e4012524ea1cc950ba7781767e80c"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s02.mp3",
+    "sourceStart": 6.7,
+    "sourceEnd": 9.0,
+    "sha256": "09d54e054881fb3a58247f2eaaffada74d7d69bb9c9e3b090c739c2196551f52"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s03.mp3",
+    "sourceStart": 9.07,
+    "sourceEnd": 13.02,
+    "sha256": "ec6e70cc5be6e530e4aad1c965373c9e65ff835f0443629f223fb98836c535df"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s04.mp3",
+    "sourceStart": 13.12,
+    "sourceEnd": 13.86,
+    "sha256": "4a5722cba0fc30d69a6dac36eb6791e7aeb7ed67600924e9d90826ef72c599fa"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s05.mp3",
+    "sourceStart": 14.02,
+    "sourceEnd": 18.18,
+    "sha256": "51e3af90f3c580b4652f9bd2bf00315a83cf70fd1d97c5a61e714304e9895ecd"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s06.mp3",
+    "sourceStart": 18.31,
+    "sourceEnd": 24.9,
+    "sha256": "54a572a096f739d52d5e185aba695e3f9cfef983cc96f980eb1782a193a4ad05"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s07.mp3",
+    "sourceStart": 25.12,
+    "sourceEnd": 26.58,
+    "sha256": "3dbe0de8da5abfe807500fc434a77ba858ab105154535cff9aaf5ba21ca4a067"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s08.mp3",
+    "sourceStart": 26.92,
+    "sourceEnd": 28.77,
+    "sha256": "ddbd43c867aeaf4e71767c04d69f52c139e90ec0af5c4ffb4d42a4220a16b525"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s09.mp3",
+    "sourceStart": 29.32,
+    "sourceEnd": 34.38,
+    "sha256": "8ff1e3d3ad52e62610fadd3f42722b4ceee229eb3937b3fe0885777857616035"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s10.mp3",
+    "sourceStart": 34.51,
+    "sourceEnd": 37.14,
+    "sha256": "f9b59fb4cd0b8ec44f077a1c3e915a12a63750d62362f7aba78aa0ba30265574"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s11.mp3",
+    "sourceStart": 37.15,
+    "sourceEnd": 37.92,
+    "sha256": "3fe96af0ebb1ff8c04bf5dc157b0ce8cd31b39886abc24117d865941df6766df"
+  },
+  {
+    "conversation": "t4-44",
+    "audio": "audio-sentences/t4-44-s12.mp3",
+    "sourceStart": 38.23,
+    "sourceEnd": 41.55,
+    "sha256": "3c57a141f64368022b7a57313770ea85b812e8f72a43cf4497cc0b05d96dd5d6"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s01.mp3",
+    "sourceStart": 7.24,
+    "sourceEnd": 8.34,
+    "sha256": "3558bce353e6b2abd58105dd211a688445a6f815f332ccb5dbf6d9d279b0fb11"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s02.mp3",
+    "sourceStart": 8.29,
+    "sourceEnd": 9.3,
+    "sha256": "43c19d804ec952fe0e6113801a6523bc1beba205605aac98cb57f9d03fe7cf8c"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s03.mp3",
+    "sourceStart": 9.52,
+    "sourceEnd": 10.92,
+    "sha256": "7f5c99c8d0493937487b0392a636714524abb8722b5ce0de16d1c9fa5bddd8f2"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s04.mp3",
+    "sourceStart": 11.08,
+    "sourceEnd": 15.24,
+    "sha256": "7a60096ac29ace17eab180a5deac5e5551faf7fb36763854f0823b7e223ad1a0"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s05.mp3",
+    "sourceStart": 15.55,
+    "sourceEnd": 20.7,
+    "sha256": "0af53c6b8f5d4b55f52f1e1ef03ecee3a07e0da4b8c5914c165c8a5f77220e1b"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s06.mp3",
+    "sourceStart": 21.07,
+    "sourceEnd": 24.21,
+    "sha256": "092f8fb226896b09aab02e0273aaed70a9abe78319478e4c53ab135a5620ea40"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s07.mp3",
+    "sourceStart": 24.31,
+    "sourceEnd": 29.67,
+    "sha256": "9e46cd435a25b841cfc1e956305d32e4f30ba9f1c2367c519e1bf547dda78e38"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s08.mp3",
+    "sourceStart": 29.92,
+    "sourceEnd": 31.41,
+    "sha256": "16b5183f09cbbc6018818b469f0766f9d3c603e50342a0fe5daf63838e138eae"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s09.mp3",
+    "sourceStart": 31.51,
+    "sourceEnd": 34.5,
+    "sha256": "8e87f2c638726c4db6c2283750b9d3b42bcead4eed386baf8bc887a61d791c4e"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s10.mp3",
+    "sourceStart": 34.81,
+    "sourceEnd": 37.74,
+    "sha256": "fd62837133357cf2d80b18f4f6cd11faae4435459e0cd92f95e5242c3a60255f"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s11.mp3",
+    "sourceStart": 37.84,
+    "sourceEnd": 39.51,
+    "sha256": "1d1fa99685c4f7af6bd7aef21affbac472e6a38076ee42cd92945544b222161e"
+  },
+  {
+    "conversation": "t4-47",
+    "audio": "audio-sentences/t4-47-s12.mp3",
+    "sourceStart": 39.61,
+    "sourceEnd": 41.76,
+    "sha256": "528385b72c6868526d44cf00762c968c1f8cbe3ff4133fe9273c2e73ed212f9e"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s01.mp3",
+    "sourceStart": 5.8,
+    "sourceEnd": 7.26,
+    "sha256": "bb5d472066647435157eebfd228fb8eb2d814f9847e8a58981944854e0ae0a5b"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s02.mp3",
+    "sourceStart": 7.3,
+    "sourceEnd": 9.06,
+    "sha256": "3c7f05c2ccb45532c9c645e44fc525e789f2670653c9f65967b00f56ecf07e62"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s03.mp3",
+    "sourceStart": 9.31,
+    "sourceEnd": 13.86,
+    "sha256": "7c552bac42032578fdc2921bcdfe74683d3c832b424ea5dcbb59210004fd3508"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s04.mp3",
+    "sourceStart": 13.96,
+    "sourceEnd": 14.76,
+    "sha256": "45ffc70832c0263f0ee5a0380d8c9d04ac6e2fd13725be5e2f378d14d069b55d"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s05.mp3",
+    "sourceStart": 14.89,
+    "sourceEnd": 18.6,
+    "sha256": "308d5cb530667b0e88c5a7ac74f2dafcaeb35c7c0bd6c296f68b100cbeadbb8e"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s06.mp3",
+    "sourceStart": 18.76,
+    "sourceEnd": 22.05,
+    "sha256": "8db26880390af6fb63871a3eb464cf258e9387e0204ec54ba30d3abf19f2694a"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s07.mp3",
+    "sourceStart": 22.33,
+    "sourceEnd": 27.18,
+    "sha256": "bf0c5d6eee154f0c6b805f66a0f2c30d43561a5078c6a895ee2d34f34a432601"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s08.mp3",
+    "sourceStart": 27.22,
+    "sourceEnd": 28.32,
+    "sha256": "a0be286b01bf5be479b9d84350fa0fc90e67de05ef32cb1bc27683321ca3e9c1"
+  },
+  {
+    "conversation": "t4-50",
+    "audio": "audio-sentences/t4-50-s09.mp3",
+    "sourceStart": 28.63,
+    "sourceEnd": 34.74,
+    "sha256": "9059cd72961280b8aa2bc4e9a91bce5390700552907fff350622606cf97af77a"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s01.mp3",
+    "sourceStart": 5.89,
+    "sourceEnd": 10.29,
+    "sha256": "3264649cfa2d34abff437c1bafc9d53f13e1df3abef6d90c358087514edcf9d4"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s02.mp3",
+    "sourceStart": 10.39,
+    "sourceEnd": 15.3,
+    "sha256": "8abdd9fa6458e79ac15823dc39bdcaca2f9f62fa85e28d14bf100de97f16218b"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s03.mp3",
+    "sourceStart": 15.58,
+    "sourceEnd": 22.05,
+    "sha256": "fac7d3826dad4e9687d11694df07e61c1790ae2516ab8f97ed05da2fcb7c08f3"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s04.mp3",
+    "sourceStart": 22.33,
+    "sourceEnd": 25.77,
+    "sha256": "f26de3431b2a160b4f855b3964c31ef971a409eae411fe16ec4e765e7a9f307d"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s05.mp3",
+    "sourceStart": 26.17,
+    "sourceEnd": 28.83,
+    "sha256": "fcf4f3cc3496e1450dc7cd04288927833f08118df241d7c22a6ab298f9fa1b6b"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s06.mp3",
+    "sourceStart": 29.02,
+    "sourceEnd": 34.92,
+    "sha256": "63ef708572e08b52cff5f1fb23a3f919aa7f60a333f351e4df4cc560fffdb7f6"
+  },
+  {
+    "conversation": "t4-53",
+    "audio": "audio-sentences/t4-53-s07.mp3",
+    "sourceStart": 35.08,
+    "sourceEnd": 37.35,
+    "sha256": "d024009292b9739a3f543e28aa55ce69ca711464c7fdc9132fd97ed7c111b45e"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s01.mp3",
+    "sourceStart": 7.09,
+    "sourceEnd": 8.43,
+    "sha256": "26eb6a5695c71f6046adcc9ca19ac9ee37577f65c40bf17ba12a7f2da185754e"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s02.mp3",
+    "sourceStart": 8.62,
+    "sourceEnd": 18.63,
+    "sha256": "3657d99f0eea53516c7803d09217be8d92978e2c5c75a95bf5953eaed45e2530"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s03.mp3",
+    "sourceStart": 18.97,
+    "sourceEnd": 23.64,
+    "sha256": "353e3444d7152fd701f27d55189489710379f147d67b7891226c8f492737258f"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s04.mp3",
+    "sourceStart": 23.98,
+    "sourceEnd": 24.84,
+    "sha256": "d621b7eb7bb0025ba274ff9da75d8f03d586c7258e21da659b516118a0104398"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s05.mp3",
+    "sourceStart": 24.91,
+    "sourceEnd": 30.72,
+    "sha256": "191a3fb25e62171cfbd897c92e26922480b313beccff054a77643fd43422024a"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s06.mp3",
+    "sourceStart": 31.03,
+    "sourceEnd": 36.42,
+    "sha256": "71ae4a830d208a97d15514912ea1503ffce57d991724d6a2c2019b1eafd755e8"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s07.mp3",
+    "sourceStart": 36.55,
+    "sourceEnd": 39.93,
+    "sha256": "dcbe61c5a8b4c912a87c0aeb098ac3d13921114adc43112cc4afccc89e78f50d"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s08.mp3",
+    "sourceStart": 40.03,
+    "sourceEnd": 42.39,
+    "sha256": "93b0488ba612c2f97a46788f6b7d7d246c409be835582bc53b5387cd9d25200f"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s09.mp3",
+    "sourceStart": 42.67,
+    "sourceEnd": 49.05,
+    "sha256": "45907566ecff27fe2ab74835ddf659ae2a18afb74de1eb6b8f8c806fa2897dcb"
+  },
+  {
+    "conversation": "t4-56",
+    "audio": "audio-sentences/t4-56-s10.mp3",
+    "sourceStart": 49.42,
+    "sourceEnd": 52.77,
+    "sha256": "3c5275e26a659a9b34d48dd1591a0d0b449e758df8c3a96cb32362cc3132a78a"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s01.mp3",
+    "sourceStart": 5.95,
+    "sourceEnd": 7.05,
+    "sha256": "c6aac6eaa445bd20ce252a3ff244bd126cf07f135b61e1331529ee3c32745fcf"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s02.mp3",
+    "sourceStart": 7.09,
+    "sourceEnd": 10.95,
+    "sha256": "0d117c67196d14705a3333558fed3e80c89e7c05bd034c15ab7d22fcde0c15df"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s03.mp3",
+    "sourceStart": 11.05,
+    "sourceEnd": 14.58,
+    "sha256": "7af6358962bfa82999102e81d9b800c6fecee6c1d6fcfb2ea12fcb7b38b35b10"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s04.mp3",
+    "sourceStart": 14.74,
+    "sourceEnd": 15.69,
+    "sha256": "1a4872cbb0ddb6400535f7979aa831fcbc37e3a1d5c2427e93c1d04fc4ba4546"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s05.mp3",
+    "sourceStart": 15.73,
+    "sourceEnd": 19.68,
+    "sha256": "11aa5eb9985febf102073f3303b66f9534322c59d1afdc9e037ffb01c57224f6"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s06.mp3",
+    "sourceStart": 19.9,
+    "sourceEnd": 22.14,
+    "sha256": "921b3cb10219902309ba4df0a7f7ad2ab338acab24f0c39cb47988c7cb433332"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s07.mp3",
+    "sourceStart": 22.51,
+    "sourceEnd": 24.6,
+    "sha256": "bf16982e747c5563b9e385e68a1628566c045eca7be134a0fd79c437fe509f94"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s08.mp3",
+    "sourceStart": 24.64,
+    "sourceEnd": 31.11,
+    "sha256": "7d563c56b0113fb595a168684beeb609405e36894d6eeb2c08248f43660e1aab"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s09.mp3",
+    "sourceStart": 31.15,
+    "sourceEnd": 34.98,
+    "sha256": "037b62e6fd92e652f37bcd4adf6edcc095f210f9aea9f123cc558f536156a878"
+  },
+  {
+    "conversation": "t4-59",
+    "audio": "audio-sentences/t4-59-s10.mp3",
+    "sourceStart": 34.93,
+    "sourceEnd": 35.97,
+    "sha256": "9783ccc5a90729b8c6d4925af0873bc47e68c1e258db71174fd62ccfcec24620"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s01.mp3",
+    "sourceStart": 7.3,
+    "sourceEnd": 8.64,
+    "sha256": "282cb10ae3fe97c78a7d3dc7ec2d9ded4debd0dd7988f6839984143240ac4ead"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s02.mp3",
+    "sourceStart": 8.98,
+    "sourceEnd": 14.07,
+    "sha256": "fc27039639389370ea368955bde1f2828ebf82d0d727ab8f4e427da968e6ca07"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s03.mp3",
+    "sourceStart": 14.38,
+    "sourceEnd": 17.46,
+    "sha256": "c88fae11735aaa2f70f7630b2a70c812b0c84799ed959f7d6bcbadc4d2a2ddc5"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s04.mp3",
+    "sourceStart": 18.22,
+    "sourceEnd": 21.36,
+    "sha256": "594a53003c7b30380b95b3b97c6d4c2b58153c71a8b38751b0dbd0458f8ae824"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s05.mp3",
+    "sourceStart": 21.67,
+    "sourceEnd": 23.85,
+    "sha256": "bbf6eeeb42ff8656e80833dedb555f284d1ffc2749edbf25b04944105ce58bcb"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s06.mp3",
+    "sourceStart": 24.13,
+    "sourceEnd": 24.73,
+    "sha256": "d0b5e2122dff8ab6eeae4e5c9f36da37a0c2903440472ae5ad46c8a0ed78e250"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s07.mp3",
+    "sourceStart": 25.24,
+    "sourceEnd": 28.26,
+    "sha256": "be597259b7dadd24a7c983cfb3aefce78269754a7b19a719cc51840b1f8ee736"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s08.mp3",
+    "sourceStart": 28.27,
+    "sourceEnd": 32.25,
+    "sha256": "5949d93edf01ff45b5cb0cb51bca4ffdc9aa33ffe939780961b62af52c1a470b"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s09.mp3",
+    "sourceStart": 32.41,
+    "sourceEnd": 36.36,
+    "sha256": "ea02a0e77f33e17bfc0c0637dd9a4d93c3404a7bc9233fd8453dccfbbacd2095"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s10.mp3",
+    "sourceStart": 36.4,
+    "sourceEnd": 37.89,
+    "sha256": "8ffcb22e9210c4f52df951d1c89e538ca5839d627002be2513a4e6a5abb403c4"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s11.mp3",
+    "sourceStart": 38.2,
+    "sourceEnd": 42.9,
+    "sha256": "0664b0db07a19441b760f6c83c6f222b4fac071edffc1ff72217ea04067d154f"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s12.mp3",
+    "sourceStart": 42.97,
+    "sourceEnd": 44.25,
+    "sha256": "0bd52a78222e88f0c0314630bd3372e10dfba12a6e4921ac89ef7406bb5742af"
+  },
+  {
+    "conversation": "t4-62",
+    "audio": "audio-sentences/t4-62-s13.mp3",
+    "sourceStart": 44.41,
+    "sourceEnd": 47.37,
+    "sha256": "153b0f02723cf7c025f70481efba4e747b894f6d603d2039933e9b162e3d149e"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s01.mp3",
+    "sourceStart": 6.67,
+    "sourceEnd": 11.31,
+    "sha256": "4d55a10dcb900e19637b691e50d286e8cca2aab444ffdac7ff7493b136d524d3"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s02.mp3",
+    "sourceStart": 11.29,
+    "sourceEnd": 12.09,
+    "sha256": "508e747710c290b6ae868881e7ad27546618714fcf3f6737fea0359bce2f6b1d"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s03.mp3",
+    "sourceStart": 12.04,
+    "sourceEnd": 14.76,
+    "sha256": "5014599280a003a5c2e6935fb624c6991266340ddf43fe10fc3b1d7213c87e5d"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s04.mp3",
+    "sourceStart": 14.89,
+    "sourceEnd": 16.59,
+    "sha256": "ce3fdb4235973a13167fb4f1c177c51efb1b123b9ae56b13ac1941fca443c3cc"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s05.mp3",
+    "sourceStart": 16.75,
+    "sourceEnd": 18.09,
+    "sha256": "152e2d347cd7bcf58df4573c69e739f4789608f26d02fdce8e92c64e52a8f94b"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s06.mp3",
+    "sourceStart": 18.01,
+    "sourceEnd": 18.99,
+    "sha256": "280b40267b18bb2560df79ae25b1c1d481d429040e0d79f545f98e521835db0e"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s07.mp3",
+    "sourceStart": 19.06,
+    "sourceEnd": 22.02,
+    "sha256": "42721df400d14849ed60870252babf496e73eca288d654685d2d8baf872ab14b"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s08.mp3",
+    "sourceStart": 22.27,
+    "sourceEnd": 27.51,
+    "sha256": "1fcb6ab22506013655a4d60a8725e094a036ad71a46574c11446496716f634d2"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s09.mp3",
+    "sourceStart": 27.61,
+    "sourceEnd": 30.42,
+    "sha256": "b2595c8a2ff0d6e0218cc8f0778a2dc403a37aca198378afa681da8ff815305a"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s10.mp3",
+    "sourceStart": 30.52,
+    "sourceEnd": 33.96,
+    "sha256": "e7d59be12025bd1a37e78ba641acb84f69f31650657964eff71378d129ef25c0"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s11.mp3",
+    "sourceStart": 34.0,
+    "sourceEnd": 37.35,
+    "sha256": "d3d840199e0360acfb3835cf97fd41738b43500a81338dd3f850381a80526f1f"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s12.mp3",
+    "sourceStart": 37.69,
+    "sourceEnd": 41.25,
+    "sha256": "a4e8442bdf14c3067184d0cb498c3e0d3b99bc8fa3b46a45470cfc2654046f34"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s13.mp3",
+    "sourceStart": 41.17,
+    "sourceEnd": 42.15,
+    "sha256": "5892ce5e07cbe5b947162f2b1cd4f10f0c2945d7820f16b1279da10c4af047a7"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s14.mp3",
+    "sourceStart": 42.46,
+    "sourceEnd": 43.29,
+    "sha256": "961bbbd64ed071ff6a07033362393c25b0f092df5c0bc4218d8eb62ed54b3a54"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s15.mp3",
+    "sourceStart": 43.45,
+    "sourceEnd": 45.81,
+    "sha256": "d539e0c4fb0cac34a24ecd3712e2ad18b693d656de61e762e77eb417ffaaeb12"
+  },
+  {
+    "conversation": "t4-65",
+    "audio": "audio-sentences/t4-65-s16.mp3",
+    "sourceStart": 46.0,
+    "sourceEnd": 47.76,
+    "sha256": "6058355d9873665e55a86a04f65b764bd35c1d29fc802fcb35640c04247381e0"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s01.mp3",
+    "sourceStart": 7.03,
+    "sourceEnd": 8.64,
+    "sha256": "857aa298294734d9721ebbf5696e77bb69bc306633999dc54e35cfb0eb383de2"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s02.mp3",
+    "sourceStart": 8.62,
+    "sourceEnd": 9.54,
+    "sha256": "89f27ed20dbc603321c97cad68f07f48b841291ceaa65a9758b31c6c8cc5b198"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s03.mp3",
+    "sourceStart": 9.58,
+    "sourceEnd": 10.29,
+    "sha256": "a2e2c24297d964000d6c2d88f4783640820c63da065cc790c923547c8a3709a8"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s04.mp3",
+    "sourceStart": 10.6,
+    "sourceEnd": 14.58,
+    "sha256": "e6f624deb9ac0d74d691abe6b7c7d52c9f15a844451681296cd894b0d7837ceb"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s05.mp3",
+    "sourceStart": 14.68,
+    "sourceEnd": 16.74,
+    "sha256": "0609bb9a2674489626ed8384b19e4aef8aa5f1279ef10f1ed6c06a9fc92f9945"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s06.mp3",
+    "sourceStart": 16.81,
+    "sourceEnd": 21.54,
+    "sha256": "e2cebb438c0f9d1c594cf089dba8dca23444e197c372946b3190b8072a1ae4dd"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s07.mp3",
+    "sourceStart": 21.58,
+    "sourceEnd": 23.1,
+    "sha256": "48cfdb194c036e6172e51a4991820cb9ee1412246c1dc90987cdb7cbf89b8413"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s08.mp3",
+    "sourceStart": 23.05,
+    "sourceEnd": 24.33,
+    "sha256": "51a827a358f25bbf043557cf6b7f9c23e32ac0ca67d93f4f90d669b8ee5ea2f9"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s09.mp3",
+    "sourceStart": 24.4,
+    "sourceEnd": 30.27,
+    "sha256": "e7d3fe635207535f181b122f0ed5d05607a27ef6649fee4c6c7c793cbb32c379"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s10.mp3",
+    "sourceStart": 30.31,
+    "sourceEnd": 32.67,
+    "sha256": "c8750ea01a580697dc1649b76e6ba0099c6b7b9df0a6ddef4f522e297826f6a4"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s11.mp3",
+    "sourceStart": 32.59,
+    "sourceEnd": 33.42,
+    "sha256": "a4ac5ecbbebcf1f1797201e9f9dcfd160a8dd3bd8c39622db8cbc9a4dc6177b2"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s12.mp3",
+    "sourceStart": 33.58,
+    "sourceEnd": 36.3,
+    "sha256": "ad5822ff8576b4e8808f1446a87a575cc05df853c0521b0058d486952aa41f24"
+  },
+  {
+    "conversation": "t4-68",
+    "audio": "audio-sentences/t4-68-s13.mp3",
+    "sourceStart": 36.22,
+    "sourceEnd": 37.92,
+    "sha256": "3d835efe7193a9f58fd5d99c0bbe600ff2bf1a1c15f59289a93393d978615fb3"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s01.mp3",
+    "sourceStart": 5.95,
+    "sourceEnd": 6.99,
+    "sha256": "45de084ed4b5349ff5ceaf2c29ed4a0fcdce145b8c1847fabaa6f47fc91c6fd9"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s02.mp3",
+    "sourceStart": 6.96,
+    "sourceEnd": 8.49,
+    "sha256": "a961a957b0172964f210f7a9671d98145d7e9bff075745bcf3b3d14f3dbff347"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s03.mp3",
+    "sourceStart": 8.68,
+    "sourceEnd": 10.17,
+    "sha256": "c058f8055378d2d144980f33b38b99b701279e6fcccc94c459caf2dacc101e7d"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s04.mp3",
+    "sourceStart": 10.39,
+    "sourceEnd": 19.38,
+    "sha256": "98a9745c52edb9b7787ec21f10074ff495ea2684619a1621580e7d8e8c91b1e4"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s05.mp3",
+    "sourceStart": 19.6,
+    "sourceEnd": 21.75,
+    "sha256": "b93c0c598f7b40fdc69daeb179e0c45e05fafa195ed99c7a2fbab59d92b73342"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s06.mp3",
+    "sourceStart": 22.0,
+    "sourceEnd": 26.79,
+    "sha256": "dd06c02ebb291d71616b6ed1536d334d0c4fd109e5da4e40eb8484f3856dbfbd"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s07.mp3",
+    "sourceStart": 26.92,
+    "sourceEnd": 29.82,
+    "sha256": "f10487d35caf64d7c88931293e555dd67c03abf93ecc6390e3787e8a63e4d25b"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s08.mp3",
+    "sourceStart": 30.16,
+    "sourceEnd": 31.38,
+    "sha256": "491f43cf0d5e5cab7a0297eb03b07ad77c368218d01645c3e468056c3af24595"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s09.mp3",
+    "sourceStart": 31.66,
+    "sourceEnd": 33.3,
+    "sha256": "7173978856b966aff5683ca5080f28d82a05f73a687bcd178783658443ddfee4"
+  },
+  {
+    "conversation": "t5-32",
+    "audio": "audio-sentences/t5-32-s10.mp3",
+    "sourceStart": 33.22,
+    "sourceEnd": 38.22,
+    "sha256": "8e585a0912c5dd5176ad8365eada99b0a8e698521c445c2643bf523053b2c6cd"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s01.mp3",
+    "sourceStart": 5.98,
+    "sourceEnd": 7.5,
+    "sha256": "e235651addc7eaddcf93c1b9c4d6d350fcedd85df79067ad917b844d8d45202b"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s02.mp3",
+    "sourceStart": 7.51,
+    "sourceEnd": 8.67,
+    "sha256": "633f845914b8e7489e43a1133b78e85a5285c5932d4e3bf2e3ebd585ef7b9b19"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s03.mp3",
+    "sourceStart": 8.89,
+    "sourceEnd": 9.51,
+    "sha256": "09991e332d579915a72c574a546084e08eabd046af456548d80dafe1e9f1835f"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s04.mp3",
+    "sourceStart": 9.43,
+    "sourceEnd": 12.45,
+    "sha256": "94bcae5b1882a11a1e8eabbfafeb4c51691eef78d0fae976df3b4a95c27d4e40"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s05.mp3",
+    "sourceStart": 12.58,
+    "sourceEnd": 17.13,
+    "sha256": "152fe9baa07f554fe75fa802747431b245f82b8a1fb9fef0f2d600d72db5e210"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s06.mp3",
+    "sourceStart": 17.38,
+    "sourceEnd": 26.28,
+    "sha256": "2a41df4faacae542b72b3454f7fd8c14fb3de5d7851eae37619dded23bf958ba"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s07.mp3",
+    "sourceStart": 26.59,
+    "sourceEnd": 31.8,
+    "sha256": "73661432d496e5d15b0a1991a7e408237b055baafb58ad9a51842a22ad43b017"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s08.mp3",
+    "sourceStart": 32.02,
+    "sourceEnd": 33.96,
+    "sha256": "29295c7e5f04cb038038b5469757cfde31747fe50057d0d4673adda8535f599e"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s09.mp3",
+    "sourceStart": 34.15,
+    "sourceEnd": 37.23,
+    "sha256": "7e1b93568b8c58259c8c806e82fb56048b0972af71fe9fbc3bac8ffcbd5c4509"
+  },
+  {
+    "conversation": "t5-35",
+    "audio": "audio-sentences/t5-35-s10.mp3",
+    "sourceStart": 37.45,
+    "sourceEnd": 39.6,
+    "sha256": "4dbf7c11428070f2b8490991af2721f66513abc9b9ed5d6edb6be5ca55aa89df"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s01.mp3",
+    "sourceStart": 5.44,
+    "sourceEnd": 9.78,
+    "sha256": "cc2317765f90524dced9645fd8472eef62ba1600d57f115a9e5acbd936363c0c"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s02.mp3",
+    "sourceStart": 10.0,
+    "sourceEnd": 14.52,
+    "sha256": "ff467d2a988bbbb90c9a4a7e7e7accdfb936531187c1ee9114ee4c71c4caef1b"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s03.mp3",
+    "sourceStart": 14.8,
+    "sourceEnd": 16.68,
+    "sha256": "ed2185b84318ae06d470778a15de1d2610be76095468c58a49b8e56cf5e3ba93"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s04.mp3",
+    "sourceStart": 16.75,
+    "sourceEnd": 17.4,
+    "sha256": "bc8c99b4f2bae9178a6784a53774ebf5bd99d0324a71f1619d783dfdd4c7216c"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s05.mp3",
+    "sourceStart": 17.53,
+    "sourceEnd": 20.31,
+    "sha256": "019fc77afb32c616a01b159e4acaca7cf1a6bdcfe3215e6f10f8974fdd662b1d"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s06.mp3",
+    "sourceStart": 20.62,
+    "sourceEnd": 26.49,
+    "sha256": "663cb187dbdf21532843b567ade59597f1abad6b310d2eaef50a8eca35ddd87d"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s07.mp3",
+    "sourceStart": 26.59,
+    "sourceEnd": 29.1,
+    "sha256": "827c61a37d00f9b0a2534fed1a9a278a242044d5a8eacf0942c43d3dbc4564be"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s08.mp3",
+    "sourceStart": 29.32,
+    "sourceEnd": 33.51,
+    "sha256": "380bf74913786644b0d974566160a9fb4ecb86dceb2d555a9d12f613d45b017b"
+  },
+  {
+    "conversation": "t5-38",
+    "audio": "audio-sentences/t5-38-s09.mp3",
+    "sourceStart": 33.7,
+    "sourceEnd": 35.79,
+    "sha256": "6e4f17673543b8b089e334b434c622805e234d71ca9adaca14dbe6aaf6c94037"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s01.mp3",
+    "sourceStart": 7.0,
+    "sourceEnd": 11.01,
+    "sha256": "8e8d74a386e051f4744abb0f889a14f38b0696a8e2dc0a1ecbe988f771aebdee"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s02.mp3",
+    "sourceStart": 11.29,
+    "sourceEnd": 15.9,
+    "sha256": "e00cddb5c74ca25d85f512a1c313bce51eb3ed5114a5e86864550afbd3f4e900"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s03.mp3",
+    "sourceStart": 16.21,
+    "sourceEnd": 19.38,
+    "sha256": "e7862e721680ce12db526a305c19a5d772a55a476d7458fc8dc60b49797d5d1e"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s04.mp3",
+    "sourceStart": 19.63,
+    "sourceEnd": 22.98,
+    "sha256": "ff630818453af81b1878bab5606d57ea2e6de7384a0c811ec45d55cbac155e4e"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s05.mp3",
+    "sourceStart": 23.11,
+    "sourceEnd": 25.23,
+    "sha256": "dde6e375ba1366b85831c395a5eb6ff4a312952c1bb641c43fff32f3726df4a1"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s06.mp3",
+    "sourceStart": 25.39,
+    "sourceEnd": 26.94,
+    "sha256": "92056e951c66765108adc793f4c2892dbd76658803521881ac2d6bda7723b6d6"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s07.mp3",
+    "sourceStart": 27.25,
+    "sourceEnd": 28.32,
+    "sha256": "d4591be3a89ac72f756aaceb7e232fe476e3bb8e40340b14d87ca3839aeacf7e"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s08.mp3",
+    "sourceStart": 28.48,
+    "sourceEnd": 39.15,
+    "sha256": "3827354432b028761496dfe9a3fcc1ef996d03583768cc5f0680283e3ad2686d"
+  },
+  {
+    "conversation": "t5-41",
+    "audio": "audio-sentences/t5-41-s09.mp3",
+    "sourceStart": 39.34,
+    "sourceEnd": 40.77,
+    "sha256": "fda821b8aef9942cd66ddf5fee552549c5b77ae216d28a3394482312c9b6d4f1"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s01.mp3",
+    "sourceStart": 5.98,
+    "sourceEnd": 7.92,
+    "sha256": "2c18a65f897a43f4532d6cdd7c51d191b94c1e6f70d112c15e6a8a6eaa0ffbbc"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s02.mp3",
+    "sourceStart": 7.99,
+    "sourceEnd": 11.37,
+    "sha256": "b40a006ed00fae6f9f91e26b72b6bd3766ef6c96d816cb71a1c937b7bd192be7"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s03.mp3",
+    "sourceStart": 11.44,
+    "sourceEnd": 13.5,
+    "sha256": "5d07bef6342226caeb6700d3c178a9f065e26f4570820e9a7fbfcd1a85a2b05f"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s04.mp3",
+    "sourceStart": 13.72,
+    "sourceEnd": 19.89,
+    "sha256": "2e5ebdb49f1a1fbe94182e439621b475cf7a978e6f946e09a5db1f1389da3762"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s05.mp3",
+    "sourceStart": 20.08,
+    "sourceEnd": 27.36,
+    "sha256": "dbf80d48be67a02f2e86d57683c1f4a587ca265f0ba518baabd0b8643a862fe4"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s06.mp3",
+    "sourceStart": 27.55,
+    "sourceEnd": 31.41,
+    "sha256": "d1e53800314fae732e8dc42b53c5430742956e009e5db1e5b52ea124d386282e"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s07.mp3",
+    "sourceStart": 31.48,
+    "sourceEnd": 32.58,
+    "sha256": "1c9b1688cfb40cf833f082d7d5f63c50465621027ef76e859ddeda7291be2b39"
+  },
+  {
+    "conversation": "t5-44",
+    "audio": "audio-sentences/t5-44-s08.mp3",
+    "sourceStart": 32.74,
+    "sourceEnd": 35.22,
+    "sha256": "d6060a631c11cda6ce0cd08c179aa0807a03b907e113cfebc2f3daccf4b9d4ee"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s01.mp3",
+    "sourceStart": 5.92,
+    "sourceEnd": 7.77,
+    "sha256": "ecf8eea8ca8d3ca69db902ffee731c32ecdfdbd1b96071a6909aef55c23add0d"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s02.mp3",
+    "sourceStart": 7.99,
+    "sourceEnd": 11.4,
+    "sha256": "4124cfed34cba6954de131e491753c25d4f2d3c19484bf14382197b6ef418c4b"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s03.mp3",
+    "sourceStart": 11.59,
+    "sourceEnd": 16.29,
+    "sha256": "6bbcbbf4729a204d294364cd9cdbc3b40fef6f315cebd107c1bd66f9b6162bee"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s04.mp3",
+    "sourceStart": 16.48,
+    "sourceEnd": 17.46,
+    "sha256": "d43585aa165035d4648c32e0773b131751b15b014d0134517bb98d104cc7c716"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s05.mp3",
+    "sourceStart": 17.56,
+    "sourceEnd": 19.83,
+    "sha256": "a6d762a52be1d060b5b554e4c9011018ee5a93bbb02bb8e2bb9f018664f77902"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s06.mp3",
+    "sourceStart": 20.05,
+    "sourceEnd": 25.41,
+    "sha256": "29cf230494486521cf07f4711cd1979419f7b844f0f1750f35f5c650bf9afefa"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s07.mp3",
+    "sourceStart": 25.66,
+    "sourceEnd": 30.03,
+    "sha256": "acd01cb36aca0cec53248611a71f2d708176724ef5b11cee6fb34ef93e187819"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s08.mp3",
+    "sourceStart": 30.31,
+    "sourceEnd": 31.05,
+    "sha256": "4d4fe668c16d7ae9f77bb6a41e872c8a42de4dec4dc05df81c160f90918401c7"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s09.mp3",
+    "sourceStart": 30.97,
+    "sourceEnd": 33.81,
+    "sha256": "6f3db3df7651d837d3817ca61010687162a9e8d7869aac089ff94300e6baa1a4"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s10.mp3",
+    "sourceStart": 34.0,
+    "sourceEnd": 34.83,
+    "sha256": "bd53482e15fe4569401674dd4c79823ff42d2d57f1ff828e341b233b1e2c5baf"
+  },
+  {
+    "conversation": "t5-47",
+    "audio": "audio-sentences/t5-47-s11.mp3",
+    "sourceStart": 34.9,
+    "sourceEnd": 38.97,
+    "sha256": "85336233ae3f4654102f6d7fec9d2cfc3722280f1ac36417e9c7c8cce098109c"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s01.mp3",
+    "sourceStart": 5.74,
+    "sourceEnd": 6.84,
+    "sha256": "e869b3b19ce252dcc860a9e0fff9d884d783e11383ed94ea86e7b2a16de23b7a"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s02.mp3",
+    "sourceStart": 6.94,
+    "sourceEnd": 11.52,
+    "sha256": "c9078c22ec6c37a5549eaaa16bc1a9a619a5fac3b475eb18146e4e07ccd903b5"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s03.mp3",
+    "sourceStart": 11.68,
+    "sourceEnd": 14.25,
+    "sha256": "71dbc056cecdef8383cbdd9b9c98a8e661ec0e7407e848c2a10e47fe20ae23a9"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s04.mp3",
+    "sourceStart": 14.38,
+    "sourceEnd": 15.12,
+    "sha256": "5fb3788f49214c52108f1e847cc94f14fe7801bf46234072703cf4dce2b9ce61"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s05.mp3",
+    "sourceStart": 15.13,
+    "sourceEnd": 16.86,
+    "sha256": "d28b7bf9ad9783f4239590b2a3630c1ed0184fd9354659a656dc7c0d49fb122b"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s06.mp3",
+    "sourceStart": 16.96,
+    "sourceEnd": 24.36,
+    "sha256": "23f86dcfa88fe17abfc4baa3304f5fe6a39252553b3836f9901e2e807325978b"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s07.mp3",
+    "sourceStart": 24.55,
+    "sourceEnd": 25.17,
+    "sha256": "1c6369a761abf0d13205a8bad78bce3bdfc697f255865c089d9fc59f52d15347"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s08.mp3",
+    "sourceStart": 25.36,
+    "sourceEnd": 28.89,
+    "sha256": "f8e2aa6e78206370f562b1b294a15b236da464c956bccd1288fba14692590fde"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s09.mp3",
+    "sourceStart": 29.2,
+    "sourceEnd": 33.48,
+    "sha256": "78ace6ce19079348132b257887c707369ae4a890245136de70b1ebcb8ab32362"
+  },
+  {
+    "conversation": "t5-50",
+    "audio": "audio-sentences/t5-50-s10.mp3",
+    "sourceStart": 33.49,
+    "sourceEnd": 39.3,
+    "sha256": "dec29604acf97aed8eb08cd721790b194f562f2f65d7bab203f447504d9ea110"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s01.mp3",
+    "sourceStart": 7.18,
+    "sourceEnd": 12.9,
+    "sha256": "6bd8b6f9fd88c38db2099315c9faa5a0c775d7333bcaece17ac89630a5ef2c76"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s02.mp3",
+    "sourceStart": 13.18,
+    "sourceEnd": 15.27,
+    "sha256": "97d8a10b5f82fbc215b5f97607ffd4d8580d43826f3c207d5b0b3b8d11f759a9"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s03.mp3",
+    "sourceStart": 15.49,
+    "sourceEnd": 19.41,
+    "sha256": "352e9a934989c52033eb3936bb58d75a4806246ce0f5479e1a7ad94dca1755ea"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s04.mp3",
+    "sourceStart": 19.6,
+    "sourceEnd": 26.4,
+    "sha256": "78d1bcce67acd9340310af4821cbf64d8ba3c877d5a165ca6b735fa95100c6e0"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s05.mp3",
+    "sourceStart": 27.04,
+    "sourceEnd": 32.55,
+    "sha256": "42c5a404f2889df04be26a13715dc49a83722fa661c6ccbedd83369d6c142b92"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s06.mp3",
+    "sourceStart": 32.71,
+    "sourceEnd": 37.74,
+    "sha256": "47285a3431f33a207245e191f33b419902c7bc664a537765ece94561e26c379c"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s07.mp3",
+    "sourceStart": 37.87,
+    "sourceEnd": 39.93,
+    "sha256": "8dea852b22f15492a122839466d04441b3f8d97974331744aa773b6851296d64"
+  },
+  {
+    "conversation": "t5-53",
+    "audio": "audio-sentences/t5-53-s08.mp3",
+    "sourceStart": 40.21,
+    "sourceEnd": 43.32,
+    "sha256": "10d6a7668731081177adc430d21d3108beae689d534bd5954a8a8a6727cfd126"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s01.mp3",
+    "sourceStart": 5.8,
+    "sourceEnd": 12.18,
+    "sha256": "8613081a8096491124ebbbe26e12a1695923cab603ba800966393aff28876e11"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s02.mp3",
+    "sourceStart": 12.25,
+    "sourceEnd": 15.84,
+    "sha256": "13a3fbbb3411e1e5333bd60671e949377dc0fc994a2c0527acfcd9b56096611e"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s03.mp3",
+    "sourceStart": 15.94,
+    "sourceEnd": 18.96,
+    "sha256": "b97c71758f86099950e7ab22db2815aea5b978ce26a9c0c9d38c65194218d128"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s04.mp3",
+    "sourceStart": 19.15,
+    "sourceEnd": 21.42,
+    "sha256": "0c966103bf95f79f821914d864cf8513a00349a168dc465bb3da556d3c38e005"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s05.mp3",
+    "sourceStart": 21.67,
+    "sourceEnd": 27.3,
+    "sha256": "0c68bd3d7a44756a2b4c998b986a25581165740717d6ffcd997b35ae9e1ca5c9"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s06.mp3",
+    "sourceStart": 27.43,
+    "sourceEnd": 30.78,
+    "sha256": "bcda3fcc2c23d8a0fdf03d0f053189b21066735f591618c1c8324b18ea7ee939"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s07.mp3",
+    "sourceStart": 31.0,
+    "sourceEnd": 34.5,
+    "sha256": "07c1e5ab56da49ff8a743190e7e6978e71a3183dec54beeff048d3a19c0407db"
+  },
+  {
+    "conversation": "t5-56",
+    "audio": "audio-sentences/t5-56-s08.mp3",
+    "sourceStart": 34.66,
+    "sourceEnd": 40.47,
+    "sha256": "11106abd2c4112d35543d03af4bc1149620534080eb16283f4ca54b77bf55943"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s01.mp3",
+    "sourceStart": 5.89,
+    "sourceEnd": 9.09,
+    "sha256": "cb0dc2b996721118b8a7f082cc880d5de38a39dc9f71dfcfdcc76201120672f4"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s02.mp3",
+    "sourceStart": 9.03,
+    "sourceEnd": 10.2,
+    "sha256": "c1303581a8dceb0e2d9fdc0c2a16b82cb4c5f265379b37a550062ab20ee18daa"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s03.mp3",
+    "sourceStart": 10.45,
+    "sourceEnd": 11.01,
+    "sha256": "b0172330ae08b5093977cab45d4c1ab65f0ac64e34c01d21e3e69f0845beb650"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s04.mp3",
+    "sourceStart": 10.93,
+    "sourceEnd": 13.62,
+    "sha256": "d3acff9bfbda1a19279ec4911fea415024dd802b6b953896ad89211abdc8451e"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s05.mp3",
+    "sourceStart": 13.87,
+    "sourceEnd": 18.0,
+    "sha256": "47e3366041d9b7693fe78e5b4eaf2b91a8ad81fd148b8016c395dd24cbcbb88a"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s06.mp3",
+    "sourceStart": 18.28,
+    "sourceEnd": 20.52,
+    "sha256": "c7ecdcba143ffedbab9b5f08e04d749ff0f59f5dc73bbbb69a21106728fb33e9"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s07.mp3",
+    "sourceStart": 20.77,
+    "sourceEnd": 21.99,
+    "sha256": "8ae9427927cd369c9e90db30c8b5a983779dfb9dbf2ef9f4ab57f99ff279be63"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s08.mp3",
+    "sourceStart": 22.06,
+    "sourceEnd": 24.54,
+    "sha256": "25edfc206bd619267d71109b8ec8cff6cd0bad2b1c5f82d28bff2209301af5b8"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s09.mp3",
+    "sourceStart": 24.73,
+    "sourceEnd": 29.67,
+    "sha256": "a4aec832348f080ce9178d551c12fad46eb57fcf539add3ab45a7c740892cc20"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s10.mp3",
+    "sourceStart": 29.98,
+    "sourceEnd": 32.46,
+    "sha256": "7023b9eba70b12f7898a4ec46da98ca5ea5764cb9a0071f165b3953cc0eb9068"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s11.mp3",
+    "sourceStart": 32.5,
+    "sourceEnd": 35.43,
+    "sha256": "f25ff9f1fff5a88c23799cb611bb9f2dc24b993edeb0bf0f9c99eac53086f938"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s12.mp3",
+    "sourceStart": 35.56,
+    "sourceEnd": 36.33,
+    "sha256": "5f99da7fb5419f269c5fe688d541b7bd8ebcc5807dac52406ad357eefd840ac9"
+  },
+  {
+    "conversation": "t5-59",
+    "audio": "audio-sentences/t5-59-s13.mp3",
+    "sourceStart": 36.49,
+    "sourceEnd": 38.97,
+    "sha256": "ff33682390f231835cd74cc59edeb59256b83f9d901c37f4798e02d05e6c4503"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s01.mp3",
+    "sourceStart": 7.45,
+    "sourceEnd": 10.29,
+    "sha256": "5eacfffe49fe586bf4acf64ccb0cf62d47f715a3ca062adda563aa1a2e888c9c"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s02.mp3",
+    "sourceStart": 10.3,
+    "sourceEnd": 11.61,
+    "sha256": "2624f0fadc0c160fd61dd7c0821d7ae9dd435fd058a5b126ee86b57cf57be6cd"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s03.mp3",
+    "sourceStart": 11.89,
+    "sourceEnd": 15.39,
+    "sha256": "adcc85f4931617da7e74d36e9d1710a65be3400ec5f824cae2739ab8b877751d"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s04.mp3",
+    "sourceStart": 15.67,
+    "sourceEnd": 17.61,
+    "sha256": "96d5ad0beb98cf2b4107f5116cc888ca9ab21659552713529c36406063390a7c"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s05.mp3",
+    "sourceStart": 17.8,
+    "sourceEnd": 19.38,
+    "sha256": "3828350060da84ddfbe54bdbb718a462894b156afe5d46f9eaa294b02a25975e"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s06.mp3",
+    "sourceStart": 19.42,
+    "sourceEnd": 24.96,
+    "sha256": "99e66f8d485342da89b2d372eff623efbd2791f2ba5202eec5e84ee22682bafa"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s07.mp3",
+    "sourceStart": 25.06,
+    "sourceEnd": 26.76,
+    "sha256": "a3c6f477bf124c506735cc732f481ce50523915e899be3adf9fa6152793fc63b"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s08.mp3",
+    "sourceStart": 27.22,
+    "sourceEnd": 28.92,
+    "sha256": "e3107511fe742e3236ed5208a8b2a7a5ab7975c6bdf05c63c39d9e39ba2d63e3"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s09.mp3",
+    "sourceStart": 28.96,
+    "sourceEnd": 31.41,
+    "sha256": "c5ac9387a8db1b803baa961aba7a6cc9e2d58035692f2fceaa2b9cc1323e29c4"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s10.mp3",
+    "sourceStart": 31.66,
+    "sourceEnd": 32.79,
+    "sha256": "cdb76052cb9ba7e88135386c34d4eb9711fc4ae476f86b6663e173750a0b2a03"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s11.mp3",
+    "sourceStart": 33.07,
+    "sourceEnd": 33.78,
+    "sha256": "ac8589baa6e0c8998b436b072a8ca1f898abcb3f0d9e5875bda6cf8f48f1d116"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s12.mp3",
+    "sourceStart": 33.7,
+    "sourceEnd": 36.69,
+    "sha256": "ce81ff9db529cf3c0e89d49c9e6c8dd7c0c513876883605bde6092b494a48d0d"
+  },
+  {
+    "conversation": "t5-62",
+    "audio": "audio-sentences/t5-62-s13.mp3",
+    "sourceStart": 36.82,
+    "sourceEnd": 42.78,
+    "sha256": "a769c38f838df2e0205dda6d7b6d76027c40c24f440b769351bac5659a8effcc"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s01.mp3",
+    "sourceStart": 6.7,
+    "sourceEnd": 14.07,
+    "sha256": "d6baf6d65718f8b29619dad4b122d6a2321bcbc8d2aa198d1db68bc5b6e9914e"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s02.mp3",
+    "sourceStart": 14.2,
+    "sourceEnd": 21.21,
+    "sha256": "c3ba63673ebb09940f293ff1f312270971048f9ab98346719926d274157bd43b"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s03.mp3",
+    "sourceStart": 21.55,
+    "sourceEnd": 22.47,
+    "sha256": "b6095f496fc9bee38d48a033ddc7db9e6dae44889ef64cd4b9f94700970abe01"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s04.mp3",
+    "sourceStart": 22.57,
+    "sourceEnd": 29.58,
+    "sha256": "b4a39f428e2a67f6e814bfad3d09448c7627b80d0a0b1b9ffeea17aebc2b7210"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s05.mp3",
+    "sourceStart": 29.74,
+    "sourceEnd": 33.36,
+    "sha256": "bc5a3affa76ec5641bebc9be6636e0e06a60b129db8187e36a915d06cfa88de2"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s06.mp3",
+    "sourceStart": 33.43,
+    "sourceEnd": 35.94,
+    "sha256": "51576bd0365203536e53aef3fa3f9f9d32636533317bf55571d93ee138b65cee"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s07.mp3",
+    "sourceStart": 36.28,
+    "sourceEnd": 39.84,
+    "sha256": "6b1da5e59292c8066e89eda681b5952050f9c93839b7bd287262e21306c45b91"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s08.mp3",
+    "sourceStart": 39.94,
+    "sourceEnd": 41.1,
+    "sha256": "0e8d38a495a26513a2dd2bdd17d7abc0b8b9f35456b0ada99a8db9993395e48c"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s09.mp3",
+    "sourceStart": 41.26,
+    "sourceEnd": 42.39,
+    "sha256": "66c97e961436da1798431fdcaf0a672bbc1348df915cb38363ed64dfdd65670c"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s10.mp3",
+    "sourceStart": 42.52,
+    "sourceEnd": 48.66,
+    "sha256": "303e3a3a9ce9f274a9b0a8c82517db6b9f5d29f8fac5ea24b819eb4e8e8e368a"
+  },
+  {
+    "conversation": "t5-65",
+    "audio": "audio-sentences/t5-65-s11.mp3",
+    "sourceStart": 48.79,
+    "sourceEnd": 51.06,
+    "sha256": "049ad7e74da757c8a398aa1ef761e75d510e43dff71c8acdd7a011c0fc025211"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s01.mp3",
+    "sourceStart": 6.61,
+    "sourceEnd": 13.26,
+    "sha256": "f229f0637838fe29b4ad326cbe1753a4edb98aa919f9d8de27cd46341e91aed8"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s02.mp3",
+    "sourceStart": 13.6,
+    "sourceEnd": 21.21,
+    "sha256": "c6f43b55ffb6c19b31035b7f75cc052263a72d6c7d52769c33c202ae66eab752"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s03.mp3",
+    "sourceStart": 21.43,
+    "sourceEnd": 23.49,
+    "sha256": "61f9d581bbddfb41cba2934d966b35b7be4e11a7cfe5c50bb6e261b96a99b2e6"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s04.mp3",
+    "sourceStart": 23.65,
+    "sourceEnd": 24.9,
+    "sha256": "d38dda59f6ec44c1743ae2d4274b91a00a5234fb0e4b35b0b53eaaa6ee174399"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s05.mp3",
+    "sourceStart": 25.21,
+    "sourceEnd": 28.29,
+    "sha256": "a35fc7e1d8c280e2744a3da4cbe4c3e302601ac4377bce304666a6f1f531f669"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s06.mp3",
+    "sourceStart": 28.72,
+    "sourceEnd": 29.34,
+    "sha256": "179fc7b076d772f3d1ffa09acece2f6f9e46a3b8e7ce73eef8fb47238028d53b"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s07.mp3",
+    "sourceStart": 29.74,
+    "sourceEnd": 33.96,
+    "sha256": "1c0f1e0f2ceef039373aa258ad1b96777f73d525e0aa58b1b2953f50e59e65c3"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s08.mp3",
+    "sourceStart": 34.48,
+    "sourceEnd": 39.84,
+    "sha256": "9d7222f259969fc822de4a71e401e3459a2fc353ef4d8a289bdd8fbcaeda5f52"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s09.mp3",
+    "sourceStart": 40.12,
+    "sourceEnd": 44.22,
+    "sha256": "06ef68ab219c4c48fc94380ffadea4fbc826079b61c84c504c72eae8bfeceb88"
+  },
+  {
+    "conversation": "t5-68",
+    "audio": "audio-sentences/t5-68-s10.mp3",
+    "sourceStart": 44.5,
+    "sourceEnd": 47.7,
+    "sha256": "70bbe97f26107cbb981956e6703397fa2208655aa9432aa292d039cdb3acea24"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-01.mp3",
+    "sourceStart": 5.95,
+    "sourceEnd": 11.64,
+    "sha256": "e4b5ee6dfdb7c7e2586465b87b3c25c1e99ddc4facebf7248495531564e0b21e"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-02.mp3",
+    "sourceStart": 12.01,
+    "sourceEnd": 13.83,
+    "sha256": "f586c52abe6f7356c111c70c81d644474a0646b4c6d9d1a9844dc92fe15f9bd5"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-03.mp3",
+    "sourceStart": 14.02,
+    "sourceEnd": 18.3,
+    "sha256": "fbf3f42cf3f5d53fea215de242ed5cff549076ca99a068844ba5344cca93670a"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-04.mp3",
+    "sourceStart": 18.58,
+    "sourceEnd": 24.51,
+    "sha256": "b63a4e54d8df7fc4693897ccc3af39cee0472f93ac02af17c9eb1e095b53a133"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-05.mp3",
+    "sourceStart": 24.76,
+    "sourceEnd": 29.73,
+    "sha256": "093880a06a04cb2df2edf7d46c3aefc056f15de140a8ef9b6a3eaca279bf492f"
+  },
+  {
+    "conversation": "t1-32",
+    "audio": "audio-sentences/t1-32-meaning-06.mp3",
+    "sourceStart": 30.07,
+    "sourceEnd": 35.64,
+    "sha256": "57e2df991e9bc46cc69282b1ef7a144e3d3b3398b6660112cd9dec267e24e9f8"
+  }
+]

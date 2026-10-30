@@ -1,0 +1,585 @@
+{
+  "conversationId": "t9-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-41-u01",
+      "speaker": "M1",
+      "text": "Did you hear that Ms. Hamdy is retiring? There's going to be an opening for an accounts payable manager.",
+      "start": 7.17,
+      "end": 13.35,
+      "clipSrc": "../../audio-sentences/t9-41-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Bạn có nghe tin cô Hamdy sẽ nghỉ hưu không? Sẽ có một vị trí trống cho quản lý phòng thanh toán phải trả.",
+      "listeningKeywords": [
+        "Hamdy",
+        "retiring",
+        "opening",
+        "accounts payable manager"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Hamdy",
+          "vi": "Hamdy"
+        },
+        {
+          "en": "accounts payable manager",
+          "vi": "quản lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u01-k1",
+          "en": "retiring",
+          "vi": [],
+          "start": 9.12,
+          "end": 9.84,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u01-k2",
+          "en": "opening",
+          "vi": [],
+          "start": 11.1,
+          "end": 11.61,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u01-k3",
+          "en": "accounts payable manager",
+          "vi": [
+            "quản lý"
+          ],
+          "start": 11.91,
+          "end": 13.35,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u02",
+      "speaker": "M1",
+      "text": "I think you'd be a perfect fit for the job, Amanda.",
+      "start": 13.8,
+      "end": 16.5,
+      "clipSrc": "../../audio-sentences/t9-41-s02.mp3",
+      "clipSourceStart": 13.72,
+      "vi": "Tôi nghĩ bạn sẽ rất phù hợp với công việc này, Amanda.",
+      "listeningKeywords": [
+        "think",
+        "perfect fit",
+        "job",
+        "Amanda"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "Amanda",
+          "vi": "Amanda"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u02-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 13.95,
+          "end": 14.25,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u02-k2",
+          "en": "perfect fit",
+          "vi": [],
+          "start": 14.67,
+          "end": 15.39,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u02-k3",
+          "en": "job",
+          "vi": [],
+          "start": 15.63,
+          "end": 15.96,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u02-k4",
+          "en": "Amanda",
+          "vi": [
+            "Amanda"
+          ],
+          "start": 15.96,
+          "end": 16.5,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u03",
+      "speaker": "M2",
+      "text": "I agree. When anyone in accounting has a question, you're the one they go to.",
+      "start": 16.98,
+      "end": 21.33,
+      "clipSrc": "../../audio-sentences/t9-41-s03.mp3",
+      "clipSourceStart": 16.9,
+      "vi": "Tôi đồng ý. Khi ai đó trong bộ phận kế toán có câu hỏi, họ đều tìm đến bạn.",
+      "listeningKeywords": [
+        "agree",
+        "accounting",
+        "question"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "agree",
+          "vi": "đồng ý"
+        },
+        {
+          "en": "question",
+          "vi": "câu hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u03-k1",
+          "en": "agree",
+          "vi": [
+            "đồng ý"
+          ],
+          "start": 17.22,
+          "end": 17.82,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u03-k2",
+          "en": "accounting",
+          "vi": [],
+          "start": 18.69,
+          "end": 19.14,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u03-k3",
+          "en": "question",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 19.38,
+          "end": 19.89,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u04",
+      "speaker": "W",
+      "text": "Thanks. The only thing I worry about is that I've never managed a team before.",
+      "start": 21.66,
+      "end": 26.58,
+      "clipSrc": "../../audio-sentences/t9-41-s04.mp3",
+      "clipSourceStart": 21.58,
+      "vi": "Cảm ơn các bạn. Điều duy nhất tôi lo lắng là tôi chưa bao giờ quản lý một đội nhóm trước đây.",
+      "listeningKeywords": [
+        "worry",
+        "never",
+        "team"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "never",
+          "vi": "chưa"
+        },
+        {
+          "en": "team",
+          "vi": "nhóm"
+        },
+        {
+          "en": "team",
+          "vi": "đội"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u04-k1",
+          "en": "worry",
+          "vi": [],
+          "start": 23.49,
+          "end": 23.85,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u04-k2",
+          "en": "never",
+          "vi": [
+            "chưa"
+          ],
+          "start": 24.81,
+          "end": 25.14,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u04-k3",
+          "en": "team",
+          "vi": [
+            "nhóm",
+            "đội"
+          ],
+          "start": 25.74,
+          "end": 26.04,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u05",
+      "speaker": "M2",
+      "text": "That's not a problem.",
+      "start": 26.91,
+      "end": 28.05,
+      "clipSrc": "../../audio-sentences/t9-41-s05.mp3",
+      "clipSourceStart": 26.83,
+      "vi": "Điều đó không thành vấn đề.",
+      "listeningKeywords": [
+        "not",
+        "problem"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u05-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 27.21,
+          "end": 27.45,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u05-k2",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 27.51,
+          "end": 28.05,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u06",
+      "speaker": "M2",
+      "text": "The company provides an intensive training program for new managers.",
+      "start": 28.38,
+      "end": 32.16,
+      "clipSrc": "../../audio-sentences/t9-41-s06.mp3",
+      "clipSourceStart": 28.3,
+      "vi": "Công ty có một chương trình đào tạo chuyên sâu cho các quản lý mới.",
+      "listeningKeywords": [
+        "company provides",
+        "intensive",
+        "training",
+        "managers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "company provides",
+          "vi": "Công ty"
+        },
+        {
+          "en": "training",
+          "vi": "đào tạo"
+        },
+        {
+          "en": "managers",
+          "vi": "quản lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u06-k1",
+          "en": "company provides",
+          "vi": [
+            "Công ty"
+          ],
+          "start": 28.53,
+          "end": 29.49,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u06-k2",
+          "en": "intensive",
+          "vi": [],
+          "start": 29.58,
+          "end": 30.18,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u06-k3",
+          "en": "training",
+          "vi": [
+            "đào tạo"
+          ],
+          "start": 30.18,
+          "end": 30.6,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u06-k4",
+          "en": "managers",
+          "vi": [
+            "quản lý"
+          ],
+          "start": 31.5,
+          "end": 32.16,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u07",
+      "speaker": "M2",
+      "text": "You learn how to motivate employees, how to handle budgets—all that stuff.",
+      "start": 32.52,
+      "end": 36.99,
+      "clipSrc": "../../audio-sentences/t9-41-s07.mp3",
+      "clipSourceStart": 32.44,
+      "vi": "Bạn sẽ học cách tạo động lực cho nhân viên, cách quản lý ngân sách—tất cả những thứ đó.",
+      "listeningKeywords": [
+        "learn",
+        "motivate employees",
+        "budgets",
+        "stuff"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "learn",
+          "vi": "học"
+        },
+        {
+          "en": "motivate employees",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "budgets",
+          "vi": "ngân sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u07-k1",
+          "en": "learn",
+          "vi": [
+            "học"
+          ],
+          "start": 32.73,
+          "end": 33.0,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u07-k2",
+          "en": "motivate employees",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 33.27,
+          "end": 34.62,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u07-k3",
+          "en": "budgets",
+          "vi": [
+            "ngân sách"
+          ],
+          "start": 35.34,
+          "end": 36.0,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u07-k4",
+          "en": "stuff",
+          "vi": [],
+          "start": 36.54,
+          "end": 36.99,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u08",
+      "speaker": "W",
+      "text": "I appreciate your encouragement.",
+      "start": 37.29,
+      "end": 39.03,
+      "clipSrc": "../../audio-sentences/t9-41-s08.mp3",
+      "clipSourceStart": 37.21,
+      "vi": "Tôi cảm ơn sự động viên của bạn.",
+      "listeningKeywords": [
+        "appreciate",
+        "encouragement"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "appreciate",
+          "vi": "cảm ơn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u08-k1",
+          "en": "appreciate",
+          "vi": [
+            "cảm ơn"
+          ],
+          "start": 37.47,
+          "end": 38.07,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u08-k2",
+          "en": "encouragement",
+          "vi": [],
+          "start": 38.19,
+          "end": 39.03,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-41-u09",
+      "speaker": "W",
+      "text": "I'll talk to Ms. Hamdy to learn more about what she does.",
+      "start": 39.75,
+      "end": 42.9,
+      "clipSrc": "../../audio-sentences/t9-41-s09.mp3",
+      "clipSourceStart": 39.67,
+      "vi": "Tôi sẽ nói chuyện với cô Hamdy để tìm hiểu thêm về công việc mà cô ấy đang làm.",
+      "listeningKeywords": [
+        "talk",
+        "Hamdy",
+        "learn"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "talk",
+          "vi": "nói chuyện"
+        },
+        {
+          "en": "Hamdy",
+          "vi": "Hamdy"
+        },
+        {
+          "en": "learn",
+          "vi": "tìm hiểu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-41-u09-k1",
+          "en": "talk",
+          "vi": [
+            "nói chuyện"
+          ],
+          "start": 39.99,
+          "end": 40.26,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-41-u09-k2",
+          "en": "learn",
+          "vi": [
+            "tìm hiểu"
+          ],
+          "start": 41.31,
+          "end": 41.58,
+          "anchorSource": "t9-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

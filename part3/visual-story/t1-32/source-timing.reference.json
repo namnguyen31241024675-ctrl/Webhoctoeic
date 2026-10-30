@@ -1,0 +1,43 @@
+{
+  "conversationId": "t1-32",
+  "purpose": "Source reference only; not an approved scene timeline.",
+  "timebase": "source-seconds",
+  "audioSha256": "cc5eab6c394dc6eaaff635d26ca813f9018c77b8b8dc10fc97e70b1c756a75dd",
+  "referenceImage": {
+    "src": "reference/reference-collage.png",
+    "status": "reference-only",
+    "sha256": "cdeca74784935e66826506060d9e811f1ec6e266574ee04f24e2e01c637b9812"
+  },
+  "speakerTurns": [
+    {
+      "speaker": "W",
+      "text": "Hey, Oliver. Did you see the focus group results for our new spicy cheddar cheese? Everyone really liked it.",
+      "start": 6.03,
+      "end": 13.71
+    },
+    {
+      "speaker": "M",
+      "text": "Yes. It should be a great addition to our company's line of cheeses.",
+      "start": 14.1,
+      "end": 18.18
+    },
+    {
+      "speaker": "W",
+      "text": "Several people mentioned that they'd like to use it in recipes-to add to sauces, for example.",
+      "start": 18.66,
+      "end": 24.39
+    },
+    {
+      "speaker": "M",
+      "text": "So maybe we should consider selling a shredded version that would melt easily when cooked.",
+      "start": 24.84,
+      "end": 29.61
+    },
+    {
+      "speaker": "W",
+      "text": "I'm sure we could do that. I'll get in touch with the production manager with that request.",
+      "start": 30.15,
+      "end": 35.52
+    }
+  ]
+}

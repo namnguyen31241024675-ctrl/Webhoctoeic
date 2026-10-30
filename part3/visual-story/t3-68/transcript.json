@@ -1,0 +1,494 @@
+{
+  "conversationId": "t3-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      21,
+      22
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-68-u01",
+      "speaker": "M",
+      "text": "Hi, Marina. Do you have receipts for your expenses from the dental hygienists' conference you attended last week?",
+      "start": 6.45,
+      "end": 12.6,
+      "clipSrc": "../../audio-sentences/t3-68-meaning-01.mp3",
+      "clipSourceStart": 6.37,
+      "vi": "Chào Marina. Bạn có biên nhận cho chi phí từ hội nghị vệ sinh răng miệng bạn tham dự tuần trước không?",
+      "listeningKeywords": [
+        "receipts",
+        "expenses",
+        "dental hygienists' conference",
+        "attended"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "expenses",
+          "vi": "chi phí"
+        },
+        {
+          "en": "dental hygienists' conference",
+          "vi": "hội nghị"
+        },
+        {
+          "en": "attended",
+          "vi": "tham dự"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u01-k1",
+          "en": "receipts",
+          "vi": [],
+          "start": 7.8,
+          "end": 8.28,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u01-k2",
+          "en": "expenses",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 8.58,
+          "end": 9.24,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u01-k3",
+          "en": "dental hygienists' conference",
+          "vi": [
+            "hội nghị"
+          ],
+          "start": 9.54,
+          "end": 11.34,
+          "anchorSource": "t3-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u01-k4",
+          "en": "attended",
+          "vi": [
+            "tham dự"
+          ],
+          "start": 11.52,
+          "end": 11.88,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u02",
+      "speaker": "W",
+      "text": "Yes, I have them.",
+      "start": 12.99,
+      "end": 14.37,
+      "clipSrc": "../../audio-sentences/t3-68-s03.mp3",
+      "clipSourceStart": 12.91,
+      "vi": "Có, tôi có chúng.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t3-68-u03",
+      "speaker": "W",
+      "text": "I was just going to scan them and send them to you by e-mail.",
+      "start": 14.58,
+      "end": 17.94,
+      "clipSrc": "../../audio-sentences/t3-68-s04.mp3",
+      "clipSourceStart": 14.5,
+      "vi": "Tôi vừa định quét và gửi cho bạn qua email.",
+      "listeningKeywords": [
+        "scan",
+        "send",
+        "mail"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "send",
+          "vi": "gửi"
+        },
+        {
+          "en": "mail",
+          "vi": "email"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u03-k1",
+          "en": "scan",
+          "vi": [],
+          "start": 15.57,
+          "end": 16.02,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u03-k2",
+          "en": "send",
+          "vi": [
+            "gửi"
+          ],
+          "start": 16.44,
+          "end": 16.74,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u03-k3",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 17.55,
+          "end": 17.94,
+          "anchorSource": "t3-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u04",
+      "speaker": "M",
+      "text": "Thanks very much. Once I receive them, I'll process your request for reimbursement.",
+      "start": 18.51,
+      "end": 23.31,
+      "clipSrc": "../../audio-sentences/t3-68-meaning-04.mp3",
+      "clipSourceStart": 18.43,
+      "vi": "Cảm ơn rất nhiều. Khi tôi nhận được, tôi sẽ xử lý yêu cầu hoàn tiền của bạn.",
+      "listeningKeywords": [
+        "Once",
+        "receive",
+        "process",
+        "reimbursement"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "receive",
+          "vi": "nhận được"
+        },
+        {
+          "en": "process",
+          "vi": "xử lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u04-k1",
+          "en": "Once",
+          "vi": [],
+          "start": 19.86,
+          "end": 20.16,
+          "anchorSource": "t3-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u04-k2",
+          "en": "receive",
+          "vi": [
+            "nhận được"
+          ],
+          "start": 20.219465,
+          "end": 20.67,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u04-k3",
+          "en": "process",
+          "vi": [
+            "xử lý"
+          ],
+          "start": 21.39,
+          "end": 21.96,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u04-k4",
+          "en": "reimbursement",
+          "vi": [],
+          "start": 22.62,
+          "end": 23.31,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u05",
+      "speaker": "M",
+      "text": "Don't forget to fill out the travel expenses form and include it in your e-mail, too.",
+      "start": 23.94,
+      "end": 27.72,
+      "clipSrc": "../../audio-sentences/t3-68-s07.mp3",
+      "clipSourceStart": 23.86,
+      "vi": "Đừng quên điền biểu mẫu chi phí du lịch và đính kèm vào email.",
+      "listeningKeywords": [
+        "Don't",
+        "fill",
+        "travel expenses form",
+        "include"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Don't",
+          "vi": "Đừng"
+        },
+        {
+          "en": "fill",
+          "vi": "điền"
+        },
+        {
+          "en": "travel expenses form",
+          "vi": "biểu mẫu"
+        },
+        {
+          "en": "travel expenses form",
+          "vi": "du lịch"
+        },
+        {
+          "en": "travel expenses form",
+          "vi": "chi phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u05-k1",
+          "en": "Don't",
+          "vi": [
+            "Đừng"
+          ],
+          "start": 23.94,
+          "end": 24.24,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u05-k2",
+          "en": "fill",
+          "vi": [
+            "điền"
+          ],
+          "start": 24.57,
+          "end": 24.81,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u05-k3",
+          "en": "travel expenses form",
+          "vi": [
+            "biểu mẫu",
+            "du lịch",
+            "chi phí"
+          ],
+          "start": 24.99,
+          "end": 26.22,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u05-k4",
+          "en": "include",
+          "vi": [],
+          "start": 26.31,
+          "end": 26.67,
+          "anchorSource": "t3-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u06",
+      "speaker": "W",
+      "text": "OK. Remind me, what should I use for the department code?",
+      "start": 28.41,
+      "end": 33.12,
+      "clipSrc": "../../audio-sentences/t3-68-meaning-06.mp3",
+      "clipSourceStart": 28.33,
+      "vi": "OK. Nhắc tôi, tôi nên dùng gì cho mã bộ phận?",
+      "listeningKeywords": [
+        "Remind",
+        "use",
+        "department code"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Remind",
+          "vi": "Nhắc"
+        },
+        {
+          "en": "use",
+          "vi": "dùng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u06-k1",
+          "en": "Remind",
+          "vi": [
+            "Nhắc"
+          ],
+          "start": 29.37,
+          "end": 30.06,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u06-k2",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 31.2,
+          "end": 31.62,
+          "anchorSource": "t3-68-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u06-k3",
+          "en": "department code",
+          "vi": [],
+          "start": 31.89,
+          "end": 33.12,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u07",
+      "speaker": "M",
+      "text": "Oh, sorry. I forgot to tell you.",
+      "start": 33.48,
+      "end": 35.19,
+      "clipSrc": "../../audio-sentences/t3-68-meaning-07.mp3",
+      "clipSourceStart": 33.4,
+      "vi": "Ồ, xin lỗi. Tôi quên nói với bạn.",
+      "listeningKeywords": [
+        "forgot",
+        "tell"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "forgot",
+          "vi": "quên"
+        },
+        {
+          "en": "tell",
+          "vi": "nói"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u07-k1",
+          "en": "forgot",
+          "vi": [
+            "quên"
+          ],
+          "start": 34.29,
+          "end": 34.59,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u07-k2",
+          "en": "tell",
+          "vi": [
+            "nói"
+          ],
+          "start": 34.68,
+          "end": 34.95,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-68-u08",
+      "speaker": "M",
+      "text": "Use number 1009.",
+      "start": 35.49,
+      "end": 36.27,
+      "clipSrc": "../../audio-sentences/t3-68-s12.mp3",
+      "clipSourceStart": 35.41,
+      "vi": "Sử dụng số 1009.",
+      "listeningKeywords": [
+        "Use",
+        "number",
+        "1009"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Use",
+          "vi": "Sử dụng"
+        },
+        {
+          "en": "1009",
+          "vi": "1009"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-68-u08-k1",
+          "en": "Use",
+          "vi": [
+            "Sử dụng"
+          ],
+          "start": 35.49,
+          "end": 35.85,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-68-u08-k2",
+          "en": "number",
+          "vi": [],
+          "start": 35.85,
+          "end": 36.27,
+          "anchorSource": "t3-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

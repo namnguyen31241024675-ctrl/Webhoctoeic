@@ -1,0 +1,455 @@
+{
+  "conversationId": "t6-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      13,
+      14
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-56-u01",
+      "speaker": "W",
+      "text": "Klaus, you were on the research team that went to the Arctic last month, right? For the new project?",
+      "start": 5.85,
+      "end": 11.94,
+      "clipSrc": "../../audio-sentences/t6-56-s01.mp3",
+      "clipSourceStart": 5.77,
+      "vi": "Klaus, anh là thành viên đội nghiên cứu đến Bắc Cực tháng trước phải không? Cho dự án mới?",
+      "listeningKeywords": [
+        "research team",
+        "Arctic",
+        "project"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "research team",
+          "vi": "nghiên cứu"
+        },
+        {
+          "en": "research team",
+          "vi": "đội"
+        },
+        {
+          "en": "project",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u01-k1",
+          "en": "research team",
+          "vi": [
+            "nghiên cứu",
+            "đội"
+          ],
+          "start": 7.53,
+          "end": 8.43,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u01-k2",
+          "en": "Arctic",
+          "vi": [],
+          "start": 9.03,
+          "end": 9.51,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u01-k3",
+          "en": "project",
+          "vi": [
+            "dự án"
+          ],
+          "start": 11.31,
+          "end": 11.94,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u02",
+      "speaker": "M",
+      "text": "Yes, I'll be going again next month.",
+      "start": 12.18,
+      "end": 14.58,
+      "clipSrc": "../../audio-sentences/t6-56-s02.mp3",
+      "clipSourceStart": 12.1,
+      "vi": "Vâng, tôi sẽ đi lại tháng sau.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-56-u03",
+      "speaker": "M",
+      "text": "Are you joining?",
+      "start": 14.73,
+      "end": 15.57,
+      "clipSrc": "../../audio-sentences/t6-56-s03.mp3",
+      "clipSourceStart": 14.65,
+      "vi": "Bạn tham gia à?",
+      "listeningKeywords": [
+        "joining"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "joining",
+          "vi": "tham gia"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u03-k1",
+          "en": "joining",
+          "vi": [
+            "tham gia"
+          ],
+          "start": 15.09,
+          "end": 15.57,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u04",
+      "speaker": "W",
+      "text": "Yeah—Sabine can't make it, so the project coordinator asked me to take her place.",
+      "start": 15.99,
+      "end": 21.39,
+      "clipSrc": "../../audio-sentences/t6-56-s04.mp3",
+      "clipSourceStart": 15.91,
+      "vi": "Vâng—Sabine không đi được, nên điều phối viên dự án yêu cầu tôi thay thế.",
+      "listeningKeywords": [
+        "can't",
+        "project coordinator",
+        "asked",
+        "place"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "project coordinator",
+          "vi": "dự án"
+        },
+        {
+          "en": "asked",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u04-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 17.34,
+          "end": 17.64,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u04-k2",
+          "en": "project coordinator",
+          "vi": [
+            "dự án"
+          ],
+          "start": 18.69,
+          "end": 19.8,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u04-k3",
+          "en": "asked",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 19.8,
+          "end": 20.19,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u04-k4",
+          "en": "place",
+          "vi": [],
+          "start": 20.82,
+          "end": 21.39,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u05",
+      "speaker": "M",
+      "text": "Great, but prepare for the freezing temperatures! I'd recommend getting a heated jacket.",
+      "start": 21.72,
+      "end": 27.45,
+      "clipSrc": "../../audio-sentences/t6-56-s05.mp3",
+      "clipSourceStart": 21.64,
+      "vi": "Hay đấy, nhưng hãy chuẩn bị cho nhiệt độ lạnh giá! Tôi khuyên nên mua áo khoác sưởi ấm.",
+      "listeningKeywords": [
+        "prepare",
+        "freezing temperatures",
+        "recommend",
+        "heated jacket"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "prepare",
+          "vi": "chuẩn bị"
+        },
+        {
+          "en": "freezing temperatures",
+          "vi": "nhiệt độ"
+        },
+        {
+          "en": "recommend",
+          "vi": "khuyên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u05-k1",
+          "en": "prepare",
+          "vi": [
+            "chuẩn bị"
+          ],
+          "start": 22.74,
+          "end": 23.19,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u05-k2",
+          "en": "freezing temperatures",
+          "vi": [
+            "nhiệt độ"
+          ],
+          "start": 23.49,
+          "end": 24.78,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u05-k3",
+          "en": "heated jacket",
+          "vi": [],
+          "start": 26.37,
+          "end": 27.45,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u06",
+      "speaker": "M",
+      "text": "The one I have is battery-operated, and there are heating elements inside the fabric.",
+      "start": 27.78,
+      "end": 32.37,
+      "clipSrc": "../../audio-sentences/t6-56-s06.mp3",
+      "clipSourceStart": 27.7,
+      "vi": "Cái tôi có dùng pin, và có các yếu tố sưởi ấm bên trong vải.",
+      "listeningKeywords": [
+        "battery-operated",
+        "heating elements inside",
+        "fabric"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "battery-operated",
+          "vi": "pin"
+        },
+        {
+          "en": "fabric",
+          "vi": "vải"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u06-k1",
+          "en": "battery-operated",
+          "vi": [
+            "pin"
+          ],
+          "start": 28.62,
+          "end": 29.76,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u06-k2",
+          "en": "heating elements inside",
+          "vi": [],
+          "start": 30.45,
+          "end": 31.74,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u06-k3",
+          "en": "fabric",
+          "vi": [
+            "vải"
+          ],
+          "start": 31.83,
+          "end": 32.37,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u07",
+      "speaker": "M",
+      "text": "I'll send you a link to the online store.",
+      "start": 32.82,
+      "end": 35.07,
+      "clipSrc": "../../audio-sentences/t6-56-s07.mp3",
+      "clipSourceStart": 32.74,
+      "vi": "Tôi sẽ gửi link cửa hàng trực tuyến.",
+      "listeningKeywords": [
+        "send",
+        "link",
+        "online store"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "send",
+          "vi": "gửi"
+        },
+        {
+          "en": "link",
+          "vi": "link"
+        },
+        {
+          "en": "online store",
+          "vi": "trực tuyến"
+        },
+        {
+          "en": "online store",
+          "vi": "cửa hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u07-k1",
+          "en": "send",
+          "vi": [
+            "gửi"
+          ],
+          "start": 33.0,
+          "end": 33.27,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u07-k2",
+          "en": "link",
+          "vi": [
+            "link"
+          ],
+          "start": 33.45,
+          "end": 33.78,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u07-k3",
+          "en": "online store",
+          "vi": [
+            "trực tuyến",
+            "cửa hàng"
+          ],
+          "start": 34.08,
+          "end": 35.07,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-56-u08",
+      "speaker": "M",
+      "text": "The jacket didn't cost too much.",
+      "start": 35.49,
+      "end": 37.29,
+      "clipSrc": "../../audio-sentences/t6-56-s08.mp3",
+      "clipSourceStart": 35.41,
+      "vi": "Áo không đắt lắm đâu.",
+      "listeningKeywords": [
+        "didn't",
+        "cost"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "didn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-56-u08-k1",
+          "en": "didn't",
+          "vi": [
+            "không"
+          ],
+          "start": 36.06,
+          "end": 36.33,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-56-u08-k2",
+          "en": "cost",
+          "vi": [],
+          "start": 36.33,
+          "end": 36.69,
+          "anchorSource": "t6-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "conversationId": "t9-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-50-u01",
+      "speaker": "M",
+      "text": "Well, I think we've found the right person for the job.",
+      "start": 5.85,
+      "end": 9.54,
+      "clipSrc": "../../audio-sentences/t9-50-s01.mp3",
+      "clipSourceStart": 5.77,
+      "vi": "Tôi nghĩ chúng ta đã tìm được người phù hợp cho công việc.",
+      "listeningKeywords": [
+        "found",
+        "person",
+        "job"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "found",
+          "vi": "tìm được"
+        },
+        {
+          "en": "person",
+          "vi": "người"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u01-k1",
+          "en": "found",
+          "vi": [
+            "tìm được"
+          ],
+          "start": 7.5,
+          "end": 7.83,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u01-k2",
+          "en": "person",
+          "vi": [
+            "người"
+          ],
+          "start": 8.25,
+          "end": 8.7,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u01-k3",
+          "en": "job",
+          "vi": [],
+          "start": 8.97,
+          "end": 9.54,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u02",
+      "speaker": "M",
+      "text": "Sergey has a confident presence when speaking with reporters, and he knows the travel industry well.",
+      "start": 10.17,
+      "end": 16.32,
+      "clipSrc": "../../audio-sentences/t9-50-s02.mp3",
+      "clipSourceStart": 10.09,
+      "vi": "Sergey có phong thái tự tin khi nói chuyện với phóng viên, và anh ấy hiểu rõ ngành du lịch.",
+      "listeningKeywords": [
+        "confident presence",
+        "speaking",
+        "reporters",
+        "travel"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "speaking",
+          "vi": "nói chuyện"
+        },
+        {
+          "en": "travel",
+          "vi": "du lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u02-k1",
+          "en": "confident presence",
+          "vi": [],
+          "start": 11.07,
+          "end": 12.27,
+          "anchorSource": "t9-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u02-k2",
+          "en": "speaking",
+          "vi": [
+            "nói chuyện"
+          ],
+          "start": 12.45,
+          "end": 12.93,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u02-k3",
+          "en": "reporters",
+          "vi": [],
+          "start": 13.08,
+          "end": 13.77,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u02-k4",
+          "en": "travel",
+          "vi": [
+            "du lịch"
+          ],
+          "start": 15.03,
+          "end": 15.39,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u03",
+      "speaker": "M",
+      "text": "He'll be a great spokesperson for our airline.",
+      "start": 16.89,
+      "end": 19.65,
+      "clipSrc": "../../audio-sentences/t9-50-s03.mp3",
+      "clipSourceStart": 16.81,
+      "vi": "Anh ấy sẽ là phát ngôn viên tuyệt vời cho hãng hàng không của chúng ta.",
+      "listeningKeywords": [
+        "spokesperson",
+        "airline"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spokesperson",
+          "vi": "phát ngôn viên"
+        },
+        {
+          "en": "airline",
+          "vi": "hãng hàng không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u03-k1",
+          "en": "spokesperson",
+          "vi": [
+            "phát ngôn viên"
+          ],
+          "start": 17.79,
+          "end": 18.66,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u03-k2",
+          "en": "airline",
+          "vi": [
+            "hãng hàng không"
+          ],
+          "start": 19.08,
+          "end": 19.65,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u04",
+      "speaker": "W",
+      "text": "I liked the media clips he shared with us.",
+      "start": 20.16,
+      "end": 22.32,
+      "clipSrc": "../../audio-sentences/t9-50-s04.mp3",
+      "clipSourceStart": 20.08,
+      "vi": "Tôi thích các clip truyền thông mà anh ấy chia sẻ với chúng ta.",
+      "listeningKeywords": [
+        "liked",
+        "media clips",
+        "shared"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "liked",
+          "vi": "thích"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u04-k1",
+          "en": "liked",
+          "vi": [
+            "thích"
+          ],
+          "start": 20.22,
+          "end": 20.55,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u04-k2",
+          "en": "media clips",
+          "vi": [],
+          "start": 20.67,
+          "end": 21.45,
+          "anchorSource": "t9-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u04-k3",
+          "en": "shared",
+          "vi": [],
+          "start": 21.54,
+          "end": 21.84,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u05",
+      "speaker": "W",
+      "text": "He speaks clearly and naturally.",
+      "start": 22.68,
+      "end": 24.54,
+      "clipSrc": "../../audio-sentences/t9-50-s05.mp3",
+      "clipSourceStart": 22.6,
+      "vi": "Anh ấy nói chuyện rõ ràng và tự nhiên.",
+      "listeningKeywords": [
+        "speaks clearly",
+        "naturally"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "speaks clearly",
+          "vi": "nói chuyện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u05-k1",
+          "en": "speaks clearly",
+          "vi": [
+            "nói chuyện"
+          ],
+          "start": 22.86,
+          "end": 23.73,
+          "anchorSource": "t9-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u05-k2",
+          "en": "naturally",
+          "vi": [],
+          "start": 23.91,
+          "end": 24.54,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u06",
+      "speaker": "W",
+      "text": "However, he also does some consulting as an extra source of income.",
+      "start": 24.9,
+      "end": 28.44,
+      "clipSrc": "../../audio-sentences/t9-50-s06.mp3",
+      "clipSourceStart": 24.82,
+      "vi": "Tuy nhiên, anh ấy cũng làm một số công việc tư vấn để có thêm thu nhập.",
+      "listeningKeywords": [
+        "consulting",
+        "extra source",
+        "income"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "consulting",
+          "vi": "tư vấn"
+        },
+        {
+          "en": "extra source",
+          "vi": "thêm"
+        },
+        {
+          "en": "income",
+          "vi": "thu nhập"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u06-k1",
+          "en": "consulting",
+          "vi": [
+            "tư vấn"
+          ],
+          "start": 26.4,
+          "end": 27.06,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u06-k2",
+          "en": "extra source",
+          "vi": [
+            "thêm"
+          ],
+          "start": 27.27,
+          "end": 27.9,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u06-k3",
+          "en": "income",
+          "vi": [
+            "thu nhập"
+          ],
+          "start": 28.02,
+          "end": 28.44,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u07",
+      "speaker": "W",
+      "text": "Will he be available whenever we need him?",
+      "start": 28.98,
+      "end": 30.99,
+      "clipSrc": "../../audio-sentences/t9-50-s07.mp3",
+      "clipSourceStart": 28.9,
+      "vi": "Liệu anh ấy có sẵn sàng bất cứ khi nào chúng ta cần không?",
+      "listeningKeywords": [
+        "available whenever",
+        "need"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "available whenever",
+          "vi": "sẵn sàng"
+        },
+        {
+          "en": "need",
+          "vi": "cần"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u07-k1",
+          "en": "available whenever",
+          "vi": [
+            "sẵn sàng"
+          ],
+          "start": 29.55,
+          "end": 30.39,
+          "anchorSource": "t9-50-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u07-k2",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 30.51,
+          "end": 30.72,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u08",
+      "speaker": "M",
+      "text": "You bring up a good point.",
+      "start": 31.56,
+      "end": 32.97,
+      "clipSrc": "../../audio-sentences/t9-50-s08.mp3",
+      "clipSourceStart": 31.48,
+      "vi": "Bạn nêu ra một điểm hay.",
+      "listeningKeywords": [
+        "bring",
+        "point"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bring",
+          "vi": "nêu ra"
+        },
+        {
+          "en": "point",
+          "vi": "điểm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u08-k1",
+          "en": "bring",
+          "vi": [
+            "nêu ra"
+          ],
+          "start": 31.77,
+          "end": 32.07,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u08-k2",
+          "en": "point",
+          "vi": [
+            "điểm"
+          ],
+          "start": 32.52,
+          "end": 32.97,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u09",
+      "speaker": "M",
+      "text": "We should call him about that.",
+      "start": 33.36,
+      "end": 34.89,
+      "clipSrc": "../../audio-sentences/t9-50-s09.mp3",
+      "clipSourceStart": 33.28,
+      "vi": "Chúng ta nên gọi cho anh ấy về vấn đề đó.",
+      "listeningKeywords": [
+        "call"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u09-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 33.75,
+          "end": 34.02,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u10",
+      "speaker": "W",
+      "text": "Well, we have his final interview scheduled for tomorrow.",
+      "start": 35.34,
+      "end": 38.13,
+      "clipSrc": "../../audio-sentences/t9-50-s10.mp3",
+      "clipSourceStart": 35.26,
+      "vi": "Chúng ta có lịch phỏng vấn cuối cùng với anh ấy vào ngày mai.",
+      "listeningKeywords": [
+        "final",
+        "interview",
+        "scheduled"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "interview",
+          "vi": "phỏng vấn"
+        },
+        {
+          "en": "scheduled",
+          "vi": "lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u10-k1",
+          "en": "final",
+          "vi": [],
+          "start": 36.3,
+          "end": 36.69,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u10-k2",
+          "en": "interview",
+          "vi": [
+            "phỏng vấn"
+          ],
+          "start": 36.69,
+          "end": 37.11,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-50-u10-k3",
+          "en": "scheduled",
+          "vi": [
+            "lịch"
+          ],
+          "start": 37.11,
+          "end": 37.5,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-50-u11",
+      "speaker": "W",
+      "text": "Let's wait until then.",
+      "start": 38.64,
+      "end": 39.75,
+      "clipSrc": "../../audio-sentences/t9-50-s11.mp3",
+      "clipSourceStart": 38.56,
+      "vi": "Hãy đợi đến lúc đó.",
+      "listeningKeywords": [
+        "wait"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wait",
+          "vi": "đợi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-50-u11-k1",
+          "en": "wait",
+          "vi": [
+            "đợi"
+          ],
+          "start": 38.85,
+          "end": 39.09,
+          "anchorSource": "t9-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

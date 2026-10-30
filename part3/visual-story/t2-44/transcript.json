@@ -1,0 +1,377 @@
+{
+  "conversationId": "t2-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-44-u01",
+      "speaker": "M",
+      "text": "Fernanda, I was just looking at the company calendar, and I noticed that the national electronics trade show is coming up soon.",
+      "start": 6.06,
+      "end": 13.14,
+      "clipSrc": "../../audio-sentences/t2-44-s01.mp3",
+      "clipSourceStart": 5.98,
+      "vi": "Fernanda, tôi vừa xem lịch công ty, và tôi nhận thấy hội chợ thương mại điện tử quốc gia sắp diễn ra.",
+      "listeningKeywords": [
+        "looking",
+        "calendar",
+        "noticed",
+        "trade show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "xem"
+        },
+        {
+          "en": "calendar",
+          "vi": "lịch"
+        },
+        {
+          "en": "noticed",
+          "vi": "nhận thấy"
+        },
+        {
+          "en": "trade show",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-44-u01-k1",
+          "en": "looking",
+          "vi": [
+            "xem"
+          ],
+          "start": 7.59,
+          "end": 7.92,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u01-k2",
+          "en": "calendar",
+          "vi": [
+            "lịch"
+          ],
+          "start": 8.58,
+          "end": 9.24,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u01-k3",
+          "en": "noticed",
+          "vi": [
+            "nhận thấy"
+          ],
+          "start": 9.6,
+          "end": 9.99,
+          "anchorSource": "t2-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u01-k4",
+          "en": "trade show",
+          "vi": [
+            "xem"
+          ],
+          "start": 11.52,
+          "end": 12.12,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-44-u02",
+      "speaker": "W",
+      "text": "Oh, that's right! It'll be a great opportunity for us to showcase the product that we've been developing—our new robotic vacuum cleaner.",
+      "start": 13.56,
+      "end": 21.45,
+      "clipSrc": "../../audio-sentences/t2-44-s02.mp3",
+      "clipSourceStart": 13.48,
+      "vi": "Ồ, đúng rồi! Đó sẽ là cơ hội tuyệt vời để chúng ta trưng bày sản phẩm mà chúng ta đang phát triển—máy hút bụi robot mới của chúng ta.",
+      "listeningKeywords": [
+        "showcase",
+        "product",
+        "developing",
+        "robotic vacuum cleaner"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "product",
+          "vi": "sản phẩm"
+        },
+        {
+          "en": "robotic vacuum cleaner",
+          "vi": "máy hút bụi robot"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-44-u02-k1",
+          "en": "showcase",
+          "vi": [],
+          "start": 17.34,
+          "end": 17.91,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u02-k2",
+          "en": "product",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 18.0,
+          "end": 18.45,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u02-k3",
+          "en": "developing",
+          "vi": [],
+          "start": 18.9,
+          "end": 19.5,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u02-k4",
+          "en": "robotic vacuum cleaner",
+          "vi": [
+            "máy hút bụi robot"
+          ],
+          "start": 20.13,
+          "end": 21.45,
+          "anchorSource": "t2-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-44-u03",
+      "speaker": "M",
+      "text": "We'll need to decide who we want to send to represent our company at the trade show.",
+      "start": 21.93,
+      "end": 26.55,
+      "clipSrc": "../../audio-sentences/t2-44-s03.mp3",
+      "clipSourceStart": 21.85,
+      "vi": "Chúng ta cần quyết định ai chúng ta muốn gửi đi đại diện cho công ty tại hội chợ.",
+      "listeningKeywords": [
+        "decide",
+        "send",
+        "represent",
+        "trade show"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "send",
+          "vi": "gửi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-44-u03-k1",
+          "en": "decide",
+          "vi": [],
+          "start": 22.53,
+          "end": 23.01,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u03-k2",
+          "en": "send",
+          "vi": [
+            "gửi"
+          ],
+          "start": 23.79,
+          "end": 24.27,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u03-k3",
+          "en": "represent",
+          "vi": [],
+          "start": 24.51,
+          "end": 25.05,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u03-k4",
+          "en": "trade show",
+          "vi": [],
+          "start": 25.92,
+          "end": 26.55,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-44-u04",
+      "speaker": "W",
+      "text": "Well, I know just the right person—Kavi.",
+      "start": 26.91,
+      "end": 29.85,
+      "clipSrc": "../../audio-sentences/t2-44-s04.mp3",
+      "clipSourceStart": 26.83,
+      "vi": "Ừm, tôi biết chính xác người phù hợp—Kavi.",
+      "listeningKeywords": [
+        "know",
+        "person",
+        "Kavi"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        },
+        {
+          "en": "person",
+          "vi": "người"
+        },
+        {
+          "en": "Kavi",
+          "vi": "Kavi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-44-u04-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 27.6,
+          "end": 27.78,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u04-k2",
+          "en": "person",
+          "vi": [
+            "người"
+          ],
+          "start": 28.5,
+          "end": 29.07,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-44-u05",
+      "speaker": "W",
+      "text": "Kavi does a good job of clearly explaining highly technical concepts in a way that everyone can understand.",
+      "start": 30.3,
+      "end": 36.06,
+      "clipSrc": "../../audio-sentences/t2-44-s05.mp3",
+      "clipSourceStart": 30.22,
+      "vi": "Kavi làm tốt công việc giải thích rõ ràng các khái niệm kỹ thuật cao cấp theo cách mà mọi người đều có thể hiểu.",
+      "listeningKeywords": [
+        "clearly",
+        "explaining",
+        "technical concepts",
+        "understand"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "explaining",
+          "vi": "giải thích"
+        },
+        {
+          "en": "technical concepts",
+          "vi": "khái niệm kỹ thuật"
+        },
+        {
+          "en": "understand",
+          "vi": "hiểu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-44-u05-k1",
+          "en": "clearly",
+          "vi": [],
+          "start": 31.68,
+          "end": 32.16,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u05-k2",
+          "en": "explaining",
+          "vi": [
+            "giải thích"
+          ],
+          "start": 32.16,
+          "end": 32.79,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u05-k3",
+          "en": "technical concepts",
+          "vi": [
+            "khái niệm kỹ thuật"
+          ],
+          "start": 33.15,
+          "end": 34.26,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-44-u05-k4",
+          "en": "understand",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 35.4,
+          "end": 36.06,
+          "anchorSource": "t2-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

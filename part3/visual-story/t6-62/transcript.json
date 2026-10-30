@@ -1,0 +1,459 @@
+{
+  "conversationId": "t6-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-62-u01",
+      "speaker": "M",
+      "text": "I'm looking forward to our anniversary banquet, Shreya.",
+      "start": 7.11,
+      "end": 10.2,
+      "clipSrc": "../../audio-sentences/t6-62-s01.mp3",
+      "clipSourceStart": 7.03,
+      "vi": "Tôi mong chờ buổi tiệc kỷ niệm, Shreya.",
+      "listeningKeywords": [
+        "looking",
+        "anniversary banquet",
+        "Shreya"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "mong chờ"
+        },
+        {
+          "en": "Shreya",
+          "vi": "Shreya"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u01-k1",
+          "en": "looking",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 7.32,
+          "end": 7.71,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u01-k2",
+          "en": "anniversary banquet",
+          "vi": [],
+          "start": 8.55,
+          "end": 9.72,
+          "anchorSource": "t6-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u02",
+      "speaker": "M",
+      "text": "It's hard to believe we've been in business for ten years!",
+      "start": 10.47,
+      "end": 13.68,
+      "clipSrc": "../../audio-sentences/t6-62-s02.mp3",
+      "clipSourceStart": 10.39,
+      "vi": "Khó tin là chúng ta kinh doanh được mười năm rồi!",
+      "listeningKeywords": [
+        "hard",
+        "believe",
+        "business",
+        "ten"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hard",
+          "vi": "Khó"
+        },
+        {
+          "en": "business",
+          "vi": "kinh doanh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u02-k1",
+          "en": "hard",
+          "vi": [
+            "Khó"
+          ],
+          "start": 10.74,
+          "end": 11.01,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u02-k2",
+          "en": "believe",
+          "vi": [],
+          "start": 11.13,
+          "end": 11.55,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u02-k3",
+          "en": "business",
+          "vi": [
+            "kinh doanh"
+          ],
+          "start": 12.06,
+          "end": 12.54,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u02-k4",
+          "en": "ten",
+          "vi": [],
+          "start": 12.69,
+          "end": 13.05,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u03",
+      "speaker": "W",
+      "text": "I know. I was looking through old company photos last night.",
+      "start": 14.22,
+      "end": 18.72,
+      "clipSrc": "../../audio-sentences/t6-62-s03.mp3",
+      "clipSourceStart": 14.14,
+      "vi": "Tôi biết. Tối qua tôi xem qua ảnh công ty cũ.",
+      "listeningKeywords": [
+        "looking",
+        "photos",
+        "night"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "xem"
+        },
+        {
+          "en": "photos",
+          "vi": "ảnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u03-k1",
+          "en": "looking",
+          "vi": [
+            "xem"
+          ],
+          "start": 15.96,
+          "end": 16.35,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u03-k2",
+          "en": "photos",
+          "vi": [
+            "ảnh"
+          ],
+          "start": 17.46,
+          "end": 17.97,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u03-k3",
+          "en": "night",
+          "vi": [],
+          "start": 18.27,
+          "end": 18.72,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u04",
+      "speaker": "W",
+      "text": "I found some from when we had just started and were a team of only three people.",
+      "start": 19.23,
+      "end": 23.91,
+      "clipSrc": "../../audio-sentences/t6-62-s04.mp3",
+      "clipSourceStart": 19.15,
+      "vi": "Tôi tìm thấy vài cái từ khi chúng ta mới bắt đầu và chỉ có đội ba người.",
+      "listeningKeywords": [
+        "found",
+        "started",
+        "team",
+        "people"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "found",
+          "vi": "tìm thấy"
+        },
+        {
+          "en": "started",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "team",
+          "vi": "đội"
+        },
+        {
+          "en": "people",
+          "vi": "người"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u04-k1",
+          "en": "found",
+          "vi": [
+            "tìm thấy"
+          ],
+          "start": 19.38,
+          "end": 19.77,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u04-k2",
+          "en": "started",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 21.24,
+          "end": 21.78,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u04-k3",
+          "en": "team",
+          "vi": [
+            "đội"
+          ],
+          "start": 22.35,
+          "end": 22.74,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u04-k4",
+          "en": "people",
+          "vi": [
+            "người"
+          ],
+          "start": 23.4,
+          "end": 23.91,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u05",
+      "speaker": "M",
+      "text": "Wow. Those would be great to use for our slideshow during the welcome speech.",
+      "start": 24.27,
+      "end": 28.95,
+      "clipSrc": "../../audio-sentences/t6-62-s05.mp3",
+      "clipSourceStart": 24.19,
+      "vi": "Ồ. Những cái đó sẽ tuyệt để dùng cho slideshow trong lời chào mừng.",
+      "listeningKeywords": [
+        "use",
+        "slideshow",
+        "welcome speech"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "dùng"
+        },
+        {
+          "en": "slideshow",
+          "vi": "slideshow"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u05-k1",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 26.22,
+          "end": 26.49,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u05-k2",
+          "en": "slideshow",
+          "vi": [
+            "slideshow"
+          ],
+          "start": 26.85,
+          "end": 27.57,
+          "anchorSource": "t6-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u05-k3",
+          "en": "welcome speech",
+          "vi": [],
+          "start": 27.99,
+          "end": 28.95,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u06",
+      "speaker": "W",
+      "text": "I agree. And by the way, since I'll be getting up a few times to make announcements, I'd like to sit at the table closest to the stage.",
+      "start": 29.58,
+      "end": 38.13,
+      "clipSrc": "../../audio-sentences/t6-62-s06.mp3",
+      "clipSourceStart": 29.5,
+      "vi": "Đồng ý. Nhân tiện, vì tôi sẽ đứng dậy vài lần để thông báo, tôi muốn ngồi bàn gần sân khấu nhất.",
+      "listeningKeywords": [
+        "announcements",
+        "sit",
+        "table closest",
+        "stage"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "stage",
+          "vi": "sân khấu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u06-k1",
+          "en": "announcements",
+          "vi": [],
+          "start": 33.99,
+          "end": 34.74,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u06-k2",
+          "en": "sit",
+          "vi": [],
+          "start": 35.61,
+          "end": 35.91,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u06-k3",
+          "en": "table closest",
+          "vi": [],
+          "start": 36.09,
+          "end": 37.17,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u06-k4",
+          "en": "stage",
+          "vi": [
+            "sân khấu"
+          ],
+          "start": 37.44,
+          "end": 38.13,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-62-u07",
+      "speaker": "M",
+      "text": "I'll make sure to reserve a seat for you there.",
+      "start": 38.67,
+      "end": 41.1,
+      "clipSrc": "../../audio-sentences/t6-62-s07.mp3",
+      "clipSourceStart": 38.59,
+      "vi": "Tôi sẽ đảm bảo giữ chỗ cho bạn ở đó.",
+      "listeningKeywords": [
+        "reserve",
+        "seat"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reserve",
+          "vi": "giữ chỗ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-62-u07-k1",
+          "en": "reserve",
+          "vi": [
+            "giữ chỗ"
+          ],
+          "start": 39.57,
+          "end": 39.99,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-62-u07-k2",
+          "en": "seat",
+          "vi": [],
+          "start": 40.02,
+          "end": 40.32,
+          "anchorSource": "t6-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

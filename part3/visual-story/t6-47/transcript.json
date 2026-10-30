@@ -1,0 +1,513 @@
+{
+  "conversationId": "t6-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-47-u01",
+      "speaker": "W",
+      "text": "Koji, you weren't at the team meeting this morning.",
+      "start": 6.09,
+      "end": 8.97,
+      "clipSrc": "../../audio-sentences/t6-47-s01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Koji, anh không ở cuộc họp đội sáng nay.",
+      "listeningKeywords": [
+        "weren't",
+        "team",
+        "meeting"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "weren't",
+          "vi": "không"
+        },
+        {
+          "en": "team",
+          "vi": "đội"
+        },
+        {
+          "en": "meeting",
+          "vi": "cuộc họp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u01-k1",
+          "en": "weren't",
+          "vi": [
+            "không"
+          ],
+          "start": 7.17,
+          "end": 7.5,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u01-k2",
+          "en": "team",
+          "vi": [
+            "đội"
+          ],
+          "start": 7.65,
+          "end": 7.95,
+          "anchorSource": "t6-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u01-k3",
+          "en": "meeting",
+          "vi": [
+            "cuộc họp"
+          ],
+          "start": 7.945864,
+          "end": 8.31,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u02",
+      "speaker": "W",
+      "text": "Is everything OK?",
+      "start": 9.3,
+      "end": 10.5,
+      "clipSrc": "../../audio-sentences/t6-47-s02.mp3",
+      "clipSourceStart": 9.22,
+      "vi": "Mọi thứ ổn chứ?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-47-u03",
+      "speaker": "M",
+      "text": "I had to take my car to the mechanic for repairs.",
+      "start": 10.74,
+      "end": 13.68,
+      "clipSrc": "../../audio-sentences/t6-47-s03.mp3",
+      "clipSourceStart": 10.66,
+      "vi": "Tôi phải đưa xe đến thợ sửa.",
+      "listeningKeywords": [
+        "car",
+        "mechanic",
+        "repairs"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "car",
+          "vi": "xe"
+        },
+        {
+          "en": "repairs",
+          "vi": "sửa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u03-k1",
+          "en": "car",
+          "vi": [
+            "xe"
+          ],
+          "start": 11.67,
+          "end": 12.03,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u03-k2",
+          "en": "mechanic",
+          "vi": [],
+          "start": 12.24,
+          "end": 12.78,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u03-k3",
+          "en": "repairs",
+          "vi": [
+            "sửa"
+          ],
+          "start": 12.96,
+          "end": 13.68,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u04",
+      "speaker": "M",
+      "text": "What did I miss?",
+      "start": 14.04,
+      "end": 14.97,
+      "clipSrc": "../../audio-sentences/t6-47-s04.mp3",
+      "clipSourceStart": 13.96,
+      "vi": "Tôi bỏ lỡ gì?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-47-u05",
+      "speaker": "W",
+      "text": "Well, we received some good news.",
+      "start": 15.21,
+      "end": 17.85,
+      "clipSrc": "../../audio-sentences/t6-47-s05.mp3",
+      "clipSourceStart": 15.13,
+      "vi": "Ồ, chúng ta nhận tin tốt.",
+      "listeningKeywords": [
+        "received",
+        "news"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "received",
+          "vi": "nhận"
+        },
+        {
+          "en": "news",
+          "vi": "tin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u05-k1",
+          "en": "received",
+          "vi": [
+            "nhận"
+          ],
+          "start": 16.114916,
+          "end": 16.65,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u05-k2",
+          "en": "news",
+          "vi": [
+            "tin"
+          ],
+          "start": 17.25,
+          "end": 17.85,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u06",
+      "speaker": "W",
+      "text": "Our firm is planning to hire more accountants!",
+      "start": 18.36,
+      "end": 21.09,
+      "clipSrc": "../../audio-sentences/t6-47-s06.mp3",
+      "clipSourceStart": 18.28,
+      "vi": "Công ty dự định thuê thêm kế toán!",
+      "listeningKeywords": [
+        "firm",
+        "planning",
+        "hire",
+        "accountants"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "planning",
+          "vi": "dự định"
+        },
+        {
+          "en": "hire",
+          "vi": "thuê"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u06-k1",
+          "en": "firm",
+          "vi": [],
+          "start": 18.57,
+          "end": 18.99,
+          "anchorSource": "t6-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u06-k2",
+          "en": "planning",
+          "vi": [
+            "dự định"
+          ],
+          "start": 19.08,
+          "end": 19.44,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u06-k3",
+          "en": "hire",
+          "vi": [
+            "thuê"
+          ],
+          "start": 19.56,
+          "end": 19.89,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u06-k4",
+          "en": "accountants",
+          "vi": [],
+          "start": 20.25,
+          "end": 21.09,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u07",
+      "speaker": "M",
+      "text": "That's great! We've been busier than ever since we started working with True Valley Industries.",
+      "start": 21.33,
+      "end": 26.79,
+      "clipSrc": "../../audio-sentences/t6-47-s07.mp3",
+      "clipSourceStart": 21.25,
+      "vi": "Hay quá! Chúng ta bận rộn hơn bao giờ hết kể từ khi làm việc với True Valley Industries.",
+      "listeningKeywords": [
+        "busier",
+        "ever",
+        "started",
+        "True Valley Industries"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "True Valley Industries",
+          "vi": "True Valley Industries"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u07-k1",
+          "en": "busier",
+          "vi": [],
+          "start": 23.04,
+          "end": 23.49,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u07-k2",
+          "en": "ever",
+          "vi": [],
+          "start": 23.7,
+          "end": 24.06,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u07-k3",
+          "en": "started",
+          "vi": [],
+          "start": 24.51,
+          "end": 24.9,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u07-k4",
+          "en": "True Valley Industries",
+          "vi": [
+            "True Valley Industries"
+          ],
+          "start": 25.41,
+          "end": 26.79,
+          "anchorSource": "t6-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u08",
+      "speaker": "W",
+      "text": "Yes. By the way, there's an article on our Web site about the founder of True Valley.",
+      "start": 27.06,
+      "end": 32.34,
+      "clipSrc": "../../audio-sentences/t6-47-s08.mp3",
+      "clipSourceStart": 26.98,
+      "vi": "Vâng. Nhân tiện, có bài báo trên web về người sáng lập True Valley.",
+      "listeningKeywords": [
+        "article",
+        "Web site",
+        "founder",
+        "True Valley"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "article",
+          "vi": "bài báo"
+        },
+        {
+          "en": "True Valley",
+          "vi": "True Valley"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u08-k1",
+          "en": "article",
+          "vi": [
+            "bài báo"
+          ],
+          "start": 29.4,
+          "end": 29.88,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u08-k2",
+          "en": "Web site",
+          "vi": [],
+          "start": 30.12,
+          "end": 30.69,
+          "anchorSource": "t6-47-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u08-k3",
+          "en": "founder",
+          "vi": [],
+          "start": 31.05,
+          "end": 31.5,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u08-k4",
+          "en": "True Valley",
+          "vi": [
+            "True Valley"
+          ],
+          "start": 31.65,
+          "end": 32.34,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u09",
+      "speaker": "W",
+      "text": "I'd suggest reading it.",
+      "start": 32.67,
+      "end": 34.08,
+      "clipSrc": "../../audio-sentences/t6-47-s09.mp3",
+      "clipSourceStart": 32.59,
+      "vi": "Tôi khuyên nên đọc.",
+      "listeningKeywords": [
+        "suggest",
+        "reading"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reading",
+          "vi": "đọc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u09-k1",
+          "en": "suggest",
+          "vi": [],
+          "start": 32.91,
+          "end": 33.33,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-47-u09-k2",
+          "en": "reading",
+          "vi": [
+            "đọc"
+          ],
+          "start": 33.33,
+          "end": 33.75,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-47-u10",
+      "speaker": "M",
+      "text": "I'll be sure to check it out.",
+      "start": 34.47,
+      "end": 36.0,
+      "clipSrc": "../../audio-sentences/t6-47-s10.mp3",
+      "clipSourceStart": 34.39,
+      "vi": "Tôi chắc chắn sẽ kiểm tra.",
+      "listeningKeywords": [
+        "check"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-47-u10-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 35.25,
+          "end": 35.52,
+          "anchorSource": "t6-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

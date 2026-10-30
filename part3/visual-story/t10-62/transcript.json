@@ -1,0 +1,540 @@
+{
+  "conversationId": "t10-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-62-u01",
+      "speaker": "M",
+      "text": "Welcome to Centerville Fitness Center.",
+      "start": 6.9,
+      "end": 8.82,
+      "clipSrc": "../../audio-sentences/t10-62-s01.mp3",
+      "clipSourceStart": 6.82,
+      "vi": "Chào mừng đến với Trung tâm Thể hình Centerville.",
+      "listeningKeywords": [
+        "Centerville Fitness Center"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Centerville Fitness Center",
+          "vi": "Trung tâm Thể hình"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u01-k1",
+          "en": "Centerville Fitness Center",
+          "vi": [
+            "Trung tâm Thể hình"
+          ],
+          "start": 7.47,
+          "end": 8.82,
+          "anchorSource": "t10-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u02",
+      "speaker": "W",
+      "text": "Hi. I hear you're having a fund-raising campaign.",
+      "start": 9.12,
+      "end": 12.09,
+      "clipSrc": "../../audio-sentences/t10-62-s02.mp3",
+      "clipSourceStart": 9.04,
+      "vi": "Chào. Tôi nghe nói trung tâm đang tổ chức một chiến dịch gây quỹ.",
+      "listeningKeywords": [
+        "fund-raising campaign"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fund-raising campaign",
+          "vi": "chiến dịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u02-k1",
+          "en": "fund-raising campaign",
+          "vi": [
+            "chiến dịch"
+          ],
+          "start": 10.86,
+          "end": 12.09,
+          "anchorSource": "t10-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u03",
+      "speaker": "M",
+      "text": "Yes, today's the start of our annual fund-raiser.",
+      "start": 12.36,
+      "end": 15.12,
+      "clipSrc": "../../audio-sentences/t10-62-s03.mp3",
+      "clipSourceStart": 12.28,
+      "vi": "Đúng rồi, hôm nay là ngày khởi động gây quỹ thường niên của chúng tôi.",
+      "listeningKeywords": [
+        "today's",
+        "start",
+        "annual fund-raiser"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "today's",
+          "vi": "hôm nay"
+        },
+        {
+          "en": "annual fund-raiser",
+          "vi": "gây quỹ thường niên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u03-k1",
+          "en": "today's",
+          "vi": [
+            "hôm nay"
+          ],
+          "start": 13.02,
+          "end": 13.44,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u03-k2",
+          "en": "start",
+          "vi": [],
+          "start": 13.53,
+          "end": 13.8,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u03-k3",
+          "en": "annual fund-raiser",
+          "vi": [
+            "gây quỹ thường niên"
+          ],
+          "start": 14.01,
+          "end": 15.12,
+          "anchorSource": "t10-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u04",
+      "speaker": "M",
+      "text": "All proceeds go toward the purchase of new sports equipment for the center.",
+      "start": 15.42,
+      "end": 19.14,
+      "clipSrc": "../../audio-sentences/t10-62-s04.mp3",
+      "clipSourceStart": 15.34,
+      "vi": "Toàn bộ số tiền thu được sẽ dùng để mua thiết bị thể thao mới cho trung tâm.",
+      "listeningKeywords": [
+        "proceeds",
+        "toward",
+        "purchase",
+        "sports equipment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchase",
+          "vi": "mua"
+        },
+        {
+          "en": "sports equipment",
+          "vi": "thiết bị"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u04-k1",
+          "en": "proceeds",
+          "vi": [],
+          "start": 15.63,
+          "end": 16.2,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u04-k2",
+          "en": "toward",
+          "vi": [],
+          "start": 16.38,
+          "end": 16.74,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u04-k3",
+          "en": "purchase",
+          "vi": [
+            "mua"
+          ],
+          "start": 16.83,
+          "end": 17.31,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u04-k4",
+          "en": "sports equipment",
+          "vi": [
+            "thiết bị"
+          ],
+          "start": 17.64,
+          "end": 18.42,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u05",
+      "speaker": "M",
+      "text": "You'll be entered into a raffle to win a prize based on your donation amount.",
+      "start": 19.47,
+      "end": 23.34,
+      "clipSrc": "../../audio-sentences/t10-62-s05.mp3",
+      "clipSourceStart": 19.39,
+      "vi": "Quý vị sẽ được tham gia rút thăm trúng thưởng dựa trên số tiền đóng góp.",
+      "listeningKeywords": [
+        "raffle",
+        "win",
+        "prize based",
+        "donation amount"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "raffle",
+          "vi": "rút thăm trúng thưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u05-k1",
+          "en": "raffle",
+          "vi": [
+            "rút thăm trúng thưởng"
+          ],
+          "start": 20.43,
+          "end": 21.0,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u05-k2",
+          "en": "win",
+          "vi": [],
+          "start": 21.18,
+          "end": 21.33,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u05-k3",
+          "en": "prize based",
+          "vi": [],
+          "start": 21.39,
+          "end": 22.26,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u05-k4",
+          "en": "donation amount",
+          "vi": [],
+          "start": 22.47,
+          "end": 23.34,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u06",
+      "speaker": "W",
+      "text": "Sounds great. I'd like to donate $50.",
+      "start": 23.67,
+      "end": 26.01,
+      "clipSrc": "../../audio-sentences/t10-62-s06.mp3",
+      "clipSourceStart": 23.59,
+      "vi": "Nghe tuyệt quá. Tôi muốn đóng góp 50 đô la.",
+      "listeningKeywords": [
+        "like",
+        "donate",
+        "$50"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        },
+        {
+          "en": "donate",
+          "vi": "đóng góp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u06-k1",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 25.29,
+          "end": 25.5,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u06-k2",
+          "en": "donate",
+          "vi": [
+            "đóng góp"
+          ],
+          "start": 25.59,
+          "end": 26.01,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u07",
+      "speaker": "M",
+      "text": "Wonderful! Just fill out the donation form, and I'll get you your raffle ticket.",
+      "start": 27.18,
+      "end": 31.14,
+      "clipSrc": "../../audio-sentences/t10-62-s07.mp3",
+      "clipSourceStart": 27.1,
+      "vi": "Tuyệt vời! Chỉ cần điền vào mẫu đóng góp, và tôi sẽ đưa vé rút thăm cho bạn.",
+      "listeningKeywords": [
+        "fill",
+        "donation form",
+        "get",
+        "raffle"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fill",
+          "vi": "điền"
+        },
+        {
+          "en": "donation form",
+          "vi": "mẫu"
+        },
+        {
+          "en": "get",
+          "vi": "đưa"
+        },
+        {
+          "en": "raffle",
+          "vi": "rút thăm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u07-k1",
+          "en": "fill",
+          "vi": [
+            "điền"
+          ],
+          "start": 28.41,
+          "end": 28.59,
+          "anchorSource": "t10-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u07-k2",
+          "en": "donation form",
+          "vi": [
+            "mẫu"
+          ],
+          "start": 28.77,
+          "end": 29.64,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u07-k3",
+          "en": "get",
+          "vi": [
+            "đưa"
+          ],
+          "start": 29.91,
+          "end": 30.09,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u07-k4",
+          "en": "raffle",
+          "vi": [
+            "rút thăm"
+          ],
+          "start": 30.39,
+          "end": 30.72,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u08",
+      "speaker": "W",
+      "text": "How will I find out if I won?",
+      "start": 31.44,
+      "end": 33.0,
+      "clipSrc": "../../audio-sentences/t10-62-s08.mp3",
+      "clipSourceStart": 31.36,
+      "vi": "Làm thế nào tôi biết mình có trúng thưởng không?",
+      "listeningKeywords": [
+        "find",
+        "won"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "find",
+          "vi": "biết"
+        },
+        {
+          "en": "won",
+          "vi": "trúng thưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u08-k1",
+          "en": "find",
+          "vi": [
+            "biết"
+          ],
+          "start": 31.92,
+          "end": 32.19,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u08-k2",
+          "en": "won",
+          "vi": [
+            "trúng thưởng"
+          ],
+          "start": 32.64,
+          "end": 33.0,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-62-u09",
+      "speaker": "M",
+      "text": "The drawing's on Friday, and winners will receive a phone call from the organizers.",
+      "start": 33.3,
+      "end": 37.47,
+      "clipSrc": "../../audio-sentences/t10-62-s09.mp3",
+      "clipSourceStart": 33.22,
+      "vi": "Buổi rút thăm sẽ diễn ra vào thứ Sáu, và những người trúng thưởng sẽ nhận được cuộc gọi từ ban tổ chức.",
+      "listeningKeywords": [
+        "drawing's",
+        "receive",
+        "call",
+        "organizers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "receive",
+          "vi": "nhận được"
+        },
+        {
+          "en": "call",
+          "vi": "cuộc gọi"
+        },
+        {
+          "en": "organizers",
+          "vi": "ban tổ chức"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-62-u09-k1",
+          "en": "receive",
+          "vi": [
+            "nhận được"
+          ],
+          "start": 35.58,
+          "end": 35.94,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u09-k2",
+          "en": "call",
+          "vi": [
+            "cuộc gọi"
+          ],
+          "start": 36.24,
+          "end": 36.45,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-62-u09-k3",
+          "en": "organizers",
+          "vi": [
+            "ban tổ chức"
+          ],
+          "start": 36.72,
+          "end": 37.47,
+          "anchorSource": "t10-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

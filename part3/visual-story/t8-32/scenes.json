@@ -1,0 +1,317 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t8-32",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T08-32-34.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 5.97,
+    "dialogueEnd": 32.4
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 32–34, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 32–34, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 32–34, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 32–34, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 5.97,
+      "end": 14.52,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1-1",
+          "vocabularyId": "vocab-1-1",
+          "label": "ceiling light",
+          "x": 0.46,
+          "y": 0.13,
+          "width": 0.13,
+          "height": 0.15,
+          "utteranceIds": [
+            "t8-32-u01"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 14.52,
+      "end": 22.59,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2-1",
+          "vocabularyId": "vocab-2-1",
+          "label": "fixture",
+          "x": 0.5,
+          "y": 0.02,
+          "width": 0.24,
+          "height": 0.28,
+          "utteranceIds": [
+            "t8-32-u03"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 22.59,
+      "end": 27.6,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3-1",
+          "vocabularyId": "vocab-3-1",
+          "label": "replace",
+          "x": 0.49,
+          "y": 0.03,
+          "width": 0.18,
+          "height": 0.18,
+          "utteranceIds": [
+            "t8-32-u04"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 27.6,
+      "end": 32.4,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "catalog",
+          "x": 0.35,
+          "y": 0.46,
+          "width": 0.5,
+          "height": 0.51,
+          "utteranceIds": [
+            "t8-32-u06"
+          ]
+        }
+      ],
+      "characters": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1-1",
+      "en": "ceiling light",
+      "vi": "đèn trần",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2-1",
+      "en": "fixture",
+      "vi": "bộ đèn",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3-1",
+      "en": "replace",
+      "vi": "thay thế",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4-1",
+      "en": "catalog",
+      "vi": "sách danh mục sản phẩm",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

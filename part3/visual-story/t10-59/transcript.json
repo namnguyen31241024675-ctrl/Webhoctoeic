@@ -1,0 +1,505 @@
+{
+  "conversationId": "t10-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      13,
+      14
+    ],
+    "speakerLabelNote": "Nhãn M/W trong PDF không khớp người được nhắc trong câu hỏi. Giữ ký hiệu PDF; cảnh dùng đồ vật và không gán viền vào nhân vật."
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-59-u01",
+      "speaker": "W",
+      "text": "Dula Commercial Cleaners. How can I help you?",
+      "start": 5.94,
+      "end": 8.37,
+      "clipSrc": "../../audio-sentences/t10-59-s01.mp3",
+      "clipSourceStart": 5.86,
+      "vi": "Dula Commercial Cleaners. Tôi có thể giúp gì cho quý khách?",
+      "listeningKeywords": [
+        "Dula Commercial Cleaners",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Dula Commercial Cleaners",
+          "vi": "Dula Commercial Cleaners"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u01-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 7.89,
+          "end": 8.13,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u02",
+      "speaker": "M",
+      "text": "Hi, I'm running a new bed-and-breakfast in town, and I'm looking for a company to wash, dry, and fold our linens.",
+      "start": 8.7,
+      "end": 14.7,
+      "clipSrc": "../../audio-sentences/t10-59-s02.mp3",
+      "clipSourceStart": 8.62,
+      "vi": "Chào, tôi đang vận hành một nhà nghỉ kiểu bed-and-breakfast mới trong thị trấn, và tôi đang tìm một công ty để giặt, sấy và gấp đồ vải.",
+      "listeningKeywords": [
+        "running",
+        "breakfast",
+        "looking",
+        "linens"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "running",
+          "vi": "vận hành"
+        },
+        {
+          "en": "breakfast",
+          "vi": "breakfast"
+        },
+        {
+          "en": "looking",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u02-k1",
+          "en": "breakfast",
+          "vi": [
+            "breakfast"
+          ],
+          "start": 9.84,
+          "end": 10.38,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u02-k2",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 11.7,
+          "end": 11.97,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u02-k3",
+          "en": "linens",
+          "vi": [],
+          "start": 14.19,
+          "end": 14.7,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u03",
+      "speaker": "M",
+      "text": "I have a few questions.",
+      "start": 15.18,
+      "end": 16.38,
+      "clipSrc": "../../audio-sentences/t10-59-s03.mp3",
+      "clipSourceStart": 15.1,
+      "vi": "Tôi có vài câu hỏi.",
+      "listeningKeywords": [
+        "questions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "questions",
+          "vi": "câu hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u03-k1",
+          "en": "questions",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 15.87,
+          "end": 16.38,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u04",
+      "speaker": "W",
+      "text": "Sure.",
+      "start": 17.04,
+      "end": 17.55,
+      "clipSrc": "../../audio-sentences/t10-59-s04.mp3",
+      "clipSourceStart": 16.96,
+      "vi": "Vâng, được.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t10-59-u05",
+      "speaker": "M",
+      "text": "How do you work in terms of scheduling?",
+      "start": 17.91,
+      "end": 19.95,
+      "clipSrc": "../../audio-sentences/t10-59-s05.mp3",
+      "clipSourceStart": 17.83,
+      "vi": "Quý công ty làm việc thế nào về lịch trình?",
+      "listeningKeywords": [
+        "terms",
+        "scheduling"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "scheduling",
+          "vi": "lịch trình"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u05-k1",
+          "en": "terms",
+          "vi": [],
+          "start": 18.9,
+          "end": 19.2,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u05-k2",
+          "en": "scheduling",
+          "vi": [
+            "lịch trình"
+          ],
+          "start": 19.32,
+          "end": 19.95,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u06",
+      "speaker": "W",
+      "text": "We work around the clock to guarantee a 24-hour turnaround.",
+      "start": 20.4,
+      "end": 23.948628,
+      "clipSrc": "../../audio-sentences/t10-59-s06.mp3",
+      "clipSourceStart": 20.32,
+      "vi": "Chúng tôi làm việc 24/7 để đảm bảo hoàn thành trong vòng 24 giờ.",
+      "listeningKeywords": [
+        "around the clock",
+        "24",
+        "hour turnaround"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "24",
+          "vi": "24"
+        },
+        {
+          "en": "24",
+          "vi": "24"
+        },
+        {
+          "en": "hour turnaround",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u06-k1",
+          "en": "around the clock",
+          "vi": [],
+          "start": 20.88,
+          "end": 21.75,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u06-k2",
+          "en": "24",
+          "vi": [
+            "24"
+          ],
+          "start": 22.601453,
+          "end": 23.13,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u06-k3",
+          "en": "hour turnaround",
+          "vi": [
+            "giờ"
+          ],
+          "start": 23.13,
+          "end": 23.91,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u07",
+      "speaker": "W",
+      "text": "We run three separate shifts.",
+      "start": 24.78,
+      "end": 26.43,
+      "clipSrc": "../../audio-sentences/t10-59-s07.mp3",
+      "clipSourceStart": 24.7,
+      "vi": "Chúng tôi có ba ca làm việc riêng biệt.",
+      "listeningKeywords": [
+        "run",
+        "separate shifts"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "separate shifts",
+          "vi": "ca làm việc riêng biệt"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u07-k1",
+          "en": "run",
+          "vi": [],
+          "start": 24.99,
+          "end": 25.26,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u07-k2",
+          "en": "separate shifts",
+          "vi": [
+            "ca làm việc riêng biệt"
+          ],
+          "start": 25.68,
+          "end": 26.43,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u08",
+      "speaker": "M",
+      "text": "That's good to hear.",
+      "start": 26.58,
+      "end": 27.66,
+      "clipSrc": "../../audio-sentences/t10-59-s08.mp3",
+      "clipSourceStart": 26.5,
+      "vi": "Nghe tốt quá.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t10-59-u09",
+      "speaker": "W",
+      "text": "Could I ask where you're located?",
+      "start": 28.11,
+      "end": 29.61,
+      "clipSrc": "../../audio-sentences/t10-59-s09.mp3",
+      "clipSourceStart": 28.03,
+      "vi": "Tôi có thể hỏi quý vị ở đâu không?",
+      "listeningKeywords": [
+        "ask",
+        "located"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "located",
+          "vi": "ở"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u09-k1",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 28.41,
+          "end": 28.65,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u09-k2",
+          "en": "located",
+          "vi": [
+            "ở"
+          ],
+          "start": 28.98,
+          "end": 29.61,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u10",
+      "speaker": "M",
+      "text": "Oh, we're at 647 Pond Street.",
+      "start": 29.79,
+      "end": 32.73,
+      "clipSrc": "../../audio-sentences/t10-59-s10.mp3",
+      "clipSourceStart": 29.71,
+      "vi": "À, chúng tôi ở 647 Pond Street.",
+      "listeningKeywords": [
+        "647",
+        "Pond Street"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "647",
+          "vi": "647"
+        },
+        {
+          "en": "Pond Street",
+          "vi": "Pond Street"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u10-k1",
+          "en": "Pond Street",
+          "vi": [
+            "Pond Street"
+          ],
+          "start": 31.8,
+          "end": 32.73,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-59-u11",
+      "speaker": "W",
+      "text": "In that case, pickup and delivery will not add to your service charge, since you're within a fifteen-kilometer radius of our company.",
+      "start": 33.12,
+      "end": 39.75,
+      "clipSrc": "../../audio-sentences/t10-59-s11.mp3",
+      "clipSourceStart": 33.04,
+      "vi": "Trong trường hợp đó, việc lấy và giao hàng sẽ không tính thêm phí dịch vụ, vì quý vị nằm trong bán kính 15km của công ty chúng tôi.",
+      "listeningKeywords": [
+        "pickup and delivery",
+        "not",
+        "charge",
+        "fifteen-kilometer radius"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "pickup and delivery",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "charge",
+          "vi": "phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-59-u11-k1",
+          "en": "pickup and delivery",
+          "vi": [
+            "giao hàng"
+          ],
+          "start": 33.93,
+          "end": 34.95,
+          "anchorSource": "t10-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u11-k2",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 35.1,
+          "end": 35.37,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u11-k3",
+          "en": "charge",
+          "vi": [
+            "phí"
+          ],
+          "start": 36.33,
+          "end": 36.75,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-59-u11-k4",
+          "en": "fifteen-kilometer radius",
+          "vi": [],
+          "start": 37.83,
+          "end": 39.3,
+          "anchorSource": "t10-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

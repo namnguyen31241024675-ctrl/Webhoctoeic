@@ -1,0 +1,470 @@
+{
+  "conversationId": "t7-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-62-u01",
+      "speaker": "W",
+      "text": "Hey, Pablo. I missed the intern team morning update.",
+      "start": 7.05,
+      "end": 10.47,
+      "clipSrc": "../../audio-sentences/t7-62-s01.mp3",
+      "clipSourceStart": 6.97,
+      "vi": "Này Pablo. Tôi bỏ lỡ cập nhật sáng đội thực tập.",
+      "listeningKeywords": [
+        "missed",
+        "intern team",
+        "update"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "intern team",
+          "vi": "đội"
+        },
+        {
+          "en": "update",
+          "vi": "cập nhật"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u01-k1",
+          "en": "missed",
+          "vi": [],
+          "start": 8.4,
+          "end": 8.73,
+          "anchorSource": "t7-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u01-k2",
+          "en": "intern team",
+          "vi": [
+            "đội"
+          ],
+          "start": 8.88,
+          "end": 9.6,
+          "anchorSource": "t7-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u01-k3",
+          "en": "update",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 9.96,
+          "end": 10.47,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u02",
+      "speaker": "W",
+      "text": "Was there information about cleaning acrylic test tubes? I wonder whether there are specific guidelines for these as opposed to glass tubes.",
+      "start": 10.86,
+      "end": 18.42,
+      "clipSrc": "../../audio-sentences/t7-62-s02.mp3",
+      "clipSourceStart": 10.78,
+      "vi": "Có thông tin về làm sạch ống nghiệm acrylic không? Tôi tự hỏi có hướng dẫn cụ thể cho những cái này so với ống thủy tinh không.",
+      "listeningKeywords": [
+        "cleaning",
+        "acrylic test tubes",
+        "specific guidelines",
+        "glass tubes"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cleaning",
+          "vi": "làm sạch"
+        },
+        {
+          "en": "acrylic test tubes",
+          "vi": "ống nghiệm acrylic"
+        },
+        {
+          "en": "specific guidelines",
+          "vi": "hướng dẫn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u02-k1",
+          "en": "cleaning",
+          "vi": [
+            "làm sạch"
+          ],
+          "start": 12.21,
+          "end": 12.6,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u02-k2",
+          "en": "acrylic test tubes",
+          "vi": [
+            "ống nghiệm acrylic"
+          ],
+          "start": 12.6,
+          "end": 13.71,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u02-k3",
+          "en": "specific guidelines",
+          "vi": [
+            "hướng dẫn"
+          ],
+          "start": 15.24,
+          "end": 16.32,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u02-k4",
+          "en": "glass tubes",
+          "vi": [],
+          "start": 17.52,
+          "end": 18.42,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u03",
+      "speaker": "M",
+      "text": "You should check the intern lab manual—I think it was updated this week with step-by-step instructions.",
+      "start": 18.75,
+      "end": 24.33,
+      "clipSrc": "../../audio-sentences/t7-62-s03.mp3",
+      "clipSourceStart": 18.67,
+      "vi": "Cô nên kiểm tra sổ tay lab thực tập—Tôi nghĩ nó được cập nhật tuần này với hướng dẫn từng bước.",
+      "listeningKeywords": [
+        "check",
+        "lab manual",
+        "updated",
+        "step instructions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "updated",
+          "vi": "cập nhật"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u03-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 19.14,
+          "end": 19.41,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u03-k2",
+          "en": "lab manual",
+          "vi": [],
+          "start": 20.04,
+          "end": 20.91,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u03-k3",
+          "en": "updated",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 21.69,
+          "end": 22.17,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u03-k4",
+          "en": "step instructions",
+          "vi": [],
+          "start": 23.25,
+          "end": 24.33,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u04",
+      "speaker": "W",
+      "text": "Good idea! You know, what I'm enjoying most so far is learning about the practical side of the work.",
+      "start": 24.69,
+      "end": 30.66,
+      "clipSrc": "../../audio-sentences/t7-62-s04.mp3",
+      "clipSourceStart": 24.61,
+      "vi": "Ý hay! Anh biết không, điều tôi thích nhất đến nay là học về khía cạnh thực tế của công việc.",
+      "listeningKeywords": [
+        "enjoying",
+        "far",
+        "learning",
+        "practical side"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "enjoying",
+          "vi": "thích"
+        },
+        {
+          "en": "learning",
+          "vi": "học"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u04-k1",
+          "en": "enjoying",
+          "vi": [
+            "thích"
+          ],
+          "start": 27.03,
+          "end": 27.45,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u04-k2",
+          "en": "far",
+          "vi": [],
+          "start": 28.08,
+          "end": 28.44,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u04-k3",
+          "en": "learning",
+          "vi": [
+            "học"
+          ],
+          "start": 28.652875,
+          "end": 28.98,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u04-k4",
+          "en": "practical side",
+          "vi": [],
+          "start": 29.31,
+          "end": 30.06,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u05",
+      "speaker": "W",
+      "text": "But I wish we could start working alongside the researchers here.",
+      "start": 30.96,
+      "end": 34.05,
+      "clipSrc": "../../audio-sentences/t7-62-s05.mp3",
+      "clipSourceStart": 30.88,
+      "vi": "Nhưng tôi ước chúng ta có thể bắt đầu làm việc cùng các nhà nghiên cứu ở đây.",
+      "listeningKeywords": [
+        "wish",
+        "start",
+        "alongside",
+        "researchers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u05-k1",
+          "en": "wish",
+          "vi": [],
+          "start": 31.23,
+          "end": 31.5,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u05-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 31.8,
+          "end": 32.13,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u05-k3",
+          "en": "alongside",
+          "vi": [],
+          "start": 32.52,
+          "end": 33.0,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u05-k4",
+          "en": "researchers",
+          "vi": [],
+          "start": 33.09,
+          "end": 33.72,
+          "anchorSource": "t7-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u06",
+      "speaker": "M",
+      "text": "Professor Kwon is showing us how to analyze data later today.",
+      "start": 34.56,
+      "end": 37.98,
+      "clipSrc": "../../audio-sentences/t7-62-s06.mp3",
+      "clipSourceStart": 34.48,
+      "vi": "Giáo sư Kwon sẽ chỉ chúng ta cách phân tích dữ liệu sau hôm nay.",
+      "listeningKeywords": [
+        "showing",
+        "analyze data"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "analyze data",
+          "vi": "phân tích dữ liệu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u06-k1",
+          "en": "showing",
+          "vi": [],
+          "start": 35.55,
+          "end": 35.91,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u06-k2",
+          "en": "analyze data",
+          "vi": [
+            "phân tích dữ liệu"
+          ],
+          "start": 36.36,
+          "end": 37.14,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-62-u07",
+      "speaker": "M",
+      "text": "She usually asks the interns to participate.",
+      "start": 38.31,
+      "end": 40.95,
+      "clipSrc": "../../audio-sentences/t7-62-s07.mp3",
+      "clipSourceStart": 38.23,
+      "vi": "Bà ấy thường yêu cầu thực tập sinh tham gia.",
+      "listeningKeywords": [
+        "asks",
+        "interns",
+        "participate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "asks",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-62-u07-k1",
+          "en": "asks",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 39.03,
+          "end": 39.42,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u07-k2",
+          "en": "interns",
+          "vi": [],
+          "start": 39.54,
+          "end": 40.05,
+          "anchorSource": "t7-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-62-u07-k3",
+          "en": "participate",
+          "vi": [],
+          "start": 40.17,
+          "end": 40.95,
+          "anchorSource": "t7-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

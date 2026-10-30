@@ -1,0 +1,551 @@
+{
+  "conversationId": "t9-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-47-u01",
+      "speaker": "M",
+      "text": "Thanks for agreeing to be interviewed for Textiles Quarterly about your company's recycling process.",
+      "start": 6.12,
+      "end": 11.52,
+      "clipSrc": "../../audio-sentences/t9-47-s01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Cảm ơn bạn đã đồng ý tham gia phỏng vấn cho Textiles Quarterly về quy trình tái chế của công ty bạn.",
+      "listeningKeywords": [
+        "interviewed",
+        "Textiles",
+        "recycling process"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "interviewed",
+          "vi": "phỏng vấn"
+        },
+        {
+          "en": "Textiles",
+          "vi": "Textiles"
+        },
+        {
+          "en": "recycling process",
+          "vi": "quy trình tái chế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u01-k1",
+          "en": "interviewed",
+          "vi": [
+            "phỏng vấn"
+          ],
+          "start": 7.38,
+          "end": 7.95,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u01-k2",
+          "en": "Textiles",
+          "vi": [
+            "Textiles"
+          ],
+          "start": 8.1,
+          "end": 8.73,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u01-k3",
+          "en": "recycling process",
+          "vi": [
+            "quy trình tái chế"
+          ],
+          "start": 10.26,
+          "end": 11.52,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u02",
+      "speaker": "M",
+      "text": "Our readers will be intrigued.",
+      "start": 11.97,
+      "end": 13.74,
+      "clipSrc": "../../audio-sentences/t9-47-s02.mp3",
+      "clipSourceStart": 11.89,
+      "vi": "Độc giả của chúng tôi chắc chắn sẽ rất hứng thú.",
+      "listeningKeywords": [
+        "readers",
+        "intrigued"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "readers",
+          "vi": "Độc giả"
+        },
+        {
+          "en": "intrigued",
+          "vi": "hứng thú"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u02-k1",
+          "en": "readers",
+          "vi": [
+            "Độc giả"
+          ],
+          "start": 12.21,
+          "end": 12.63,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u02-k2",
+          "en": "intrigued",
+          "vi": [
+            "hứng thú"
+          ],
+          "start": 12.96,
+          "end": 13.74,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u03",
+      "speaker": "W",
+      "text": "Simply put, we shred discarded fabric, turn it into a watery mixture called slurry, and then dry it and press it into new sheets of fabric.",
+      "start": 14.16,
+      "end": 23.4,
+      "clipSrc": "../../audio-sentences/t9-47-s03.mp3",
+      "clipSourceStart": 14.08,
+      "vi": "Nói một cách đơn giản, chúng tôi xé vụn vải bỏ đi, biến nó thành một hỗn hợp nước gọi là slurry, sau đó sấy khô và ép thành những tấm vải mới.",
+      "listeningKeywords": [
+        "fabric",
+        "called",
+        "slurry",
+        "fabric"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fabric",
+          "vi": "vải"
+        },
+        {
+          "en": "fabric",
+          "vi": "vải"
+        },
+        {
+          "en": "called",
+          "vi": "gọi"
+        },
+        {
+          "en": "slurry",
+          "vi": "slurry"
+        },
+        {
+          "en": "fabric",
+          "vi": "vải"
+        },
+        {
+          "en": "fabric",
+          "vi": "vải"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u03-k1",
+          "en": "fabric",
+          "vi": [
+            "vải"
+          ],
+          "start": 16.47,
+          "end": 17.1,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u03-k2",
+          "en": "called",
+          "vi": [
+            "gọi"
+          ],
+          "start": 18.965372,
+          "end": 19.32,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u03-k3",
+          "en": "slurry",
+          "vi": [
+            "slurry"
+          ],
+          "start": 19.32,
+          "end": 19.92,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u04",
+      "speaker": "W",
+      "text": "That fabric is then available to create new products.",
+      "start": 23.76,
+      "end": 26.91,
+      "clipSrc": "../../audio-sentences/t9-47-s04.mp3",
+      "clipSourceStart": 23.68,
+      "vi": "Những tấm vải này sau đó có thể được sử dụng để tạo ra các sản phẩm mới.",
+      "listeningKeywords": [
+        "fabric",
+        "available",
+        "create",
+        "products"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fabric",
+          "vi": "vải"
+        },
+        {
+          "en": "create",
+          "vi": "tạo"
+        },
+        {
+          "en": "products",
+          "vi": "sản phẩm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u04-k1",
+          "en": "fabric",
+          "vi": [
+            "vải"
+          ],
+          "start": 24.03,
+          "end": 24.51,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u04-k2",
+          "en": "available",
+          "vi": [],
+          "start": 24.81,
+          "end": 25.41,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u04-k3",
+          "en": "create",
+          "vi": [
+            "tạo"
+          ],
+          "start": 25.56,
+          "end": 25.92,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u04-k4",
+          "en": "products",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 26.22,
+          "end": 26.91,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u05",
+      "speaker": "W",
+      "text": "Reducing unnecessary waste is our goal.",
+      "start": 27.33,
+      "end": 29.91,
+      "clipSrc": "../../audio-sentences/t9-47-s05.mp3",
+      "clipSourceStart": 27.25,
+      "vi": "Mục tiêu của chúng tôi là giảm thiểu lãng phí không cần thiết.",
+      "listeningKeywords": [
+        "Reducing",
+        "unnecessary waste"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Reducing",
+          "vi": "giảm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u05-k1",
+          "en": "Reducing",
+          "vi": [
+            "giảm"
+          ],
+          "start": 27.33,
+          "end": 27.96,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u05-k2",
+          "en": "unnecessary waste",
+          "vi": [],
+          "start": 27.99,
+          "end": 29.16,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u06",
+      "speaker": "M",
+      "text": "It sounds like a great way to use leftover materials.",
+      "start": 30.6,
+      "end": 34.29,
+      "clipSrc": "../../audio-sentences/t9-47-s06.mp3",
+      "clipSourceStart": 30.52,
+      "vi": "Nghe có vẻ là một cách tuyệt vời để tận dụng nguyên liệu thừa.",
+      "listeningKeywords": [
+        "sounds",
+        "use",
+        "leftover materials"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sounds",
+          "vi": "Nghe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u06-k1",
+          "en": "sounds",
+          "vi": [
+            "Nghe"
+          ],
+          "start": 30.78,
+          "end": 31.38,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u06-k2",
+          "en": "use",
+          "vi": [],
+          "start": 32.61,
+          "end": 32.91,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u07",
+      "speaker": "W",
+      "text": "Unfortunately, our facility is currently able to process only cotton waste.",
+      "start": 34.8,
+      "end": 39.87,
+      "clipSrc": "../../audio-sentences/t9-47-s07.mp3",
+      "clipSourceStart": 34.72,
+      "vi": "Thật tiếc là cơ sở của chúng tôi hiện tại chỉ có thể xử lý rác thải cotton.",
+      "listeningKeywords": [
+        "facility",
+        "process",
+        "cotton waste"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "process",
+          "vi": "xử lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u07-k1",
+          "en": "facility",
+          "vi": [],
+          "start": 36.18,
+          "end": 36.84,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u07-k2",
+          "en": "process",
+          "vi": [
+            "xử lý"
+          ],
+          "start": 37.95,
+          "end": 38.52,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u07-k3",
+          "en": "cotton waste",
+          "vi": [],
+          "start": 38.82,
+          "end": 39.87,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u08",
+      "speaker": "W",
+      "text": "But in the next few years, we should be able to recycle more types of textiles here.",
+      "start": 40.23,
+      "end": 45.18,
+      "clipSrc": "../../audio-sentences/t9-47-s08.mp3",
+      "clipSourceStart": 40.15,
+      "vi": "Nhưng trong vài năm tới, chúng tôi hy vọng có thể tái chế nhiều loại vải hơn tại đây.",
+      "listeningKeywords": [
+        "recycle",
+        "types",
+        "textiles"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "recycle",
+          "vi": "tái chế"
+        },
+        {
+          "en": "types",
+          "vi": "loại"
+        },
+        {
+          "en": "textiles",
+          "vi": "vải"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u08-k1",
+          "en": "types",
+          "vi": [
+            "loại"
+          ],
+          "start": 43.62,
+          "end": 43.98,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u08-k2",
+          "en": "textiles",
+          "vi": [
+            "vải"
+          ],
+          "start": 44.07,
+          "end": 44.82,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-47-u09",
+      "speaker": "W",
+      "text": "It's my hope that it could eventually become as common as recycling aluminum is now.",
+      "start": 45.72,
+      "end": 50.52,
+      "clipSrc": "../../audio-sentences/t9-47-s09.mp3",
+      "clipSourceStart": 45.64,
+      "vi": "Tôi hy vọng rằng điều này cuối cùng có thể trở nên phổ biến như việc tái chế nhôm hiện nay.",
+      "listeningKeywords": [
+        "eventually become",
+        "common",
+        "recycling aluminum"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "recycling aluminum",
+          "vi": "tái chế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-47-u09-k1",
+          "en": "eventually become",
+          "vi": [],
+          "start": 46.92,
+          "end": 47.91,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u09-k2",
+          "en": "common",
+          "vi": [],
+          "start": 48.06,
+          "end": 48.45,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-47-u09-k3",
+          "en": "recycling aluminum",
+          "vi": [
+            "tái chế"
+          ],
+          "start": 48.63,
+          "end": 49.86,
+          "anchorSource": "t9-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "conversations": 65,
+  "questions": 195,
+  "graphics": 15,
+  "existingScriptsUnchanged": true,
+  "existingStylesUnchanged": true,
+  "existingImageFilesUnchanged": 150,
+  "timing": "Automatically aligned to original audio and cross-checked with independent recognition; not a manual phoneme-level annotation",
+  "sourceCorrections": [
+    "Test 3 47-49 from scanned PDF page 76",
+    "Test 3 50-52 from scanned PDF page 77"
+  ]
+}

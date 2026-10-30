@@ -1,0 +1,555 @@
+{
+  "conversationId": "t8-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-35-u01",
+      "speaker": "M",
+      "text": "Hey, Silvia. Did you leave the refrigerator door in the laboratory open this morning?",
+      "start": 6.09,
+      "end": 11.28,
+      "clipSrc": "../../audio-sentences/t8-35-s01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Này Silvia. Bạn có để cửa tủ lạnh trong phòng thí nghiệm mở sáng nay không?",
+      "listeningKeywords": [
+        "leave",
+        "refrigerator",
+        "laboratory",
+        "open"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "refrigerator",
+          "vi": "tủ lạnh"
+        },
+        {
+          "en": "open",
+          "vi": "mở"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u01-k1",
+          "en": "leave",
+          "vi": [],
+          "start": 7.59,
+          "end": 7.89,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u01-k2",
+          "en": "refrigerator",
+          "vi": [
+            "tủ lạnh"
+          ],
+          "start": 8.01,
+          "end": 8.76,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u01-k3",
+          "en": "laboratory",
+          "vi": [],
+          "start": 9.33,
+          "end": 10.11,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u01-k4",
+          "en": "open",
+          "vi": [
+            "mở"
+          ],
+          "start": 10.11,
+          "end": 10.56,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u02",
+      "speaker": "W",
+      "text": "No, I just arrived at the lab.",
+      "start": 11.61,
+      "end": 14.16,
+      "clipSrc": "../../audio-sentences/t8-35-s02.mp3",
+      "clipSourceStart": 11.53,
+      "vi": "Không, tôi vừa đến lab.",
+      "listeningKeywords": [
+        "arrived",
+        "lab"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "arrived",
+          "vi": "đến"
+        },
+        {
+          "en": "lab",
+          "vi": "lab"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u02-k1",
+          "en": "arrived",
+          "vi": [
+            "đến"
+          ],
+          "start": 12.96,
+          "end": 13.47,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u02-k2",
+          "en": "lab",
+          "vi": [
+            "lab"
+          ],
+          "start": 13.68,
+          "end": 14.16,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u03",
+      "speaker": "W",
+      "text": "I haven't opened the refrigerator yet.",
+      "start": 14.43,
+      "end": 16.41,
+      "clipSrc": "../../audio-sentences/t8-35-s03.mp3",
+      "clipSourceStart": 14.35,
+      "vi": "Tôi chưa mở tủ lạnh.",
+      "listeningKeywords": [
+        "haven't",
+        "opened",
+        "refrigerator"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "haven't",
+          "vi": "chưa"
+        },
+        {
+          "en": "opened",
+          "vi": "mở"
+        },
+        {
+          "en": "refrigerator",
+          "vi": "tủ lạnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u03-k1",
+          "en": "haven't",
+          "vi": [
+            "chưa"
+          ],
+          "start": 14.52,
+          "end": 14.88,
+          "anchorSource": "t8-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u03-k2",
+          "en": "opened",
+          "vi": [
+            "mở"
+          ],
+          "start": 14.88,
+          "end": 15.21,
+          "anchorSource": "t8-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u03-k3",
+          "en": "refrigerator",
+          "vi": [
+            "tủ lạnh"
+          ],
+          "start": 15.3,
+          "end": 16.02,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u04",
+      "speaker": "W",
+      "text": "Why?",
+      "start": 16.56,
+      "end": 17.04,
+      "clipSrc": "../../audio-sentences/t8-35-s04.mp3",
+      "clipSourceStart": 16.48,
+      "vi": "Sao vậy?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t8-35-u05",
+      "speaker": "M",
+      "text": "Well, the temperature is off by a few degrees.",
+      "start": 17.37,
+      "end": 20.19,
+      "clipSrc": "../../audio-sentences/t8-35-s05.mp3",
+      "clipSourceStart": 17.29,
+      "vi": "Ừm, nhiệt độ lệch vài độ.",
+      "listeningKeywords": [
+        "temperature",
+        "degrees"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "temperature",
+          "vi": "nhiệt độ"
+        },
+        {
+          "en": "degrees",
+          "vi": "độ"
+        },
+        {
+          "en": "degrees",
+          "vi": "độ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u05-k1",
+          "en": "temperature",
+          "vi": [
+            "nhiệt độ"
+          ],
+          "start": 18.09,
+          "end": 18.69,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u05-k2",
+          "en": "degrees",
+          "vi": [
+            "độ"
+          ],
+          "start": 19.53,
+          "end": 20.19,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u06",
+      "speaker": "M",
+      "text": "We just purchased that refrigerator last month, so it should be in perfect working order.",
+      "start": 20.43,
+      "end": 25.74,
+      "clipSrc": "../../audio-sentences/t8-35-s06.mp3",
+      "clipSourceStart": 20.35,
+      "vi": "Chúng ta vừa mua tủ lạnh đó tháng trước, nên nó hẳn phải hoạt động bình thường.",
+      "listeningKeywords": [
+        "purchased",
+        "refrigerator",
+        "perfect",
+        "order"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "refrigerator",
+          "vi": "tủ lạnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u06-k1",
+          "en": "purchased",
+          "vi": [
+            "mua"
+          ],
+          "start": 21.03,
+          "end": 21.57,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u06-k2",
+          "en": "refrigerator",
+          "vi": [
+            "tủ lạnh"
+          ],
+          "start": 21.78,
+          "end": 22.47,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u06-k3",
+          "en": "perfect",
+          "vi": [],
+          "start": 24.48,
+          "end": 24.96,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u06-k4",
+          "en": "order",
+          "vi": [],
+          "start": 25.38,
+          "end": 25.74,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u07",
+      "speaker": "W",
+      "text": "Oh, I see. I'll be working late tonight.",
+      "start": 26.07,
+      "end": 29.4,
+      "clipSrc": "../../audio-sentences/t8-35-s07.mp3",
+      "clipSourceStart": 25.99,
+      "vi": "Ồ, tôi hiểu. Tôi sẽ làm việc muộn tối nay.",
+      "listeningKeywords": [
+        "see",
+        "late tonight"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "hiểu"
+        },
+        {
+          "en": "late tonight",
+          "vi": "muộn tối nay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u07-k1",
+          "en": "see",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 26.76,
+          "end": 27.33,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u07-k2",
+          "en": "late tonight",
+          "vi": [
+            "muộn tối nay"
+          ],
+          "start": 28.53,
+          "end": 29.4,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u08",
+      "speaker": "W",
+      "text": "Would you like me to check the temperature every few hours?",
+      "start": 29.67,
+      "end": 32.46,
+      "clipSrc": "../../audio-sentences/t8-35-s08.mp3",
+      "clipSourceStart": 29.59,
+      "vi": "Bạn có muốn tôi kiểm tra nhiệt độ mỗi vài giờ không?",
+      "listeningKeywords": [
+        "check",
+        "temperature",
+        "hours"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "temperature",
+          "vi": "nhiệt độ"
+        },
+        {
+          "en": "hours",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u08-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 30.42,
+          "end": 30.72,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u08-k2",
+          "en": "temperature",
+          "vi": [
+            "nhiệt độ"
+          ],
+          "start": 30.84,
+          "end": 31.41,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u08-k3",
+          "en": "hours",
+          "vi": [
+            "giờ"
+          ],
+          "start": 31.95,
+          "end": 32.46,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u09",
+      "speaker": "M",
+      "text": "That's OK. I can monitor it from home with my smartphone.",
+      "start": 32.73,
+      "end": 36.45,
+      "clipSrc": "../../audio-sentences/t8-35-s09.mp3",
+      "clipSourceStart": 32.65,
+      "vi": "Không sao. Tôi có thể giám sát từ nhà bằng smartphone.",
+      "listeningKeywords": [
+        "monitor",
+        "home",
+        "smartphone"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "smartphone",
+          "vi": "smartphone"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u09-k1",
+          "en": "monitor",
+          "vi": [],
+          "start": 34.02,
+          "end": 34.56,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u09-k2",
+          "en": "home",
+          "vi": [],
+          "start": 34.98,
+          "end": 35.4,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-35-u09-k3",
+          "en": "smartphone",
+          "vi": [
+            "smartphone"
+          ],
+          "start": 35.7,
+          "end": 36.45,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-35-u10",
+      "speaker": "M",
+      "text": "Thanks, anyway.",
+      "start": 36.69,
+      "end": 37.53,
+      "clipSrc": "../../audio-sentences/t8-35-s10.mp3",
+      "clipSourceStart": 36.61,
+      "vi": "Dù sao cũng cảm ơn cô.",
+      "listeningKeywords": [
+        "anyway"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "anyway",
+          "vi": "Dù sao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-35-u10-k1",
+          "en": "anyway",
+          "vi": [
+            "Dù sao"
+          ],
+          "start": 37.02,
+          "end": 37.53,
+          "anchorSource": "t8-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

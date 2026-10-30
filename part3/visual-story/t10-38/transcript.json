@@ -1,0 +1,396 @@
+{
+  "conversationId": "t10-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-38-u01",
+      "speaker": "W",
+      "text": "Welcome to the Western Airlines customer service desk.",
+      "start": 5.52,
+      "end": 8.22,
+      "clipSrc": "../../audio-sentences/t10-38-s01.mp3",
+      "clipSourceStart": 5.44,
+      "vi": "Chào mừng đến với quầy dịch vụ khách hàng của Western Airlines.",
+      "listeningKeywords": [
+        "Western Airlines customer service desk"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Western Airlines customer service desk",
+          "vi": "dịch vụ khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u01-k1",
+          "en": "Western Airlines customer service desk",
+          "vi": [
+            "dịch vụ khách hàng"
+          ],
+          "start": 6.15,
+          "end": 8.22,
+          "anchorSource": "t10-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u02",
+      "speaker": "W",
+      "text": "How can I assist you?",
+      "start": 8.4,
+      "end": 9.48,
+      "clipSrc": "../../audio-sentences/t10-38-s02.mp3",
+      "clipSourceStart": 8.32,
+      "vi": "Tôi có thể giúp gì cho quý khách?",
+      "listeningKeywords": [
+        "assist"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "assist",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u02-k1",
+          "en": "assist",
+          "vi": [
+            "giúp"
+          ],
+          "start": 8.85,
+          "end": 9.21,
+          "anchorSource": "t10-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u03",
+      "speaker": "M",
+      "text": "Hi. I flew in yesterday from Canada and was told that my luggage was accidentally put on a flight arriving this morning.",
+      "start": 9.9,
+      "end": 17.07,
+      "clipSrc": "../../audio-sentences/t10-38-s03.mp3",
+      "clipSourceStart": 9.82,
+      "vi": "Chào. Tôi đã bay đến từ Canada ngày hôm qua và được thông báo rằng hành lý của tôi bị vô tình gửi nhầm sang chuyến bay đến vào sáng nay.",
+      "listeningKeywords": [
+        "told",
+        "luggage",
+        "accidentally put",
+        "arriving"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "luggage",
+          "vi": "hành lý"
+        },
+        {
+          "en": "arriving",
+          "vi": "đến"
+        },
+        {
+          "en": "arriving",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u03-k1",
+          "en": "told",
+          "vi": [],
+          "start": 13.08,
+          "end": 13.41,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u03-k2",
+          "en": "luggage",
+          "vi": [
+            "hành lý"
+          ],
+          "start": 13.68,
+          "end": 14.16,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u03-k3",
+          "en": "accidentally put",
+          "vi": [],
+          "start": 14.34,
+          "end": 15.36,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u03-k4",
+          "en": "arriving",
+          "vi": [
+            "đến"
+          ],
+          "start": 15.9,
+          "end": 16.38,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u04",
+      "speaker": "W",
+      "text": "OK. Do you have your boarding pass?",
+      "start": 17.46,
+      "end": 19.71,
+      "clipSrc": "../../audio-sentences/t10-38-s04.mp3",
+      "clipSourceStart": 17.38,
+      "vi": "Vâng. Anh có mang theo thẻ lên máy bay không?",
+      "listeningKeywords": [
+        "boarding pass"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "boarding pass",
+          "vi": "thẻ lên máy bay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u04-k1",
+          "en": "boarding pass",
+          "vi": [
+            "thẻ lên máy bay"
+          ],
+          "start": 18.87,
+          "end": 19.71,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u05",
+      "speaker": "M",
+      "text": "Yes—here it is. Can I go to the unclaimed baggage area and pick up my luggage?",
+      "start": 19.92,
+      "end": 25.56,
+      "clipSrc": "../../audio-sentences/t10-38-s05.mp3",
+      "clipSourceStart": 19.84,
+      "vi": "Có—đây ạ. Tôi có thể đến khu vực hành lý thất lạc để lấy hành lý không?",
+      "listeningKeywords": [
+        "unclaimed baggage area",
+        "pick",
+        "luggage"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "unclaimed baggage area",
+          "vi": "khu vực"
+        },
+        {
+          "en": "pick",
+          "vi": "lấy"
+        },
+        {
+          "en": "luggage",
+          "vi": "hành lý"
+        },
+        {
+          "en": "luggage",
+          "vi": "hành lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u05-k1",
+          "en": "unclaimed baggage area",
+          "vi": [
+            "khu vực"
+          ],
+          "start": 22.65,
+          "end": 24.24,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u05-k2",
+          "en": "pick",
+          "vi": [
+            "lấy"
+          ],
+          "start": 24.39,
+          "end": 24.6,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u05-k3",
+          "en": "luggage",
+          "vi": [
+            "hành lý"
+          ],
+          "start": 24.9,
+          "end": 25.56,
+          "anchorSource": "t10-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u06",
+      "speaker": "W",
+      "text": "That area is past security.",
+      "start": 25.92,
+      "end": 27.81,
+      "clipSrc": "../../audio-sentences/t10-38-s06.mp3",
+      "clipSourceStart": 25.84,
+      "vi": "Khu vực đó nằm sau kiểm soát an ninh.",
+      "listeningKeywords": [
+        "area",
+        "past security"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "area",
+          "vi": "Khu vực"
+        },
+        {
+          "en": "past security",
+          "vi": "an ninh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u06-k1",
+          "en": "area",
+          "vi": [
+            "Khu vực"
+          ],
+          "start": 26.22,
+          "end": 26.64,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u06-k2",
+          "en": "past security",
+          "vi": [
+            "an ninh"
+          ],
+          "start": 26.79,
+          "end": 27.81,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-38-u07",
+      "speaker": "W",
+      "text": "I can use information on the boarding pass to locate the luggage for you.",
+      "start": 28.23,
+      "end": 31.62,
+      "clipSrc": "../../audio-sentences/t10-38-s07.mp3",
+      "clipSourceStart": 28.15,
+      "vi": "Tôi có thể dùng thông tin trên thẻ lên máy bay để tìm hành lý cho anh.",
+      "listeningKeywords": [
+        "use",
+        "boarding pass",
+        "locate",
+        "luggage"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "dùng"
+        },
+        {
+          "en": "boarding pass",
+          "vi": "thẻ lên máy bay"
+        },
+        {
+          "en": "luggage",
+          "vi": "hành lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-38-u07-k1",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 28.53,
+          "end": 28.83,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u07-k2",
+          "en": "boarding pass",
+          "vi": [
+            "thẻ lên máy bay"
+          ],
+          "start": 29.52,
+          "end": 30.15,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u07-k3",
+          "en": "locate",
+          "vi": [],
+          "start": 30.27,
+          "end": 30.66,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-38-u07-k4",
+          "en": "luggage",
+          "vi": [
+            "hành lý"
+          ],
+          "start": 30.75,
+          "end": 31.14,
+          "anchorSource": "t10-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

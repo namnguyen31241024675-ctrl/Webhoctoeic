@@ -1,0 +1,410 @@
+{
+  "conversationId": "t7-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-47-u01",
+      "speaker": "W",
+      "text": "Pedro, I just registered for the national marketing convention in June.",
+      "start": 6.15,
+      "end": 10.14,
+      "clipSrc": "../../audio-sentences/t7-47-s01.mp3",
+      "clipSourceStart": 6.07,
+      "vi": "Pedro, tôi vừa đăng ký hội nghị marketing toàn quốc tháng Sáu rồi.",
+      "listeningKeywords": [
+        "registered",
+        "national marketing convention",
+        "June"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "registered",
+          "vi": "đăng ký"
+        },
+        {
+          "en": "June",
+          "vi": "tháng Sáu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u01-k1",
+          "en": "registered",
+          "vi": [
+            "đăng ký"
+          ],
+          "start": 7.32,
+          "end": 7.89,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u01-k2",
+          "en": "national marketing convention",
+          "vi": [],
+          "start": 8.13,
+          "end": 9.6,
+          "anchorSource": "t7-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u01-k3",
+          "en": "June",
+          "vi": [
+            "tháng Sáu"
+          ],
+          "start": 9.72,
+          "end": 10.14,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u02",
+      "speaker": "M",
+      "text": "Me, too. And I printed out the program with all the talks and workshops.",
+      "start": 10.5,
+      "end": 14.76,
+      "clipSrc": "../../audio-sentences/t7-47-s02.mp3",
+      "clipSourceStart": 10.42,
+      "vi": "Tôi cũng vậy. Tôi còn in chương trình có tất cả các buổi nói chuyện và hội thảo nữa.",
+      "listeningKeywords": [
+        "printed",
+        "program",
+        "talks",
+        "workshops"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "printed",
+          "vi": "in"
+        },
+        {
+          "en": "talks",
+          "vi": "nói chuyện"
+        },
+        {
+          "en": "workshops",
+          "vi": "hội thảo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u02-k1",
+          "en": "printed",
+          "vi": [
+            "in"
+          ],
+          "start": 11.82,
+          "end": 12.18,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u02-k2",
+          "en": "program",
+          "vi": [],
+          "start": 12.45,
+          "end": 13.02,
+          "anchorSource": "t7-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u02-k3",
+          "en": "talks",
+          "vi": [
+            "nói chuyện"
+          ],
+          "start": 13.5,
+          "end": 13.95,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u02-k4",
+          "en": "workshops",
+          "vi": [
+            "hội thảo"
+          ],
+          "start": 14.069264,
+          "end": 14.76,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u03",
+      "speaker": "W",
+      "text": "Oh, can I take a look? This is great! It looks like there are plenty of breaks in the schedule for networking with potential clients.",
+      "start": 14.94,
+      "end": 23.1,
+      "clipSrc": "../../audio-sentences/t7-47-s03.mp3",
+      "clipSourceStart": 14.86,
+      "vi": "Ồ, cho tôi xem với? Tuyệt quá! Có vẻ lịch trình có nhiều khoảng nghỉ để kết nối với khách hàng tiềm năng.",
+      "listeningKeywords": [
+        "breaks",
+        "schedule",
+        "networking",
+        "potential clients"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "schedule",
+          "vi": "lịch trình"
+        },
+        {
+          "en": "potential clients",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u03-k1",
+          "en": "breaks",
+          "vi": [],
+          "start": 20.16,
+          "end": 20.55,
+          "anchorSource": "t7-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u03-k2",
+          "en": "schedule",
+          "vi": [
+            "lịch trình"
+          ],
+          "start": 20.73,
+          "end": 21.15,
+          "anchorSource": "t7-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u03-k3",
+          "en": "networking",
+          "vi": [],
+          "start": 21.304918,
+          "end": 21.9,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u03-k4",
+          "en": "potential clients",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 22.05,
+          "end": 23.1,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u04",
+      "speaker": "M",
+      "text": "Right. So don't forget to bring your business cards with you.",
+      "start": 23.4,
+      "end": 26.82,
+      "clipSrc": "../../audio-sentences/t7-47-s04.mp3",
+      "clipSourceStart": 23.32,
+      "vi": "Đúng rồi. Thế nên đừng quên mang danh thiếp theo nhé.",
+      "listeningKeywords": [
+        "don't",
+        "bring",
+        "business cards"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "đừng"
+        },
+        {
+          "en": "bring",
+          "vi": "mang"
+        },
+        {
+          "en": "business cards",
+          "vi": "danh thiếp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u04-k1",
+          "en": "don't",
+          "vi": [
+            "đừng"
+          ],
+          "start": 24.51,
+          "end": 24.81,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u04-k2",
+          "en": "bring",
+          "vi": [
+            "mang"
+          ],
+          "start": 25.2,
+          "end": 25.41,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u04-k3",
+          "en": "business cards",
+          "vi": [
+            "danh thiếp"
+          ],
+          "start": 25.56,
+          "end": 26.34,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u05",
+      "speaker": "M",
+      "text": "You'll need a lot of them.",
+      "start": 26.91,
+      "end": 28.32,
+      "clipSrc": "../../audio-sentences/t7-47-s05.mp3",
+      "clipSourceStart": 26.83,
+      "vi": "Em sẽ cần nhiều lắm đấy.",
+      "listeningKeywords": [
+        "need"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u05-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 27.21,
+          "end": 27.48,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u06",
+      "speaker": "W",
+      "text": "Thanks for the reminder.",
+      "start": 28.5,
+      "end": 29.79,
+      "clipSrc": "../../audio-sentences/t7-47-s06.mp3",
+      "clipSourceStart": 28.42,
+      "vi": "Cảm ơn anh nhắc.",
+      "listeningKeywords": [
+        "reminder"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reminder",
+          "vi": "nhắc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u06-k1",
+          "en": "reminder",
+          "vi": [
+            "nhắc"
+          ],
+          "start": 29.16,
+          "end": 29.79,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-47-u07",
+      "speaker": "W",
+      "text": "I'd better order more.",
+      "start": 30.21,
+      "end": 31.5,
+      "clipSrc": "../../audio-sentences/t7-47-s07.mp3",
+      "clipSourceStart": 30.13,
+      "vi": "Em phải đặt in thêm thôi.",
+      "listeningKeywords": [
+        "better",
+        "order"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "order",
+          "vi": "đặt in"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-47-u07-k1",
+          "en": "better",
+          "vi": [],
+          "start": 30.45,
+          "end": 30.81,
+          "anchorSource": "t7-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-47-u07-k2",
+          "en": "order",
+          "vi": [
+            "đặt in"
+          ],
+          "start": 30.81,
+          "end": 31.14,
+          "anchorSource": "t7-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

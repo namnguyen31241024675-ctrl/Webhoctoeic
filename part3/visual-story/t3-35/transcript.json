@@ -1,0 +1,557 @@
+{
+  "conversationId": "t3-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-35-u01",
+      "speaker": "M1",
+      "text": "Excuse me, does train 1401 stop at the Lexington Street station?",
+      "start": 7.38,
+      "end": 11.79,
+      "clipSrc": "../../audio-sentences/t3-35-s01.mp3",
+      "clipSourceStart": 7.3,
+      "vi": "Xin lỗi, tàu 1401 có dừng ở ga Lexington Street không?",
+      "listeningKeywords": [
+        "train",
+        "1401",
+        "stop",
+        "Lexington Street station"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "train",
+          "vi": "tàu"
+        },
+        {
+          "en": "1401",
+          "vi": "1401"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u01-k1",
+          "en": "train",
+          "vi": [
+            "tàu"
+          ],
+          "start": 8.58,
+          "end": 8.97,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u01-k2",
+          "en": "stop",
+          "vi": [],
+          "start": 9.9,
+          "end": 10.26,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u01-k3",
+          "en": "Lexington Street station",
+          "vi": [],
+          "start": 10.41,
+          "end": 11.79,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u02",
+      "speaker": "W",
+      "text": "Yes. It's a twenty-minute ride.",
+      "start": 12.06,
+      "end": 14.1,
+      "clipSrc": "../../audio-sentences/t3-35-meaning-02.mp3",
+      "clipSourceStart": 11.98,
+      "vi": "Có. Chuyến đó khoảng 20 phút.",
+      "listeningKeywords": [
+        "twenty",
+        "ride"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "twenty",
+          "vi": "20"
+        },
+        {
+          "en": "ride",
+          "vi": "Chuyến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u02-k1",
+          "en": "twenty",
+          "vi": [
+            "20"
+          ],
+          "start": 12.99,
+          "end": 13.32,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u02-k2",
+          "en": "ride",
+          "vi": [
+            "Chuyến"
+          ],
+          "start": 13.62,
+          "end": 14.1,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u03",
+      "speaker": "M2",
+      "text": "Oh good, that gives us plenty of time to get to the party.",
+      "start": 14.67,
+      "end": 18.03,
+      "clipSrc": "../../audio-sentences/t3-35-s04.mp3",
+      "clipSourceStart": 14.59,
+      "vi": "Ồ tốt quá, vậy thì chúng ta có đủ thời gian đến bữa tiệc.",
+      "listeningKeywords": [
+        "gives",
+        "plenty",
+        "get",
+        "party"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plenty",
+          "vi": "đủ"
+        },
+        {
+          "en": "get",
+          "vi": "đến"
+        },
+        {
+          "en": "party",
+          "vi": "bữa tiệc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u03-k1",
+          "en": "gives",
+          "vi": [],
+          "start": 15.9,
+          "end": 16.14,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u03-k2",
+          "en": "plenty",
+          "vi": [
+            "đủ"
+          ],
+          "start": 16.29,
+          "end": 16.65,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u03-k3",
+          "en": "get",
+          "vi": [
+            "đến"
+          ],
+          "start": 17.16,
+          "end": 17.34,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u03-k4",
+          "en": "party",
+          "vi": [
+            "bữa tiệc"
+          ],
+          "start": 17.58,
+          "end": 18.03,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u04",
+      "speaker": "W",
+      "text": "The train leaves from platform twelve in three minutes.",
+      "start": 18.24,
+      "end": 21.21,
+      "clipSrc": "../../audio-sentences/t3-35-s05.mp3",
+      "clipSourceStart": 18.16,
+      "vi": "Tàu sẽ khởi hành từ sân ga số 12 sau 3 phút nữa.",
+      "listeningKeywords": [
+        "train",
+        "leaves",
+        "platform"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "train",
+          "vi": "Tàu"
+        },
+        {
+          "en": "platform",
+          "vi": "sân ga"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u04-k1",
+          "en": "train",
+          "vi": [
+            "Tàu"
+          ],
+          "start": 18.36,
+          "end": 18.72,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u04-k2",
+          "en": "leaves",
+          "vi": [],
+          "start": 18.72,
+          "end": 19.05,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u04-k3",
+          "en": "platform",
+          "vi": [
+            "sân ga"
+          ],
+          "start": 19.23,
+          "end": 19.74,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u05",
+      "speaker": "M2",
+      "text": "Let's head over there now, Sergey.",
+      "start": 21.42,
+      "end": 23.1,
+      "clipSrc": "../../audio-sentences/t3-35-s06.mp3",
+      "clipSourceStart": 21.34,
+      "vi": "Đi sang đó ngay đi Sergey.",
+      "listeningKeywords": [
+        "head",
+        "Sergey"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "head",
+          "vi": "Đi"
+        },
+        {
+          "en": "head",
+          "vi": "đi"
+        },
+        {
+          "en": "Sergey",
+          "vi": "Sergey"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u05-k1",
+          "en": "head",
+          "vi": [
+            "Đi",
+            "đi"
+          ],
+          "start": 21.69,
+          "end": 21.87,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u05-k2",
+          "en": "Sergey",
+          "vi": [
+            "Sergey"
+          ],
+          "start": 22.53,
+          "end": 23.1,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u06",
+      "speaker": "M2",
+      "text": "I'm really looking forward to our company gala event tonight.",
+      "start": 23.43,
+      "end": 26.64,
+      "clipSrc": "../../audio-sentences/t3-35-s07.mp3",
+      "clipSourceStart": 23.35,
+      "vi": "Tối nay tôi thực sự mong chờ sự kiện gala của công ty.",
+      "listeningKeywords": [
+        "looking",
+        "forward",
+        "gala event"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "mong chờ"
+        },
+        {
+          "en": "forward",
+          "vi": "mong chờ"
+        },
+        {
+          "en": "gala event",
+          "vi": "sự kiện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u06-k1",
+          "en": "looking",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 24.03,
+          "end": 24.36,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u06-k2",
+          "en": "forward",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 24.36,
+          "end": 24.78,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u06-k3",
+          "en": "gala event",
+          "vi": [
+            "sự kiện"
+          ],
+          "start": 25.44,
+          "end": 26.16,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u07",
+      "speaker": "M1",
+      "text": "Me too. Hey, did you happen to bring an umbrella? I forgot mine.",
+      "start": 26.88,
+      "end": 30.99,
+      "clipSrc": "../../audio-sentences/t3-35-meaning-07.mp3",
+      "clipSourceStart": 26.8,
+      "vi": "Tôi cũng vậy. Này, cậu có mang theo ô không? Tôi quên mang rồi.",
+      "listeningKeywords": [
+        "happen",
+        "bring",
+        "umbrella",
+        "forgot"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bring",
+          "vi": "mang"
+        },
+        {
+          "en": "bring",
+          "vi": "mang"
+        },
+        {
+          "en": "forgot",
+          "vi": "quên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u07-k1",
+          "en": "happen",
+          "vi": [],
+          "start": 28.59,
+          "end": 28.86,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u07-k2",
+          "en": "bring",
+          "vi": [
+            "mang"
+          ],
+          "start": 28.95,
+          "end": 29.13,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u07-k3",
+          "en": "umbrella",
+          "vi": [],
+          "start": 29.22,
+          "end": 29.79,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u07-k4",
+          "en": "forgot",
+          "vi": [
+            "quên"
+          ],
+          "start": 30.15,
+          "end": 30.57,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u08",
+      "speaker": "M1",
+      "text": "It might rain on our walk from the station.",
+      "start": 31.26,
+      "end": 33.42,
+      "clipSrc": "../../audio-sentences/t3-35-s10.mp3",
+      "clipSourceStart": 31.18,
+      "vi": "Trên đường đi bộ từ ga có thể trời mưa.",
+      "listeningKeywords": [
+        "rain",
+        "walk",
+        "station"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "rain",
+          "vi": "mưa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u08-k1",
+          "en": "rain",
+          "vi": [
+            "mưa"
+          ],
+          "start": 31.65,
+          "end": 32.04,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u08-k2",
+          "en": "walk",
+          "vi": [],
+          "start": 32.28,
+          "end": 32.55,
+          "anchorSource": "t3-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-35-u08-k3",
+          "en": "station",
+          "vi": [],
+          "start": 32.82,
+          "end": 33.42,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-35-u09",
+      "speaker": "M2",
+      "text": "I did! We can share it.",
+      "start": 33.81,
+      "end": 35.52,
+      "clipSrc": "../../audio-sentences/t3-35-s11.mp3",
+      "clipSourceStart": 33.73,
+      "vi": "Tôi mang rồi! Chúng ta dùng chung nhé.",
+      "listeningKeywords": [
+        "share"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "share",
+          "vi": "dùng chung"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-35-u09-k1",
+          "en": "share",
+          "vi": [
+            "dùng chung"
+          ],
+          "start": 34.98,
+          "end": 35.28,
+          "anchorSource": "t3-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

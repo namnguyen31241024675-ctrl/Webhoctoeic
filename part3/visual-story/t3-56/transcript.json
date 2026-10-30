@@ -1,0 +1,542 @@
+{
+  "conversationId": "t3-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-56-u01",
+      "speaker": "W1",
+      "text": "Oliver, have you finished the maintenance check on the small airplane that came in this morning? The owner's hoping to fly it this weekend.",
+      "start": 7.2,
+      "end": 14.94,
+      "clipSrc": "../../audio-sentences/t3-56-s01.mp3",
+      "clipSourceStart": 7.12,
+      "vi": "Oliver, anh đã hoàn thành kiểm tra bảo dưỡng cho chiếc máy bay nhỏ đến sáng nay chưa? Chủ nhân hy vọng bay nó cuối tuần này.",
+      "listeningKeywords": [
+        "finished",
+        "check",
+        "small airplane",
+        "owner's hoping"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "finished",
+          "vi": "hoàn thành"
+        },
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "small airplane",
+          "vi": "máy bay nhỏ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u01-k1",
+          "en": "finished",
+          "vi": [
+            "hoàn thành"
+          ],
+          "start": 8.43,
+          "end": 8.85,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u01-k2",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 9.6,
+          "end": 9.99,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u01-k3",
+          "en": "small airplane",
+          "vi": [
+            "máy bay nhỏ"
+          ],
+          "start": 10.2,
+          "end": 11.07,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u01-k4",
+          "en": "owner's hoping",
+          "vi": [],
+          "start": 12.75,
+          "end": 13.47,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u02",
+      "speaker": "M",
+      "text": "I finished checking it earlier this morning.",
+      "start": 15.51,
+      "end": 17.61,
+      "clipSrc": "../../audio-sentences/t3-56-s02.mp3",
+      "clipSourceStart": 15.43,
+      "vi": "Tôi đã hoàn thành kiểm tra sáng sớm nay.",
+      "listeningKeywords": [
+        "finished",
+        "checking",
+        "earlier"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "finished",
+          "vi": "hoàn thành"
+        },
+        {
+          "en": "checking",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u02-k1",
+          "en": "finished",
+          "vi": [
+            "hoàn thành"
+          ],
+          "start": 15.66,
+          "end": 16.08,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u02-k2",
+          "en": "checking",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 16.08,
+          "end": 16.471368,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u02-k3",
+          "en": "earlier",
+          "vi": [],
+          "start": 16.62,
+          "end": 16.89,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u03",
+      "speaker": "M",
+      "text": "It needs a new fuel injection pump, so I've asked Camille to order one.",
+      "start": 17.82,
+      "end": 21.39,
+      "clipSrc": "../../audio-sentences/t3-56-s03.mp3",
+      "clipSourceStart": 17.74,
+      "vi": "Nó cần bơm phun nhiên liệu mới, nên tôi đã yêu cầu Camille đặt hàng một cái.",
+      "listeningKeywords": [
+        "fuel injection pump",
+        "asked",
+        "Camille",
+        "order"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fuel injection pump",
+          "vi": "bơm phun nhiên liệu"
+        },
+        {
+          "en": "asked",
+          "vi": "yêu cầu"
+        },
+        {
+          "en": "Camille",
+          "vi": "Camille"
+        },
+        {
+          "en": "order",
+          "vi": "đặt hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u03-k1",
+          "en": "fuel injection pump",
+          "vi": [
+            "bơm phun nhiên liệu"
+          ],
+          "start": 18.48,
+          "end": 19.68,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u03-k2",
+          "en": "asked",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 20.16,
+          "end": 20.43,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u03-k3",
+          "en": "Camille",
+          "vi": [
+            "Camille"
+          ],
+          "start": 20.43,
+          "end": 20.73,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u03-k4",
+          "en": "order",
+          "vi": [
+            "đặt hàng"
+          ],
+          "start": 20.82,
+          "end": 21.09,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u04",
+      "speaker": "M",
+      "text": "Oh, here she comes.",
+      "start": 21.93,
+      "end": 22.92,
+      "clipSrc": "../../audio-sentences/t3-56-s04.mp3",
+      "clipSourceStart": 21.85,
+      "vi": "Ồ, cô ấy đến rồi.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t3-56-u05",
+      "speaker": "M",
+      "text": "Camille, will the new pump arrive today?",
+      "start": 23.22,
+      "end": 25.41,
+      "clipSrc": "../../audio-sentences/t3-56-s05.mp3",
+      "clipSourceStart": 23.14,
+      "vi": "Camille, bơm mới có đến hôm nay không?",
+      "listeningKeywords": [
+        "pump",
+        "arrive"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "arrive",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u05-k1",
+          "en": "pump",
+          "vi": [],
+          "start": 24.42,
+          "end": 24.69,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u05-k2",
+          "en": "arrive",
+          "vi": [
+            "đến"
+          ],
+          "start": 24.69,
+          "end": 25.02,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u06",
+      "speaker": "W2",
+      "text": "Unfortunately, no. The manufacturer said there'll be a delay, and it won't arrive until Monday.",
+      "start": 25.89,
+      "end": 31.5,
+      "clipSrc": "../../audio-sentences/t3-56-meaning-06.mp3",
+      "clipSourceStart": 25.81,
+      "vi": "Thật tiếc, không. Nhà sản xuất nói sẽ bị trì hoãn, và sẽ không đến đến thứ Hai.",
+      "listeningKeywords": [
+        "manufacturer",
+        "delay",
+        "won't",
+        "arrive"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "won't",
+          "vi": "không"
+        },
+        {
+          "en": "won't",
+          "vi": "không"
+        },
+        {
+          "en": "arrive",
+          "vi": "đến"
+        },
+        {
+          "en": "arrive",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u06-k1",
+          "en": "manufacturer",
+          "vi": [],
+          "start": 27.81,
+          "end": 28.59,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u06-k2",
+          "en": "delay",
+          "vi": [],
+          "start": 29.37,
+          "end": 29.88,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u06-k3",
+          "en": "won't",
+          "vi": [
+            "không"
+          ],
+          "start": 30.18,
+          "end": 30.45,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u06-k4",
+          "en": "arrive",
+          "vi": [
+            "đến"
+          ],
+          "start": 30.45,
+          "end": 30.72,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u07",
+      "speaker": "W1",
+      "text": "I better let the customer know.",
+      "start": 31.74,
+      "end": 33.48,
+      "clipSrc": "../../audio-sentences/t3-56-s08.mp3",
+      "clipSourceStart": 31.66,
+      "vi": "Tôi nên thông báo cho khách hàng.",
+      "listeningKeywords": [
+        "better",
+        "customer",
+        "know"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "customer",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u07-k1",
+          "en": "better",
+          "vi": [],
+          "start": 31.95,
+          "end": 32.22,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u07-k2",
+          "en": "customer",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 32.49,
+          "end": 33.06,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u07-k3",
+          "en": "know",
+          "vi": [],
+          "start": 33.06,
+          "end": 33.48,
+          "anchorSource": "t3-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u08",
+      "speaker": "W1",
+      "text": "She was planning to fly the plane to Toronto this weekend for a friend's wedding.",
+      "start": 33.81,
+      "end": 38.16,
+      "clipSrc": "../../audio-sentences/t3-56-s09.mp3",
+      "clipSourceStart": 33.73,
+      "vi": "Cô ấy dự định bay máy bay đến Toronto cuối tuần này cho đám cưới bạn.",
+      "listeningKeywords": [
+        "planning",
+        "fly",
+        "plane",
+        "wedding"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "planning",
+          "vi": "dự định"
+        },
+        {
+          "en": "wedding",
+          "vi": "đám cưới"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u08-k1",
+          "en": "planning",
+          "vi": [
+            "dự định"
+          ],
+          "start": 34.26,
+          "end": 34.71,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u08-k2",
+          "en": "fly",
+          "vi": [],
+          "start": 34.8,
+          "end": 35.1,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u08-k3",
+          "en": "plane",
+          "vi": [],
+          "start": 35.19,
+          "end": 35.49,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-56-u08-k4",
+          "en": "wedding",
+          "vi": [
+            "đám cưới"
+          ],
+          "start": 37.65,
+          "end": 38.16,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-56-u09",
+      "speaker": "W1",
+      "text": "She'll need to find another way to get there.",
+      "start": 38.49,
+      "end": 40.53,
+      "clipSrc": "../../audio-sentences/t3-56-s10.mp3",
+      "clipSourceStart": 38.41,
+      "vi": "Cô ấy cần tìm cách khác để đến đó.",
+      "listeningKeywords": [
+        "find"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "find",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-56-u09-k1",
+          "en": "find",
+          "vi": [
+            "tìm"
+          ],
+          "start": 39.03,
+          "end": 39.33,
+          "anchorSource": "t3-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

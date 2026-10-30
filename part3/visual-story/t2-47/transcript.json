@@ -1,0 +1,445 @@
+{
+  "conversationId": "t2-47",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-47-u01",
+      "speaker": "M",
+      "text": "Dr. Fuentes, sorry to interrupt.",
+      "start": 6.09,
+      "end": 8.25,
+      "clipSrc": "../../audio-sentences/t2-47-s01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Bác sĩ Fuentes, xin lỗi vì làm gián đoạn.",
+      "listeningKeywords": [
+        "interrupt"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "interrupt",
+          "vi": "làm gián đoạn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u01-k1",
+          "en": "interrupt",
+          "vi": [
+            "làm gián đoạn"
+          ],
+          "start": 7.62,
+          "end": 8.25,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u02",
+      "speaker": "M",
+      "text": "Do you have a minute?",
+      "start": 8.28,
+      "end": 9.15,
+      "clipSrc": "../../audio-sentences/t2-47-s02.mp3",
+      "clipSourceStart": 8.25,
+      "vi": "Bà có một phút không?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t2-47-u03",
+      "speaker": "W",
+      "text": "Yes. My nine o'clock dental cleaning patient just canceled.",
+      "start": 9.51,
+      "end": 12.9,
+      "clipSrc": "../../audio-sentences/t2-47-meaning-03.mp3",
+      "clipSourceStart": 9.43,
+      "vi": "Có. Bệnh nhân làm sạch răng lúc 9 giờ của tôi vừa hủy.",
+      "listeningKeywords": [
+        "dental cleaning",
+        "patient",
+        "canceled"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "dental cleaning",
+          "vi": "làm sạch răng"
+        },
+        {
+          "en": "patient",
+          "vi": "Bệnh nhân"
+        },
+        {
+          "en": "canceled",
+          "vi": "hủy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u03-k1",
+          "en": "dental cleaning",
+          "vi": [
+            "làm sạch răng"
+          ],
+          "start": 10.92,
+          "end": 11.64,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u03-k2",
+          "en": "patient",
+          "vi": [
+            "Bệnh nhân"
+          ],
+          "start": 11.64,
+          "end": 12.06,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u03-k3",
+          "en": "canceled",
+          "vi": [
+            "hủy"
+          ],
+          "start": 12.27,
+          "end": 12.9,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u04",
+      "speaker": "M",
+      "text": "I know you're looking for a new receptionist.",
+      "start": 13.38,
+      "end": 15.36,
+      "clipSrc": "../../audio-sentences/t2-47-s05.mp3",
+      "clipSourceStart": 13.3,
+      "vi": "Tôi biết bà đang tìm lễ tân mới.",
+      "listeningKeywords": [
+        "looking",
+        "receptionist"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u04-k1",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 13.89,
+          "end": 14.19,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u04-k2",
+          "en": "receptionist",
+          "vi": [],
+          "start": 14.58,
+          "end": 15.36,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u05",
+      "speaker": "M",
+      "text": "I'd like to recommend someone for the position.",
+      "start": 15.81,
+      "end": 17.88,
+      "clipSrc": "../../audio-sentences/t2-47-s06.mp3",
+      "clipSourceStart": 15.73,
+      "vi": "Tôi muốn giới thiệu ai đó cho vị trí đó.",
+      "listeningKeywords": [
+        "recommend",
+        "position"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "recommend",
+          "vi": "giới thiệu"
+        },
+        {
+          "en": "position",
+          "vi": "vị trí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u05-k1",
+          "en": "recommend",
+          "vi": [
+            "giới thiệu"
+          ],
+          "start": 16.29,
+          "end": 16.74,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u05-k2",
+          "en": "position",
+          "vi": [
+            "vị trí"
+          ],
+          "start": 17.28,
+          "end": 17.88,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u06",
+      "speaker": "W",
+      "text": "Oh. Who do you have in mind?",
+      "start": 18.09,
+      "end": 19.92,
+      "clipSrc": "../../audio-sentences/t2-47-meaning-06.mp3",
+      "clipSourceStart": 18.01,
+      "vi": "Ồ. Bà đang nghĩ đến ai?",
+      "listeningKeywords": [
+        "mind"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mind",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u06-k1",
+          "en": "mind",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 19.47,
+          "end": 19.92,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u07",
+      "speaker": "M",
+      "text": "Well, a former colleague of mine has just moved back to town.",
+      "start": 20.37,
+      "end": 23.76,
+      "clipSrc": "../../audio-sentences/t2-47-s09.mp3",
+      "clipSourceStart": 20.29,
+      "vi": "Ừm, một đồng nghiệp cũ của tôi vừa chuyển về thị trấn.",
+      "listeningKeywords": [
+        "former colleague",
+        "moved",
+        "town"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "former colleague",
+          "vi": "đồng nghiệp"
+        },
+        {
+          "en": "moved",
+          "vi": "chuyển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u07-k1",
+          "en": "former colleague",
+          "vi": [
+            "đồng nghiệp"
+          ],
+          "start": 21.06,
+          "end": 21.9,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u07-k2",
+          "en": "moved",
+          "vi": [
+            "chuyển"
+          ],
+          "start": 22.71,
+          "end": 23.01,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u07-k3",
+          "en": "town",
+          "vi": [],
+          "start": 23.31,
+          "end": 23.76,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u08",
+      "speaker": "M",
+      "text": "Her name's Kelly Graham, and she has several years of experience.",
+      "start": 24.24,
+      "end": 28.11,
+      "clipSrc": "../../audio-sentences/t2-47-s10.mp3",
+      "clipSourceStart": 24.16,
+      "vi": "Tên cô ấy là Kelly Graham, và cô ấy có vài năm kinh nghiệm.",
+      "listeningKeywords": [
+        "name's Kelly Graham",
+        "experience"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "name's Kelly Graham",
+          "vi": "Tên"
+        },
+        {
+          "en": "experience",
+          "vi": "kinh nghiệm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u08-k1",
+          "en": "name's Kelly Graham",
+          "vi": [
+            "Tên"
+          ],
+          "start": 24.39,
+          "end": 25.65,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u08-k2",
+          "en": "experience",
+          "vi": [
+            "kinh nghiệm"
+          ],
+          "start": 27.3,
+          "end": 28.11,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-47-u09",
+      "speaker": "W",
+      "text": "OK. Could you tell Kelly to send me her résumé? I'd be happy to look it over.",
+      "start": 28.29,
+      "end": 33.06,
+      "clipSrc": "../../audio-sentences/t2-47-meaning-09.mp3",
+      "clipSourceStart": 28.21,
+      "vi": "OK. Ông có thể bảo Kelly gửi sơ yếu lý lịch cho tôi không? Tôi sẽ vui lòng xem qua.",
+      "listeningKeywords": [
+        "tell",
+        "Kelly",
+        "send",
+        "résumé"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Kelly",
+          "vi": "Kelly"
+        },
+        {
+          "en": "send",
+          "vi": "gửi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-47-u09-k1",
+          "en": "tell",
+          "vi": [],
+          "start": 29.58,
+          "end": 29.82,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u09-k2",
+          "en": "Kelly",
+          "vi": [
+            "Kelly"
+          ],
+          "start": 29.82,
+          "end": 30.18,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u09-k3",
+          "en": "send",
+          "vi": [
+            "gửi"
+          ],
+          "start": 30.3,
+          "end": 30.54,
+          "anchorSource": "t2-47.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-47-u09-k4",
+          "en": "résumé",
+          "vi": [],
+          "start": 30.87,
+          "end": 31.108876,
+          "anchorSource": "t2-47-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

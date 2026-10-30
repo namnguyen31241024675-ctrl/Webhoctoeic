@@ -1,0 +1,526 @@
+{
+  "conversationId": "t6-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      6,
+      7
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-32-u01",
+      "speaker": "W",
+      "text": "I saw one of the new commercials about our business on television last week.",
+      "start": 6.0,
+      "end": 10.14,
+      "clipSrc": "../../audio-sentences/t6-32-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Tuần trước tôi thấy một trong những quảng cáo mới về công ty chúng ta trên truyền hình.",
+      "listeningKeywords": [
+        "saw",
+        "commercials",
+        "business",
+        "television"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "saw",
+          "vi": "thấy"
+        },
+        {
+          "en": "commercials",
+          "vi": "quảng cáo"
+        },
+        {
+          "en": "business",
+          "vi": "công ty"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u01-k1",
+          "en": "saw",
+          "vi": [
+            "thấy"
+          ],
+          "start": 6.18,
+          "end": 6.57,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u01-k2",
+          "en": "commercials",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 7.17,
+          "end": 7.83,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u01-k3",
+          "en": "business",
+          "vi": [
+            "công ty"
+          ],
+          "start": 8.22,
+          "end": 8.7,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u01-k4",
+          "en": "television",
+          "vi": [],
+          "start": 8.85,
+          "end": 9.39,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u02",
+      "speaker": "W",
+      "text": "I guess the advertising campaign has already launched.",
+      "start": 10.62,
+      "end": 13.68,
+      "clipSrc": "../../audio-sentences/t6-32-s02.mp3",
+      "clipSourceStart": 10.54,
+      "vi": "Tôi đoán chiến dịch quảng cáo đã bắt đầu rồi.",
+      "listeningKeywords": [
+        "guess",
+        "advertising",
+        "campaign",
+        "launched"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "advertising",
+          "vi": "quảng cáo"
+        },
+        {
+          "en": "campaign",
+          "vi": "chiến dịch"
+        },
+        {
+          "en": "launched",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u02-k1",
+          "en": "guess",
+          "vi": [],
+          "start": 10.77,
+          "end": 11.04,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u02-k2",
+          "en": "advertising",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 11.16,
+          "end": 11.82,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u02-k3",
+          "en": "campaign",
+          "vi": [
+            "chiến dịch"
+          ],
+          "start": 11.82,
+          "end": 12.36,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u02-k4",
+          "en": "launched",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 13.02,
+          "end": 13.68,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u03",
+      "speaker": "M",
+      "text": "This ad campaign's coming out at a great time for us.",
+      "start": 13.98,
+      "end": 16.86,
+      "clipSrc": "../../audio-sentences/t6-32-s03.mp3",
+      "clipSourceStart": 13.9,
+      "vi": "Chiến dịch quảng cáo này ra mắt vào thời điểm tuyệt vời cho chúng ta.",
+      "listeningKeywords": [
+        "campaign's"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "campaign's",
+          "vi": "Chiến dịch"
+        }
+      ],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-32-u04",
+      "speaker": "M",
+      "text": "It's our busy season—people are starting to book our tours for their vacations.",
+      "start": 17.34,
+      "end": 21.81,
+      "clipSrc": "../../audio-sentences/t6-32-s04.mp3",
+      "clipSourceStart": 17.26,
+      "vi": "Đây là mùa cao điểm—mọi người đang bắt đầu đặt tour cho kỳ nghỉ của họ.",
+      "listeningKeywords": [
+        "busy season",
+        "starting",
+        "book",
+        "tours"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "busy season",
+          "vi": "mùa cao điểm"
+        },
+        {
+          "en": "starting",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "book",
+          "vi": "đặt"
+        },
+        {
+          "en": "tours",
+          "vi": "tour"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u04-k1",
+          "en": "busy season",
+          "vi": [
+            "mùa cao điểm"
+          ],
+          "start": 17.7,
+          "end": 18.57,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u04-k2",
+          "en": "starting",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 19.26,
+          "end": 19.65,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u04-k3",
+          "en": "book",
+          "vi": [
+            "đặt"
+          ],
+          "start": 19.8,
+          "end": 20.07,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u04-k4",
+          "en": "tours",
+          "vi": [
+            "tour"
+          ],
+          "start": 20.22,
+          "end": 20.67,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u05",
+      "speaker": "W",
+      "text": "There's still some money in the budget.",
+      "start": 22.35,
+      "end": 24.24,
+      "clipSrc": "../../audio-sentences/t6-32-s05.mp3",
+      "clipSourceStart": 22.27,
+      "vi": "Vẫn còn một chút tiền trong ngân sách.",
+      "listeningKeywords": [
+        "money",
+        "budget"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "money",
+          "vi": "tiền"
+        },
+        {
+          "en": "budget",
+          "vi": "ngân sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u05-k1",
+          "en": "money",
+          "vi": [
+            "tiền"
+          ],
+          "start": 23.19,
+          "end": 23.52,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u05-k2",
+          "en": "budget",
+          "vi": [
+            "ngân sách"
+          ],
+          "start": 23.73,
+          "end": 24.24,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u06",
+      "speaker": "W",
+      "text": "We should use it to advertise our most recent package—a guided exploration of the theater district, including tickets to a performance.",
+      "start": 24.81,
+      "end": 33.39,
+      "clipSrc": "../../audio-sentences/t6-32-s06.mp3",
+      "clipSourceStart": 24.73,
+      "vi": "Chúng ta nên dùng nó để quảng cáo gói dịch vụ mới nhất—một chuyến khám phá khu vực nhà hát có hướng dẫn, bao gồm vé xem biểu diễn.",
+      "listeningKeywords": [
+        "use",
+        "advertise",
+        "guided exploration",
+        "theater district"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "dùng"
+        },
+        {
+          "en": "advertise",
+          "vi": "quảng cáo"
+        },
+        {
+          "en": "theater district",
+          "vi": "khu vực nhà hát"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u06-k1",
+          "en": "use",
+          "vi": [
+            "dùng"
+          ],
+          "start": 25.32,
+          "end": 25.68,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u06-k2",
+          "en": "advertise",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 25.92,
+          "end": 26.64,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u06-k3",
+          "en": "guided exploration",
+          "vi": [],
+          "start": 28.62,
+          "end": 29.91,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u06-k4",
+          "en": "theater district",
+          "vi": [
+            "khu vực nhà hát"
+          ],
+          "start": 30.09,
+          "end": 31.05,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u07",
+      "speaker": "M",
+      "text": "That's a good idea.",
+      "start": 33.72,
+      "end": 35.04,
+      "clipSrc": "../../audio-sentences/t6-32-s07.mp3",
+      "clipSourceStart": 33.64,
+      "vi": "Ý hay đấy.",
+      "listeningKeywords": [
+        "idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "Ý hay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u07-k1",
+          "en": "idea",
+          "vi": [
+            "Ý hay"
+          ],
+          "start": 34.41,
+          "end": 35.04,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-32-u08",
+      "speaker": "M",
+      "text": "Let me check how much it would cost to add that information to our current commercials.",
+      "start": 35.58,
+      "end": 39.81,
+      "clipSrc": "../../audio-sentences/t6-32-s08.mp3",
+      "clipSourceStart": 35.5,
+      "vi": "Để tôi kiểm tra xem chi phí thêm thông tin đó vào quảng cáo hiện tại là bao nhiêu.",
+      "listeningKeywords": [
+        "check",
+        "cost",
+        "information",
+        "commercials"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "check",
+          "vi": "xem"
+        },
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        },
+        {
+          "en": "commercials",
+          "vi": "quảng cáo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-32-u08-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra",
+            "xem"
+          ],
+          "start": 35.94,
+          "end": 36.24,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u08-k2",
+          "en": "cost",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 36.9,
+          "end": 37.26,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u08-k3",
+          "en": "information",
+          "vi": [],
+          "start": 37.83,
+          "end": 38.49,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-32-u08-k4",
+          "en": "commercials",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 39.15,
+          "end": 39.81,
+          "anchorSource": "t6-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

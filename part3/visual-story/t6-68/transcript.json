@@ -1,0 +1,679 @@
+{
+  "conversationId": "t6-68",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-68-u01",
+      "speaker": "M",
+      "text": "Henderson's Electricians. How can I help you?",
+      "start": 6.42,
+      "end": 8.67,
+      "clipSrc": "../../audio-sentences/t6-68-s01.mp3",
+      "clipSourceStart": 6.34,
+      "vi": "Henderson's Electricians. Tôi có thể giúp gì?",
+      "listeningKeywords": [
+        "Henderson's Electricians",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Henderson's Electricians",
+          "vi": "Henderson's Electricians"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u01-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 8.16,
+          "end": 8.46,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u02",
+      "speaker": "W",
+      "text": "Hello. I'm calling because I purchased a clothes dryer a few days ago.",
+      "start": 8.94,
+      "end": 13.29,
+      "clipSrc": "../../audio-sentences/t6-68-s02.mp3",
+      "clipSourceStart": 8.86,
+      "vi": "Chào. Tôi gọi vì tôi mua máy sấy quần áo vài ngày trước.",
+      "listeningKeywords": [
+        "calling",
+        "purchased",
+        "clothes dryer",
+        "ago"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        },
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "clothes dryer",
+          "vi": "máy sấy quần áo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u02-k1",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 9.93,
+          "end": 10.38,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u02-k2",
+          "en": "purchased",
+          "vi": [
+            "mua"
+          ],
+          "start": 10.86,
+          "end": 11.43,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u02-k3",
+          "en": "clothes dryer",
+          "vi": [
+            "máy sấy quần áo"
+          ],
+          "start": 11.46,
+          "end": 12.3,
+          "anchorSource": "t6-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u02-k4",
+          "en": "ago",
+          "vi": [],
+          "start": 12.9,
+          "end": 13.26,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u03",
+      "speaker": "W",
+      "text": "But I have a problem.",
+      "start": 13.56,
+      "end": 14.73,
+      "clipSrc": "../../audio-sentences/t6-68-s03.mp3",
+      "clipSourceStart": 13.48,
+      "vi": "Nhưng có vấn đề.",
+      "listeningKeywords": [
+        "problem"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u03-k1",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 14.1,
+          "end": 14.73,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u04",
+      "speaker": "W",
+      "text": "I'm not sure if my home's electric system can support it.",
+      "start": 15.24,
+      "end": 18.48,
+      "clipSrc": "../../audio-sentences/t6-68-s04.mp3",
+      "clipSourceStart": 15.16,
+      "vi": "Tôi không chắc hệ thống điện nhà tôi có hỗ trợ không.",
+      "listeningKeywords": [
+        "not",
+        "home's electric system",
+        "support"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "support",
+          "vi": "hỗ trợ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u04-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 15.42,
+          "end": 15.63,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u04-k2",
+          "en": "home's electric system",
+          "vi": [],
+          "start": 16.26,
+          "end": 17.55,
+          "anchorSource": "t6-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u04-k3",
+          "en": "support",
+          "vi": [
+            "hỗ trợ"
+          ],
+          "start": 17.76,
+          "end": 18.21,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u05",
+      "speaker": "M",
+      "text": "Well, let's see. Could you take a look at your electric panel? There should be a series of switches on it.",
+      "start": 18.72,
+      "end": 24.96,
+      "clipSrc": "../../audio-sentences/t6-68-s05.mp3",
+      "clipSourceStart": 18.64,
+      "vi": "Ừm, để xem. Bà có thể xem bảng điện không? Nên có loạt công tắc trên đó.",
+      "listeningKeywords": [
+        "see",
+        "electric panel",
+        "series",
+        "switches"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "electric panel",
+          "vi": "bảng điện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u05-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 19.53,
+          "end": 19.92,
+          "anchorSource": "t6-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u05-k2",
+          "en": "electric panel",
+          "vi": [
+            "bảng điện"
+          ],
+          "start": 21.66,
+          "end": 22.65,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u05-k3",
+          "en": "series",
+          "vi": [],
+          "start": 23.52,
+          "end": 23.97,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u05-k4",
+          "en": "switches",
+          "vi": [],
+          "start": 24.06,
+          "end": 24.6,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u06",
+      "speaker": "W",
+      "text": "Sure. Hold on. OK.",
+      "start": 25.29,
+      "end": 27.75,
+      "clipSrc": "../../audio-sentences/t6-68-s06.mp3",
+      "clipSourceStart": 25.21,
+      "vi": "Chắc chắn. Chờ chút. OK.",
+      "listeningKeywords": [
+        "Hold"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Hold",
+          "vi": "Chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u06-k1",
+          "en": "Hold",
+          "vi": [
+            "Chờ"
+          ],
+          "start": 25.68,
+          "end": 25.95,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u07",
+      "speaker": "W",
+      "text": "I'm looking at it.",
+      "start": 27.75,
+      "end": 28.68,
+      "clipSrc": "../../audio-sentences/t6-68-s07.mp3",
+      "clipSourceStart": 27.75,
+      "vi": "Tôi đang xem.",
+      "listeningKeywords": [
+        "looking"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u07-k1",
+          "en": "looking",
+          "vi": [
+            "xem"
+          ],
+          "start": 27.96,
+          "end": 28.29,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u08",
+      "speaker": "M",
+      "text": "OK. Do you see any unused spaces where additional switches could be installed?",
+      "start": 29.28,
+      "end": 34.74,
+      "clipSrc": "../../audio-sentences/t6-68-s08.mp3",
+      "clipSourceStart": 29.2,
+      "vi": "OK. Bà có thấy không gian chưa dùng nào để lắp công tắc thêm không?",
+      "listeningKeywords": [
+        "see",
+        "unused spaces",
+        "switches",
+        "installed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "thấy"
+        },
+        {
+          "en": "unused spaces",
+          "vi": "không gian"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u08-k1",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 30.54,
+          "end": 30.9,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u08-k2",
+          "en": "unused spaces",
+          "vi": [
+            "không gian"
+          ],
+          "start": 31.26,
+          "end": 32.55,
+          "anchorSource": "t6-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u08-k3",
+          "en": "switches",
+          "vi": [],
+          "start": 33.18,
+          "end": 33.72,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u08-k4",
+          "en": "installed",
+          "vi": [],
+          "start": 34.05,
+          "end": 34.74,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u09",
+      "speaker": "W",
+      "text": "Just one.",
+      "start": 35.16,
+      "end": 35.97,
+      "clipSrc": "../../audio-sentences/t6-68-s09.mp3",
+      "clipSourceStart": 35.08,
+      "vi": "Chỉ một.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-68-u10",
+      "speaker": "M",
+      "text": "I see. Well, a clothes dryer requires two spaces.",
+      "start": 36.39,
+      "end": 40.68,
+      "clipSrc": "../../audio-sentences/t6-68-s10.mp3",
+      "clipSourceStart": 36.31,
+      "vi": "Tôi hiểu. Ừm, máy sấy quần áo cần hai không gian.",
+      "listeningKeywords": [
+        "see",
+        "clothes dryer requires",
+        "spaces"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "hiểu"
+        },
+        {
+          "en": "clothes dryer requires",
+          "vi": "máy sấy quần áo"
+        },
+        {
+          "en": "clothes dryer requires",
+          "vi": "cần"
+        },
+        {
+          "en": "spaces",
+          "vi": "không gian"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u10-k1",
+          "en": "see",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 36.63,
+          "end": 37.23,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u10-k2",
+          "en": "clothes dryer requires",
+          "vi": [
+            "máy sấy quần áo",
+            "cần"
+          ],
+          "start": 38.25,
+          "end": 39.6,
+          "anchorSource": "t6-68-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u10-k3",
+          "en": "spaces",
+          "vi": [
+            "không gian"
+          ],
+          "start": 39.93,
+          "end": 40.68,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u11",
+      "speaker": "M",
+      "text": "So most likely, we'd need to install something called a subpanel.",
+      "start": 40.95,
+      "end": 44.73,
+      "clipSrc": "../../audio-sentences/t6-68-s11.mp3",
+      "clipSourceStart": 40.87,
+      "vi": "Nên có lẽ cần lắp bảng phụ.",
+      "listeningKeywords": [
+        "likely",
+        "install",
+        "called",
+        "subpanel"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "likely",
+          "vi": "có lẽ"
+        },
+        {
+          "en": "install",
+          "vi": "lắp"
+        },
+        {
+          "en": "subpanel",
+          "vi": "bảng phụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u11-k1",
+          "en": "likely",
+          "vi": [
+            "có lẽ"
+          ],
+          "start": 41.61,
+          "end": 42.0,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u11-k2",
+          "en": "install",
+          "vi": [
+            "lắp"
+          ],
+          "start": 42.51,
+          "end": 42.96,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u11-k3",
+          "en": "called",
+          "vi": [],
+          "start": 43.38,
+          "end": 43.71,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-68-u12",
+      "speaker": "M",
+      "text": "The good news is that you'd only need a 60-amp electrical switch to fix the problem.",
+      "start": 45.21,
+      "end": 50.46,
+      "clipSrc": "../../audio-sentences/t6-68-s12.mp3",
+      "clipSourceStart": 45.13,
+      "vi": "Tin tốt là bà chỉ cần công tắc điện 60-amp để sửa vấn đề.",
+      "listeningKeywords": [
+        "news",
+        "60",
+        "electrical switch",
+        "fix"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "news",
+          "vi": "Tin"
+        },
+        {
+          "en": "60",
+          "vi": "60"
+        },
+        {
+          "en": "fix",
+          "vi": "sửa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-68-u12-k1",
+          "en": "news",
+          "vi": [
+            "Tin"
+          ],
+          "start": 45.51,
+          "end": 45.78,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u12-k2",
+          "en": "60",
+          "vi": [
+            "60"
+          ],
+          "start": 47.13,
+          "end": 47.67,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u12-k3",
+          "en": "electrical switch",
+          "vi": [],
+          "start": 48.06,
+          "end": 49.17,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-68-u12-k4",
+          "en": "fix",
+          "vi": [
+            "sửa"
+          ],
+          "start": 49.44,
+          "end": 49.8,
+          "anchorSource": "t6-68.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

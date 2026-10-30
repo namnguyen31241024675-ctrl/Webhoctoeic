@@ -1,0 +1,62 @@
+{
+  "scope": "ETS 2026 Test 1 questions 32–34 only",
+  "status": "ready",
+  "photos": 5,
+  "scenes": 5,
+  "meaningUtterances": 6,
+  "hotspots": 11,
+  "vocabularyTerms": 8,
+  "clock": "Existing sourceTime = audio.currentTime + audioOffset",
+  "dataSource": "scenes.json; classic JS bundle derived from the same JSON for file://",
+  "browserQA": {
+    "desktop": "1360x940",
+    "mobile": "390x844; no horizontal overflow",
+    "continuousPlayback": "Passed; images progress to scene 5 from original dialogue clock",
+    "transcriptReplay": "Passed; replaying male proposal selects photo 4",
+    "vocabulary": "Passed; English/Vietnamese popup, native pronunciation reached completion",
+    "quizIsolation": "Passed; no photo player or hotspots in initial quiz mode",
+    "quizAnswerKey": "B-D-B; 3/3 from unchanged original questions",
+    "conversationSmoke": "65 groups loaded; exactly 1 photo pilot; 0 failures",
+    "pausedMotion": "Passed; photo transform stayed unchanged while audio paused",
+    "lightTheme": "Passed at mobile viewport",
+    "consoleErrors": 0
+  },
+  "staticQA": {
+    "sceneManifest": "Valid, ready and all image paths resolve",
+    "fileModeBundle": "Manifest and transcript equal JSON sources",
+    "originalInlineCode": "Unchanged",
+    "originalQuestionData": "Unchanged in all 65 conversations"
+  },
+  "images": [
+    {
+      "src": "images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1266b73a8e7eeb5a15eeb691c6ee0b870007a9d260f70ca343d27d3a2d2437c9"
+    },
+    {
+      "src": "images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "93eebb68c59ad192440ecb7b78a0b4ef85a8160edcd45cee88dd67e7509240fd"
+    },
+    {
+      "src": "images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "34cb4f67e7095df17d27afa355521d4a98519027eb9a91d144a95e0983d8f728"
+    },
+    {
+      "src": "images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "553c134aa31c14d44b0c50758aa423dec320ebaa5fbb84493c627f058e58d6f5"
+    },
+    {
+      "src": "images/scene-05.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "94e2957912ec25f8f51cd8f8db19e448212f7a48eeb2b695cd583e4cd78cadc2"
+    }
+  ]
+}

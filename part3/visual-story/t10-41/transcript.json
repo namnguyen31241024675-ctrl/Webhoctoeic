@@ -1,0 +1,446 @@
+{
+  "conversationId": "t10-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-41-u01",
+      "speaker": "M",
+      "text": "We're so happy to have you join our office as our new dental hygienist, Maria.",
+      "start": 5.82,
+      "end": 10.08,
+      "clipSrc": "../../audio-sentences/t10-41-s01.mp3",
+      "clipSourceStart": 5.74,
+      "vi": "Chúng tôi rất vui khi bạn gia nhập văn phòng của chúng tôi với vai trò là nha sĩ vệ sinh răng miệng mới, Maria.",
+      "listeningKeywords": [
+        "join",
+        "office",
+        "dental hygienist",
+        "Maria"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "office",
+          "vi": "văn phòng"
+        },
+        {
+          "en": "Maria",
+          "vi": "Maria"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u01-k1",
+          "en": "join",
+          "vi": [],
+          "start": 7.14,
+          "end": 7.47,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u01-k2",
+          "en": "dental hygienist",
+          "vi": [],
+          "start": 8.58,
+          "end": 9.54,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u01-k3",
+          "en": "Maria",
+          "vi": [
+            "Maria"
+          ],
+          "start": 9.54,
+          "end": 10.08,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u02",
+      "speaker": "M",
+      "text": "As you know, you'll be cleaning our patients' teeth before I come in to complete the exam.",
+      "start": 10.56,
+      "end": 15.54,
+      "clipSrc": "../../audio-sentences/t10-41-s02.mp3",
+      "clipSourceStart": 10.48,
+      "vi": "Như bạn đã biết, bạn sẽ làm sạch răng cho bệnh nhân trước khi tôi vào để hoàn tất kiểm tra.",
+      "listeningKeywords": [
+        "cleaning",
+        "patients' teeth",
+        "complete",
+        "exam"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cleaning",
+          "vi": "làm sạch"
+        },
+        {
+          "en": "patients' teeth",
+          "vi": "bệnh nhân"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u02-k1",
+          "en": "cleaning",
+          "vi": [
+            "làm sạch"
+          ],
+          "start": 11.82,
+          "end": 12.24,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u02-k2",
+          "en": "patients' teeth",
+          "vi": [
+            "bệnh nhân"
+          ],
+          "start": 12.42,
+          "end": 13.29,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u02-k3",
+          "en": "complete",
+          "vi": [],
+          "start": 14.37,
+          "end": 14.82,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u02-k4",
+          "en": "exam",
+          "vi": [],
+          "start": 14.97,
+          "end": 15.54,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u03",
+      "speaker": "W",
+      "text": "I'll also be responsible for updating the patients' files and scheduling their next appointments, right?",
+      "start": 16.11,
+      "end": 21.6,
+      "clipSrc": "../../audio-sentences/t10-41-s03.mp3",
+      "clipSourceStart": 16.03,
+      "vi": "Tôi cũng sẽ chịu trách nhiệm cập nhật hồ sơ bệnh nhân và lên lịch hẹn tiếp theo cho họ, đúng không?",
+      "listeningKeywords": [
+        "responsible",
+        "updating",
+        "patients' files",
+        "scheduling"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "updating",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "patients' files",
+          "vi": "hồ sơ bệnh nhân"
+        },
+        {
+          "en": "scheduling",
+          "vi": "lên lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u03-k1",
+          "en": "responsible",
+          "vi": [],
+          "start": 16.92,
+          "end": 17.55,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u03-k2",
+          "en": "updating",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 17.73,
+          "end": 18.27,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u03-k3",
+          "en": "scheduling",
+          "vi": [
+            "lên lịch"
+          ],
+          "start": 19.53,
+          "end": 20.04,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u04",
+      "speaker": "M",
+      "text": "Yes. We use a software program called DentalX for all our patient records.",
+      "start": 21.84,
+      "end": 26.85,
+      "clipSrc": "../../audio-sentences/t10-41-s04.mp3",
+      "clipSourceStart": 21.76,
+      "vi": "Đúng rồi. Chúng tôi sử dụng một phần mềm có tên DentalX cho tất cả hồ sơ bệnh nhân.",
+      "listeningKeywords": [
+        "use",
+        "software",
+        "called",
+        "patient records"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        },
+        {
+          "en": "software",
+          "vi": "phần mềm"
+        },
+        {
+          "en": "patient records",
+          "vi": "bệnh nhân"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u04-k1",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 22.8,
+          "end": 23.04,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u04-k2",
+          "en": "software",
+          "vi": [
+            "phần mềm"
+          ],
+          "start": 23.1,
+          "end": 23.64,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u04-k3",
+          "en": "called",
+          "vi": [],
+          "start": 24.15,
+          "end": 24.42,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u04-k4",
+          "en": "patient records",
+          "vi": [
+            "bệnh nhân"
+          ],
+          "start": 25.86,
+          "end": 26.85,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u05",
+      "speaker": "M",
+      "text": "Have you used it before?",
+      "start": 27.18,
+      "end": 28.44,
+      "clipSrc": "../../audio-sentences/t10-41-s05.mp3",
+      "clipSourceStart": 27.1,
+      "vi": "Bạn đã từng sử dụng nó chưa?",
+      "listeningKeywords": [
+        "used"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "used",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u05-k1",
+          "en": "used",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 27.54,
+          "end": 27.84,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u06",
+      "speaker": "W",
+      "text": "Yes, I'm familiar with that software.",
+      "start": 28.68,
+      "end": 30.75,
+      "clipSrc": "../../audio-sentences/t10-41-s06.mp3",
+      "clipSourceStart": 28.6,
+      "vi": "Có, tôi quen với phần mềm đó.",
+      "listeningKeywords": [
+        "familiar",
+        "software"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "software",
+          "vi": "phần mềm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u06-k1",
+          "en": "familiar",
+          "vi": [],
+          "start": 29.37,
+          "end": 29.82,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-41-u07",
+      "speaker": "M",
+      "text": "Great. Also, remember that our office closes every day from twelve to one thirty for lunch, so please be mindful of that when scheduling patients.",
+      "start": 31.05,
+      "end": 39.48,
+      "clipSrc": "../../audio-sentences/t10-41-s07.mp3",
+      "clipSourceStart": 30.97,
+      "vi": "Tuyệt. Ngoài ra, hãy nhớ rằng văn phòng của chúng ta đóng cửa mỗi ngày từ 12 giờ đến 1 giờ 30 để nghỉ trưa, nên hãy lưu ý khi lên lịch hẹn cho bệnh nhân.",
+      "listeningKeywords": [
+        "remember",
+        "office closes",
+        "mindful",
+        "scheduling"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "remember",
+          "vi": "nhớ"
+        },
+        {
+          "en": "office closes",
+          "vi": "văn phòng"
+        },
+        {
+          "en": "office closes",
+          "vi": "đóng cửa"
+        },
+        {
+          "en": "scheduling",
+          "vi": "lên lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-41-u07-k1",
+          "en": "remember",
+          "vi": [
+            "nhớ"
+          ],
+          "start": 32.22,
+          "end": 32.64,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u07-k2",
+          "en": "office closes",
+          "vi": [
+            "văn phòng",
+            "đóng cửa"
+          ],
+          "start": 33.06,
+          "end": 33.96,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u07-k3",
+          "en": "mindful",
+          "vi": [],
+          "start": 37.35,
+          "end": 37.8,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-41-u07-k4",
+          "en": "scheduling",
+          "vi": [
+            "lên lịch"
+          ],
+          "start": 38.31,
+          "end": 38.88,
+          "anchorSource": "t10-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

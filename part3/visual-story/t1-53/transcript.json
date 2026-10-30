@@ -1,0 +1,445 @@
+{
+  "conversationId": "t1-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-53-u01",
+      "speaker": "M",
+      "text": "You've reached the maintenance office at Hillview Apartment Complex.",
+      "start": 5.97,
+      "end": 10.23,
+      "clipSrc": "../../audio-sentences/t1-53-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Đây là văn phòng bảo trì tại khu chung cư Hillview.",
+      "listeningKeywords": [
+        "maintenance office",
+        "Hillview Apartment Complex"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "maintenance office",
+          "vi": "văn phòng bảo trì"
+        },
+        {
+          "en": "Hillview Apartment Complex",
+          "vi": "chung cư"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u01-k1",
+          "en": "maintenance office",
+          "vi": [
+            "văn phòng bảo trì"
+          ],
+          "start": 6.84,
+          "end": 7.861254,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u02",
+      "speaker": "W",
+      "text": "Hi. This is Palavi Sen from unit 35B.",
+      "start": 10.53,
+      "end": 14.07,
+      "clipSrc": "../../audio-sentences/t1-53-meaning-02.mp3",
+      "clipSourceStart": 10.45,
+      "vi": "Xin chào. Tôi là Palavi Sen ở căn hộ 35B.",
+      "listeningKeywords": [
+        "Palavi Sen",
+        "unit",
+        "35"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Palavi Sen",
+          "vi": "Palavi Sen"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u02-k1",
+          "en": "unit",
+          "vi": [],
+          "start": 12.69,
+          "end": 13.02,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u02-k2",
+          "en": "35",
+          "vi": [],
+          "start": 13.02,
+          "end": 13.65,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u03",
+      "speaker": "W",
+      "text": "I'm calling because the new thermostat in my apartment isn't working.",
+      "start": 14.67,
+      "end": 18.66,
+      "clipSrc": "../../audio-sentences/t1-53-s04.mp3",
+      "clipSourceStart": 14.59,
+      "vi": "Tôi gọi vì bộ điều chỉnh nhiệt mới trong căn hộ của tôi không hoạt động.",
+      "listeningKeywords": [
+        "calling",
+        "thermostat",
+        "isn't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        },
+        {
+          "en": "isn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u03-k1",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 14.91,
+          "end": 15.42,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u03-k2",
+          "en": "thermostat",
+          "vi": [],
+          "start": 16.17,
+          "end": 16.89,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u03-k3",
+          "en": "isn't",
+          "vi": [
+            "không"
+          ],
+          "start": 17.79,
+          "end": 18.03,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u04",
+      "speaker": "W",
+      "text": "It keeps shutting off and turning on randomly, so my apartment is getting cold.",
+      "start": 19.05,
+      "end": 23.91,
+      "clipSrc": "../../audio-sentences/t1-53-s05.mp3",
+      "clipSourceStart": 18.97,
+      "vi": "Nó cứ tự tắt rồi bật ngẫu nhiên, khiến căn hộ của tôi trở nên rất lạnh.",
+      "listeningKeywords": [
+        "keeps shutting",
+        "turning",
+        "randomly",
+        "apartment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "apartment",
+          "vi": "căn hộ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u04-k1",
+          "en": "keeps shutting",
+          "vi": [],
+          "start": 19.2,
+          "end": 19.89,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u04-k2",
+          "en": "turning",
+          "vi": [],
+          "start": 20.34,
+          "end": 20.73,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u04-k3",
+          "en": "randomly",
+          "vi": [],
+          "start": 20.97,
+          "end": 21.72,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u04-k4",
+          "en": "apartment",
+          "vi": [
+            "căn hộ"
+          ],
+          "start": 22.35,
+          "end": 22.95,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u05",
+      "speaker": "M",
+      "text": "When did this issue start?",
+      "start": 24.33,
+      "end": 26.07,
+      "clipSrc": "../../audio-sentences/t1-53-s06.mp3",
+      "clipSourceStart": 24.25,
+      "vi": "Vấn đề này bắt đầu từ khi nào?",
+      "listeningKeywords": [
+        "issue",
+        "start"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "issue",
+          "vi": "Vấn đề"
+        },
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u05-k1",
+          "en": "issue",
+          "vi": [
+            "Vấn đề"
+          ],
+          "start": 25.05,
+          "end": 25.35,
+          "anchorSource": "t1-53-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u05-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 25.35,
+          "end": 26.07,
+          "anchorSource": "t1-53-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u06",
+      "speaker": "W",
+      "text": "A few hours ago.",
+      "start": 26.4,
+      "end": 27.54,
+      "clipSrc": "../../audio-sentences/t1-53-s07.mp3",
+      "clipSourceStart": 26.32,
+      "vi": "Cách đây vài giờ.",
+      "listeningKeywords": [
+        "hours ago"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hours ago",
+          "vi": "Cách đây vài giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u06-k1",
+          "en": "hours ago",
+          "vi": [
+            "Cách đây vài giờ"
+          ],
+          "start": 26.76,
+          "end": 27.54,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u07",
+      "speaker": "W",
+      "text": "The thermostat was just installed yesterday.",
+      "start": 27.99,
+      "end": 30.54,
+      "clipSrc": "../../audio-sentences/t1-53-s08.mp3",
+      "clipSourceStart": 27.91,
+      "vi": "Bộ điều chỉnh nhiệt vừa mới được lắp đặt vào ngày hôm qua.",
+      "listeningKeywords": [
+        "thermostat",
+        "installed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "installed",
+          "vi": "được lắp đặt"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u07-k1",
+          "en": "thermostat",
+          "vi": [],
+          "start": 28.14,
+          "end": 28.8,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u07-k2",
+          "en": "installed",
+          "vi": [
+            "được lắp đặt"
+          ],
+          "start": 29.31,
+          "end": 29.79,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u08",
+      "speaker": "M",
+      "text": "OK. I can come and take a look at it tomorrow morning.",
+      "start": 31.02,
+      "end": 34.68,
+      "clipSrc": "../../audio-sentences/t1-53-meaning-08.mp3",
+      "clipSourceStart": 30.94,
+      "vi": "Được rồi. Tôi có thể ghé qua kiểm tra vào sáng mai.",
+      "listeningKeywords": [
+        "take",
+        "look"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "look",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u08-k1",
+          "en": "take",
+          "vi": [],
+          "start": 32.85,
+          "end": 33.09,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u08-k2",
+          "en": "look",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 33.15,
+          "end": 33.39,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-53-u09",
+      "speaker": "W",
+      "text": "But it's supposed to be below freezing tonight!",
+      "start": 35.07,
+      "end": 38.46,
+      "clipSrc": "../../audio-sentences/t1-53-s11.mp3",
+      "clipSourceStart": 34.99,
+      "vi": "Nhưng dự báo đêm nay nhiệt độ sẽ xuống dưới mức đóng băng đấy!",
+      "listeningKeywords": [
+        "supposed",
+        "below freezing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "below freezing",
+          "vi": "dưới mức đóng băng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-53-u09-k1",
+          "en": "supposed",
+          "vi": [],
+          "start": 35.97,
+          "end": 36.51,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-53-u09-k2",
+          "en": "below freezing",
+          "vi": [
+            "dưới mức đóng băng"
+          ],
+          "start": 36.78,
+          "end": 37.92,
+          "anchorSource": "t1-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "conversationId": "t3-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-59-u01",
+      "speaker": "M",
+      "text": "Hello, you've reached the customer service line for Quality Internet Service.",
+      "start": 6.0,
+      "end": 10.35,
+      "clipSrc": "../../audio-sentences/t3-59-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Chào, bạn đã gọi đến đường dây dịch vụ khách hàng của Quality Internet Service.",
+      "listeningKeywords": [
+        "reached",
+        "customer service",
+        "Quality Internet Service"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "customer service",
+          "vi": "dịch vụ khách hàng"
+        },
+        {
+          "en": "Quality Internet Service",
+          "vi": "Quality Internet Service"
+        },
+        {
+          "en": "Quality Internet Service",
+          "vi": "dịch vụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u01-k1",
+          "en": "reached",
+          "vi": [],
+          "start": 7.05,
+          "end": 7.29,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u01-k2",
+          "en": "customer service",
+          "vi": [
+            "dịch vụ khách hàng"
+          ],
+          "start": 7.38,
+          "end": 8.25,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u01-k3",
+          "en": "Quality Internet Service",
+          "vi": [
+            "Quality Internet Service",
+            "dịch vụ"
+          ],
+          "start": 8.7,
+          "end": 10.35,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u02",
+      "speaker": "M",
+      "text": "How can I help you?",
+      "start": 10.68,
+      "end": 11.61,
+      "clipSrc": "../../audio-sentences/t3-59-s02.mp3",
+      "clipSourceStart": 10.6,
+      "vi": "Tôi có thể giúp gì cho bạn?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 11.07,
+          "end": 11.31,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u03",
+      "speaker": "W",
+      "text": "I'm Mona Shannak, and my account number's PK62H5.",
+      "start": 12.24,
+      "end": 17.290508,
+      "clipSrc": "../../audio-sentences/t3-59-s03.mp3",
+      "clipSourceStart": 12.16,
+      "vi": "Tôi là Mona Shannak, và số tài khoản của tôi là PK62H5.",
+      "listeningKeywords": [
+        "Mona Shannak",
+        "account"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Mona Shannak",
+          "vi": "Mona Shannak"
+        },
+        {
+          "en": "account",
+          "vi": "tài khoản"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u03-k1",
+          "en": "account",
+          "vi": [
+            "tài khoản"
+          ],
+          "start": 14.22,
+          "end": 14.58,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u04",
+      "speaker": "W",
+      "text": "I'd like to close my account on June thirtieth.",
+      "start": 18.3,
+      "end": 21.06,
+      "clipSrc": "../../audio-sentences/t3-59-s04.mp3",
+      "clipSourceStart": 18.22,
+      "vi": "Tôi muốn đóng tài khoản vào ngày 30 tháng Sáu.",
+      "listeningKeywords": [
+        "close",
+        "account",
+        "June thirtieth"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "close",
+          "vi": "đóng"
+        },
+        {
+          "en": "account",
+          "vi": "tài khoản"
+        },
+        {
+          "en": "June thirtieth",
+          "vi": "tháng Sáu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u04-k1",
+          "en": "close",
+          "vi": [
+            "đóng"
+          ],
+          "start": 18.81,
+          "end": 19.14,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u04-k2",
+          "en": "account",
+          "vi": [
+            "tài khoản"
+          ],
+          "start": 19.32,
+          "end": 19.8,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u04-k3",
+          "en": "June thirtieth",
+          "vi": [
+            "tháng Sáu"
+          ],
+          "start": 20.04,
+          "end": 21.06,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u05",
+      "speaker": "M",
+      "text": "Oh, have you been experiencing issues with the service?",
+      "start": 21.51,
+      "end": 24.48,
+      "clipSrc": "../../audio-sentences/t3-59-s05.mp3",
+      "clipSourceStart": 21.43,
+      "vi": "Ồ, bạn có gặp vấn đề với dịch vụ không?",
+      "listeningKeywords": [
+        "experiencing issues",
+        "service"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "experiencing issues",
+          "vi": "vấn đề"
+        },
+        {
+          "en": "service",
+          "vi": "dịch vụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u05-k1",
+          "en": "experiencing issues",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 22.62,
+          "end": 23.64,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u05-k2",
+          "en": "service",
+          "vi": [
+            "dịch vụ"
+          ],
+          "start": 23.82,
+          "end": 24.48,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u06",
+      "speaker": "W",
+      "text": "Actually, my company has asked me to relocate to Spain.",
+      "start": 24.84,
+      "end": 28.17,
+      "clipSrc": "../../audio-sentences/t3-59-s06.mp3",
+      "clipSourceStart": 24.76,
+      "vi": "Thực ra, công ty tôi yêu cầu tôi chuyển đến Tây Ban Nha.",
+      "listeningKeywords": [
+        "company",
+        "asked",
+        "relocate",
+        "Spain"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "company",
+          "vi": "công ty"
+        },
+        {
+          "en": "asked",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u06-k1",
+          "en": "company",
+          "vi": [
+            "công ty"
+          ],
+          "start": 25.86,
+          "end": 26.31,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u06-k2",
+          "en": "asked",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 26.52,
+          "end": 26.82,
+          "anchorSource": "t3-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u06-k3",
+          "en": "relocate",
+          "vi": [],
+          "start": 27.06,
+          "end": 27.6,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u06-k4",
+          "en": "Spain",
+          "vi": [],
+          "start": 27.69,
+          "end": 28.17,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u07",
+      "speaker": "M",
+      "text": "That's exciting! I'll take care of your request for you then.",
+      "start": 28.68,
+      "end": 31.68,
+      "clipSrc": "../../audio-sentences/t3-59-s07.mp3",
+      "clipSourceStart": 28.6,
+      "vi": "Hay đấy! Tôi sẽ xử lý yêu cầu của bạn.",
+      "listeningKeywords": [
+        "exciting",
+        "care",
+        "request"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "care",
+          "vi": "xử lý"
+        },
+        {
+          "en": "request",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u07-k1",
+          "en": "exciting",
+          "vi": [],
+          "start": 28.89,
+          "end": 29.55,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u07-k2",
+          "en": "care",
+          "vi": [
+            "xử lý"
+          ],
+          "start": 30.3,
+          "end": 30.51,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u07-k3",
+          "en": "request",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 30.72,
+          "end": 31.11,
+          "anchorSource": "t3-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u08",
+      "speaker": "W",
+      "text": "Thank you—I appreciate that.",
+      "start": 32.01,
+      "end": 33.81,
+      "clipSrc": "../../audio-sentences/t3-59-s08.mp3",
+      "clipSourceStart": 31.93,
+      "vi": "Cảm ơn—Tôi đánh giá cao điều đó.",
+      "listeningKeywords": [
+        "appreciate"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "appreciate",
+          "vi": "đánh giá cao"
+        },
+        {
+          "en": "appreciate",
+          "vi": "Cảm ơn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u08-k1",
+          "en": "appreciate",
+          "vi": [
+            "đánh giá cao",
+            "Cảm ơn"
+          ],
+          "start": 32.88,
+          "end": 33.42,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u09",
+      "speaker": "M",
+      "text": "When I'm done updating your records, would you be willing to stay on the phone line to take a survey about your experience as a customer?",
+      "start": 34.23,
+      "end": 40.62,
+      "clipSrc": "../../audio-sentences/t3-59-s09.mp3",
+      "clipSourceStart": 34.15,
+      "vi": "Khi tôi cập nhật xong hồ sơ, bạn có sẵn lòng ở lại đường dây để tham gia khảo sát về trải nghiệm khách hàng không?",
+      "listeningKeywords": [
+        "updating",
+        "records",
+        "phone line",
+        "survey"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "updating",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "survey",
+          "vi": "khảo sát"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-59-u09-k1",
+          "en": "updating",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 34.86,
+          "end": 35.28,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u09-k2",
+          "en": "records",
+          "vi": [],
+          "start": 35.4,
+          "end": 36.03,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u09-k3",
+          "en": "phone line",
+          "vi": [],
+          "start": 37.59,
+          "end": 38.22,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-59-u09-k4",
+          "en": "survey",
+          "vi": [
+            "khảo sát"
+          ],
+          "start": 38.58,
+          "end": 39.03,
+          "anchorSource": "t3-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-59-u10",
+      "speaker": "W",
+      "text": "Certainly.",
+      "start": 40.98,
+      "end": 41.67,
+      "clipSrc": "../../audio-sentences/t3-59-s10.mp3",
+      "clipSourceStart": 40.9,
+      "vi": "Chắc chắn rồi.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

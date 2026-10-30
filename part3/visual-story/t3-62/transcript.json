@@ -1,0 +1,350 @@
+{
+  "conversationId": "t3-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      18,
+      19
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-62-u01",
+      "speaker": "W",
+      "text": "Marco, you'll be restocking the cleaning products this morning, right? While you're doing that, could you also put the updated sale-price labels on the hand soap dispensers? They're on the shelf right above the laundry detergent.",
+      "start": 7.35,
+      "end": 21.0,
+      "clipSrc": "../../audio-sentences/t3-62-s01.mp3",
+      "clipSourceStart": 7.27,
+      "vi": "Marco, anh sẽ bổ sung sản phẩm làm sạch sáng nay phải không? Trong khi làm vậy, anh có thể dán nhãn giá khuyến mãi cập nhật lên bình xà phòng tay không? Chúng ở kệ ngay trên bột giặt.",
+      "listeningKeywords": [
+        "restocking",
+        "cleaning",
+        "sale-price labels",
+        "hand soap dispensers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cleaning",
+          "vi": "làm sạch"
+        },
+        {
+          "en": "sale-price labels",
+          "vi": "khuyến mãi"
+        },
+        {
+          "en": "sale-price labels",
+          "vi": "nhãn"
+        },
+        {
+          "en": "sale-price labels",
+          "vi": "giá"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-62-u01-k1",
+          "en": "restocking",
+          "vi": [],
+          "start": 8.67,
+          "end": 9.51,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u01-k2",
+          "en": "cleaning",
+          "vi": [
+            "làm sạch"
+          ],
+          "start": 9.63,
+          "end": 10.08,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u01-k3",
+          "en": "sale-price labels",
+          "vi": [
+            "khuyến mãi",
+            "nhãn",
+            "giá"
+          ],
+          "start": 14.85,
+          "end": 16.14,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u01-k4",
+          "en": "hand soap dispensers",
+          "vi": [],
+          "start": 16.41,
+          "end": 18.03,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-62-u02",
+      "speaker": "M",
+      "text": "No problem—that shouldn't take long.",
+      "start": 21.3,
+      "end": 23.43,
+      "clipSrc": "../../audio-sentences/t3-62-s02.mp3",
+      "clipSourceStart": 21.22,
+      "vi": "Không vấn đề—sẽ không mất lâu.",
+      "listeningKeywords": [
+        "problem",
+        "shouldn't",
+        "long"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-62-u02-k1",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 21.6,
+          "end": 22.11,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u02-k2",
+          "en": "shouldn't",
+          "vi": [],
+          "start": 22.53,
+          "end": 22.83,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u02-k3",
+          "en": "long",
+          "vi": [],
+          "start": 23.1,
+          "end": 23.43,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-62-u03",
+      "speaker": "M",
+      "text": "What else can I help with?",
+      "start": 23.7,
+      "end": 24.96,
+      "clipSrc": "../../audio-sentences/t3-62-s03.mp3",
+      "clipSourceStart": 23.62,
+      "vi": "Tôi có thể giúp gì nữa?",
+      "listeningKeywords": [
+        "else",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-62-u03-k1",
+          "en": "else",
+          "vi": [],
+          "start": 23.97,
+          "end": 24.15,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u03-k2",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 24.39,
+          "end": 24.66,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-62-u04",
+      "speaker": "W",
+      "text": "Can you make room for our new international foods section at the front of the store?",
+      "start": 25.35,
+      "end": 29.88,
+      "clipSrc": "../../audio-sentences/t3-62-s04.mp3",
+      "clipSourceStart": 25.27,
+      "vi": "Anh có thể dọn chỗ cho khu vực thực phẩm quốc tế mới ở phía trước cửa hàng không?",
+      "listeningKeywords": [
+        "room",
+        "international foods",
+        "front",
+        "store"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "international foods",
+          "vi": "thực phẩm quốc tế"
+        },
+        {
+          "en": "store",
+          "vi": "cửa hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-62-u04-k1",
+          "en": "room",
+          "vi": [],
+          "start": 25.98,
+          "end": 26.28,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u04-k2",
+          "en": "front",
+          "vi": [],
+          "start": 28.95,
+          "end": 29.22,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u04-k3",
+          "en": "store",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 29.37,
+          "end": 29.88,
+          "anchorSource": "t3-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-62-u05",
+      "speaker": "M",
+      "text": "Oh, did the shipment finally arrive? That snowstorm up north really affected delivery schedules.",
+      "start": 30.15,
+      "end": 36.3,
+      "clipSrc": "../../audio-sentences/t3-62-s05.mp3",
+      "clipSourceStart": 30.07,
+      "vi": "Ồ, lô hàng cuối cùng đã đến? Bão tuyết ở phía bắc thực sự ảnh hưởng đến lịch giao hàng.",
+      "listeningKeywords": [
+        "shipment",
+        "arrive",
+        "snowstorm",
+        "affected delivery schedules"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "shipment",
+          "vi": "lô hàng"
+        },
+        {
+          "en": "arrive",
+          "vi": "đến"
+        },
+        {
+          "en": "arrive",
+          "vi": "đến"
+        },
+        {
+          "en": "affected delivery schedules",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "affected delivery schedules",
+          "vi": "lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-62-u05-k1",
+          "en": "shipment",
+          "vi": [
+            "lô hàng"
+          ],
+          "start": 31.08,
+          "end": 31.5,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u05-k2",
+          "en": "arrive",
+          "vi": [
+            "đến"
+          ],
+          "start": 32.01,
+          "end": 32.52,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u05-k3",
+          "en": "snowstorm",
+          "vi": [],
+          "start": 33.09,
+          "end": 33.78,
+          "anchorSource": "t3-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-62-u05-k4",
+          "en": "affected delivery schedules",
+          "vi": [
+            "giao hàng",
+            "lịch"
+          ],
+          "start": 34.68,
+          "end": 36.3,
+          "anchorSource": "t3-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

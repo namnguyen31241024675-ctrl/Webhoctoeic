@@ -1,0 +1,305 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t7-56",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T07-56-58.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 7.17,
+    "dialogueEnd": 49.44
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 7 câu 56–58, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 7 câu 56–58, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 7 câu 56–58, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 7 câu 56–58, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 7.17,
+      "end": 18.57,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M1",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.32,
+          "height": 0.9
+        },
+        {
+          "speaker": "M2",
+          "x": 0.34,
+          "y": 0.03,
+          "width": 0.31,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.69,
+          "y": 0.03,
+          "width": 0.29,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 18.57,
+      "end": 29.43,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M1",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.32,
+          "height": 0.9
+        },
+        {
+          "speaker": "M2",
+          "x": 0.34,
+          "y": 0.03,
+          "width": 0.31,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.69,
+          "y": 0.03,
+          "width": 0.29,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 29.43,
+      "end": 38.61,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M1",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.32,
+          "height": 0.9
+        },
+        {
+          "speaker": "M2",
+          "x": 0.34,
+          "y": 0.03,
+          "width": 0.31,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.69,
+          "y": 0.03,
+          "width": 0.29,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 38.61,
+      "end": 49.44,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "wrecking ball",
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.17,
+          "height": 0.42,
+          "utteranceIds": [
+            "t7-56-u08"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M1",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.32,
+          "height": 0.9
+        },
+        {
+          "speaker": "M2",
+          "x": 0.34,
+          "y": 0.03,
+          "width": 0.31,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.69,
+          "y": 0.03,
+          "width": 0.29,
+          "height": 0.9
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-4-1",
+      "en": "wrecking ball",
+      "vi": "quả cầu phá dỡ",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M1",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.05,
+        "y": 0.05,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "M2",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.375,
+        "y": 0.05,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.715,
+        "y": 0.05,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

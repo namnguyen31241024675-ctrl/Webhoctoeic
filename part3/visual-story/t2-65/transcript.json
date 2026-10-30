@@ -1,0 +1,621 @@
+{
+  "conversationId": "t2-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      19,
+      20
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-65-u01",
+      "speaker": "M",
+      "text": "This is Bradley from Windows Galore.",
+      "start": 7.05,
+      "end": 8.82,
+      "clipSrc": "../../audio-sentences/t2-65-s01.mp3",
+      "clipSourceStart": 6.97,
+      "vi": "Đây là Bradley từ Windows Galore.",
+      "listeningKeywords": [
+        "Windows Galore"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Windows Galore",
+          "vi": "Windows Galore"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u01-k1",
+          "en": "Windows Galore",
+          "vi": [
+            "Windows Galore"
+          ],
+          "start": 8.01,
+          "end": 8.82,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u02",
+      "speaker": "M",
+      "text": "How can I help you?",
+      "start": 8.91,
+      "end": 9.84,
+      "clipSrc": "../../audio-sentences/t2-65-s02.mp3",
+      "clipSourceStart": 8.83,
+      "vi": "Tôi có thể giúp gì cho bạn?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 9.33,
+          "end": 9.57,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u03",
+      "speaker": "W",
+      "text": "Hello! I'd like to have screens added to my windows at home.",
+      "start": 10.17,
+      "end": 14.19,
+      "clipSrc": "../../audio-sentences/t2-65-s03.mp3",
+      "clipSourceStart": 10.09,
+      "vi": "Xin chào! Tôi muốn thêm màn chắn vào cửa sổ nhà tôi.",
+      "listeningKeywords": [
+        "screens",
+        "added",
+        "windows",
+        "home"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "added",
+          "vi": "thêm"
+        },
+        {
+          "en": "windows",
+          "vi": "cửa sổ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u03-k1",
+          "en": "screens",
+          "vi": [],
+          "start": 11.94,
+          "end": 12.51,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u03-k2",
+          "en": "added",
+          "vi": [
+            "thêm"
+          ],
+          "start": 12.51,
+          "end": 12.81,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u03-k3",
+          "en": "windows",
+          "vi": [
+            "cửa sổ"
+          ],
+          "start": 13.08,
+          "end": 13.59,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u03-k4",
+          "en": "home",
+          "vi": [],
+          "start": 13.71,
+          "end": 14.19,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u04",
+      "speaker": "W",
+      "text": "I was wondering if you would be available to stop by and take a look.",
+      "start": 14.73,
+      "end": 18.24,
+      "clipSrc": "../../audio-sentences/t2-65-s04.mp3",
+      "clipSourceStart": 14.65,
+      "vi": "Tôi tự hỏi liệu bạn có thể ghé qua và xem không.",
+      "listeningKeywords": [
+        "wondering",
+        "available",
+        "stop by",
+        "take"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "stop by",
+          "vi": "ghé qua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u04-k1",
+          "en": "wondering",
+          "vi": [],
+          "start": 15.03,
+          "end": 15.48,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u04-k2",
+          "en": "available",
+          "vi": [],
+          "start": 15.96,
+          "end": 16.53,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u04-k3",
+          "en": "stop by",
+          "vi": [
+            "ghé qua"
+          ],
+          "start": 16.68,
+          "end": 17.37,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u04-k4",
+          "en": "take",
+          "vi": [],
+          "start": 17.49,
+          "end": 17.73,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u05",
+      "speaker": "W",
+      "text": "I live at 42 West Third Street, by the way.",
+      "start": 18.78,
+      "end": 21.9,
+      "clipSrc": "../../audio-sentences/t2-65-s05.mp3",
+      "clipSourceStart": 18.7,
+      "vi": "Nhân tiện, tôi sống ở 42 West Third Street.",
+      "listeningKeywords": [
+        "live",
+        "42",
+        "West",
+        "Street"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "42",
+          "vi": "42"
+        },
+        {
+          "en": "West",
+          "vi": "West"
+        },
+        {
+          "en": "Street",
+          "vi": "Street"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u05-k1",
+          "en": "live",
+          "vi": [],
+          "start": 18.96,
+          "end": 19.29,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u05-k2",
+          "en": "42",
+          "vi": [
+            "42"
+          ],
+          "start": 19.41,
+          "end": 20.16,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u05-k3",
+          "en": "West",
+          "vi": [
+            "West"
+          ],
+          "start": 20.16,
+          "end": 20.61,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u05-k4",
+          "en": "Street",
+          "vi": [
+            "Street"
+          ],
+          "start": 20.94,
+          "end": 21.33,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u06",
+      "speaker": "M",
+      "text": "OK—that's not far.",
+      "start": 22.47,
+      "end": 24.0,
+      "clipSrc": "../../audio-sentences/t2-65-s06.mp3",
+      "clipSourceStart": 22.39,
+      "vi": "OK—không xa lắm.",
+      "listeningKeywords": [
+        "not",
+        "far"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "far",
+          "vi": "xa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u06-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 23.31,
+          "end": 23.52,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u06-k2",
+          "en": "far",
+          "vi": [
+            "xa"
+          ],
+          "start": 23.52,
+          "end": 24.0,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u07",
+      "speaker": "M",
+      "text": "Let me see. I could come any morning this week.",
+      "start": 24.21,
+      "end": 27.03,
+      "clipSrc": "../../audio-sentences/t2-65-meaning-07.mp3",
+      "clipSourceStart": 24.13,
+      "vi": "Để tôi xem. Tôi có thể đến bất kỳ buổi sáng nào trong tuần này.",
+      "listeningKeywords": [
+        "see"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u07-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 24.54,
+          "end": 25.05,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u08",
+      "speaker": "W",
+      "text": "How about in the afternoon?",
+      "start": 27.84,
+      "end": 29.37,
+      "clipSrc": "../../audio-sentences/t2-65-s09.mp3",
+      "clipSourceStart": 27.76,
+      "vi": "Buổi chiều thì sao?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t2-65-u09",
+      "speaker": "M",
+      "text": "Hmm. I could reschedule my Tuesday afternoon appointment.",
+      "start": 29.93,
+      "end": 33.33,
+      "clipSrc": "../../audio-sentences/t2-65-meaning-09.mp3",
+      "clipSourceStart": 29.85,
+      "vi": "Hmm. Tôi có thể sắp xếp lại cuộc hẹn chiều thứ Ba.",
+      "listeningKeywords": [
+        "reschedule",
+        "Tuesday",
+        "appointment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reschedule",
+          "vi": "sắp xếp lại"
+        },
+        {
+          "en": "Tuesday",
+          "vi": "thứ Ba"
+        },
+        {
+          "en": "appointment",
+          "vi": "cuộc hẹn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u09-k1",
+          "en": "reschedule",
+          "vi": [
+            "sắp xếp lại"
+          ],
+          "start": 31.17,
+          "end": 31.74,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u09-k2",
+          "en": "Tuesday",
+          "vi": [
+            "thứ Ba"
+          ],
+          "start": 31.89,
+          "end": 32.37,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u09-k3",
+          "en": "appointment",
+          "vi": [
+            "cuộc hẹn"
+          ],
+          "start": 32.76,
+          "end": 33.33,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u10",
+      "speaker": "M",
+      "text": "I'll check and get back to you—I have your number now.",
+      "start": 33.6,
+      "end": 36.51,
+      "clipSrc": "../../audio-sentences/t2-65-s12.mp3",
+      "clipSourceStart": 33.52,
+      "vi": "Tôi sẽ kiểm tra và liên lạc lại với bạn—bây giờ tôi có số của bạn rồi.",
+      "listeningKeywords": [
+        "check",
+        "get back to you",
+        "number"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u10-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 33.81,
+          "end": 34.08,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u10-k2",
+          "en": "get back to you",
+          "vi": [],
+          "start": 34.17,
+          "end": 34.92,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-65-u10-k3",
+          "en": "number",
+          "vi": [],
+          "start": 35.88,
+          "end": 36.12,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u11",
+      "speaker": "M",
+      "text": "And your name is?",
+      "start": 36.66,
+      "end": 37.53,
+      "clipSrc": "../../audio-sentences/t2-65-s13.mp3",
+      "clipSourceStart": 36.58,
+      "vi": "Và tên bạn là?",
+      "listeningKeywords": [
+        "name"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "name",
+          "vi": "tên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u11-k1",
+          "en": "name",
+          "vi": [
+            "tên"
+          ],
+          "start": 36.9,
+          "end": 37.17,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u12",
+      "speaker": "W",
+      "text": "Hoffman—Claudia Hoffman. Thank you.",
+      "start": 37.71,
+      "end": 40.47,
+      "clipSrc": "../../audio-sentences/t2-65-meaning-12.mp3",
+      "clipSourceStart": 37.63,
+      "vi": "Hoffman—Claudia Hoffman. Cảm ơn.",
+      "listeningKeywords": [
+        "Claudia Hoffman"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Claudia Hoffman",
+          "vi": "Claudia Hoffman"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u12-k1",
+          "en": "Claudia Hoffman",
+          "vi": [
+            "Claudia Hoffman"
+          ],
+          "start": 38.52,
+          "end": 39.63,
+          "anchorSource": "t2-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-65-u13",
+      "speaker": "W",
+      "text": "Talk to you soon.",
+      "start": 40.71,
+      "end": 41.55,
+      "clipSrc": "../../audio-sentences/t2-65-s16.mp3",
+      "clipSourceStart": 40.63,
+      "vi": "Nói chuyện sau.",
+      "listeningKeywords": [
+        "Talk"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Talk",
+          "vi": "Nói chuyện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-65-u13-k1",
+          "en": "Talk",
+          "vi": [
+            "Nói chuyện"
+          ],
+          "start": 40.71,
+          "end": 40.98,
+          "anchorSource": "t2-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

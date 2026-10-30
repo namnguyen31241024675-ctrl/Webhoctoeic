@@ -1,0 +1,11 @@
+{
+  "conversations": 130,
+  "newConversations": 65,
+  "questions": 390,
+  "images": 521,
+  "utterances": 1088,
+  "linkedObjectCues": 467,
+  "originalTestsUnchanged": true,
+  "bundleMatchesJSON": true,
+  "allReadyContractsPass": true
+}

@@ -1,0 +1,487 @@
+{
+  "conversationId": "t5-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-41-u01",
+      "speaker": "W1",
+      "text": "We've been getting a lot of online orders for our chocolate candies lately.",
+      "start": 7.08,
+      "end": 10.89,
+      "clipSrc": "../../audio-sentences/t5-41-s01.mp3",
+      "clipSourceStart": 7.0,
+      "vi": "Chúng ta gần đây nhận được nhiều đơn hàng trực tuyến cho kẹo sô cô la.",
+      "listeningKeywords": [
+        "getting",
+        "online orders",
+        "chocolate candies"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "getting",
+          "vi": "nhận"
+        },
+        {
+          "en": "online orders",
+          "vi": "trực tuyến"
+        },
+        {
+          "en": "online orders",
+          "vi": "đơn hàng"
+        },
+        {
+          "en": "chocolate candies",
+          "vi": "kẹo sô cô la"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u01-k1",
+          "en": "getting",
+          "vi": [
+            "nhận"
+          ],
+          "start": 7.59,
+          "end": 7.92,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u01-k2",
+          "en": "online orders",
+          "vi": [
+            "trực tuyến",
+            "đơn hàng"
+          ],
+          "start": 8.43,
+          "end": 9.27,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u01-k3",
+          "en": "chocolate candies",
+          "vi": [
+            "kẹo sô cô la"
+          ],
+          "start": 9.54,
+          "end": 10.41,
+          "anchorSource": "t5-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u02",
+      "speaker": "W1",
+      "text": "I'm glad to see the increase in orders, but I'm worried about meeting the demands.",
+      "start": 11.37,
+      "end": 15.78,
+      "clipSrc": "../../audio-sentences/t5-41-s02.mp3",
+      "clipSourceStart": 11.29,
+      "vi": "Tôi vui vì thấy đơn hàng tăng, nhưng lo về việc đáp ứng nhu cầu.",
+      "listeningKeywords": [
+        "see",
+        "increase",
+        "orders",
+        "demands"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "thấy"
+        },
+        {
+          "en": "increase",
+          "vi": "tăng"
+        },
+        {
+          "en": "orders",
+          "vi": "đơn hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u02-k1",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 12.03,
+          "end": 12.18,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u02-k2",
+          "en": "increase",
+          "vi": [
+            "tăng"
+          ],
+          "start": 12.33,
+          "end": 12.66,
+          "anchorSource": "t5-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u02-k3",
+          "en": "orders",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 12.81,
+          "end": 13.29,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u02-k4",
+          "en": "demands",
+          "vi": [],
+          "start": 15.09,
+          "end": 15.78,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u03",
+      "speaker": "W1",
+      "text": "Are we going to be able to fill and ship all these orders?",
+      "start": 16.29,
+      "end": 19.26,
+      "clipSrc": "../../audio-sentences/t5-41-s03.mp3",
+      "clipSourceStart": 16.21,
+      "vi": "Chúng ta có thể hoàn tất và giao hết các đơn hàng này không?",
+      "listeningKeywords": [
+        "fill",
+        "ship",
+        "orders"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "orders",
+          "vi": "đơn hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u03-k1",
+          "en": "fill",
+          "vi": [],
+          "start": 17.46,
+          "end": 17.82,
+          "anchorSource": "t5-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u03-k2",
+          "en": "ship",
+          "vi": [],
+          "start": 17.97,
+          "end": 18.3,
+          "anchorSource": "t5-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u03-k3",
+          "en": "orders",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 18.72,
+          "end": 19.26,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u04",
+      "speaker": "M",
+      "text": "I think we should hire a few more people to work in the mornings.",
+      "start": 19.71,
+      "end": 22.86,
+      "clipSrc": "../../audio-sentences/t5-41-s04.mp3",
+      "clipSourceStart": 19.63,
+      "vi": "Tôi nghĩ chúng ta nên thuê thêm vài người làm việc buổi sáng.",
+      "listeningKeywords": [
+        "hire",
+        "people",
+        "mornings"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hire",
+          "vi": "thuê"
+        },
+        {
+          "en": "people",
+          "vi": "người"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u04-k1",
+          "en": "hire",
+          "vi": [
+            "thuê"
+          ],
+          "start": 20.49,
+          "end": 20.85,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u04-k2",
+          "en": "people",
+          "vi": [
+            "người"
+          ],
+          "start": 21.33,
+          "end": 21.66,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u04-k3",
+          "en": "mornings",
+          "vi": [],
+          "start": 22.26,
+          "end": 22.86,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u05",
+      "speaker": "M",
+      "text": "They could help with packaging and shipping.",
+      "start": 23.19,
+      "end": 25.11,
+      "clipSrc": "../../audio-sentences/t5-41-s05.mp3",
+      "clipSourceStart": 23.11,
+      "vi": "Họ có thể giúp đóng gói và vận chuyển.",
+      "listeningKeywords": [
+        "packaging and shipping"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "packaging and shipping",
+          "vi": "đóng gói và vận chuyển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u05-k1",
+          "en": "packaging and shipping",
+          "vi": [
+            "đóng gói và vận chuyển"
+          ],
+          "start": 23.97,
+          "end": 25.11,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u06",
+      "speaker": "M",
+      "text": "What do you think, Rebecca?",
+      "start": 25.47,
+      "end": 26.82,
+      "clipSrc": "../../audio-sentences/t5-41-s06.mp3",
+      "clipSourceStart": 25.39,
+      "vi": "Bạn nghĩ sao, Rebecca?",
+      "listeningKeywords": [
+        "think",
+        "Rebecca"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "Rebecca",
+          "vi": "Rebecca"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u06-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 26.04,
+          "end": 26.31,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u06-k2",
+          "en": "Rebecca",
+          "vi": [
+            "Rebecca"
+          ],
+          "start": 26.31,
+          "end": 26.82,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u07",
+      "speaker": "W2",
+      "text": "I agree. I also think that we should ask if our delivery service can pick up our packages twice a day instead of just once a day—maybe every morning and afternoon.",
+      "start": 27.33,
+      "end": 39.03,
+      "clipSrc": "../../audio-sentences/t5-41-meaning-07.mp3",
+      "clipSourceStart": 27.25,
+      "vi": "Tôi đồng ý. Tôi cũng nghĩ chúng ta nên hỏi dịch vụ giao hàng có thể lấy hàng hai lần một ngày thay vì chỉ một lần—có lẽ sáng và chiều.",
+      "listeningKeywords": [
+        "ask",
+        "delivery service",
+        "pick",
+        "packages"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        },
+        {
+          "en": "delivery service",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "delivery service",
+          "vi": "dịch vụ"
+        },
+        {
+          "en": "pick",
+          "vi": "lấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u07-k1",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 30.3,
+          "end": 30.72,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u07-k2",
+          "en": "delivery service",
+          "vi": [
+            "giao hàng",
+            "dịch vụ"
+          ],
+          "start": 30.99,
+          "end": 31.92,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u07-k3",
+          "en": "pick",
+          "vi": [
+            "lấy"
+          ],
+          "start": 32.13,
+          "end": 32.4,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-41-u07-k4",
+          "en": "packages",
+          "vi": [],
+          "start": 32.73,
+          "end": 33.39,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-41-u08",
+      "speaker": "W2",
+      "text": "I'll call them today.",
+      "start": 39.42,
+      "end": 40.65,
+      "clipSrc": "../../audio-sentences/t5-41-s09.mp3",
+      "clipSourceStart": 39.34,
+      "vi": "Tôi sẽ gọi họ hôm nay.",
+      "listeningKeywords": [
+        "call"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-41-u08-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 39.6,
+          "end": 39.87,
+          "anchorSource": "t5-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

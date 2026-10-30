@@ -1,0 +1,25 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t1-32",
+  "status": "awaiting-assets",
+  "enabled": false,
+  "imagesApproved": false,
+  "timingReviewed": false,
+  "hotspotsReviewed": false,
+  "audio": {
+    "src": "../../audio/E26-T01-32-34.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.03,
+    "dialogueEnd": 35.52
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [],
+  "scenes": [],
+  "vocabulary": [],
+  "missing": [
+    "Bộ 4–5 ảnh gốc đã được chốt; ảnh ghép hiện chỉ là tham khảo.",
+    "Mốc bắt đầu/kết thúc của từng cảnh theo thời gian audio gốc.",
+    "Từ vựng, nghĩa tiếng Việt và vị trí hotspot trên từng ảnh."
+  ]
+}

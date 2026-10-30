@@ -1,0 +1,404 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TOEIC Visual Story scene manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "conversationId",
+    "status",
+    "enabled",
+    "imagesApproved",
+    "timingReviewed",
+    "hotspotsReviewed",
+    "audio",
+    "transcriptSrc",
+    "images",
+    "scenes",
+    "vocabulary"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "conversationId": {
+      "const": "t1-32"
+    },
+    "status": {
+      "enum": [
+        "awaiting-assets",
+        "draft",
+        "ready"
+      ]
+    },
+    "enabled": {
+      "type": "boolean"
+    },
+    "imagesApproved": {
+      "type": "boolean"
+    },
+    "timingReviewed": {
+      "type": "boolean"
+    },
+    "hotspotsReviewed": {
+      "type": "boolean"
+    },
+    "audio": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "src",
+        "timebase",
+        "dialogueStart",
+        "dialogueEnd"
+      ],
+      "properties": {
+        "src": {
+          "type": "string",
+          "minLength": 1
+        },
+        "timebase": {
+          "const": "source-seconds"
+        },
+        "dialogueStart": {
+          "type": "number",
+          "minimum": 0
+        },
+        "dialogueEnd": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    },
+    "transcriptSrc": {
+      "type": "string",
+      "minLength": 1
+    },
+    "images": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "src",
+          "alt",
+          "mediaType"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "src": {
+            "type": "string",
+            "pattern": "\\.(jpg|jpeg|png|webp|avif)$"
+          },
+          "alt": {
+            "type": "string",
+            "minLength": 1
+          },
+          "mediaType": {
+            "const": "photograph"
+          },
+          "focalPoint": {
+            "type": "object",
+            "required": [
+              "x",
+              "y"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "x": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "y": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "imageId",
+          "start",
+          "end",
+          "transition",
+          "motion",
+          "hotspots"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "imageId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "start": {
+            "type": "number",
+            "minimum": 0
+          },
+          "end": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "transition": {
+            "type": "object",
+            "required": [
+              "type",
+              "duration"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": {
+                "const": "fade"
+              },
+              "duration": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1.5
+              }
+            }
+          },
+          "motion": {
+            "type": "object",
+            "required": [
+              "from",
+              "to"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "from": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "x",
+                  "y",
+                  "scale"
+                ],
+                "properties": {
+                  "x": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "y": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "scale": {
+                    "type": "number",
+                    "minimum": 1,
+                    "maximum": 1.15
+                  }
+                }
+              },
+              "to": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "x",
+                  "y",
+                  "scale"
+                ],
+                "properties": {
+                  "x": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "y": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "scale": {
+                    "type": "number",
+                    "minimum": 1,
+                    "maximum": 1.15
+                  }
+                }
+              }
+            }
+          },
+          "hotspots": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "vocabularyId",
+                "label",
+                "x",
+                "y",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "vocabularyId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "label": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "x": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                },
+                "y": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                },
+                "width": {
+                  "type": "number",
+                  "exclusiveMinimum": 0,
+                  "maximum": 1
+                },
+                "height": {
+                  "type": "number",
+                  "exclusiveMinimum": 0,
+                  "maximum": 1
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "en",
+          "vi",
+          "pronunciation"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "vi": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pronunciation": {
+            "oneOf": [
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "kind",
+                  "lang"
+                ],
+                "properties": {
+                  "kind": {
+                    "const": "tts"
+                  },
+                  "lang": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "kind",
+                  "src"
+                ],
+                "properties": {
+                  "kind": {
+                    "const": "audio"
+                  },
+                  "src": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "missing": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ready"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "enabled": {
+            "const": true
+          },
+          "imagesApproved": {
+            "const": true
+          },
+          "timingReviewed": {
+            "const": true
+          },
+          "hotspotsReviewed": {
+            "const": true
+          },
+          "images": {
+            "minItems": 4
+          },
+          "scenes": {
+            "minItems": 4
+          },
+          "vocabulary": {
+            "minItems": 1
+          }
+        }
+      }
+    }
+  ]
+}

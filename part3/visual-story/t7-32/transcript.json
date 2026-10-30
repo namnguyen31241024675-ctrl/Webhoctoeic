@@ -1,0 +1,403 @@
+{
+  "conversationId": "t7-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      6,
+      7
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-32-u01",
+      "speaker": "M",
+      "text": "Carmen, I don't know if you realize it, but your office chair makes a squeaking sound every time you move.",
+      "start": 5.97,
+      "end": 12.18,
+      "clipSrc": "../../audio-sentences/t7-32-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Carmen, không biết cô có nhận ra không, nhưng mỗi lần cô di chuyển thì ghế văn phòng của cô lại phát ra tiếng kêu cót két.",
+      "listeningKeywords": [
+        "don't",
+        "chair",
+        "squeaking sound",
+        "move"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "chair",
+          "vi": "ghế"
+        },
+        {
+          "en": "move",
+          "vi": "di chuyển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u01-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 6.9,
+          "end": 7.08,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u01-k2",
+          "en": "chair",
+          "vi": [
+            "ghế"
+          ],
+          "start": 9.3,
+          "end": 9.69,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u01-k3",
+          "en": "squeaking sound",
+          "vi": [],
+          "start": 10.08,
+          "end": 11.07,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u01-k4",
+          "en": "move",
+          "vi": [
+            "di chuyển"
+          ],
+          "start": 11.76,
+          "end": 12.18,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u02",
+      "speaker": "M",
+      "text": "It's a little distracting when the office is so quiet.",
+      "start": 12.75,
+      "end": 15.72,
+      "clipSrc": "../../audio-sentences/t7-32-s02.mp3",
+      "clipSourceStart": 12.67,
+      "vi": "Khi văn phòng yên tĩnh thì hơi bị làm phiền đấy.",
+      "listeningKeywords": [
+        "distracting",
+        "office",
+        "quiet"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "office",
+          "vi": "văn phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u02-k1",
+          "en": "distracting",
+          "vi": [],
+          "start": 13.35,
+          "end": 14.07,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u02-k2",
+          "en": "quiet",
+          "vi": [],
+          "start": 15.06,
+          "end": 15.72,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u03",
+      "speaker": "W",
+      "text": "Oh! I had my headset on, so I didn't realize that.",
+      "start": 16.14,
+      "end": 19.59,
+      "clipSrc": "../../audio-sentences/t7-32-s03.mp3",
+      "clipSourceStart": 16.06,
+      "vi": "Ồ! Tôi đang đeo tai nghe nên không nhận ra.",
+      "listeningKeywords": [
+        "headset",
+        "didn't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "didn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u03-k1",
+          "en": "headset",
+          "vi": [],
+          "start": 17.25,
+          "end": 17.79,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u03-k2",
+          "en": "didn't",
+          "vi": [
+            "không"
+          ],
+          "start": 18.54,
+          "end": 18.75,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u04",
+      "speaker": "W",
+      "text": "I'll go swap this chair with one from the conference room.",
+      "start": 19.86,
+      "end": 22.83,
+      "clipSrc": "../../audio-sentences/t7-32-s04.mp3",
+      "clipSourceStart": 19.78,
+      "vi": "Tôi sẽ đi đổi ghế này lấy một cái ở phòng họp.",
+      "listeningKeywords": [
+        "swap",
+        "chair",
+        "conference room"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "chair",
+          "vi": "ghế"
+        },
+        {
+          "en": "conference room",
+          "vi": "phòng họp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u04-k1",
+          "en": "chair",
+          "vi": [
+            "ghế"
+          ],
+          "start": 20.94,
+          "end": 21.24,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u04-k2",
+          "en": "conference room",
+          "vi": [
+            "phòng họp"
+          ],
+          "start": 21.93,
+          "end": 22.83,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u05",
+      "speaker": "M",
+      "text": "Thanks for understanding. And don't forget that our team is ordering takeout from a Thai restaurant for lunch.",
+      "start": 23.13,
+      "end": 28.92,
+      "clipSrc": "../../audio-sentences/t7-32-s05.mp3",
+      "clipSourceStart": 23.05,
+      "vi": "Cảm ơn cô đã thông cảm. Và đừng quên là đội mình đang đặt đồ ăn Thái mang về cho bữa trưa nhé.",
+      "listeningKeywords": [
+        "don't",
+        "ordering",
+        "takeout",
+        "Thai restaurant"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "đừng"
+        },
+        {
+          "en": "ordering",
+          "vi": "đặt"
+        },
+        {
+          "en": "takeout",
+          "vi": "mang về"
+        },
+        {
+          "en": "Thai restaurant",
+          "vi": "đồ ăn Thái"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u05-k1",
+          "en": "don't",
+          "vi": [
+            "đừng"
+          ],
+          "start": 25.11,
+          "end": 25.29,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u05-k2",
+          "en": "ordering",
+          "vi": [
+            "đặt"
+          ],
+          "start": 26.34,
+          "end": 26.76,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u05-k3",
+          "en": "takeout",
+          "vi": [
+            "mang về"
+          ],
+          "start": 26.76,
+          "end": 27.27,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u05-k4",
+          "en": "Thai restaurant",
+          "vi": [
+            "đồ ăn Thái"
+          ],
+          "start": 27.54,
+          "end": 28.35,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u06",
+      "speaker": "M",
+      "text": "Do you want anything?",
+      "start": 29.37,
+      "end": 30.3,
+      "clipSrc": "../../audio-sentences/t7-32-s06.mp3",
+      "clipSourceStart": 29.29,
+      "vi": "Cô muốn ăn gì không?",
+      "listeningKeywords": [
+        "want"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "want",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u06-k1",
+          "en": "want",
+          "vi": [
+            "muốn"
+          ],
+          "start": 29.64,
+          "end": 29.85,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-32-u07",
+      "speaker": "W",
+      "text": "Sure. I'd love some spring rolls!",
+      "start": 30.69,
+      "end": 32.76,
+      "clipSrc": "../../audio-sentences/t7-32-s07.mp3",
+      "clipSourceStart": 30.61,
+      "vi": "Có chứ. Tôi muốn ăn chả giò!",
+      "listeningKeywords": [
+        "love",
+        "spring rolls"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spring rolls",
+          "vi": "chả giò"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-32-u07-k1",
+          "en": "love",
+          "vi": [],
+          "start": 31.56,
+          "end": 31.77,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-32-u07-k2",
+          "en": "spring rolls",
+          "vi": [
+            "chả giò"
+          ],
+          "start": 31.95,
+          "end": 32.76,
+          "anchorSource": "t7-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

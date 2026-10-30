@@ -1,0 +1,380 @@
+{
+  "conversationId": "t1-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-44-u01",
+      "speaker": "W",
+      "text": "Jamestown Recycling Facility. How can I help you?",
+      "start": 6.03,
+      "end": 9.54,
+      "clipSrc": "../../audio-sentences/t1-44-meaning-01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Cơ sở tái chế Jamestown xin nghe. Tôi có thể giúp gì cho ông?",
+      "listeningKeywords": [
+        "Recycling Facility",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Recycling Facility",
+          "vi": "Cơ sở tái chế"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u01-k1",
+          "en": "Recycling Facility",
+          "vi": [
+            "Cơ sở tái chế"
+          ],
+          "start": 6.81,
+          "end": 8.07,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u01-k2",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 9.03,
+          "end": 9.3,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u02",
+      "speaker": "M",
+      "text": "Hi. I'm preparing to move soon, and I have some electronics, such as televisions and computers, that I'd like to get rid of before I put my house on the market.",
+      "start": 10.02,
+      "end": 19.89,
+      "clipSrc": "../../audio-sentences/t1-44-meaning-02.mp3",
+      "clipSourceStart": 9.94,
+      "vi": "Chào cô. Tôi sắp chuyển nhà và tôi có một số thiết bị điện tử như tivi, máy tính muốn bỏ đi trước khi rao bán nhà.",
+      "listeningKeywords": [
+        "preparing",
+        "move",
+        "electronics",
+        "televisions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "move",
+          "vi": "chuyển"
+        },
+        {
+          "en": "electronics",
+          "vi": "thiết bị điện tử"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u02-k1",
+          "en": "preparing",
+          "vi": [],
+          "start": 10.86,
+          "end": 11.31,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u02-k2",
+          "en": "move",
+          "vi": [
+            "chuyển"
+          ],
+          "start": 11.43,
+          "end": 11.76,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u02-k3",
+          "en": "electronics",
+          "vi": [
+            "thiết bị điện tử"
+          ],
+          "start": 13.02,
+          "end": 13.98,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u02-k4",
+          "en": "televisions",
+          "vi": [],
+          "start": 14.58,
+          "end": 15.36,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u03",
+      "speaker": "W",
+      "text": "Yes, that's right. We'll take all electronics.",
+      "start": 22.74,
+      "end": 26.04,
+      "clipSrc": "../../audio-sentences/t1-44-meaning-03.mp3",
+      "clipSourceStart": 22.66,
+      "vi": "Vâng, đúng vậy. Chúng tôi nhận tất cả các thiết bị điện tử.",
+      "listeningKeywords": [
+        "take",
+        "electronics"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "electronics",
+          "vi": "thiết bị điện tử"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u03-k1",
+          "en": "take",
+          "vi": [],
+          "start": 24.66,
+          "end": 24.96,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u03-k2",
+          "en": "electronics",
+          "vi": [
+            "thiết bị điện tử"
+          ],
+          "start": 25.23,
+          "end": 26.04,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u04",
+      "speaker": "M",
+      "text": "Great. I just have one question.",
+      "start": 26.34,
+      "end": 28.8,
+      "clipSrc": "../../audio-sentences/t1-44-meaning-04.mp3",
+      "clipSourceStart": 26.26,
+      "vi": "Tuyệt. Tôi chỉ có một câu hỏi.",
+      "listeningKeywords": [
+        "question"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "question",
+          "vi": "câu hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u04-k1",
+          "en": "question",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 28.41,
+          "end": 28.8,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u05",
+      "speaker": "M",
+      "text": "Do you provide a pickup service?",
+      "start": 29.49,
+      "end": 31.41,
+      "clipSrc": "../../audio-sentences/t1-44-s09.mp3",
+      "clipSourceStart": 29.41,
+      "vi": "Các bạn có cung cấp dịch vụ đến tận nơi lấy hàng không?",
+      "listeningKeywords": [
+        "provide",
+        "pickup service"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "provide",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "pickup service",
+          "vi": "dịch vụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u05-k1",
+          "en": "provide",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 29.82,
+          "end": 30.27,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u05-k2",
+          "en": "pickup service",
+          "vi": [
+            "dịch vụ"
+          ],
+          "start": 30.36,
+          "end": 31.41,
+          "anchorSource": "t1-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u06",
+      "speaker": "W",
+      "text": "No, unfortunately you'll have to bring everything here yourself.",
+      "start": 31.95,
+      "end": 35.91,
+      "clipSrc": "../../audio-sentences/t1-44-s10.mp3",
+      "clipSourceStart": 31.87,
+      "vi": "Không, tiếc là ông sẽ phải tự mang mọi thứ đến đây.",
+      "listeningKeywords": [
+        "bring",
+        "yourself"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bring",
+          "vi": "mang"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u06-k1",
+          "en": "bring",
+          "vi": [
+            "mang"
+          ],
+          "start": 34.35,
+          "end": 34.62,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u06-k2",
+          "en": "yourself",
+          "vi": [],
+          "start": 35.28,
+          "end": 35.91,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-44-u07",
+      "speaker": "W",
+      "text": "However, on our Web site we list a number of companies that can remove and dispose of the items for you.",
+      "start": 36.48,
+      "end": 42.87,
+      "clipSrc": "../../audio-sentences/t1-44-s11.mp3",
+      "clipSourceStart": 36.4,
+      "vi": "Tuy nhiên, trên trang web của chúng tôi có liệt kê một số công ty có thể đến dọn dẹp và xử lý các món đồ đó giúp ông.",
+      "listeningKeywords": [
+        "Web site",
+        "companies",
+        "remove",
+        "dispose"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Web site",
+          "vi": "trang web"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-44-u07-k1",
+          "en": "Web site",
+          "vi": [
+            "trang web"
+          ],
+          "start": 37.74,
+          "end": 38.34,
+          "anchorSource": "t1-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u07-k2",
+          "en": "companies",
+          "vi": [],
+          "start": 39.72,
+          "end": 40.32,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u07-k3",
+          "en": "remove",
+          "vi": [],
+          "start": 40.8,
+          "end": 41.16,
+          "anchorSource": "t1-44-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-44-u07-k4",
+          "en": "dispose",
+          "vi": [],
+          "start": 41.25,
+          "end": 41.7,
+          "anchorSource": "t1-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

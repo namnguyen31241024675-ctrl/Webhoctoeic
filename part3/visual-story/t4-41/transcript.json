@@ -1,0 +1,482 @@
+{
+  "conversationId": "t4-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-41-u01",
+      "speaker": "M",
+      "text": "Nisreen? This is Lewis.",
+      "start": 5.88,
+      "end": 7.77,
+      "clipSrc": "../../audio-sentences/t4-41-s01.mp3",
+      "clipSourceStart": 5.8,
+      "vi": "Nisreen? Đây là Lewis.",
+      "listeningKeywords": [
+        "Lewis"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Lewis",
+          "vi": "Lewis"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u01-k1",
+          "en": "Lewis",
+          "vi": [
+            "Lewis"
+          ],
+          "start": 7.2,
+          "end": 7.77,
+          "anchorSource": "t4-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u02",
+      "speaker": "M",
+      "text": "I heard you're going to be working for our company overseas, in the New Zealand office.",
+      "start": 8.25,
+      "end": 12.75,
+      "clipSrc": "../../audio-sentences/t4-41-s02.mp3",
+      "clipSourceStart": 8.17,
+      "vi": "Tôi nghe nói bạn sẽ làm việc cho công ty chúng ta ở nước ngoài, tại văn phòng New Zealand.",
+      "listeningKeywords": [
+        "working",
+        "overseas",
+        "office"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "working",
+          "vi": "làm việc"
+        },
+        {
+          "en": "overseas",
+          "vi": "ở nước ngoài"
+        },
+        {
+          "en": "office",
+          "vi": "văn phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u02-k1",
+          "en": "working",
+          "vi": [
+            "làm việc"
+          ],
+          "start": 9.24,
+          "end": 9.63,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u02-k2",
+          "en": "overseas",
+          "vi": [
+            "ở nước ngoài"
+          ],
+          "start": 10.47,
+          "end": 11.31,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u02-k3",
+          "en": "office",
+          "vi": [
+            "văn phòng"
+          ],
+          "start": 12.24,
+          "end": 12.75,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u03",
+      "speaker": "M",
+      "text": "What a great opportunity!",
+      "start": 12.96,
+      "end": 14.55,
+      "clipSrc": "../../audio-sentences/t4-41-s03.mp3",
+      "clipSourceStart": 12.88,
+      "vi": "Thật là cơ hội tuyệt vời!",
+      "listeningKeywords": [
+        "opportunity"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "opportunity",
+          "vi": "cơ hội"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u03-k1",
+          "en": "opportunity",
+          "vi": [
+            "cơ hội"
+          ],
+          "start": 13.68,
+          "end": 14.55,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u04",
+      "speaker": "W",
+      "text": "Yes, thank you. I start next month, and I'm really excited.",
+      "start": 14.88,
+      "end": 19.56,
+      "clipSrc": "../../audio-sentences/t4-41-meaning-04.mp3",
+      "clipSourceStart": 14.8,
+      "vi": "Vâng, cảm ơn. Tôi bắt đầu tháng tới, và tôi rất hào hứng.",
+      "listeningKeywords": [
+        "start",
+        "excited"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "excited",
+          "vi": "hào hứng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u04-k1",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 16.65,
+          "end": 17.07,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u04-k2",
+          "en": "excited",
+          "vi": [
+            "hào hứng"
+          ],
+          "start": 18.87,
+          "end": 19.56,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u05",
+      "speaker": "M",
+      "text": "I'm calling to touch base with you about some of our vendor contracts.",
+      "start": 20.07,
+      "end": 23.73,
+      "clipSrc": "../../audio-sentences/t4-41-s06.mp3",
+      "clipSourceStart": 19.99,
+      "vi": "Tôi gọi để thảo luận với bạn về một số hợp đồng nhà cung cấp của chúng ta.",
+      "listeningKeywords": [
+        "calling",
+        "touch base",
+        "vendor contracts"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        },
+        {
+          "en": "vendor contracts",
+          "vi": "hợp đồng nhà cung cấp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u05-k1",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 20.28,
+          "end": 20.67,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u05-k2",
+          "en": "touch base",
+          "vi": [],
+          "start": 20.82,
+          "end": 21.39,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u05-k3",
+          "en": "vendor contracts",
+          "vi": [
+            "hợp đồng nhà cung cấp"
+          ],
+          "start": 22.59,
+          "end": 23.73,
+          "anchorSource": "t4-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u06",
+      "speaker": "M",
+      "text": "It's time to renew the contracts, and I wanted to ask you to take care of that before you left.",
+      "start": 24.09,
+      "end": 29.34,
+      "clipSrc": "../../audio-sentences/t4-41-s07.mp3",
+      "clipSourceStart": 24.01,
+      "vi": "Đã đến lúc gia hạn hợp đồng, và tôi muốn yêu cầu bạn xử lý việc đó trước khi đi.",
+      "listeningKeywords": [
+        "renew",
+        "contracts",
+        "wanted",
+        "ask"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "contracts",
+          "vi": "hợp đồng"
+        },
+        {
+          "en": "wanted",
+          "vi": "muốn"
+        },
+        {
+          "en": "ask",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u06-k1",
+          "en": "renew",
+          "vi": [],
+          "start": 24.75,
+          "end": 25.14,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u06-k2",
+          "en": "contracts",
+          "vi": [
+            "hợp đồng"
+          ],
+          "start": 25.26,
+          "end": 26.1,
+          "anchorSource": "t4-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u06-k3",
+          "en": "wanted",
+          "vi": [
+            "muốn"
+          ],
+          "start": 26.55,
+          "end": 26.88,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u06-k4",
+          "en": "ask",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 27.03,
+          "end": 27.27,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u07",
+      "speaker": "W",
+      "text": "No problem. I know where those files are located on our shared computer drive.",
+      "start": 29.61,
+      "end": 34.41,
+      "clipSrc": "../../audio-sentences/t4-41-meaning-07.mp3",
+      "clipSourceStart": 29.53,
+      "vi": "Không vấn đề. Tôi biết các tệp đó nằm ở đâu trên ổ đĩa máy tính chia sẻ của chúng ta.",
+      "listeningKeywords": [
+        "files",
+        "located",
+        "shared computer",
+        "drive"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "located",
+          "vi": "nằm"
+        },
+        {
+          "en": "located",
+          "vi": "ở"
+        },
+        {
+          "en": "shared computer",
+          "vi": "máy tính"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u07-k1",
+          "en": "files",
+          "vi": [],
+          "start": 31.62,
+          "end": 32.01,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u07-k2",
+          "en": "located",
+          "vi": [
+            "nằm",
+            "ở"
+          ],
+          "start": 32.1,
+          "end": 32.7,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u07-k3",
+          "en": "shared computer",
+          "vi": [
+            "máy tính"
+          ],
+          "start": 33.0,
+          "end": 33.96,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u07-k4",
+          "en": "drive",
+          "vi": [],
+          "start": 33.96,
+          "end": 34.41,
+          "anchorSource": "t4-41-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-41-u08",
+      "speaker": "W",
+      "text": "I'll just need the password to access them.",
+      "start": 34.77,
+      "end": 37.11,
+      "clipSrc": "../../audio-sentences/t4-41-s10.mp3",
+      "clipSourceStart": 34.69,
+      "vi": "Tôi chỉ cần mật khẩu để truy cập chúng.",
+      "listeningKeywords": [
+        "need",
+        "password",
+        "access"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "password",
+          "vi": "mật khẩu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-41-u08-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 35.19,
+          "end": 35.37,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u08-k2",
+          "en": "password",
+          "vi": [
+            "mật khẩu"
+          ],
+          "start": 35.46,
+          "end": 36.12,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-41-u08-k3",
+          "en": "access",
+          "vi": [],
+          "start": 36.27,
+          "end": 36.78,
+          "anchorSource": "t4-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

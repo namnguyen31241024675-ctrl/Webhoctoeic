@@ -1,0 +1,266 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t8-41",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T08-41-43.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 5.91,
+    "dialogueEnd": 32.49
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 41–43, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 41–43, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 41–43, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 8 câu 41–43, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 5.91,
+      "end": 15.81,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 15.81,
+      "end": 20.13,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 20.13,
+      "end": 26.13,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3-1",
+          "vocabularyId": "vocab-3-1",
+          "label": "aerial photographs",
+          "x": 0.29,
+          "y": 0.58,
+          "width": 0.34,
+          "height": 0.36,
+          "utteranceIds": [
+            "t8-41-u06"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 26.13,
+      "end": 32.49,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-3-1",
+      "en": "aerial photographs",
+      "vi": "ảnh chụp từ trên cao",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

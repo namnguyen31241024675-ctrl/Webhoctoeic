@@ -1,0 +1,581 @@
+{
+  "conversationId": "t2-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      18,
+      19
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-62-u01",
+      "speaker": "M",
+      "text": "I really need this coffee break.",
+      "start": 6.96,
+      "end": 8.67,
+      "clipSrc": "../../audio-sentences/t2-62-s01.mp3",
+      "clipSourceStart": 6.88,
+      "vi": "Tôi thực sự cần nghỉ ngơi uống cà phê.",
+      "listeningKeywords": [
+        "coffee break"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "coffee break",
+          "vi": "nghỉ ngơi uống cà phê"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u01-k1",
+          "en": "coffee break",
+          "vi": [
+            "nghỉ ngơi uống cà phê"
+          ],
+          "start": 7.95,
+          "end": 8.67,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u02",
+      "speaker": "M",
+      "text": "My morning meeting with my client was really challenging.",
+      "start": 9.09,
+      "end": 12.72,
+      "clipSrc": "../../audio-sentences/t2-62-s02.mp3",
+      "clipSourceStart": 9.01,
+      "vi": "Cuộc họp sáng nay với khách hàng thật sự khó khăn.",
+      "listeningKeywords": [
+        "meeting",
+        "client",
+        "challenging"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "meeting",
+          "vi": "Cuộc họp"
+        },
+        {
+          "en": "client",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u02-k1",
+          "en": "meeting",
+          "vi": [
+            "Cuộc họp"
+          ],
+          "start": 9.63,
+          "end": 10.02,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u02-k2",
+          "en": "client",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 10.29,
+          "end": 10.74,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u02-k3",
+          "en": "challenging",
+          "vi": [],
+          "start": 11.79,
+          "end": 12.72,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u03",
+      "speaker": "W",
+      "text": "What were you discussing?",
+      "start": 13.2,
+      "end": 14.52,
+      "clipSrc": "../../audio-sentences/t2-62-s03.mp3",
+      "clipSourceStart": 13.12,
+      "vi": "Các anh thảo luận gì vậy?",
+      "listeningKeywords": [
+        "discussing"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "discussing",
+          "vi": "thảo luận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u03-k1",
+          "en": "discussing",
+          "vi": [
+            "thảo luận"
+          ],
+          "start": 13.83,
+          "end": 14.52,
+          "anchorSource": "t2-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u04",
+      "speaker": "M",
+      "text": "The project schedule. They asked us to provide the prototype design to them three weeks earlier than originally planned.",
+      "start": 14.73,
+      "end": 21.3,
+      "clipSrc": "../../audio-sentences/t2-62-meaning-04.mp3",
+      "clipSourceStart": 14.65,
+      "vi": "Lịch trình dự án. Họ yêu cầu chúng tôi cung cấp thiết kế mẫu ba tuần sớm hơn kế hoạch ban đầu.",
+      "listeningKeywords": [
+        "schedule",
+        "asked",
+        "prototype design",
+        "originally"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "schedule",
+          "vi": "Lịch trình"
+        },
+        {
+          "en": "asked",
+          "vi": "yêu cầu"
+        },
+        {
+          "en": "prototype design",
+          "vi": "thiết kế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u04-k1",
+          "en": "schedule",
+          "vi": [
+            "Lịch trình"
+          ],
+          "start": 15.45,
+          "end": 15.93,
+          "anchorSource": "t2-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u04-k2",
+          "en": "asked",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 16.65,
+          "end": 16.92,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u04-k3",
+          "en": "prototype design",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 17.73,
+          "end": 18.69,
+          "anchorSource": "t2-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u04-k4",
+          "en": "originally",
+          "vi": [],
+          "start": 20.25,
+          "end": 20.7,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u05",
+      "speaker": "W",
+      "text": "Well. Then today's cup is my treat.",
+      "start": 21.87,
+      "end": 23.97,
+      "clipSrc": "../../audio-sentences/t2-62-meaning-05.mp3",
+      "clipSourceStart": 21.79,
+      "vi": "Ừm. Vậy hôm nay tôi mời.",
+      "listeningKeywords": [
+        "today's cup",
+        "treat"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "today's cup",
+          "vi": "hôm nay"
+        },
+        {
+          "en": "treat",
+          "vi": "mời"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u05-k1",
+          "en": "today's cup",
+          "vi": [
+            "hôm nay"
+          ],
+          "start": 22.56,
+          "end": 23.19,
+          "anchorSource": "t2-62-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u05-k2",
+          "en": "treat",
+          "vi": [
+            "mời"
+          ],
+          "start": 23.55,
+          "end": 23.97,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u06",
+      "speaker": "W",
+      "text": "Which one would you like?",
+      "start": 24.39,
+      "end": 25.38,
+      "clipSrc": "../../audio-sentences/t2-62-s08.mp3",
+      "clipSourceStart": 24.31,
+      "vi": "Anh muốn loại nào?",
+      "listeningKeywords": [
+        "like"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u06-k1",
+          "en": "like",
+          "vi": [
+            "muốn"
+          ],
+          "start": 24.96,
+          "end": 25.38,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u07",
+      "speaker": "M",
+      "text": "That's so nice of you! I'll go with the White Cloud Coffee.",
+      "start": 25.83,
+      "end": 29.67,
+      "clipSrc": "../../audio-sentences/t2-62-s09.mp3",
+      "clipSourceStart": 25.75,
+      "vi": "Thật tốt quá! Tôi sẽ lấy White Cloud Coffee.",
+      "listeningKeywords": [
+        "nice",
+        "White Cloud Coffee"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "White Cloud Coffee",
+          "vi": "White Cloud Coffee"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u07-k1",
+          "en": "nice",
+          "vi": [],
+          "start": 26.31,
+          "end": 26.64,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u07-k2",
+          "en": "White Cloud Coffee",
+          "vi": [
+            "White Cloud Coffee"
+          ],
+          "start": 28.41,
+          "end": 29.67,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u08",
+      "speaker": "M",
+      "text": "I like a little milk in mine.",
+      "start": 30.06,
+      "end": 31.5,
+      "clipSrc": "../../audio-sentences/t2-62-s10.mp3",
+      "clipSourceStart": 29.98,
+      "vi": "Tôi thích có chút sữa trong cà phê.",
+      "listeningKeywords": [
+        "like",
+        "milk"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "thích"
+        },
+        {
+          "en": "milk",
+          "vi": "sữa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u08-k1",
+          "en": "like",
+          "vi": [
+            "thích"
+          ],
+          "start": 30.21,
+          "end": 30.45,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u08-k2",
+          "en": "milk",
+          "vi": [
+            "sữa"
+          ],
+          "start": 30.72,
+          "end": 31.02,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u09",
+      "speaker": "W",
+      "text": "Good choice. So, I have some news to share with you.",
+      "start": 31.8,
+      "end": 35.01,
+      "clipSrc": "../../audio-sentences/t2-62-meaning-09.mp3",
+      "clipSourceStart": 31.72,
+      "vi": "Lựa chọn tốt. Vậy, tôi có tin tức để chia sẻ với anh.",
+      "listeningKeywords": [
+        "choice",
+        "news",
+        "share"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "news",
+          "vi": "tin tức"
+        },
+        {
+          "en": "share",
+          "vi": "chia sẻ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u09-k1",
+          "en": "choice",
+          "vi": [],
+          "start": 32.04,
+          "end": 32.58,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u09-k2",
+          "en": "news",
+          "vi": [
+            "tin tức"
+          ],
+          "start": 33.93,
+          "end": 34.23,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u09-k3",
+          "en": "share",
+          "vi": [
+            "chia sẻ"
+          ],
+          "start": 34.35,
+          "end": 34.59,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u10",
+      "speaker": "W",
+      "text": "Did you hear about David?",
+      "start": 35.52,
+      "end": 36.84,
+      "clipSrc": "../../audio-sentences/t2-62-s13.mp3",
+      "clipSourceStart": 35.44,
+      "vi": "Anh có nghe về David không?",
+      "listeningKeywords": [
+        "David"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "David",
+          "vi": "David"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u10-k1",
+          "en": "David",
+          "vi": [
+            "David"
+          ],
+          "start": 36.27,
+          "end": 36.84,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u11",
+      "speaker": "M",
+      "text": "No, what's going on?",
+      "start": 37.11,
+      "end": 38.61,
+      "clipSrc": "../../audio-sentences/t2-62-s14.mp3",
+      "clipSourceStart": 37.03,
+      "vi": "Không, chuyện gì vậy?",
+      "listeningKeywords": [
+        "what's"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "what's",
+          "vi": "chuyện gì"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u11-k1",
+          "en": "what's",
+          "vi": [
+            "chuyện gì"
+          ],
+          "start": 37.71,
+          "end": 37.98,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-62-u12",
+      "speaker": "W",
+      "text": "Apparently, he's planning to retire next month.",
+      "start": 38.88,
+      "end": 41.67,
+      "clipSrc": "../../audio-sentences/t2-62-s15.mp3",
+      "clipSourceStart": 38.8,
+      "vi": "Có vẻ như anh ấy đang lên kế hoạch nghỉ hưu tháng tới.",
+      "listeningKeywords": [
+        "planning",
+        "retire"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "planning",
+          "vi": "lên kế hoạch"
+        },
+        {
+          "en": "retire",
+          "vi": "nghỉ hưu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-62-u12-k1",
+          "en": "planning",
+          "vi": [
+            "lên kế hoạch"
+          ],
+          "start": 39.96,
+          "end": 40.32,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-62-u12-k2",
+          "en": "retire",
+          "vi": [
+            "nghỉ hưu"
+          ],
+          "start": 40.44,
+          "end": 40.89,
+          "anchorSource": "t2-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

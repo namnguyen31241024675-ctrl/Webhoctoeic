@@ -1,0 +1,635 @@
+{
+  "conversationId": "t5-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-62-u01",
+      "speaker": "W",
+      "text": "Hi, I just got off the phone with management.",
+      "start": 7.53,
+      "end": 10.17,
+      "clipSrc": "../../audio-sentences/t5-62-s01.mp3",
+      "clipSourceStart": 7.45,
+      "vi": "Chào, tôi vừa kết thúc cuộc gọi với ban quản lý.",
+      "listeningKeywords": [
+        "got",
+        "phone",
+        "management"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "got",
+          "vi": "kết thúc"
+        },
+        {
+          "en": "phone",
+          "vi": "cuộc gọi"
+        },
+        {
+          "en": "management",
+          "vi": "ban quản lý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u01-k1",
+          "en": "got",
+          "vi": [
+            "kết thúc"
+          ],
+          "start": 8.67,
+          "end": 8.85,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u01-k2",
+          "en": "phone",
+          "vi": [
+            "cuộc gọi"
+          ],
+          "start": 9.09,
+          "end": 9.36,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u01-k3",
+          "en": "management",
+          "vi": [
+            "ban quản lý"
+          ],
+          "start": 9.48,
+          "end": 10.17,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u02",
+      "speaker": "W",
+      "text": "They're not happy. The construction of the train tunnel isn't progressing fast enough.",
+      "start": 10.38,
+      "end": 15.27,
+      "clipSrc": "../../audio-sentences/t5-62-meaning-02.mp3",
+      "clipSourceStart": 10.3,
+      "vi": "Họ không hài lòng. Việc xây dựng đường hầm tàu hỏa không tiến triển đủ nhanh.",
+      "listeningKeywords": [
+        "not",
+        "construction",
+        "train tunnel",
+        "isn't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "construction",
+          "vi": "xây dựng"
+        },
+        {
+          "en": "train tunnel",
+          "vi": "đường hầm tàu hỏa"
+        },
+        {
+          "en": "isn't",
+          "vi": "không"
+        },
+        {
+          "en": "isn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u02-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 10.676866,
+          "end": 10.95,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u02-k2",
+          "en": "construction",
+          "vi": [
+            "xây dựng"
+          ],
+          "start": 12.09,
+          "end": 12.72,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u02-k3",
+          "en": "train tunnel",
+          "vi": [
+            "đường hầm tàu hỏa"
+          ],
+          "start": 12.9,
+          "end": 13.59,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u02-k4",
+          "en": "isn't",
+          "vi": [
+            "không"
+          ],
+          "start": 13.65,
+          "end": 13.92,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u03",
+      "speaker": "M",
+      "text": "Yeah, I'm not surprised.",
+      "start": 15.75,
+      "end": 17.49,
+      "clipSrc": "../../audio-sentences/t5-62-s04.mp3",
+      "clipSourceStart": 15.67,
+      "vi": "Ừ, tôi không ngạc nhiên.",
+      "listeningKeywords": [
+        "not",
+        "surprised"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "surprised",
+          "vi": "ngạc nhiên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u03-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 16.53,
+          "end": 16.74,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u03-k2",
+          "en": "surprised",
+          "vi": [
+            "ngạc nhiên"
+          ],
+          "start": 16.74,
+          "end": 17.49,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u04",
+      "speaker": "M",
+      "text": "The drilling is done now.",
+      "start": 17.88,
+      "end": 19.26,
+      "clipSrc": "../../audio-sentences/t5-62-s05.mp3",
+      "clipSourceStart": 17.8,
+      "vi": "Việc khoan đã hoàn tất.",
+      "listeningKeywords": [
+        "drilling"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "drilling",
+          "vi": "khoan"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u04-k1",
+          "en": "drilling",
+          "vi": [
+            "khoan"
+          ],
+          "start": 18.03,
+          "end": 18.42,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u05",
+      "speaker": "M",
+      "text": "The thing is, we can't start installing the support columns until we have all the materials for the concrete.",
+      "start": 19.5,
+      "end": 24.84,
+      "clipSrc": "../../audio-sentences/t5-62-s06.mp3",
+      "clipSourceStart": 19.42,
+      "vi": "Vấn đề là chúng ta không thể bắt đầu lắp đặt cột chống đỡ cho đến khi có đầy đủ vật liệu cho bê tông.",
+      "listeningKeywords": [
+        "can't",
+        "start",
+        "installing",
+        "support columns"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "installing",
+          "vi": "lắp đặt"
+        },
+        {
+          "en": "support columns",
+          "vi": "cột chống đỡ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u05-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 20.31,
+          "end": 20.61,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u05-k2",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 20.61,
+          "end": 20.91,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u05-k3",
+          "en": "installing",
+          "vi": [
+            "lắp đặt"
+          ],
+          "start": 20.91,
+          "end": 21.45,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u05-k4",
+          "en": "support columns",
+          "vi": [
+            "cột chống đỡ"
+          ],
+          "start": 21.54,
+          "end": 22.47,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u06",
+      "speaker": "W",
+      "text": "When are the materials going to get here?",
+      "start": 25.14,
+      "end": 26.64,
+      "clipSrc": "../../audio-sentences/t5-62-s07.mp3",
+      "clipSourceStart": 25.06,
+      "vi": "Vật liệu sẽ đến khi nào?",
+      "listeningKeywords": [
+        "materials",
+        "get"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "materials",
+          "vi": "Vật liệu"
+        },
+        {
+          "en": "get",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u06-k1",
+          "en": "materials",
+          "vi": [
+            "Vật liệu"
+          ],
+          "start": 25.56,
+          "end": 26.04,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u06-k2",
+          "en": "get",
+          "vi": [
+            "đến"
+          ],
+          "start": 26.31,
+          "end": 26.55,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u07",
+      "speaker": "M",
+      "text": "A week, maybe two.",
+      "start": 27.3,
+      "end": 28.8,
+      "clipSrc": "../../audio-sentences/t5-62-s08.mp3",
+      "clipSourceStart": 27.22,
+      "vi": "Một tuần, có lẽ hai tuần.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t5-62-u08",
+      "speaker": "W",
+      "text": "Let's see if the shipment can be expedited.",
+      "start": 29.04,
+      "end": 31.29,
+      "clipSrc": "../../audio-sentences/t5-62-s09.mp3",
+      "clipSourceStart": 28.96,
+      "vi": "Hãy xem liệu lô hàng có thể được đẩy nhanh không.",
+      "listeningKeywords": [
+        "see",
+        "shipment",
+        "expedited"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "shipment",
+          "vi": "lô hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u08-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 29.34,
+          "end": 29.52,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u08-k2",
+          "en": "shipment",
+          "vi": [
+            "lô hàng"
+          ],
+          "start": 29.67,
+          "end": 30.09,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u08-k3",
+          "en": "expedited",
+          "vi": [],
+          "start": 30.42,
+          "end": 31.29,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u09",
+      "speaker": "W",
+      "text": "Can you do that?",
+      "start": 31.74,
+      "end": 32.67,
+      "clipSrc": "../../audio-sentences/t5-62-s10.mp3",
+      "clipSourceStart": 31.66,
+      "vi": "Anh có thể làm điều đó không?",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t5-62-u10",
+      "speaker": "M",
+      "text": "Sure. I'll call the supplier to ask about getting it here sooner.",
+      "start": 33.15,
+      "end": 36.57,
+      "clipSrc": "../../audio-sentences/t5-62-meaning-10.mp3",
+      "clipSourceStart": 33.07,
+      "vi": "Chắc chắn. Tôi sẽ gọi nhà cung cấp để hỏi về việc giao sớm hơn.",
+      "listeningKeywords": [
+        "call",
+        "supplier",
+        "ask",
+        "sooner"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        },
+        {
+          "en": "supplier",
+          "vi": "nhà cung cấp"
+        },
+        {
+          "en": "ask",
+          "vi": "hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u10-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 34.02,
+          "end": 34.29,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u10-k2",
+          "en": "supplier",
+          "vi": [
+            "nhà cung cấp"
+          ],
+          "start": 34.41,
+          "end": 34.89,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u10-k3",
+          "en": "ask",
+          "vi": [
+            "hỏi"
+          ],
+          "start": 35.07,
+          "end": 35.34,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u10-k4",
+          "en": "sooner",
+          "vi": [],
+          "start": 36.12,
+          "end": 36.57,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-62-u11",
+      "speaker": "W",
+      "text": "In the meantime, I'm going to write an e-mail to management to explain how we're attempting to resolve the situation.",
+      "start": 36.9,
+      "end": 42.66,
+      "clipSrc": "../../audio-sentences/t5-62-s13.mp3",
+      "clipSourceStart": 36.82,
+      "vi": "Trong lúc đó, tôi sẽ viết email cho ban quản lý để giải thích cách chúng ta đang cố gắng giải quyết tình hình.",
+      "listeningKeywords": [
+        "write",
+        "explain",
+        "attempting",
+        "situation"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "write",
+          "vi": "viết"
+        },
+        {
+          "en": "explain",
+          "vi": "giải thích"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-62-u11-k1",
+          "en": "write",
+          "vi": [
+            "viết"
+          ],
+          "start": 38.49,
+          "end": 38.7,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u11-k2",
+          "en": "explain",
+          "vi": [
+            "giải thích"
+          ],
+          "start": 40.02,
+          "end": 40.47,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u11-k3",
+          "en": "attempting",
+          "vi": [],
+          "start": 40.83,
+          "end": 41.34,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-62-u11-k4",
+          "en": "situation",
+          "vi": [],
+          "start": 41.88,
+          "end": 42.66,
+          "anchorSource": "t5-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

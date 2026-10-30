@@ -1,0 +1,540 @@
+{
+  "conversationId": "t2-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-38-u01",
+      "speaker": "M",
+      "text": "Back to our podcast with special guest Kimberly Stuart, who's currently advising our city on business development projects.",
+      "start": 5.49,
+      "end": 12.75,
+      "clipSrc": "../../audio-sentences/t2-38-s01.mp3",
+      "clipSourceStart": 5.41,
+      "vi": "Trở lại với podcast của chúng ta cùng khách mời đặc biệt Kimberly Stuart, người hiện đang tư vấn cho thành phố chúng ta về các dự án phát triển kinh doanh.",
+      "listeningKeywords": [
+        "podcast",
+        "special guest Kimberly Stuart",
+        "advising",
+        "business development projects"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "podcast",
+          "vi": "podcast"
+        },
+        {
+          "en": "business development projects",
+          "vi": "kinh doanh"
+        },
+        {
+          "en": "business development projects",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u01-k1",
+          "en": "podcast",
+          "vi": [
+            "podcast"
+          ],
+          "start": 6.12,
+          "end": 6.9,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u01-k2",
+          "en": "advising",
+          "vi": [],
+          "start": 9.93,
+          "end": 10.47,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u01-k3",
+          "en": "business development projects",
+          "vi": [
+            "kinh doanh",
+            "dự án"
+          ],
+          "start": 11.13,
+          "end": 12.75,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u02",
+      "speaker": "M",
+      "text": "Before the break, we promised to address the decline of shopping downtown.",
+      "start": 13.2,
+      "end": 17.61,
+      "clipSrc": "../../audio-sentences/t2-38-s02.mp3",
+      "clipSourceStart": 13.12,
+      "vi": "Trước giờ nghỉ, chúng ta đã hứa sẽ đề cập đến sự suy giảm mua sắm ở khu trung tâm.",
+      "listeningKeywords": [
+        "break",
+        "promised",
+        "decline",
+        "shopping downtown"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "break",
+          "vi": "giờ nghỉ"
+        },
+        {
+          "en": "promised",
+          "vi": "hứa"
+        },
+        {
+          "en": "decline",
+          "vi": "suy giảm"
+        },
+        {
+          "en": "shopping downtown",
+          "vi": "khu trung tâm"
+        },
+        {
+          "en": "shopping downtown",
+          "vi": "mua sắm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u02-k1",
+          "en": "break",
+          "vi": [
+            "giờ nghỉ"
+          ],
+          "start": 13.71,
+          "end": 14.13,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u02-k2",
+          "en": "promised",
+          "vi": [
+            "hứa"
+          ],
+          "start": 14.4,
+          "end": 14.94,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u02-k3",
+          "en": "decline",
+          "vi": [
+            "suy giảm"
+          ],
+          "start": 15.72,
+          "end": 16.23,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u02-k4",
+          "en": "shopping downtown",
+          "vi": [
+            "khu trung tâm",
+            "mua sắm"
+          ],
+          "start": 16.32,
+          "end": 17.61,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u03",
+      "speaker": "W",
+      "text": "Yes—and it's been the worst at the kind of stores that sell unique items like antiques and jewelry.",
+      "start": 17.97,
+      "end": 23.91,
+      "clipSrc": "../../audio-sentences/t2-38-s03.mp3",
+      "clipSourceStart": 17.89,
+      "vi": "Vâng—và tình hình tồi tệ nhất ở các cửa hàng bán các mặt hàng độc đáo như đồ cổ và trang sức.",
+      "listeningKeywords": [
+        "stores",
+        "sell",
+        "unique items",
+        "antiques"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "stores",
+          "vi": "cửa hàng"
+        },
+        {
+          "en": "sell",
+          "vi": "bán"
+        },
+        {
+          "en": "unique items",
+          "vi": "hàng"
+        },
+        {
+          "en": "unique items",
+          "vi": "hàng"
+        },
+        {
+          "en": "antiques",
+          "vi": "đồ cổ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u03-k1",
+          "en": "stores",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 20.37,
+          "end": 20.85,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u03-k2",
+          "en": "sell",
+          "vi": [
+            "bán"
+          ],
+          "start": 21.03,
+          "end": 21.27,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u03-k3",
+          "en": "unique items",
+          "vi": [
+            "hàng"
+          ],
+          "start": 21.27,
+          "end": 22.26,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u03-k4",
+          "en": "antiques",
+          "vi": [
+            "đồ cổ"
+          ],
+          "start": 22.53,
+          "end": 23.16,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u04",
+      "speaker": "W",
+      "text": "These items have always been purchased at brick-and-mortar stores but are now being purchased mostly online.",
+      "start": 24.39,
+      "end": 30.87,
+      "clipSrc": "../../audio-sentences/t2-38-s04.mp3",
+      "clipSourceStart": 24.31,
+      "vi": "Những mặt hàng này luôn được mua tại các cửa hàng truyền thống nhưng giờ chủ yếu được mua trực tuyến.",
+      "listeningKeywords": [
+        "purchased",
+        "mortar stores",
+        "purchased",
+        "online"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "mortar stores",
+          "vi": "cửa hàng"
+        },
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "purchased",
+          "vi": "mua"
+        },
+        {
+          "en": "online",
+          "vi": "trực tuyến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u04-k1",
+          "en": "purchased",
+          "vi": [
+            "mua"
+          ],
+          "start": 25.95,
+          "end": 26.52,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u04-k2",
+          "en": "mortar stores",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 27.0,
+          "end": 27.93,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u04-k3",
+          "en": "online",
+          "vi": [
+            "trực tuyến"
+          ],
+          "start": 30.15,
+          "end": 30.87,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u05",
+      "speaker": "M",
+      "text": "So, do those stores have a future?",
+      "start": 31.29,
+      "end": 33.33,
+      "clipSrc": "../../audio-sentences/t2-38-s05.mp3",
+      "clipSourceStart": 31.21,
+      "vi": "Vậy, những cửa hàng đó có tương lai không?",
+      "listeningKeywords": [
+        "stores",
+        "future"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "stores",
+          "vi": "cửa hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u05-k1",
+          "en": "stores",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 32.22,
+          "end": 32.61,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u05-k2",
+          "en": "future",
+          "vi": [],
+          "start": 32.82,
+          "end": 33.33,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u06",
+      "speaker": "W",
+      "text": "I think they do, especially if we make a point of organizing live community activities downtown, such as concerts or festivals.",
+      "start": 33.75,
+      "end": 41.94,
+      "clipSrc": "../../audio-sentences/t2-38-s06.mp3",
+      "clipSourceStart": 33.67,
+      "vi": "Tôi nghĩ là có, đặc biệt nếu chúng ta chú trọng tổ chức các hoạt động cộng đồng trực tiếp ở khu trung tâm, chẳng hạn như hòa nhạc hoặc lễ hội.",
+      "listeningKeywords": [
+        "organizing",
+        "live community activities downtown",
+        "concerts",
+        "festivals"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "organizing",
+          "vi": "tổ chức"
+        },
+        {
+          "en": "live community activities downtown",
+          "vi": "khu trung tâm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u06-k1",
+          "en": "organizing",
+          "vi": [
+            "tổ chức"
+          ],
+          "start": 36.63,
+          "end": 37.38,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u06-k2",
+          "en": "live community activities downtown",
+          "vi": [
+            "khu trung tâm"
+          ],
+          "start": 37.38,
+          "end": 39.69,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u06-k3",
+          "en": "concerts",
+          "vi": [],
+          "start": 40.41,
+          "end": 41.07,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u06-k4",
+          "en": "festivals",
+          "vi": [],
+          "start": 41.16,
+          "end": 41.94,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-38-u07",
+      "speaker": "W",
+      "text": "When people walk around town, they are likely to browse at stores—and make purchases.",
+      "start": 42.39,
+      "end": 47.52,
+      "clipSrc": "../../audio-sentences/t2-38-s07.mp3",
+      "clipSourceStart": 42.31,
+      "vi": "Khi mọi người đi dạo quanh thị trấn, họ có khả năng ghé thăm các cửa hàng—và mua hàng.",
+      "listeningKeywords": [
+        "people walk around town",
+        "browse",
+        "stores",
+        "purchases"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "people walk around town",
+          "vi": "người"
+        },
+        {
+          "en": "stores",
+          "vi": "cửa hàng"
+        },
+        {
+          "en": "purchases",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-38-u07-k1",
+          "en": "people walk around town",
+          "vi": [
+            "người"
+          ],
+          "start": 42.63,
+          "end": 44.04,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u07-k2",
+          "en": "browse",
+          "vi": [],
+          "start": 45.0,
+          "end": 45.36,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u07-k3",
+          "en": "stores",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 45.568348,
+          "end": 46.2,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-38-u07-k4",
+          "en": "purchases",
+          "vi": [
+            "mua"
+          ],
+          "start": 46.71,
+          "end": 47.52,
+          "anchorSource": "t2-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "conversationId": "t3-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ],
+    "transcriptCorrection": {
+      "file": "C:\\Users\\Nam\\Documents\\transcript 2026 ets.pdf",
+      "pages": [
+        77
+      ],
+      "reason": "Supplied individual Test 3 PDF contains unrelated transcript for 50-52. Scan read visually and checked against audio."
+    }
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-50-u01",
+      "speaker": "W",
+      "text": "Welcome back! How were your lunch deliveries?",
+      "start": 5.82,
+      "end": 8.37,
+      "clipSrc": "../../audio-sentences/t3-50-s01.mp3",
+      "clipSourceStart": 5.74,
+      "vi": "Chào mừng bạn quay lại! Việc giao đồ ăn trưa thế nào?",
+      "listeningKeywords": [
+        "lunch deliveries"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "lunch deliveries",
+          "vi": "giao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u01-k1",
+          "en": "lunch deliveries",
+          "vi": [
+            "giao"
+          ],
+          "start": 7.32,
+          "end": 8.37,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u02",
+      "speaker": "M",
+      "text": "All right, except one bag broke and the food container fell out right as I was walking up to a customer’s door.",
+      "start": 8.88,
+      "end": 15.24,
+      "clipSrc": "../../audio-sentences/t3-50-s02.mp3",
+      "clipSourceStart": 8.8,
+      "vi": "Cũng ổn, chỉ có một chiếc túi bị rách và hộp thức ăn rơi ra đúng lúc tôi đang đi đến cửa nhà khách hàng.",
+      "listeningKeywords": [
+        "bag",
+        "broke",
+        "food container",
+        "customer’s door"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "broke",
+          "vi": "rách"
+        },
+        {
+          "en": "food container",
+          "vi": "thức ăn"
+        },
+        {
+          "en": "food container",
+          "vi": "hộp"
+        },
+        {
+          "en": "customer’s door",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u02-k1",
+          "en": "bag",
+          "vi": [],
+          "start": 10.53,
+          "end": 10.92,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u02-k2",
+          "en": "broke",
+          "vi": [
+            "rách"
+          ],
+          "start": 10.92,
+          "end": 11.4,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u02-k3",
+          "en": "food container",
+          "vi": [
+            "thức ăn",
+            "hộp"
+          ],
+          "start": 11.76,
+          "end": 12.51,
+          "anchorSource": "t3-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u02-k4",
+          "en": "customer’s door",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 14.25,
+          "end": 15.24,
+          "anchorSource": "t3-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u03",
+      "speaker": "M",
+      "text": "The container was still sealed, and the customer accepted it, so it turned out OK in the end.",
+      "start": 15.75,
+      "end": 20.85,
+      "clipSrc": "../../audio-sentences/t3-50-s03.mp3",
+      "clipSourceStart": 15.67,
+      "vi": "Hộp vẫn còn được niêm phong và khách hàng đã nhận, nên cuối cùng mọi chuyện cũng ổn.",
+      "listeningKeywords": [
+        "container",
+        "sealed",
+        "accepted",
+        "turned"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "container",
+          "vi": "Hộp"
+        },
+        {
+          "en": "sealed",
+          "vi": "niêm phong"
+        },
+        {
+          "en": "accepted",
+          "vi": "nhận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u03-k1",
+          "en": "container",
+          "vi": [
+            "Hộp"
+          ],
+          "start": 15.87,
+          "end": 16.32,
+          "anchorSource": "t3-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u03-k2",
+          "en": "sealed",
+          "vi": [
+            "niêm phong"
+          ],
+          "start": 16.74,
+          "end": 17.4,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u03-k3",
+          "en": "accepted",
+          "vi": [
+            "nhận"
+          ],
+          "start": 18.21,
+          "end": 18.75,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u03-k4",
+          "en": "turned",
+          "vi": [],
+          "start": 19.47,
+          "end": 19.74,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u04",
+      "speaker": "W",
+      "text": "Well, I’m glad everything worked out.",
+      "start": 21.15,
+      "end": 23.1,
+      "clipSrc": "../../audio-sentences/t3-50-s04.mp3",
+      "clipSourceStart": 21.07,
+      "vi": "Tốt quá, tôi mừng là mọi chuyện đã ổn thỏa.",
+      "listeningKeywords": [
+        "worked"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "worked",
+          "vi": "ổn thỏa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u04-k1",
+          "en": "worked",
+          "vi": [
+            "ổn thỏa"
+          ],
+          "start": 22.47,
+          "end": 22.77,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u05",
+      "speaker": "W",
+      "text": "By the way, take a look at my screen! I got the new delivery software installed and running while you were gone.",
+      "start": 23.61,
+      "end": 29.04,
+      "clipSrc": "../../audio-sentences/t3-50-s05.mp3",
+      "clipSourceStart": 23.53,
+      "vi": "Nhân tiện, nhìn màn hình của tôi này! Tôi đã cài đặt và cho chạy phần mềm giao hàng mới trong lúc bạn đi vắng.",
+      "listeningKeywords": [
+        "screen",
+        "delivery software",
+        "installed",
+        "running"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "screen",
+          "vi": "màn hình"
+        },
+        {
+          "en": "delivery software",
+          "vi": "phần mềm giao hàng"
+        },
+        {
+          "en": "installed",
+          "vi": "cài đặt"
+        },
+        {
+          "en": "running",
+          "vi": "chạy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u05-k1",
+          "en": "screen",
+          "vi": [
+            "màn hình"
+          ],
+          "start": 25.08,
+          "end": 25.59,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u05-k2",
+          "en": "delivery software",
+          "vi": [
+            "phần mềm giao hàng"
+          ],
+          "start": 26.64,
+          "end": 27.54,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u05-k3",
+          "en": "installed",
+          "vi": [
+            "cài đặt"
+          ],
+          "start": 27.54,
+          "end": 28.02,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u05-k4",
+          "en": "running",
+          "vi": [
+            "chạy"
+          ],
+          "start": 28.137545,
+          "end": 28.47,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u06",
+      "speaker": "M",
+      "text": "This looks great! I like how different areas can be grouped together so drivers can deliver more efficiently.",
+      "start": 29.76,
+      "end": 35.79,
+      "clipSrc": "../../audio-sentences/t3-50-s06.mp3",
+      "clipSourceStart": 29.68,
+      "vi": "Trông tuyệt đấy! Tôi thích cách các khu vực khác nhau có thể được nhóm lại để tài xế giao hàng hiệu quả hơn.",
+      "listeningKeywords": [
+        "areas",
+        "grouped",
+        "deliver",
+        "efficiently"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "areas",
+          "vi": "khu vực"
+        },
+        {
+          "en": "deliver",
+          "vi": "giao hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u06-k1",
+          "en": "areas",
+          "vi": [
+            "khu vực"
+          ],
+          "start": 32.25,
+          "end": 32.64,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u06-k2",
+          "en": "grouped",
+          "vi": [],
+          "start": 32.91,
+          "end": 33.36,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u06-k3",
+          "en": "deliver",
+          "vi": [
+            "giao hàng"
+          ],
+          "start": 34.59,
+          "end": 34.89,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u06-k4",
+          "en": "efficiently",
+          "vi": [],
+          "start": 35.1,
+          "end": 35.79,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-50-u07",
+      "speaker": "W",
+      "text": "Me too. And since we’ve recently had such a significant increase in customers, this will be really useful.",
+      "start": 36.3,
+      "end": 42.54,
+      "clipSrc": "../../audio-sentences/t3-50-meaning-07.mp3",
+      "clipSourceStart": 36.22,
+      "vi": "Tôi cũng vậy. Gần đây số lượng khách hàng của chúng ta tăng đáng kể, nên phần mềm này sẽ rất hữu ích.",
+      "listeningKeywords": [
+        "we’ve",
+        "significant",
+        "increase",
+        "customers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "increase",
+          "vi": "tăng"
+        },
+        {
+          "en": "customers",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-50-u07-k1",
+          "en": "we’ve",
+          "vi": [],
+          "start": 37.65,
+          "end": 37.89,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u07-k2",
+          "en": "significant",
+          "vi": [],
+          "start": 38.94,
+          "end": 39.69,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u07-k3",
+          "en": "increase",
+          "vi": [
+            "tăng"
+          ],
+          "start": 39.69,
+          "end": 40.08,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-50-u07-k4",
+          "en": "customers",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 40.17,
+          "end": 40.8,
+          "anchorSource": "t3-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "editorial-translation-of-verified-English",
+    "note": "Bản dịch Việt được biên soạn theo transcript tiếng Anh đã đối chiếu, vì bản dịch PDF của nhóm câu này không khớp."
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

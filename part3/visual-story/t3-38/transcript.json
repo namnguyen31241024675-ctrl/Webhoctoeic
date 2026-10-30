@@ -1,0 +1,423 @@
+{
+  "conversationId": "t3-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-38-u01",
+      "speaker": "W",
+      "text": "I talked to Mr. Hoffman this morning, and he said he's decided to start a delivery service for our customers who have a difficult time picking up their prescriptions.",
+      "start": 5.52,
+      "end": 14.97,
+      "clipSrc": "../../audio-sentences/t3-38-s01.mp3",
+      "clipSourceStart": 5.44,
+      "vi": "Sáng nay tôi đã nói chuyện với ông Hoffman, và ông ấy nói đã quyết định bắt đầu dịch vụ giao hàng cho những khách hàng gặp khó khăn khi tự đến lấy đơn thuốc.",
+      "listeningKeywords": [
+        "talked",
+        "decided",
+        "delivery service",
+        "prescriptions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "talked",
+          "vi": "nói chuyện"
+        },
+        {
+          "en": "talked",
+          "vi": "nói"
+        },
+        {
+          "en": "decided",
+          "vi": "quyết định"
+        },
+        {
+          "en": "delivery service",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "delivery service",
+          "vi": "dịch vụ"
+        },
+        {
+          "en": "prescriptions",
+          "vi": "đơn thuốc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u01-k1",
+          "en": "decided",
+          "vi": [
+            "quyết định"
+          ],
+          "start": 8.85,
+          "end": 9.39,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u01-k2",
+          "en": "delivery service",
+          "vi": [
+            "giao hàng",
+            "dịch vụ"
+          ],
+          "start": 9.910887,
+          "end": 10.98,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u01-k3",
+          "en": "prescriptions",
+          "vi": [
+            "đơn thuốc"
+          ],
+          "start": 14.01,
+          "end": 14.97,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u02",
+      "speaker": "M",
+      "text": "That's a good idea.",
+      "start": 15.15,
+      "end": 16.38,
+      "clipSrc": "../../audio-sentences/t3-38-s02.mp3",
+      "clipSourceStart": 15.07,
+      "vi": "Ý hay đấy.",
+      "listeningKeywords": [
+        "idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "Ý hay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u02-k1",
+          "en": "idea",
+          "vi": [
+            "Ý hay"
+          ],
+          "start": 15.78,
+          "end": 16.38,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u03",
+      "speaker": "M",
+      "text": "I know a lot of people find it inconvenient to come in person to get their medications.",
+      "start": 16.92,
+      "end": 21.45,
+      "clipSrc": "../../audio-sentences/t3-38-s03.mp3",
+      "clipSourceStart": 16.84,
+      "vi": "Tôi biết nhiều người thấy bất tiện khi phải đến trực tiếp để lấy thuốc.",
+      "listeningKeywords": [
+        "find",
+        "inconvenient",
+        "person",
+        "medications"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "find",
+          "vi": "biết"
+        },
+        {
+          "en": "person",
+          "vi": "người"
+        },
+        {
+          "en": "medications",
+          "vi": "thuốc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u03-k1",
+          "en": "find",
+          "vi": [
+            "biết"
+          ],
+          "start": 18.0,
+          "end": 18.3,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u03-k2",
+          "en": "inconvenient",
+          "vi": [],
+          "start": 18.42,
+          "end": 19.17,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u03-k3",
+          "en": "person",
+          "vi": [
+            "người"
+          ],
+          "start": 19.68,
+          "end": 20.19,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u03-k4",
+          "en": "medications",
+          "vi": [
+            "thuốc"
+          ],
+          "start": 20.64,
+          "end": 21.45,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u04",
+      "speaker": "M",
+      "text": "But many of our customers buy other things while they're here.",
+      "start": 21.75,
+      "end": 25.17,
+      "clipSrc": "../../audio-sentences/t3-38-s04.mp3",
+      "clipSourceStart": 21.67,
+      "vi": "Nhưng nhiều khách hàng của chúng ta cũng mua thêm đồ khác khi đến đây.",
+      "listeningKeywords": [
+        "customers",
+        "buy"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "customers",
+          "vi": "khách hàng"
+        },
+        {
+          "en": "buy",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u04-k1",
+          "en": "customers",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 22.62,
+          "end": 23.13,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u05",
+      "speaker": "W",
+      "text": "Oh, they'll be able to make other purchases too, to be delivered with their medicine.",
+      "start": 25.5,
+      "end": 30.27,
+      "clipSrc": "../../audio-sentences/t3-38-s05.mp3",
+      "clipSourceStart": 25.42,
+      "vi": "Ồ, họ vẫn có thể mua thêm các sản phẩm khác và được giao cùng thuốc.",
+      "listeningKeywords": [
+        "purchases",
+        "delivered",
+        "medicine"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchases",
+          "vi": "mua"
+        },
+        {
+          "en": "delivered",
+          "vi": "giao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u05-k1",
+          "en": "purchases",
+          "vi": [
+            "mua"
+          ],
+          "start": 27.24,
+          "end": 27.87,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u05-k2",
+          "en": "delivered",
+          "vi": [
+            "giao"
+          ],
+          "start": 28.68,
+          "end": 29.19,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u05-k3",
+          "en": "medicine",
+          "vi": [],
+          "start": 29.61,
+          "end": 30.27,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u06",
+      "speaker": "W",
+      "text": "In fact, I'm supposed to draft a job posting for delivery drivers.",
+      "start": 30.84,
+      "end": 35.01,
+      "clipSrc": "../../audio-sentences/t3-38-s06.mp3",
+      "clipSourceStart": 30.76,
+      "vi": "Thực ra tôi phải soạn một bài đăng tuyển dụng tài xế giao hàng.",
+      "listeningKeywords": [
+        "supposed",
+        "draft",
+        "job posting",
+        "delivery drivers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "job posting",
+          "vi": "đăng"
+        },
+        {
+          "en": "delivery drivers",
+          "vi": "giao hàng"
+        },
+        {
+          "en": "delivery drivers",
+          "vi": "tài xế"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u06-k1",
+          "en": "supposed",
+          "vi": [],
+          "start": 31.83,
+          "end": 32.28,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u06-k2",
+          "en": "draft",
+          "vi": [],
+          "start": 32.4,
+          "end": 32.79,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u06-k3",
+          "en": "job posting",
+          "vi": [
+            "đăng"
+          ],
+          "start": 32.85,
+          "end": 33.78,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-38-u06-k4",
+          "en": "delivery drivers",
+          "vi": [
+            "giao hàng",
+            "tài xế"
+          ],
+          "start": 33.93,
+          "end": 35.01,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-38-u07",
+      "speaker": "W",
+      "text": "Could you help me do that?",
+      "start": 35.4,
+      "end": 36.72,
+      "clipSrc": "../../audio-sentences/t3-38-s07.mp3",
+      "clipSourceStart": 35.32,
+      "vi": "Anh có thể giúp tôi không?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-38-u07-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 35.79,
+          "end": 36.03,
+          "anchorSource": "t3-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

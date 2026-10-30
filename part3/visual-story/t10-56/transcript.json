@@ -1,0 +1,392 @@
+{
+  "conversationId": "t10-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-56-u01",
+      "speaker": "M",
+      "text": "Hi. I have a delivery of medical supplies addressed to Eun-Mi Park.",
+      "start": 7.17,
+      "end": 11.34,
+      "clipSrc": "../../audio-sentences/t10-56-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Chào. Tôi có một lô vật tư y tế gửi đến Eun-Mi Park.",
+      "listeningKeywords": [
+        "delivery",
+        "medical supplies",
+        "Eun",
+        "Park"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "medical supplies",
+          "vi": "vật tư y tế"
+        },
+        {
+          "en": "Eun",
+          "vi": "Eun"
+        },
+        {
+          "en": "Park",
+          "vi": "Park"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u01-k1",
+          "en": "delivery",
+          "vi": [],
+          "start": 8.16,
+          "end": 8.64,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u01-k2",
+          "en": "medical supplies",
+          "vi": [
+            "vật tư y tế"
+          ],
+          "start": 8.73,
+          "end": 9.78,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u01-k3",
+          "en": "Eun",
+          "vi": [
+            "Eun"
+          ],
+          "start": 10.32,
+          "end": 10.492449,
+          "anchorSource": "t10-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u01-k4",
+          "en": "Park",
+          "vi": [
+            "Park"
+          ],
+          "start": 10.68,
+          "end": 11.34,
+          "anchorSource": "t10-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-56-u02",
+      "speaker": "W1",
+      "text": "That's Eun-Mi sitting at the desk over there.",
+      "start": 11.67,
+      "end": 14.07,
+      "clipSrc": "../../audio-sentences/t10-56-s02.mp3",
+      "clipSourceStart": 11.59,
+      "vi": "Người đang ngồi tại bàn kia là Eun-Mi đó.",
+      "listeningKeywords": [
+        "sitting",
+        "desk"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sitting",
+          "vi": "ngồi"
+        },
+        {
+          "en": "desk",
+          "vi": "bàn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u02-k1",
+          "en": "sitting",
+          "vi": [
+            "ngồi"
+          ],
+          "start": 12.51,
+          "end": 12.9,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u02-k2",
+          "en": "desk",
+          "vi": [
+            "bàn"
+          ],
+          "start": 13.11,
+          "end": 13.44,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-56-u03",
+      "speaker": "W2",
+      "text": "I'm Eun-Mi, I've been waiting for these sterile pads and bandages.",
+      "start": 14.64,
+      "end": 18.42,
+      "clipSrc": "../../audio-sentences/t10-56-s03.mp3",
+      "clipSourceStart": 14.56,
+      "vi": "Tôi là Eun-Mi, tôi đang chờ các miếng gạc và băng vô trùng này.",
+      "listeningKeywords": [
+        "waiting",
+        "sterile pads",
+        "bandages"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "waiting",
+          "vi": "chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u03-k1",
+          "en": "waiting",
+          "vi": [
+            "chờ"
+          ],
+          "start": 16.08,
+          "end": 16.44,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u03-k2",
+          "en": "sterile pads",
+          "vi": [],
+          "start": 16.77,
+          "end": 17.58,
+          "anchorSource": "t10-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u03-k3",
+          "en": "bandages",
+          "vi": [],
+          "start": 17.7,
+          "end": 18.42,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-56-u04",
+      "speaker": "M",
+      "text": "Great. I just need you to sign here to confirm the delivery.",
+      "start": 18.69,
+      "end": 22.08,
+      "clipSrc": "../../audio-sentences/t10-56-s04.mp3",
+      "clipSourceStart": 18.61,
+      "vi": "Tuyệt. Tôi chỉ cần bạn ký vào đây để xác nhận việc giao hàng.",
+      "listeningKeywords": [
+        "sign",
+        "confirm",
+        "delivery"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sign",
+          "vi": "ký"
+        },
+        {
+          "en": "confirm",
+          "vi": "xác nhận"
+        },
+        {
+          "en": "delivery",
+          "vi": "giao hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u04-k1",
+          "en": "sign",
+          "vi": [
+            "ký"
+          ],
+          "start": 20.28,
+          "end": 20.67,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u04-k2",
+          "en": "confirm",
+          "vi": [
+            "xác nhận"
+          ],
+          "start": 20.91,
+          "end": 21.33,
+          "anchorSource": "t10-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u04-k3",
+          "en": "delivery",
+          "vi": [
+            "giao hàng"
+          ],
+          "start": 21.42,
+          "end": 22.08,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-56-u05",
+      "speaker": "W2",
+      "text": "OK, sure. Oh, Claudia, do you have time to help me carry these boxes to the storage closet?",
+      "start": 22.26,
+      "end": 28.11,
+      "clipSrc": "../../audio-sentences/t10-56-s05.mp3",
+      "clipSourceStart": 22.18,
+      "vi": "Được, chắc chắn rồi. À, Claudia, bạn có thời gian giúp tôi mang mấy thùng này vào tủ lưu trữ không?",
+      "listeningKeywords": [
+        "Claudia",
+        "carry",
+        "boxes",
+        "storage closet"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Claudia",
+          "vi": "Claudia"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u05-k1",
+          "en": "Claudia",
+          "vi": [
+            "Claudia"
+          ],
+          "start": 24.18,
+          "end": 24.66,
+          "anchorSource": "t10-56-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u05-k2",
+          "en": "carry",
+          "vi": [],
+          "start": 26.07,
+          "end": 26.37,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u05-k3",
+          "en": "boxes",
+          "vi": [],
+          "start": 26.58,
+          "end": 27.0,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u05-k4",
+          "en": "storage closet",
+          "vi": [],
+          "start": 27.21,
+          "end": 28.11,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-56-u06",
+      "speaker": "W1",
+      "text": "Of course. I have a patient at one o'clock, but I have a few minutes now.",
+      "start": 28.38,
+      "end": 32.76,
+      "clipSrc": "../../audio-sentences/t10-56-s06.mp3",
+      "clipSourceStart": 28.3,
+      "vi": "Dĩ nhiên. Tôi có một bệnh nhân lúc 1 giờ, nhưng giờ tôi có vài phút rảnh.",
+      "listeningKeywords": [
+        "patient",
+        "o'clock"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "patient",
+          "vi": "bệnh nhân"
+        },
+        {
+          "en": "o'clock",
+          "vi": "giờ"
+        },
+        {
+          "en": "o'clock",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-56-u06-k1",
+          "en": "patient",
+          "vi": [
+            "bệnh nhân"
+          ],
+          "start": 29.88,
+          "end": 30.36,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-56-u06-k2",
+          "en": "o'clock",
+          "vi": [
+            "giờ"
+          ],
+          "start": 30.75,
+          "end": 31.32,
+          "anchorSource": "t10-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

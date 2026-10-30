@@ -1,0 +1,453 @@
+{
+  "conversationId": "t10-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      10,
+      11
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-50-u01",
+      "speaker": "M",
+      "text": "This traffic is really terrible.",
+      "start": 5.73,
+      "end": 8.1,
+      "clipSrc": "../../audio-sentences/t10-50-s01.mp3",
+      "clipSourceStart": 5.65,
+      "vi": "Giao thông hôm nay thật tệ.",
+      "listeningKeywords": [
+        "traffic",
+        "terrible"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "traffic",
+          "vi": "Giao thông"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u01-k1",
+          "en": "traffic",
+          "vi": [
+            "Giao thông"
+          ],
+          "start": 6.06,
+          "end": 6.57,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u01-k2",
+          "en": "terrible",
+          "vi": [],
+          "start": 7.38,
+          "end": 8.1,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u02",
+      "speaker": "W",
+      "text": "I know. We've been stuck in this bus for hours now! It's frustrating.",
+      "start": 8.22,
+      "end": 12.69,
+      "clipSrc": "../../audio-sentences/t10-50-s02.mp3",
+      "clipSourceStart": 8.14,
+      "vi": "Tôi biết. Chúng ta đã kẹt trong chiếc xe buýt này mấy giờ rồi! Thật bực mình.",
+      "listeningKeywords": [
+        "stuck",
+        "bus",
+        "hours",
+        "frustrating"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bus",
+          "vi": "xe buýt"
+        },
+        {
+          "en": "hours",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u02-k1",
+          "en": "stuck",
+          "vi": [],
+          "start": 9.54,
+          "end": 9.93,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u02-k2",
+          "en": "bus",
+          "vi": [
+            "xe buýt"
+          ],
+          "start": 10.2,
+          "end": 10.41,
+          "anchorSource": "t10-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u02-k3",
+          "en": "hours",
+          "vi": [
+            "giờ"
+          ],
+          "start": 10.71,
+          "end": 11.13,
+          "anchorSource": "t10-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u02-k4",
+          "en": "frustrating",
+          "vi": [],
+          "start": 11.88,
+          "end": 12.69,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u03",
+      "speaker": "W",
+      "text": "I wonder what's going on.",
+      "start": 12.99,
+      "end": 14.28,
+      "clipSrc": "../../audio-sentences/t10-50-s03.mp3",
+      "clipSourceStart": 12.91,
+      "vi": "Tôi tự hỏi chuyện gì đang xảy ra.",
+      "listeningKeywords": [
+        "wonder what's"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wonder what's",
+          "vi": "chuyện gì"
+        },
+        {
+          "en": "wonder what's",
+          "vi": "tự hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u03-k1",
+          "en": "wonder what's",
+          "vi": [
+            "chuyện gì",
+            "tự hỏi"
+          ],
+          "start": 13.11,
+          "end": 13.62,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u04",
+      "speaker": "M",
+      "text": "I heard the Day Street Bridge is being worked on.",
+      "start": 14.76,
+      "end": 17.67,
+      "clipSrc": "../../audio-sentences/t10-50-s04.mp3",
+      "clipSourceStart": 14.68,
+      "vi": "Tôi nghe nói cầu Day Street đang được sửa chữa.",
+      "listeningKeywords": [
+        "Bridge",
+        "worked"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Bridge",
+          "vi": "cầu"
+        },
+        {
+          "en": "worked",
+          "vi": "được"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u04-k1",
+          "en": "Bridge",
+          "vi": [
+            "cầu"
+          ],
+          "start": 16.23,
+          "end": 16.62,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u04-k2",
+          "en": "worked",
+          "vi": [
+            "được"
+          ],
+          "start": 17.01,
+          "end": 17.37,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u05",
+      "speaker": "W",
+      "text": "Oh, really? I didn't know that.",
+      "start": 17.91,
+      "end": 20.01,
+      "clipSrc": "../../audio-sentences/t10-50-s05.mp3",
+      "clipSourceStart": 17.83,
+      "vi": "Thật sao? Tôi không biết điều đó.",
+      "listeningKeywords": [
+        "didn't",
+        "know"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "didn't",
+          "vi": "không"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u05-k1",
+          "en": "didn't",
+          "vi": [
+            "không"
+          ],
+          "start": 19.11,
+          "end": 19.41,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u05-k2",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 19.41,
+          "end": 19.56,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u06",
+      "speaker": "M",
+      "text": "Yes. I think it's down to just one lane for the next couple of weeks.",
+      "start": 20.31,
+      "end": 24.33,
+      "clipSrc": "../../audio-sentences/t10-50-s06.mp3",
+      "clipSourceStart": 20.23,
+      "vi": "Đúng rồi. Tôi nghĩ hiện chỉ còn một làn xe trong vài tuần tới.",
+      "listeningKeywords": [
+        "think",
+        "down",
+        "lane",
+        "couple"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u06-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 21.06,
+          "end": 21.42,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u06-k2",
+          "en": "down",
+          "vi": [],
+          "start": 21.57,
+          "end": 21.84,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u06-k3",
+          "en": "lane",
+          "vi": [],
+          "start": 22.44,
+          "end": 22.8,
+          "anchorSource": "t10-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u06-k4",
+          "en": "couple",
+          "vi": [],
+          "start": 23.34,
+          "end": 23.7,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u07",
+      "speaker": "W",
+      "text": "That's good to know.",
+      "start": 24.54,
+      "end": 25.44,
+      "clipSrc": "../../audio-sentences/t10-50-s07.mp3",
+      "clipSourceStart": 24.46,
+      "vi": "Biết vậy cũng tốt.",
+      "listeningKeywords": [
+        "know"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "Biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u07-k1",
+          "en": "know",
+          "vi": [
+            "Biết"
+          ],
+          "start": 25.14,
+          "end": 25.44,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-50-u08",
+      "speaker": "W",
+      "text": "I'll take the train into the city tomorrow instead, so I won't be late for my appointments.",
+      "start": 25.77,
+      "end": 30.06,
+      "clipSrc": "../../audio-sentences/t10-50-s08.mp3",
+      "clipSourceStart": 25.69,
+      "vi": "Ngày mai tôi sẽ đi tàu vào thành phố thay vì đi xe, để không bị trễ các cuộc hẹn.",
+      "listeningKeywords": [
+        "train",
+        "won't",
+        "late",
+        "appointments"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "train",
+          "vi": "tàu"
+        },
+        {
+          "en": "won't",
+          "vi": "không"
+        },
+        {
+          "en": "appointments",
+          "vi": "cuộc hẹn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-50-u08-k1",
+          "en": "train",
+          "vi": [
+            "tàu"
+          ],
+          "start": 26.25,
+          "end": 26.64,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u08-k2",
+          "en": "won't",
+          "vi": [
+            "không"
+          ],
+          "start": 28.56,
+          "end": 28.77,
+          "anchorSource": "t10-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u08-k3",
+          "en": "late",
+          "vi": [],
+          "start": 28.86,
+          "end": 29.07,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-50-u08-k4",
+          "en": "appointments",
+          "vi": [
+            "cuộc hẹn"
+          ],
+          "start": 29.34,
+          "end": 30.06,
+          "anchorSource": "t10-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "conversationId": "t2-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-59-u01",
+      "speaker": "W",
+      "text": "Hi. I'd like to purchase some new carpeting.",
+      "start": 6.0,
+      "end": 8.91,
+      "clipSrc": "../../audio-sentences/t2-59-meaning-01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Xin chào. Tôi muốn mua thảm mới.",
+      "listeningKeywords": [
+        "purchase",
+        "carpeting"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "purchase",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u01-k1",
+          "en": "purchase",
+          "vi": [
+            "mua"
+          ],
+          "start": 7.29,
+          "end": 7.83,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u01-k2",
+          "en": "carpeting",
+          "vi": [],
+          "start": 8.19,
+          "end": 8.91,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u02",
+      "speaker": "W",
+      "text": "It's for the waiting room at my hair salon.",
+      "start": 9.27,
+      "end": 11.46,
+      "clipSrc": "../../audio-sentences/t2-59-s03.mp3",
+      "clipSourceStart": 9.19,
+      "vi": "Nó dành cho phòng chờ tại tiệm làm tóc của tôi.",
+      "listeningKeywords": [
+        "waiting",
+        "room",
+        "hair salon"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "waiting",
+          "vi": "chờ"
+        },
+        {
+          "en": "room",
+          "vi": "phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u02-k1",
+          "en": "waiting",
+          "vi": [
+            "chờ"
+          ],
+          "start": 9.72,
+          "end": 10.11,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u02-k2",
+          "en": "room",
+          "vi": [
+            "phòng"
+          ],
+          "start": 10.11,
+          "end": 10.35,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u02-k3",
+          "en": "hair salon",
+          "vi": [],
+          "start": 10.62,
+          "end": 11.46,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u03",
+      "speaker": "M",
+      "text": "We have many different styles.",
+      "start": 11.97,
+      "end": 13.71,
+      "clipSrc": "../../audio-sentences/t2-59-s04.mp3",
+      "clipSourceStart": 11.89,
+      "vi": "Chúng tôi có nhiều kiểu khác nhau.",
+      "listeningKeywords": [
+        "styles"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "styles",
+          "vi": "kiểu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u03-k1",
+          "en": "styles",
+          "vi": [
+            "kiểu"
+          ],
+          "start": 13.11,
+          "end": 13.71,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u04",
+      "speaker": "M",
+      "text": "Are you looking for something different?",
+      "start": 14.1,
+      "end": 15.78,
+      "clipSrc": "../../audio-sentences/t2-59-s05.mp3",
+      "clipSourceStart": 14.02,
+      "vi": "Cô đang tìm cái gì khác biệt?",
+      "listeningKeywords": [
+        "looking"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "tìm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u04-k1",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 14.43,
+          "end": 14.76,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u05",
+      "speaker": "W",
+      "text": "Well, we get a lot of customers walking through, and our current carpeting is a light color.",
+      "start": 16.08,
+      "end": 22.59,
+      "clipSrc": "../../audio-sentences/t2-59-s06.mp3",
+      "clipSourceStart": 16.0,
+      "vi": "Ừm, chúng tôi có nhiều khách hàng đi qua, và thảm hiện tại của chúng tôi có màu sáng.",
+      "listeningKeywords": [
+        "get",
+        "customers walking",
+        "carpeting",
+        "light color"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "customers walking",
+          "vi": "khách hàng"
+        },
+        {
+          "en": "light color",
+          "vi": "màu sáng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u05-k1",
+          "en": "get",
+          "vi": [],
+          "start": 16.62,
+          "end": 16.83,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u05-k2",
+          "en": "customers walking",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 17.25,
+          "end": 18.36,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u05-k3",
+          "en": "carpeting",
+          "vi": [],
+          "start": 20.7,
+          "end": 21.33,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u05-k4",
+          "en": "light color",
+          "vi": [
+            "màu sáng"
+          ],
+          "start": 21.57,
+          "end": 22.59,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u06",
+      "speaker": "M",
+      "text": "No matter what color you get, all our carpets are durable and can take high amounts of foot traffic.",
+      "start": 23.28,
+      "end": 29.19,
+      "clipSrc": "../../audio-sentences/t2-59-s07.mp3",
+      "clipSourceStart": 23.2,
+      "vi": "Dù màu gì, tất cả thảm của chúng tôi đều bền và có thể chịu lượng người đi lại cao.",
+      "listeningKeywords": [
+        "matter",
+        "carpets",
+        "high amounts",
+        "foot traffic"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "carpets",
+          "vi": "thảm"
+        },
+        {
+          "en": "high amounts",
+          "vi": "lượng"
+        },
+        {
+          "en": "high amounts",
+          "vi": "cao"
+        },
+        {
+          "en": "foot traffic",
+          "vi": "người đi lại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u06-k1",
+          "en": "matter",
+          "vi": [],
+          "start": 23.49,
+          "end": 23.79,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u06-k2",
+          "en": "carpets",
+          "vi": [
+            "thảm"
+          ],
+          "start": 25.71,
+          "end": 26.16,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u06-k3",
+          "en": "high amounts",
+          "vi": [
+            "lượng",
+            "cao"
+          ],
+          "start": 27.66,
+          "end": 28.32,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u06-k4",
+          "en": "foot traffic",
+          "vi": [
+            "người đi lại"
+          ],
+          "start": 28.41,
+          "end": 29.19,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u07",
+      "speaker": "M",
+      "text": "For businesses like yours, I recommend placing a protective mat near the door.",
+      "start": 29.7,
+      "end": 34.56,
+      "clipSrc": "../../audio-sentences/t2-59-s08.mp3",
+      "clipSourceStart": 29.62,
+      "vi": "Đối với doanh nghiệp như của cô, tôi khuyên nên đặt thảm bảo vệ gần cửa.",
+      "listeningKeywords": [
+        "businesses",
+        "recommend",
+        "placing",
+        "protective mat"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "businesses",
+          "vi": "doanh nghiệp"
+        },
+        {
+          "en": "recommend",
+          "vi": "khuyên"
+        },
+        {
+          "en": "protective mat",
+          "vi": "thảm bảo vệ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u07-k1",
+          "en": "businesses",
+          "vi": [
+            "doanh nghiệp"
+          ],
+          "start": 29.91,
+          "end": 30.45,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u07-k2",
+          "en": "recommend",
+          "vi": [
+            "khuyên"
+          ],
+          "start": 31.65,
+          "end": 32.13,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u07-k3",
+          "en": "placing",
+          "vi": [],
+          "start": 32.13,
+          "end": 32.58,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u08",
+      "speaker": "W",
+      "text": "That's a good idea.",
+      "start": 34.95,
+      "end": 36.03,
+      "clipSrc": "../../audio-sentences/t2-59-s09.mp3",
+      "clipSourceStart": 34.87,
+      "vi": "Đó là ý hay.",
+      "listeningKeywords": [
+        "idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "ý hay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u08-k1",
+          "en": "idea",
+          "vi": [
+            "ý hay"
+          ],
+          "start": 35.49,
+          "end": 36.03,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-59-u09",
+      "speaker": "M",
+      "text": "Also, I offer free cleaning services for a year for all purchases.",
+      "start": 36.42,
+      "end": 40.86,
+      "clipSrc": "../../audio-sentences/t2-59-s10.mp3",
+      "clipSourceStart": 36.34,
+      "vi": "Ngoài ra, tôi cung cấp dịch vụ vệ sinh miễn phí trong một năm cho tất cả các mua hàng.",
+      "listeningKeywords": [
+        "offer",
+        "free",
+        "cleaning services",
+        "purchases"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offer",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "offer",
+          "vi": "cho"
+        },
+        {
+          "en": "free",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "cleaning services",
+          "vi": "dịch vụ vệ sinh"
+        },
+        {
+          "en": "purchases",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-59-u09-k1",
+          "en": "offer",
+          "vi": [
+            "cung cấp",
+            "cho"
+          ],
+          "start": 37.26,
+          "end": 37.56,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u09-k2",
+          "en": "free",
+          "vi": [
+            "miễn phí"
+          ],
+          "start": 37.56,
+          "end": 37.86,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u09-k3",
+          "en": "cleaning services",
+          "vi": [
+            "dịch vụ vệ sinh"
+          ],
+          "start": 37.86,
+          "end": 38.88,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-59-u09-k4",
+          "en": "purchases",
+          "vi": [
+            "mua"
+          ],
+          "start": 40.11,
+          "end": 40.86,
+          "anchorSource": "t2-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t9-53",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T09-53-55.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.0,
+    "dialogueEnd": 30.33
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 9 câu 53–55, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 9 câu 53–55, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 9 câu 53–55, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04-v2.png",
+      "alt": "Ảnh minh họa hội thoại Test 9 câu 53–55, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.0,
+      "end": 11.58,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1-1",
+          "vocabularyId": "vocab-1-1",
+          "label": "art gallery",
+          "x": 0.04,
+          "y": 0.12,
+          "width": 0.2,
+          "height": 0.42,
+          "utteranceIds": [
+            "t9-53-u02"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 11.58,
+      "end": 19.71,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 19.71,
+      "end": 24.84,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 24.84,
+      "end": 30.33,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "catering menu",
+          "x": 0.44,
+          "y": 0.59,
+          "width": 0.24,
+          "height": 0.29,
+          "utteranceIds": [
+            "t9-53-u07"
+          ]
+        },
+        {
+          "id": "spot-4-2",
+          "vocabularyId": "vocab-4-2",
+          "label": "flower selections",
+          "x": 0.69,
+          "y": 0.55,
+          "width": 0.25,
+          "height": 0.36,
+          "utteranceIds": [
+            "t9-53-u07"
+          ]
+        }
+      ],
+      "characters": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1-1",
+      "en": "art gallery",
+      "vi": "phòng trưng bày nghệ thuật",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4-1",
+      "en": "catering menu",
+      "vi": "thực đơn dịch vụ tiệc",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4-2",
+      "en": "flower selections",
+      "vi": "các lựa chọn hoa",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

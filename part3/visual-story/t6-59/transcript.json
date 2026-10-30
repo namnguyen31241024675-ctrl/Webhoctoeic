@@ -1,0 +1,566 @@
+{
+  "conversationId": "t6-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-59-u01",
+      "speaker": "W",
+      "text": "We just got a rush order from Great Fitness.",
+      "start": 6.0,
+      "end": 8.28,
+      "clipSrc": "../../audio-sentences/t6-59-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Chúng ta vừa nhận đơn hàng gấp từ Great Fitness.",
+      "listeningKeywords": [
+        "rush",
+        "order",
+        "Fitness"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "order",
+          "vi": "đơn hàng"
+        },
+        {
+          "en": "Fitness",
+          "vi": "Fitness"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u01-k1",
+          "en": "rush",
+          "vi": [],
+          "start": 6.72,
+          "end": 7.05,
+          "anchorSource": "t6-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u01-k2",
+          "en": "order",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 7.05,
+          "end": 7.26,
+          "anchorSource": "t6-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u01-k3",
+          "en": "Fitness",
+          "vi": [
+            "Fitness"
+          ],
+          "start": 7.74,
+          "end": 8.28,
+          "anchorSource": "t6-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u02",
+      "speaker": "W",
+      "text": "They need T-shirts with their business name and logo printed on the front—1,000, to be exact.",
+      "start": 8.79,
+      "end": 14.19,
+      "clipSrc": "../../audio-sentences/t6-59-s02.mp3",
+      "clipSourceStart": 8.71,
+      "vi": "Họ cần áo thun in tên và logo công ty ở mặt trước—chính xác 1.000 cái.",
+      "listeningKeywords": [
+        "T-shirts",
+        "business name",
+        "printed",
+        "1,000"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "T-shirts",
+          "vi": "áo thun"
+        },
+        {
+          "en": "business name",
+          "vi": "công ty"
+        },
+        {
+          "en": "business name",
+          "vi": "tên"
+        },
+        {
+          "en": "printed",
+          "vi": "in"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u02-k1",
+          "en": "T-shirts",
+          "vi": [
+            "áo thun"
+          ],
+          "start": 9.15,
+          "end": 9.78,
+          "anchorSource": "t6-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u02-k2",
+          "en": "business name",
+          "vi": [
+            "công ty",
+            "tên"
+          ],
+          "start": 10.11,
+          "end": 10.8,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u02-k3",
+          "en": "printed",
+          "vi": [
+            "in"
+          ],
+          "start": 11.28,
+          "end": 11.64,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u03",
+      "speaker": "M",
+      "text": "That's an unusually large order.",
+      "start": 14.49,
+      "end": 16.71,
+      "clipSrc": "../../audio-sentences/t6-59-s03.mp3",
+      "clipSourceStart": 14.41,
+      "vi": "Đó là đơn hàng lớn bất thường.",
+      "listeningKeywords": [
+        "unusually large",
+        "order"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "order",
+          "vi": "đơn hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u03-k1",
+          "en": "unusually large",
+          "vi": [],
+          "start": 15.03,
+          "end": 16.26,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u03-k2",
+          "en": "order",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 16.26,
+          "end": 16.71,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u04",
+      "speaker": "W",
+      "text": "We're definitely going to need some employees to work overtime on it.",
+      "start": 17.01,
+      "end": 20.52,
+      "clipSrc": "../../audio-sentences/t6-59-s04.mp3",
+      "clipSourceStart": 16.93,
+      "vi": "Chúng ta chắc chắn cần một số nhân viên làm thêm giờ cho nó.",
+      "listeningKeywords": [
+        "definitely",
+        "need",
+        "employees",
+        "overtime"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "definitely",
+          "vi": "chắc chắn"
+        },
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "employees",
+          "vi": "nhân viên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u04-k1",
+          "en": "definitely",
+          "vi": [
+            "chắc chắn"
+          ],
+          "start": 17.22,
+          "end": 17.73,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u04-k2",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 18.15,
+          "end": 18.42,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u04-k3",
+          "en": "employees",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 18.57,
+          "end": 19.17,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u04-k4",
+          "en": "overtime",
+          "vi": [],
+          "start": 19.53,
+          "end": 20.1,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u05",
+      "speaker": "M",
+      "text": "Hmm, I don't know how easy that's going to be.",
+      "start": 20.84,
+      "end": 23.73,
+      "clipSrc": "../../audio-sentences/t6-59-s05.mp3",
+      "clipSourceStart": 20.76,
+      "vi": "Ừm, tôi không biết sẽ dễ dàng thế nào.",
+      "listeningKeywords": [
+        "don't",
+        "know",
+        "easy"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u05-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 21.66,
+          "end": 21.9,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u05-k2",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 21.9,
+          "end": 22.11,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u05-k3",
+          "en": "easy",
+          "vi": [],
+          "start": 22.32,
+          "end": 22.65,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u06",
+      "speaker": "M",
+      "text": "It's the summer, and a lot of employees were hoping to take time off.",
+      "start": 24.21,
+      "end": 28.11,
+      "clipSrc": "../../audio-sentences/t6-59-s06.mp3",
+      "clipSourceStart": 24.13,
+      "vi": "Giờ là hè, và nhiều nhân viên hy vọng nghỉ phép.",
+      "listeningKeywords": [
+        "summer",
+        "employees",
+        "hoping",
+        "take"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "employees",
+          "vi": "nhân viên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u06-k1",
+          "en": "summer",
+          "vi": [],
+          "start": 24.63,
+          "end": 25.17,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u06-k2",
+          "en": "employees",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 25.89,
+          "end": 26.49,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u06-k3",
+          "en": "hoping",
+          "vi": [],
+          "start": 26.64,
+          "end": 27.03,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u06-k4",
+          "en": "take",
+          "vi": [],
+          "start": 27.15,
+          "end": 27.39,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u07",
+      "speaker": "W",
+      "text": "Well, OK. We could offer them an additional day off next month.",
+      "start": 28.41,
+      "end": 33.12,
+      "clipSrc": "../../audio-sentences/t6-59-s07.mp3",
+      "clipSourceStart": 28.33,
+      "vi": "Ừm, OK. Chúng ta có thể cho họ thêm một ngày nghỉ tháng sau.",
+      "listeningKeywords": [
+        "offer",
+        "additional"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offer",
+          "vi": "cho"
+        },
+        {
+          "en": "additional",
+          "vi": "thêm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u07-k1",
+          "en": "offer",
+          "vi": [
+            "cho"
+          ],
+          "start": 30.63,
+          "end": 30.9,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u07-k2",
+          "en": "additional",
+          "vi": [
+            "thêm"
+          ],
+          "start": 31.35,
+          "end": 31.74,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u08",
+      "speaker": "M",
+      "text": "I'm still worried about the three other orders we need to complete this week.",
+      "start": 33.48,
+      "end": 37.44,
+      "clipSrc": "../../audio-sentences/t6-59-s08.mp3",
+      "clipSourceStart": 33.4,
+      "vi": "Tôi vẫn lo về ba đơn hàng khác cần hoàn thành tuần này.",
+      "listeningKeywords": [
+        "worried",
+        "orders",
+        "complete"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "orders",
+          "vi": "đơn hàng"
+        },
+        {
+          "en": "complete",
+          "vi": "hoàn thành"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u08-k1",
+          "en": "worried",
+          "vi": [],
+          "start": 34.11,
+          "end": 34.44,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u08-k2",
+          "en": "orders",
+          "vi": [
+            "đơn hàng"
+          ],
+          "start": 35.52,
+          "end": 35.91,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u08-k3",
+          "en": "complete",
+          "vi": [
+            "hoàn thành"
+          ],
+          "start": 36.36,
+          "end": 36.81,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-59-u09",
+      "speaker": "W",
+      "text": "I know, but Great Fitness orders from us all the time.",
+      "start": 37.74,
+      "end": 41.28,
+      "clipSrc": "../../audio-sentences/t6-59-s09.mp3",
+      "clipSourceStart": 37.66,
+      "vi": "Tôi biết, nhưng Great Fitness luôn đặt hàng từ chúng ta.",
+      "listeningKeywords": [
+        "know",
+        "Fitness orders"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        },
+        {
+          "en": "Fitness orders",
+          "vi": "đặt hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-59-u09-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 37.95,
+          "end": 38.4,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-59-u09-k2",
+          "en": "Fitness orders",
+          "vi": [
+            "đặt hàng"
+          ],
+          "start": 39.15,
+          "end": 40.08,
+          "anchorSource": "t6-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

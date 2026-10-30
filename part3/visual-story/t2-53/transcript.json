@@ -1,0 +1,519 @@
+{
+  "conversationId": "t2-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-53-u01",
+      "speaker": "M",
+      "text": "Our engineering firm has been asked to cut the corporate travel budget by twenty percent, but it won't be easy.",
+      "start": 6.0,
+      "end": 12.12,
+      "clipSrc": "../../audio-sentences/t2-53-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Công ty kỹ thuật của chúng ta được yêu cầu cắt giảm ngân sách du lịch doanh nghiệp 20%, nhưng sẽ không dễ dàng.",
+      "listeningKeywords": [
+        "asked",
+        "cut",
+        "travel budget",
+        "won't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "asked",
+          "vi": "yêu cầu"
+        },
+        {
+          "en": "cut",
+          "vi": "cắt"
+        },
+        {
+          "en": "travel budget",
+          "vi": "ngân sách"
+        },
+        {
+          "en": "travel budget",
+          "vi": "du lịch"
+        },
+        {
+          "en": "won't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u01-k1",
+          "en": "asked",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 7.59,
+          "end": 7.86,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u01-k2",
+          "en": "cut",
+          "vi": [
+            "cắt"
+          ],
+          "start": 7.92,
+          "end": 8.13,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u01-k3",
+          "en": "travel budget",
+          "vi": [
+            "ngân sách",
+            "du lịch"
+          ],
+          "start": 8.7,
+          "end": 9.42,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u01-k4",
+          "en": "won't",
+          "vi": [
+            "không"
+          ],
+          "start": 11.1,
+          "end": 11.37,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u02",
+      "speaker": "M",
+      "text": "The engineering consultants have to travel to meet with clients.",
+      "start": 12.51,
+      "end": 15.6,
+      "clipSrc": "../../audio-sentences/t2-53-s02.mp3",
+      "clipSourceStart": 12.43,
+      "vi": "Các tư vấn viên kỹ thuật phải du lịch để gặp khách hàng.",
+      "listeningKeywords": [
+        "engineering consultants",
+        "travel",
+        "meet",
+        "clients"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "travel",
+          "vi": "du lịch"
+        },
+        {
+          "en": "meet",
+          "vi": "gặp"
+        },
+        {
+          "en": "clients",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u02-k1",
+          "en": "engineering consultants",
+          "vi": [],
+          "start": 12.69,
+          "end": 13.8,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u02-k2",
+          "en": "travel",
+          "vi": [
+            "du lịch"
+          ],
+          "start": 14.1,
+          "end": 14.52,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u02-k3",
+          "en": "meet",
+          "vi": [
+            "gặp"
+          ],
+          "start": 14.67,
+          "end": 14.85,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u02-k4",
+          "en": "clients",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 15.0,
+          "end": 15.6,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u03",
+      "speaker": "W",
+      "text": "Right, and they often travel on short notice.",
+      "start": 15.96,
+      "end": 18.45,
+      "clipSrc": "../../audio-sentences/t2-53-s03.mp3",
+      "clipSourceStart": 15.88,
+      "vi": "Đúng, và họ thường du lịch đột xuất.",
+      "listeningKeywords": [
+        "often",
+        "travel",
+        "short notice"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "travel",
+          "vi": "du lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u03-k1",
+          "en": "often",
+          "vi": [],
+          "start": 16.83,
+          "end": 17.19,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u03-k2",
+          "en": "travel",
+          "vi": [
+            "du lịch"
+          ],
+          "start": 17.19,
+          "end": 17.52,
+          "anchorSource": "t2-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u03-k3",
+          "en": "short notice",
+          "vi": [],
+          "start": 17.64,
+          "end": 18.45,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u04",
+      "speaker": "W",
+      "text": "Flight arrangements made at the last minute are expensive, especially for nonstop flights.",
+      "start": 18.81,
+      "end": 23.34,
+      "clipSrc": "../../audio-sentences/t2-53-s04.mp3",
+      "clipSourceStart": 18.73,
+      "vi": "Sắp xếp chuyến bay vào phút chót rất đắt, đặc biệt là chuyến bay thẳng.",
+      "listeningKeywords": [
+        "Flight arrangements",
+        "expensive",
+        "nonstop flights"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Flight arrangements",
+          "vi": "chuyến bay"
+        },
+        {
+          "en": "Flight arrangements",
+          "vi": "chuyến bay"
+        },
+        {
+          "en": "nonstop flights",
+          "vi": "chuyến bay thẳng"
+        },
+        {
+          "en": "nonstop flights",
+          "vi": "chuyến bay"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u04-k1",
+          "en": "Flight arrangements",
+          "vi": [
+            "chuyến bay"
+          ],
+          "start": 18.81,
+          "end": 19.77,
+          "anchorSource": "t2-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u04-k2",
+          "en": "expensive",
+          "vi": [],
+          "start": 20.819451,
+          "end": 21.57,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u04-k3",
+          "en": "nonstop flights",
+          "vi": [
+            "chuyến bay thẳng",
+            "chuyến bay"
+          ],
+          "start": 22.32,
+          "end": 23.34,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u05",
+      "speaker": "W",
+      "text": "It would be cheaper if they took connecting flights.",
+      "start": 23.79,
+      "end": 26.31,
+      "clipSrc": "../../audio-sentences/t2-53-s05.mp3",
+      "clipSourceStart": 23.71,
+      "vi": "Sẽ rẻ hơn nếu họ bay chuyển tiếp.",
+      "listeningKeywords": [
+        "cheaper",
+        "took",
+        "connecting flights"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cheaper",
+          "vi": "rẻ hơn"
+        },
+        {
+          "en": "connecting flights",
+          "vi": "bay chuyển tiếp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u05-k1",
+          "en": "cheaper",
+          "vi": [
+            "rẻ hơn"
+          ],
+          "start": 24.39,
+          "end": 24.81,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u05-k2",
+          "en": "took",
+          "vi": [],
+          "start": 25.02,
+          "end": 25.26,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u05-k3",
+          "en": "connecting flights",
+          "vi": [
+            "bay chuyển tiếp"
+          ],
+          "start": 25.26,
+          "end": 26.31,
+          "anchorSource": "t2-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u06",
+      "speaker": "M",
+      "text": "Yes, but that can take a lot of time.",
+      "start": 26.76,
+      "end": 29.37,
+      "clipSrc": "../../audio-sentences/t2-53-s06.mp3",
+      "clipSourceStart": 26.68,
+      "vi": "Vâng, nhưng điều đó có thể mất nhiều thời gian.",
+      "listeningKeywords": [
+        "take"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "take",
+          "vi": "mất"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u06-k1",
+          "en": "take",
+          "vi": [
+            "mất"
+          ],
+          "start": 28.29,
+          "end": 28.53,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u07",
+      "speaker": "W",
+      "text": "True. Maybe we can make up for the cost of the flights by economizing on hotels.",
+      "start": 29.61,
+      "end": 35.07,
+      "clipSrc": "../../audio-sentences/t2-53-meaning-07.mp3",
+      "clipSourceStart": 29.53,
+      "vi": "Đúng. Có lẽ chúng ta có thể bù đắp chi phí chuyến bay bằng cách tiết kiệm khách sạn.",
+      "listeningKeywords": [
+        "cost",
+        "flights",
+        "economizing",
+        "hotels"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cost",
+          "vi": "chi phí"
+        },
+        {
+          "en": "flights",
+          "vi": "chuyến bay"
+        },
+        {
+          "en": "hotels",
+          "vi": "khách sạn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u07-k1",
+          "en": "cost",
+          "vi": [
+            "chi phí"
+          ],
+          "start": 32.25,
+          "end": 32.61,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u07-k2",
+          "en": "flights",
+          "vi": [
+            "chuyến bay"
+          ],
+          "start": 32.79,
+          "end": 33.33,
+          "anchorSource": "t2-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u07-k3",
+          "en": "economizing",
+          "vi": [],
+          "start": 33.57,
+          "end": 34.23,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-53-u07-k4",
+          "en": "hotels",
+          "vi": [
+            "khách sạn"
+          ],
+          "start": 34.35,
+          "end": 35.07,
+          "anchorSource": "t2-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-53-u08",
+      "speaker": "W",
+      "text": "Let's look into that.",
+      "start": 35.61,
+      "end": 36.78,
+      "clipSrc": "../../audio-sentences/t2-53-s09.mp3",
+      "clipSourceStart": 35.53,
+      "vi": "Hãy xem xét điều đó.",
+      "listeningKeywords": [
+        "look"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "look",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-53-u08-k1",
+          "en": "look",
+          "vi": [
+            "xem"
+          ],
+          "start": 35.94,
+          "end": 36.15,
+          "anchorSource": "t2-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "conversationId": "t4-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      18,
+      19
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-62-u01",
+      "speaker": "M",
+      "text": "Hi, Ms. Rossi. I understand you're concerned about a charge that appears on the statement for your business account.",
+      "start": 7.38,
+      "end": 13.95,
+      "clipSrc": "../../audio-sentences/t4-62-meaning-01.mp3",
+      "clipSourceStart": 7.3,
+      "vi": "Chào, bà Rossi. Tôi hiểu bà đang lo lắng về một khoản phí xuất hiện trên bảng kê khai tài khoản kinh doanh của bà.",
+      "listeningKeywords": [
+        "charge",
+        "appears",
+        "statement",
+        "business account"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "charge",
+          "vi": "phí"
+        },
+        {
+          "en": "business account",
+          "vi": "kinh doanh"
+        },
+        {
+          "en": "business account",
+          "vi": "tài khoản"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u01-k1",
+          "en": "charge",
+          "vi": [
+            "phí"
+          ],
+          "start": 10.83,
+          "end": 11.34,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u01-k2",
+          "en": "appears",
+          "vi": [],
+          "start": 11.52,
+          "end": 11.97,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u01-k3",
+          "en": "statement",
+          "vi": [],
+          "start": 12.18,
+          "end": 12.72,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u01-k4",
+          "en": "business account",
+          "vi": [
+            "kinh doanh",
+            "tài khoản"
+          ],
+          "start": 13.02,
+          "end": 13.95,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u02",
+      "speaker": "W",
+      "text": "Yes, I have a question about the charge on May 3.",
+      "start": 14.46,
+      "end": 17.34,
+      "clipSrc": "../../audio-sentences/t4-62-s03.mp3",
+      "clipSourceStart": 14.38,
+      "vi": "Vâng, tôi có câu hỏi về khoản phí vào ngày 3 tháng 5.",
+      "listeningKeywords": [
+        "question",
+        "charge",
+        "3"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "question",
+          "vi": "câu hỏi"
+        },
+        {
+          "en": "charge",
+          "vi": "phí"
+        },
+        {
+          "en": "3",
+          "vi": "3"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u02-k1",
+          "en": "question",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 15.51,
+          "end": 16.17,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u02-k2",
+          "en": "charge",
+          "vi": [
+            "phí"
+          ],
+          "start": 16.53,
+          "end": 16.95,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u03",
+      "speaker": "W",
+      "text": "I don't remember purchasing anything for that amount.",
+      "start": 18.3,
+      "end": 21.24,
+      "clipSrc": "../../audio-sentences/t4-62-s04.mp3",
+      "clipSourceStart": 18.22,
+      "vi": "Tôi không nhớ mua bất cứ thứ gì với số tiền đó.",
+      "listeningKeywords": [
+        "don't",
+        "remember",
+        "purchasing",
+        "amount"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "remember",
+          "vi": "nhớ"
+        },
+        {
+          "en": "purchasing",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u03-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 18.48,
+          "end": 18.78,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u03-k2",
+          "en": "remember",
+          "vi": [
+            "nhớ"
+          ],
+          "start": 18.78,
+          "end": 19.23,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u03-k3",
+          "en": "purchasing",
+          "vi": [
+            "mua"
+          ],
+          "start": 19.23,
+          "end": 19.86,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u03-k4",
+          "en": "amount",
+          "vi": [],
+          "start": 20.73,
+          "end": 21.24,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u04",
+      "speaker": "M",
+      "text": "Let me review your statement now.",
+      "start": 21.75,
+      "end": 23.73,
+      "clipSrc": "../../audio-sentences/t4-62-s05.mp3",
+      "clipSourceStart": 21.67,
+      "vi": "Để tôi xem lại bảng kê của bà ngay.",
+      "listeningKeywords": [
+        "review",
+        "statement"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "review",
+          "vi": "xem lại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u04-k1",
+          "en": "review",
+          "vi": [
+            "xem lại"
+          ],
+          "start": 22.17,
+          "end": 22.56,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u04-k2",
+          "en": "statement",
+          "vi": [],
+          "start": 22.71,
+          "end": 23.22,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u05",
+      "speaker": "M",
+      "text": "Hmm. It looks like that purchase was made abroad.",
+      "start": 24.21,
+      "end": 28.14,
+      "clipSrc": "../../audio-sentences/t4-62-meaning-05.mp3",
+      "clipSourceStart": 24.13,
+      "vi": "Hmm. Có vẻ như giao dịch đó được thực hiện ở nước ngoài.",
+      "listeningKeywords": [
+        "looks",
+        "purchase",
+        "abroad"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looks",
+          "vi": "Có vẻ"
+        },
+        {
+          "en": "purchase",
+          "vi": "giao dịch"
+        },
+        {
+          "en": "abroad",
+          "vi": "nước ngoài"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u05-k1",
+          "en": "looks",
+          "vi": [
+            "Có vẻ"
+          ],
+          "start": 25.56,
+          "end": 25.95,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u05-k2",
+          "en": "purchase",
+          "vi": [
+            "giao dịch"
+          ],
+          "start": 26.58,
+          "end": 27.09,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u05-k3",
+          "en": "abroad",
+          "vi": [
+            "nước ngoài"
+          ],
+          "start": 27.54,
+          "end": 28.14,
+          "anchorSource": "t4-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u06",
+      "speaker": "M",
+      "text": "So an international transaction fee was added to the purchase amount.",
+      "start": 28.35,
+      "end": 32.13,
+      "clipSrc": "../../audio-sentences/t4-62-s08.mp3",
+      "clipSourceStart": 28.27,
+      "vi": "Vì vậy phí giao dịch quốc tế đã được thêm vào số tiền mua.",
+      "listeningKeywords": [
+        "international transaction fee",
+        "added",
+        "purchase",
+        "amount"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "international transaction fee",
+          "vi": "phí giao dịch quốc tế"
+        },
+        {
+          "en": "added",
+          "vi": "thêm"
+        },
+        {
+          "en": "purchase",
+          "vi": "giao dịch"
+        },
+        {
+          "en": "purchase",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u06-k1",
+          "en": "international transaction fee",
+          "vi": [
+            "phí giao dịch quốc tế"
+          ],
+          "start": 28.71,
+          "end": 30.42,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u06-k2",
+          "en": "added",
+          "vi": [
+            "thêm"
+          ],
+          "start": 30.63,
+          "end": 31.02,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u06-k3",
+          "en": "purchase",
+          "vi": [
+            "giao dịch",
+            "mua"
+          ],
+          "start": 31.23,
+          "end": 31.71,
+          "anchorSource": "t4-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u06-k4",
+          "en": "amount",
+          "vi": [],
+          "start": 31.71,
+          "end": 32.13,
+          "anchorSource": "t4-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u07",
+      "speaker": "W",
+      "text": "Oh, yes—I was out of the country at that time.",
+      "start": 32.49,
+      "end": 36.24,
+      "clipSrc": "../../audio-sentences/t4-62-s09.mp3",
+      "clipSourceStart": 32.41,
+      "vi": "Ồ, vâng—Tôi đã ra khỏi nước lúc đó.",
+      "listeningKeywords": [
+        "country"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "country",
+          "vi": "nước"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u07-k1",
+          "en": "country",
+          "vi": [
+            "nước"
+          ],
+          "start": 35.01,
+          "end": 35.49,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u08",
+      "speaker": "W",
+      "text": "Thanks for clarifying. Can you provide me with a list of all the bank fees for transactions made abroad?",
+      "start": 36.48,
+      "end": 42.78,
+      "clipSrc": "../../audio-sentences/t4-62-meaning-08.mp3",
+      "clipSourceStart": 36.4,
+      "vi": "Cảm ơn vì đã làm rõ. Ông có thể cung cấp cho tôi danh sách tất cả các phí ngân hàng cho các giao dịch thực hiện ở nước ngoài không?",
+      "listeningKeywords": [
+        "clarifying",
+        "provide",
+        "bank fees",
+        "transactions"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "provide",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "bank fees",
+          "vi": "ngân hàng"
+        },
+        {
+          "en": "bank fees",
+          "vi": "phí"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u08-k1",
+          "en": "clarifying",
+          "vi": [],
+          "start": 36.99,
+          "end": 37.77,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u08-k2",
+          "en": "provide",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 38.64,
+          "end": 39.09,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u08-k3",
+          "en": "bank fees",
+          "vi": [
+            "ngân hàng",
+            "phí"
+          ],
+          "start": 40.29,
+          "end": 41.04,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u08-k4",
+          "en": "transactions",
+          "vi": [],
+          "start": 41.19,
+          "end": 42.0,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-62-u09",
+      "speaker": "M",
+      "text": "Yes, of course. Here's a document that lists all the information.",
+      "start": 43.05,
+      "end": 47.25,
+      "clipSrc": "../../audio-sentences/t4-62-meaning-09.mp3",
+      "clipSourceStart": 42.97,
+      "vi": "Vâng, tất nhiên. Đây là tài liệu liệt kê tất cả thông tin.",
+      "listeningKeywords": [
+        "document",
+        "lists",
+        "information"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "document",
+          "vi": "tài liệu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-62-u09-k1",
+          "en": "document",
+          "vi": [
+            "tài liệu"
+          ],
+          "start": 44.822809,
+          "end": 45.36,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u09-k2",
+          "en": "lists",
+          "vi": [],
+          "start": 45.51,
+          "end": 46.02,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-62-u09-k3",
+          "en": "information",
+          "vi": [],
+          "start": 46.53,
+          "end": 47.25,
+          "anchorSource": "t4-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

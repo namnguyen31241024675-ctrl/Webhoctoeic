@@ -1,0 +1,404 @@
+{
+  "conversationId": "t3-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-32-u01",
+      "speaker": "M",
+      "text": "Hi, Chef Ayaka. I was looking over this week's sales, and I noticed that a lot of people ordered the beef stew special.",
+      "start": 6.0,
+      "end": 12.75,
+      "clipSrc": "../../audio-sentences/t3-32-meaning-01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Chào, đầu bếp Ayaka. Tôi vừa xem qua doanh số tuần này và nhận thấy nhiều người đặt món bò hầm đặc biệt.",
+      "listeningKeywords": [
+        "Chef Ayaka",
+        "looking",
+        "ordered",
+        "beef stew"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Chef Ayaka",
+          "vi": "đầu bếp"
+        },
+        {
+          "en": "looking",
+          "vi": "xem"
+        },
+        {
+          "en": "ordered",
+          "vi": "đặt món"
+        },
+        {
+          "en": "beef stew",
+          "vi": "món bò hầm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u01-k1",
+          "en": "looking",
+          "vi": [
+            "xem"
+          ],
+          "start": 7.77,
+          "end": 8.1,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u01-k2",
+          "en": "ordered",
+          "vi": [
+            "đặt món"
+          ],
+          "start": 11.07,
+          "end": 11.37,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u01-k3",
+          "en": "beef stew",
+          "vi": [
+            "món bò hầm"
+          ],
+          "start": 11.49,
+          "end": 12.09,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-32-u02",
+      "speaker": "W",
+      "text": "Yeah. It's been very popular with patrons.",
+      "start": 12.93,
+      "end": 15.78,
+      "clipSrc": "../../audio-sentences/t3-32-meaning-02.mp3",
+      "clipSourceStart": 12.85,
+      "vi": "Đúng vậy. Món này rất được khách hàng ưa chuộng.",
+      "listeningKeywords": [
+        "popular",
+        "patrons"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "popular",
+          "vi": "ưa chuộng"
+        },
+        {
+          "en": "patrons",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u02-k1",
+          "en": "popular",
+          "vi": [
+            "ưa chuộng"
+          ],
+          "start": 14.46,
+          "end": 15.0,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u02-k2",
+          "en": "patrons",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 15.18,
+          "end": 15.78,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-32-u03",
+      "speaker": "W",
+      "text": "In fact, I want to add it to the regular menu.",
+      "start": 16.05,
+      "end": 18.48,
+      "clipSrc": "../../audio-sentences/t3-32-s05.mp3",
+      "clipSourceStart": 15.97,
+      "vi": "Thực ra tôi muốn thêm nó vào menu chính thức.",
+      "listeningKeywords": [
+        "fact",
+        "add",
+        "regular menu"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fact",
+          "vi": "Thực ra"
+        },
+        {
+          "en": "add",
+          "vi": "thêm"
+        },
+        {
+          "en": "regular menu",
+          "vi": "menu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u03-k1",
+          "en": "fact",
+          "vi": [
+            "Thực ra"
+          ],
+          "start": 16.23,
+          "end": 16.59,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u03-k2",
+          "en": "add",
+          "vi": [
+            "thêm"
+          ],
+          "start": 17.04,
+          "end": 17.25,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u03-k3",
+          "en": "regular menu",
+          "vi": [
+            "menu"
+          ],
+          "start": 17.55,
+          "end": 18.48,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-32-u04",
+      "speaker": "M",
+      "text": "Good idea. Beef prices change frequently, though, so we might need to consider that when we set the price for the dish if we're going to offer it daily.",
+      "start": 18.72,
+      "end": 27.36,
+      "clipSrc": "../../audio-sentences/t3-32-meaning-04.mp3",
+      "clipSourceStart": 18.64,
+      "vi": "Ý hay đấy. Tuy nhiên giá thịt bò thay đổi thường xuyên, nên nếu chúng ta định bán hàng ngày thì khi định giá món ăn cần cân nhắc điều đó.",
+      "listeningKeywords": [
+        "prices",
+        "change",
+        "frequently",
+        "consider"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "prices",
+          "vi": "giá"
+        },
+        {
+          "en": "prices",
+          "vi": "giá"
+        },
+        {
+          "en": "change",
+          "vi": "thay đổi"
+        },
+        {
+          "en": "consider",
+          "vi": "cân nhắc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u04-k1",
+          "en": "prices",
+          "vi": [
+            "giá"
+          ],
+          "start": 20.4,
+          "end": 20.91,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u04-k2",
+          "en": "change",
+          "vi": [
+            "thay đổi"
+          ],
+          "start": 20.91,
+          "end": 21.39,
+          "anchorSource": "t3-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u04-k3",
+          "en": "frequently",
+          "vi": [],
+          "start": 21.39,
+          "end": 21.96,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u04-k4",
+          "en": "consider",
+          "vi": [
+            "cân nhắc"
+          ],
+          "start": 23.37,
+          "end": 23.85,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-32-u05",
+      "speaker": "W",
+      "text": "OK. I'll call our supplier too.",
+      "start": 27.84,
+      "end": 30.03,
+      "clipSrc": "../../audio-sentences/t3-32-meaning-05.mp3",
+      "clipSourceStart": 27.76,
+      "vi": "Được rồi. Tôi cũng sẽ gọi cho nhà cung cấp.",
+      "listeningKeywords": [
+        "call",
+        "supplier"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        },
+        {
+          "en": "supplier",
+          "vi": "nhà cung cấp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u05-k1",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 28.65,
+          "end": 28.95,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u05-k2",
+          "en": "supplier",
+          "vi": [
+            "nhà cung cấp"
+          ],
+          "start": 29.07,
+          "end": 29.67,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-32-u06",
+      "speaker": "W",
+      "text": "We need to make sure they can get us enough beef each week.",
+      "start": 30.36,
+      "end": 33.48,
+      "clipSrc": "../../audio-sentences/t3-32-s10.mp3",
+      "clipSourceStart": 30.28,
+      "vi": "Chúng ta cần đảm bảo họ có thể cung cấp đủ thịt bò mỗi tuần.",
+      "listeningKeywords": [
+        "need",
+        "get",
+        "beef"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "beef",
+          "vi": "thịt bò"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-32-u06-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 30.54,
+          "end": 30.75,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u06-k2",
+          "en": "get",
+          "vi": [],
+          "start": 31.65,
+          "end": 31.83,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-32-u06-k3",
+          "en": "beef",
+          "vi": [
+            "thịt bò"
+          ],
+          "start": 32.28,
+          "end": 32.73,
+          "anchorSource": "t3-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

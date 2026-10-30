@@ -1,0 +1,531 @@
+{
+  "conversationId": "t9-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      13,
+      14
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-59-u01",
+      "speaker": "W",
+      "text": "Hi, Ji-Soo and Alberto.",
+      "start": 7.32,
+      "end": 8.82,
+      "clipSrc": "../../audio-sentences/t9-59-s01.mp3",
+      "clipSourceStart": 7.24,
+      "vi": "Chào Ji-Soo và Alberto.",
+      "listeningKeywords": [
+        "Alberto"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Alberto",
+          "vi": "Alberto"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u01-k1",
+          "en": "Alberto",
+          "vi": [
+            "Alberto"
+          ],
+          "start": 8.13,
+          "end": 8.82,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u02",
+      "speaker": "W",
+      "text": "Are you planning on attending the pharmaceutical conference next month? I think it'll be a great opportunity for us to learn from and network with other industry professionals.",
+      "start": 9.12,
+      "end": 18.93,
+      "clipSrc": "../../audio-sentences/t9-59-s02.mp3",
+      "clipSourceStart": 9.04,
+      "vi": "Hai bạn có dự định tham dự hội nghị dược phẩm vào tháng tới không? Tôi nghĩ đó sẽ là một cơ hội tuyệt vời để chúng ta học hỏi và kết nối với các chuyên gia khác trong ngành.",
+      "listeningKeywords": [
+        "planning",
+        "attending",
+        "pharmaceutical conference",
+        "industry professionals"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "planning",
+          "vi": "dự định"
+        },
+        {
+          "en": "attending",
+          "vi": "tham dự"
+        },
+        {
+          "en": "pharmaceutical conference",
+          "vi": "hội nghị"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u02-k1",
+          "en": "planning",
+          "vi": [
+            "dự định"
+          ],
+          "start": 9.48,
+          "end": 9.93,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u02-k2",
+          "en": "attending",
+          "vi": [
+            "tham dự"
+          ],
+          "start": 10.05,
+          "end": 10.59,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u02-k3",
+          "en": "pharmaceutical conference",
+          "vi": [
+            "hội nghị"
+          ],
+          "start": 10.68,
+          "end": 12.03,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u02-k4",
+          "en": "industry professionals",
+          "vi": [],
+          "start": 17.55,
+          "end": 18.93,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u03",
+      "speaker": "M1",
+      "text": "Yes, we're going. In fact, Alberto and I will be leading a roundtable discussion on sustainable health care.",
+      "start": 19.29,
+      "end": 25.95,
+      "clipSrc": "../../audio-sentences/t9-59-s03.mp3",
+      "clipSourceStart": 19.21,
+      "vi": "Có, chúng tôi sẽ tham dự. Thực tế là Alberto và tôi sẽ dẫn dắt một buổi thảo luận bàn tròn về chăm sóc sức khỏe bền vững.",
+      "listeningKeywords": [
+        "Alberto",
+        "leading",
+        "roundtable discussion",
+        "sustainable health care"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Alberto",
+          "vi": "Alberto"
+        },
+        {
+          "en": "sustainable health care",
+          "vi": "chăm sóc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u03-k1",
+          "en": "Alberto",
+          "vi": [
+            "Alberto"
+          ],
+          "start": 21.48,
+          "end": 22.14,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u03-k2",
+          "en": "leading",
+          "vi": [],
+          "start": 22.8,
+          "end": 23.16,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u03-k3",
+          "en": "roundtable discussion",
+          "vi": [],
+          "start": 23.22,
+          "end": 24.57,
+          "anchorSource": "t9-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u03-k4",
+          "en": "sustainable health care",
+          "vi": [
+            "chăm sóc"
+          ],
+          "start": 24.72,
+          "end": 25.95,
+          "anchorSource": "t9-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u04",
+      "speaker": "W",
+      "text": "That's fantastic. When is it?",
+      "start": 26.34,
+      "end": 28.17,
+      "clipSrc": "../../audio-sentences/t9-59-s04.mp3",
+      "clipSourceStart": 26.26,
+      "vi": "Tuyệt vời quá. Khi nào vậy?",
+      "listeningKeywords": [
+        "fantastic"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fantastic",
+          "vi": "Tuyệt vời"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u04-k1",
+          "en": "fantastic",
+          "vi": [
+            "Tuyệt vời"
+          ],
+          "start": 26.58,
+          "end": 27.36,
+          "anchorSource": "t9-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u05",
+      "speaker": "M1",
+      "text": "I can't remember the time.",
+      "start": 28.74,
+      "end": 30.42,
+      "clipSrc": "../../audio-sentences/t9-59-s05.mp3",
+      "clipSourceStart": 28.66,
+      "vi": "Tôi không nhớ chính xác thời gian.",
+      "listeningKeywords": [
+        "can't",
+        "remember"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "remember",
+          "vi": "nhớ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u05-k1",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 28.86,
+          "end": 29.22,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u05-k2",
+          "en": "remember",
+          "vi": [
+            "nhớ"
+          ],
+          "start": 29.22,
+          "end": 29.67,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u06",
+      "speaker": "M1",
+      "text": "Alberto, do you have the schedule?",
+      "start": 30.87,
+      "end": 33.15,
+      "clipSrc": "../../audio-sentences/t9-59-s06.mp3",
+      "clipSourceStart": 30.79,
+      "vi": "Alberto, bạn có lịch trình không?",
+      "listeningKeywords": [
+        "schedule"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "schedule",
+          "vi": "lịch trình"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u06-k1",
+          "en": "schedule",
+          "vi": [
+            "lịch trình"
+          ],
+          "start": 32.55,
+          "end": 33.15,
+          "anchorSource": "t9-59-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u07",
+      "speaker": "M2",
+      "text": "Yes, I actually just downloaded the conference's app.",
+      "start": 33.57,
+      "end": 36.93,
+      "clipSrc": "../../audio-sentences/t9-59-s07.mp3",
+      "clipSourceStart": 33.49,
+      "vi": "Có, tôi vừa tải ứng dụng của hội nghị.",
+      "listeningKeywords": [
+        "downloaded",
+        "app"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "app",
+          "vi": "ứng dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u07-k1",
+          "en": "downloaded",
+          "vi": [],
+          "start": 35.25,
+          "end": 35.79,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u07-k2",
+          "en": "app",
+          "vi": [
+            "ứng dụng"
+          ],
+          "start": 36.57,
+          "end": 36.93,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u08",
+      "speaker": "M2",
+      "text": "It should be listed there.",
+      "start": 37.2,
+      "end": 38.34,
+      "clipSrc": "../../audio-sentences/t9-59-s08.mp3",
+      "clipSourceStart": 37.12,
+      "vi": "Thông tin chắc chắn được ghi ở đó.",
+      "listeningKeywords": [
+        "listed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "listed",
+          "vi": "ghi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u08-k1",
+          "en": "listed",
+          "vi": [
+            "ghi"
+          ],
+          "start": 37.68,
+          "end": 38.07,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u09",
+      "speaker": "M2",
+      "text": "Let's see. It looks like it's on Thursday at four.",
+      "start": 38.4,
+      "end": 42.27,
+      "clipSrc": "../../audio-sentences/t9-59-s09.mp3",
+      "clipSourceStart": 38.34,
+      "vi": "Để xem nào. Có vẻ là vào thứ Năm lúc bốn giờ.",
+      "listeningKeywords": [
+        "see",
+        "looks",
+        "Thursday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "looks",
+          "vi": "Có vẻ"
+        },
+        {
+          "en": "looks",
+          "vi": "xem"
+        },
+        {
+          "en": "Thursday",
+          "vi": "thứ Năm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u09-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 38.82,
+          "end": 39.24,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u09-k2",
+          "en": "looks",
+          "vi": [
+            "Có vẻ",
+            "xem"
+          ],
+          "start": 39.96,
+          "end": 40.32,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u09-k3",
+          "en": "Thursday",
+          "vi": [
+            "thứ Năm"
+          ],
+          "start": 40.89,
+          "end": 41.640374,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-59-u10",
+      "speaker": "W",
+      "text": "Great! I'll download the app now and sign up.",
+      "start": 42.48,
+      "end": 45.39,
+      "clipSrc": "../../audio-sentences/t9-59-s10.mp3",
+      "clipSourceStart": 42.4,
+      "vi": "Tuyệt! Tôi sẽ tải ứng dụng ngay bây giờ và đăng ký.",
+      "listeningKeywords": [
+        "download",
+        "app",
+        "sign"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "app",
+          "vi": "ứng dụng"
+        },
+        {
+          "en": "sign",
+          "vi": "ký"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-59-u10-k1",
+          "en": "download",
+          "vi": [],
+          "start": 43.47,
+          "end": 43.98,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u10-k2",
+          "en": "app",
+          "vi": [
+            "ứng dụng"
+          ],
+          "start": 44.13,
+          "end": 44.31,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-59-u10-k3",
+          "en": "sign",
+          "vi": [
+            "ký"
+          ],
+          "start": 44.79,
+          "end": 45.09,
+          "anchorSource": "t9-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "conversationId": "t1-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured automatic word anchors from the original MP3; scene-switch times still require editorial approval.",
+  "utterances": [
+    {
+      "id": "t1-32-u01",
+      "speaker": "W",
+      "text": "Hey, Oliver. Did you see the focus group results for our new spicy cheddar cheese?",
+      "start": 6.03,
+      "end": 11.52,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-01.mp3",
+      "clipSourceStart": 5.95
+    },
+    {
+      "id": "t1-32-u02",
+      "speaker": "W",
+      "text": "Everyone really liked it.",
+      "start": 12.09,
+      "end": 13.71,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-02.mp3",
+      "clipSourceStart": 12.01
+    },
+    {
+      "id": "t1-32-u03",
+      "speaker": "M",
+      "text": "Yes. It should be a great addition to our company's line of cheeses.",
+      "start": 14.1,
+      "end": 18.18,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-03.mp3",
+      "clipSourceStart": 14.02
+    },
+    {
+      "id": "t1-32-u04",
+      "speaker": "W",
+      "text": "Several people mentioned that they'd like to use it in recipes-to add to sauces, for example.",
+      "start": 18.66,
+      "end": 24.39,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-04.mp3",
+      "clipSourceStart": 18.58
+    },
+    {
+      "id": "t1-32-u05",
+      "speaker": "M",
+      "text": "So maybe we should consider selling a shredded version that would melt easily when cooked.",
+      "start": 24.84,
+      "end": 29.61,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-05.mp3",
+      "clipSourceStart": 24.76
+    },
+    {
+      "id": "t1-32-u06",
+      "speaker": "W",
+      "text": "I'm sure we could do that. I'll get in touch with the production manager with that request.",
+      "start": 30.15,
+      "end": 35.52,
+      "clipSrc": "../../audio-sentences/t1-32-meaning-06.mp3",
+      "clipSourceStart": 30.07
+    }
+  ]
+}

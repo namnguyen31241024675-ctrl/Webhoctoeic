@@ -1,0 +1,361 @@
+{
+  "conversationId": "t10-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      5,
+      6
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-32-u01",
+      "speaker": "M",
+      "text": "Bianca, the retail space next door to us will become available in June.",
+      "start": 6.03,
+      "end": 10.2,
+      "clipSrc": "../../audio-sentences/t10-32-s01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Bianca, không gian bán lẻ bên cạnh chúng ta sẽ có sẵn vào tháng Sáu.",
+      "listeningKeywords": [
+        "retail space",
+        "door",
+        "become available",
+        "June"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "retail space",
+          "vi": "không gian bán lẻ"
+        },
+        {
+          "en": "become available",
+          "vi": "có sẵn"
+        },
+        {
+          "en": "June",
+          "vi": "tháng Sáu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-32-u01-k1",
+          "en": "retail space",
+          "vi": [
+            "không gian bán lẻ"
+          ],
+          "start": 7.02,
+          "end": 7.86,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u01-k2",
+          "en": "door",
+          "vi": [],
+          "start": 8.13,
+          "end": 8.37,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u01-k3",
+          "en": "become available",
+          "vi": [
+            "có sẵn"
+          ],
+          "start": 8.82,
+          "end": 9.63,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u01-k4",
+          "en": "June",
+          "vi": [
+            "tháng Sáu"
+          ],
+          "start": 9.72,
+          "end": 10.2,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-32-u02",
+      "speaker": "M",
+      "text": "That means we can begin the store expansion we've been planning.",
+      "start": 10.56,
+      "end": 13.74,
+      "clipSrc": "../../audio-sentences/t10-32-s02.mp3",
+      "clipSourceStart": 10.48,
+      "vi": "Điều đó có nghĩa là chúng ta có thể bắt đầu mở rộng cửa hàng mà chúng ta đã lên kế hoạch.",
+      "listeningKeywords": [
+        "begin",
+        "store expansion",
+        "planning"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "begin",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "store expansion",
+          "vi": "cửa hàng"
+        },
+        {
+          "en": "planning",
+          "vi": "lên kế hoạch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-32-u02-k1",
+          "en": "begin",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 11.52,
+          "end": 11.82,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u02-k2",
+          "en": "store expansion",
+          "vi": [
+            "cửa hàng"
+          ],
+          "start": 11.91,
+          "end": 12.9,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u02-k3",
+          "en": "planning",
+          "vi": [
+            "lên kế hoạch"
+          ],
+          "start": 13.17,
+          "end": 13.74,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-32-u03",
+      "speaker": "W",
+      "text": "That's great news! After we increase our space, we can finally do more than just sell musical instruments.",
+      "start": 14.07,
+      "end": 20.64,
+      "clipSrc": "../../audio-sentences/t10-32-s03.mp3",
+      "clipSourceStart": 13.99,
+      "vi": "Thật là tin tuyệt vời! Sau khi mở rộng không gian, cuối cùng chúng ta có thể làm nhiều thứ hơn là chỉ bán nhạc cụ.",
+      "listeningKeywords": [
+        "increase",
+        "space",
+        "sell",
+        "musical instruments"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sell",
+          "vi": "bán"
+        },
+        {
+          "en": "musical instruments",
+          "vi": "nhạc cụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-32-u03-k1",
+          "en": "increase",
+          "vi": [],
+          "start": 16.32,
+          "end": 16.68,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u03-k2",
+          "en": "space",
+          "vi": [],
+          "start": 16.8,
+          "end": 17.34,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u03-k3",
+          "en": "sell",
+          "vi": [
+            "bán"
+          ],
+          "start": 19.23,
+          "end": 19.44,
+          "anchorSource": "t10-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u03-k4",
+          "en": "musical instruments",
+          "vi": [
+            "nhạc cụ"
+          ],
+          "start": 19.5,
+          "end": 20.64,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-32-u04",
+      "speaker": "M",
+      "text": "I knew you'd be happy to hear the news.",
+      "start": 20.91,
+      "end": 22.77,
+      "clipSrc": "../../audio-sentences/t10-32-s04.mp3",
+      "clipSourceStart": 20.83,
+      "vi": "Anh biết em sẽ vui khi nghe tin này.",
+      "listeningKeywords": [
+        "knew",
+        "news"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "knew",
+          "vi": "biết"
+        },
+        {
+          "en": "news",
+          "vi": "tin"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-32-u04-k1",
+          "en": "knew",
+          "vi": [
+            "biết"
+          ],
+          "start": 21.06,
+          "end": 21.33,
+          "anchorSource": "t10-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u04-k2",
+          "en": "news",
+          "vi": [
+            "tin"
+          ],
+          "start": 22.32,
+          "end": 22.77,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-32-u05",
+      "speaker": "M",
+      "text": "We'll be able to add practice rooms so we can offer private music lessons by the end of the year.",
+      "start": 23.04,
+      "end": 27.66,
+      "clipSrc": "../../audio-sentences/t10-32-s05.mp3",
+      "clipSourceStart": 22.96,
+      "vi": "Chúng ta sẽ có thể thêm các phòng luyện tập để cung cấp các lớp học nhạc riêng vào cuối năm.",
+      "listeningKeywords": [
+        "add",
+        "practice rooms",
+        "offer",
+        "private music lessons"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "add",
+          "vi": "thêm"
+        },
+        {
+          "en": "practice rooms",
+          "vi": "phòng luyện tập"
+        },
+        {
+          "en": "offer",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "private music lessons",
+          "vi": "lớp học nhạc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-32-u05-k1",
+          "en": "add",
+          "vi": [
+            "thêm"
+          ],
+          "start": 23.79,
+          "end": 23.94,
+          "anchorSource": "t10-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u05-k2",
+          "en": "offer",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 25.14,
+          "end": 25.47,
+          "anchorSource": "t10-32-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-32-u05-k3",
+          "en": "private music lessons",
+          "vi": [
+            "lớp học nhạc"
+          ],
+          "start": 25.5,
+          "end": 26.61,
+          "anchorSource": "t10-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

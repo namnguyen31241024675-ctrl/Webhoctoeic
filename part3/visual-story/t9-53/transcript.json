@@ -1,0 +1,434 @@
+{
+  "conversationId": "t9-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-53-u01",
+      "speaker": "W",
+      "text": "Good morning, Mr. Murray.",
+      "start": 6.0,
+      "end": 7.32,
+      "clipSrc": "../../audio-sentences/t9-53-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Chào buổi sáng, ông Murray.",
+      "listeningKeywords": [
+        "Murray"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Murray",
+          "vi": "Murray"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u01-k1",
+          "en": "Murray",
+          "vi": [
+            "Murray"
+          ],
+          "start": 6.9,
+          "end": 7.32,
+          "anchorSource": "t9-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u02",
+      "speaker": "W",
+      "text": "I'm here to help you start planning the opening of your newest art gallery.",
+      "start": 7.65,
+      "end": 11.25,
+      "clipSrc": "../../audio-sentences/t9-53-s02.mp3",
+      "clipSourceStart": 7.57,
+      "vi": "Tôi đến để giúp ông bắt đầu lên kế hoạch cho buổi khai trương của phòng tranh nghệ thuật mới nhất của ông.",
+      "listeningKeywords": [
+        "start",
+        "planning",
+        "art gallery"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "planning",
+          "vi": "lên kế hoạch"
+        },
+        {
+          "en": "art gallery",
+          "vi": "phòng tranh nghệ thuật"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u02-k1",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 8.55,
+          "end": 8.91,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u02-k2",
+          "en": "planning",
+          "vi": [
+            "lên kế hoạch"
+          ],
+          "start": 8.91,
+          "end": 9.3,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u02-k3",
+          "en": "art gallery",
+          "vi": [
+            "phòng tranh nghệ thuật"
+          ],
+          "start": 10.5,
+          "end": 11.25,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u03",
+      "speaker": "M",
+      "text": "Great! As you know, this will be our third location.",
+      "start": 11.58,
+      "end": 15.12,
+      "clipSrc": "../../audio-sentences/t9-53-s03.mp3",
+      "clipSourceStart": 11.5,
+      "vi": "Tuyệt! Như ông biết, đây sẽ là địa điểm thứ ba của chúng ta.",
+      "listeningKeywords": [
+        "know",
+        "location"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u03-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 12.96,
+          "end": 13.35,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u03-k2",
+          "en": "location",
+          "vi": [],
+          "start": 14.43,
+          "end": 15.12,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u04",
+      "speaker": "M",
+      "text": "So I think I might like to try a different kind of approach this time.",
+      "start": 15.6,
+      "end": 19.26,
+      "clipSrc": "../../audio-sentences/t9-53-s04.mp3",
+      "clipSourceStart": 15.52,
+      "vi": "Vì vậy tôi nghĩ lần này mình muốn thử một cách tiếp cận khác.",
+      "listeningKeywords": [
+        "think",
+        "try",
+        "kind",
+        "approach"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u04-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 15.9,
+          "end": 16.23,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u04-k2",
+          "en": "try",
+          "vi": [],
+          "start": 16.95,
+          "end": 17.250472,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u04-k3",
+          "en": "kind",
+          "vi": [],
+          "start": 17.67,
+          "end": 18.03,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u04-k4",
+          "en": "approach",
+          "vi": [],
+          "start": 18.12,
+          "end": 18.6,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u05",
+      "speaker": "W",
+      "text": "I understand. I have many options for you to consider.",
+      "start": 19.71,
+      "end": 23.1,
+      "clipSrc": "../../audio-sentences/t9-53-s05.mp3",
+      "clipSourceStart": 19.63,
+      "vi": "Tôi hiểu rồi. Tôi có nhiều lựa chọn để ông cân nhắc.",
+      "listeningKeywords": [
+        "understand",
+        "options",
+        "consider"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "understand",
+          "vi": "hiểu"
+        },
+        {
+          "en": "options",
+          "vi": "lựa chọn"
+        },
+        {
+          "en": "consider",
+          "vi": "cân nhắc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u05-k1",
+          "en": "understand",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 19.92,
+          "end": 20.55,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u05-k2",
+          "en": "options",
+          "vi": [
+            "lựa chọn"
+          ],
+          "start": 21.78,
+          "end": 22.26,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u05-k3",
+          "en": "consider",
+          "vi": [
+            "cân nhắc"
+          ],
+          "start": 22.56,
+          "end": 23.1,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u06",
+      "speaker": "M",
+      "text": "Glad to hear it.",
+      "start": 23.49,
+      "end": 24.45,
+      "clipSrc": "../../audio-sentences/t9-53-s06.mp3",
+      "clipSourceStart": 23.41,
+      "vi": "Nghe hay đấy.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t9-53-u07",
+      "speaker": "W",
+      "text": "Let me grab the catering menu and the book of flower selections from my van.",
+      "start": 24.84,
+      "end": 28.38,
+      "clipSrc": "../../audio-sentences/t9-53-s07.mp3",
+      "clipSourceStart": 24.76,
+      "vi": "Để tôi lấy thực đơn phục vụ tiệc và cuốn sổ các lựa chọn hoa từ xe của tôi.",
+      "listeningKeywords": [
+        "catering menu",
+        "book",
+        "flower selections",
+        "van"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "catering menu",
+          "vi": "thực đơn"
+        },
+        {
+          "en": "flower selections",
+          "vi": "các lựa chọn hoa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u07-k1",
+          "en": "catering menu",
+          "vi": [
+            "thực đơn"
+          ],
+          "start": 25.53,
+          "end": 26.31,
+          "anchorSource": "t9-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u07-k2",
+          "en": "book",
+          "vi": [],
+          "start": 26.55,
+          "end": 26.76,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u07-k3",
+          "en": "flower selections",
+          "vi": [
+            "các lựa chọn hoa"
+          ],
+          "start": 26.85,
+          "end": 27.69,
+          "anchorSource": "t9-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u07-k4",
+          "en": "van",
+          "vi": [],
+          "start": 28.02,
+          "end": 28.38,
+          "anchorSource": "t9-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-53-u08",
+      "speaker": "W",
+      "text": "It's parked just outside.",
+      "start": 28.77,
+      "end": 30.33,
+      "clipSrc": "../../audio-sentences/t9-53-s08.mp3",
+      "clipSourceStart": 28.69,
+      "vi": "Xe tôi đang đậu ngay bên ngoài.",
+      "listeningKeywords": [
+        "parked",
+        "outside"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "parked",
+          "vi": "đậu"
+        },
+        {
+          "en": "outside",
+          "vi": "bên ngoài"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-53-u08-k1",
+          "en": "parked",
+          "vi": [
+            "đậu"
+          ],
+          "start": 29.01,
+          "end": 29.43,
+          "anchorSource": "t9-53-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-53-u08-k2",
+          "en": "outside",
+          "vi": [
+            "bên ngoài"
+          ],
+          "start": 29.73,
+          "end": 30.33,
+          "anchorSource": "t9-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

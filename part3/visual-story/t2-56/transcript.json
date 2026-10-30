@@ -1,0 +1,591 @@
+{
+  "conversationId": "t2-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 2 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t2-56-u01",
+      "speaker": "M1",
+      "text": "Thanks for meeting with us, Ms. Azuma.",
+      "start": 7.17,
+      "end": 9.09,
+      "clipSrc": "../../audio-sentences/t2-56-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Cảm ơn vì đã gặp chúng tôi, cô Azuma.",
+      "listeningKeywords": [
+        "meeting",
+        "Azuma"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "meeting",
+          "vi": "gặp"
+        },
+        {
+          "en": "Azuma",
+          "vi": "Azuma"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u01-k1",
+          "en": "meeting",
+          "vi": [
+            "gặp"
+          ],
+          "start": 7.65,
+          "end": 7.95,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u02",
+      "speaker": "M1",
+      "text": "This is Scott Ajibade, one of our senior project managers.",
+      "start": 9.39,
+      "end": 12.99,
+      "clipSrc": "../../audio-sentences/t2-56-s02.mp3",
+      "clipSourceStart": 9.31,
+      "vi": "Đây là Scott Ajibade, một trong những quản lý dự án cấp cao của chúng tôi.",
+      "listeningKeywords": [
+        "Scott Ajibade",
+        "project managers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Scott Ajibade",
+          "vi": "Scott Ajibade"
+        },
+        {
+          "en": "project managers",
+          "vi": "quản lý dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u02-k1",
+          "en": "project managers",
+          "vi": [
+            "quản lý dự án"
+          ],
+          "start": 11.85,
+          "end": 12.99,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u03",
+      "speaker": "M2",
+      "text": "I admire your work, Ms. Azuma.",
+      "start": 13.53,
+      "end": 15.51,
+      "clipSrc": "../../audio-sentences/t2-56-s03.mp3",
+      "clipSourceStart": 13.45,
+      "vi": "Tôi ngưỡng mộ công việc của cô, cô Azuma.",
+      "listeningKeywords": [
+        "admire",
+        "work",
+        "Azuma"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "work",
+          "vi": "công việc"
+        },
+        {
+          "en": "Azuma",
+          "vi": "Azuma"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u03-k1",
+          "en": "admire",
+          "vi": [],
+          "start": 13.702863,
+          "end": 14.13,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u03-k2",
+          "en": "work",
+          "vi": [
+            "công việc"
+          ],
+          "start": 14.28,
+          "end": 14.64,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u04",
+      "speaker": "W",
+      "text": "Thank you. I was surprised by your invitation.",
+      "start": 15.93,
+      "end": 19.17,
+      "clipSrc": "../../audio-sentences/t2-56-meaning-04.mp3",
+      "clipSourceStart": 15.85,
+      "vi": "Cảm ơn. Tôi ngạc nhiên vì lời mời của các ông.",
+      "listeningKeywords": [
+        "surprised",
+        "invitation"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "surprised",
+          "vi": "ngạc nhiên"
+        },
+        {
+          "en": "invitation",
+          "vi": "lời mời"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u04-k1",
+          "en": "surprised",
+          "vi": [
+            "ngạc nhiên"
+          ],
+          "start": 17.49,
+          "end": 18.06,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u04-k2",
+          "en": "invitation",
+          "vi": [
+            "lời mời"
+          ],
+          "start": 18.39,
+          "end": 19.17,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u05",
+      "speaker": "W",
+      "text": "I typically design jewelry, but your company's known for making computers and mobile phones.",
+      "start": 19.74,
+      "end": 24.87,
+      "clipSrc": "../../audio-sentences/t2-56-s06.mp3",
+      "clipSourceStart": 19.66,
+      "vi": "Tôi thường thiết kế trang sức, nhưng công ty của các ông nổi tiếng với việc làm máy tính và điện thoại di động.",
+      "listeningKeywords": [
+        "design",
+        "jewelry",
+        "known",
+        "mobile phones"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "design",
+          "vi": "thiết kế"
+        },
+        {
+          "en": "jewelry",
+          "vi": "trang sức"
+        },
+        {
+          "en": "mobile phones",
+          "vi": "điện thoại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u05-k1",
+          "en": "design",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 20.4,
+          "end": 20.79,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u05-k2",
+          "en": "jewelry",
+          "vi": [
+            "trang sức"
+          ],
+          "start": 20.79,
+          "end": 21.3,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u05-k3",
+          "en": "known",
+          "vi": [],
+          "start": 22.44,
+          "end": 22.74,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u05-k4",
+          "en": "mobile phones",
+          "vi": [
+            "điện thoại"
+          ],
+          "start": 24.0,
+          "end": 24.87,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u06",
+      "speaker": "M1",
+      "text": "Scott's team is currently working on a smartwatch.",
+      "start": 25.29,
+      "end": 28.08,
+      "clipSrc": "../../audio-sentences/t2-56-s07.mp3",
+      "clipSourceStart": 25.21,
+      "vi": "Đội của Scott hiện đang làm việc trên đồng hồ thông minh.",
+      "listeningKeywords": [
+        "Scott's team",
+        "working",
+        "smartwatch"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Scott's team",
+          "vi": "Đội"
+        },
+        {
+          "en": "working",
+          "vi": "làm việc"
+        },
+        {
+          "en": "smartwatch",
+          "vi": "đồng hồ thông minh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u06-k1",
+          "en": "Scott's team",
+          "vi": [
+            "Đội"
+          ],
+          "start": 25.29,
+          "end": 26.16,
+          "anchorSource": "t2-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u06-k2",
+          "en": "working",
+          "vi": [
+            "làm việc"
+          ],
+          "start": 26.67,
+          "end": 27.09,
+          "anchorSource": "t2-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u07",
+      "speaker": "M1",
+      "text": "But there's a lot of competition, as you know.",
+      "start": 28.47,
+      "end": 30.81,
+      "clipSrc": "../../audio-sentences/t2-56-s08.mp3",
+      "clipSourceStart": 28.39,
+      "vi": "Nhưng có nhiều cạnh tranh, như cô biết.",
+      "listeningKeywords": [
+        "competition",
+        "know"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "competition",
+          "vi": "cạnh tranh"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u07-k1",
+          "en": "competition",
+          "vi": [
+            "cạnh tranh"
+          ],
+          "start": 29.46,
+          "end": 30.18,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u07-k2",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 30.48,
+          "end": 30.81,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u08",
+      "speaker": "M2",
+      "text": "We're hoping you can create a fresh design that will help our product stand out.",
+      "start": 31.17,
+      "end": 35.28,
+      "clipSrc": "../../audio-sentences/t2-56-s09.mp3",
+      "clipSourceStart": 31.09,
+      "vi": "Chúng tôi hy vọng cô có thể tạo ra thiết kế mới mẻ giúp sản phẩm của chúng tôi nổi bật.",
+      "listeningKeywords": [
+        "create",
+        "fresh",
+        "design",
+        "product stand"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "create",
+          "vi": "tạo"
+        },
+        {
+          "en": "design",
+          "vi": "thiết kế"
+        },
+        {
+          "en": "product stand",
+          "vi": "sản phẩm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u08-k1",
+          "en": "create",
+          "vi": [
+            "tạo"
+          ],
+          "start": 32.22,
+          "end": 32.61,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u08-k2",
+          "en": "fresh",
+          "vi": [],
+          "start": 32.64,
+          "end": 33.03,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u08-k3",
+          "en": "design",
+          "vi": [
+            "thiết kế"
+          ],
+          "start": 33.03,
+          "end": 33.57,
+          "anchorSource": "t2-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u08-k4",
+          "en": "product stand",
+          "vi": [
+            "sản phẩm"
+          ],
+          "start": 34.23,
+          "end": 34.95,
+          "anchorSource": "t2-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u09",
+      "speaker": "W",
+      "text": "Do you already have an idea of what the watch should look like, or are we starting from scratch?",
+      "start": 35.88,
+      "end": 40.59,
+      "clipSrc": "../../audio-sentences/t2-56-s10.mp3",
+      "clipSourceStart": 35.8,
+      "vi": "Các ông đã có ý tưởng về đồng hồ nên trông như thế nào chưa, hay chúng ta bắt đầu từ con số không?",
+      "listeningKeywords": [
+        "idea",
+        "watch",
+        "starting",
+        "scratch"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "ý tưởng"
+        },
+        {
+          "en": "starting",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u09-k1",
+          "en": "idea",
+          "vi": [
+            "ý tưởng"
+          ],
+          "start": 36.99,
+          "end": 37.464705,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u09-k2",
+          "en": "watch",
+          "vi": [],
+          "start": 37.8,
+          "end": 38.07,
+          "anchorSource": "t2-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u09-k3",
+          "en": "starting",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 39.48,
+          "end": 39.9,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u09-k4",
+          "en": "scratch",
+          "vi": [],
+          "start": 40.05,
+          "end": 40.59,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t2-56-u10",
+      "speaker": "M2",
+      "text": "I have some preliminary sketches we can look at, but none of them seem quite right.",
+      "start": 41.16,
+      "end": 45.87,
+      "clipSrc": "../../audio-sentences/t2-56-s11.mp3",
+      "clipSourceStart": 41.08,
+      "vi": "Tôi có một số bản phác thảo sơ bộ chúng ta có thể xem, nhưng không cái nào dường như khá đúng.",
+      "listeningKeywords": [
+        "preliminary sketches",
+        "look",
+        "none"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "preliminary sketches",
+          "vi": "bản phác thảo"
+        },
+        {
+          "en": "look",
+          "vi": "xem"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t2-56-u10-k1",
+          "en": "preliminary sketches",
+          "vi": [
+            "bản phác thảo"
+          ],
+          "start": 41.79,
+          "end": 42.99,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u10-k2",
+          "en": "look",
+          "vi": [
+            "xem"
+          ],
+          "start": 43.26,
+          "end": 43.5,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t2-56-u10-k3",
+          "en": "none",
+          "vi": [],
+          "start": 44.1,
+          "end": 44.43,
+          "anchorSource": "t2-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

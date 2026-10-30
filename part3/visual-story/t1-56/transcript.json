@@ -1,0 +1,382 @@
+{
+  "conversationId": "t1-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-56-u01",
+      "speaker": "W",
+      "text": "Good morning! Welcome to Jasper Bank.",
+      "start": 7.11,
+      "end": 9.6,
+      "clipSrc": "../../audio-sentences/t1-56-s01.mp3",
+      "clipSourceStart": 7.03,
+      "vi": "Chào buổi sáng! Chào mừng hai ông đến với ngân hàng Jasper.",
+      "listeningKeywords": [
+        "Welcome",
+        "Jasper Bank"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Jasper Bank",
+          "vi": "ngân hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-56-u01-k1",
+          "en": "Welcome",
+          "vi": [],
+          "start": 8.07,
+          "end": 8.55,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u01-k2",
+          "en": "Jasper Bank",
+          "vi": [
+            "ngân hàng"
+          ],
+          "start": 8.67,
+          "end": 9.6,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-56-u02",
+      "speaker": "M1",
+      "text": "Thanks for meeting with us to discuss a loan for our business.",
+      "start": 10.02,
+      "end": 13.08,
+      "clipSrc": "../../audio-sentences/t1-56-s02.mp3",
+      "clipSourceStart": 9.94,
+      "vi": "Cảm ơn cô đã gặp chúng tôi để thảo luận về khoản vay cho doanh nghiệp của chúng tôi.",
+      "listeningKeywords": [
+        "meeting",
+        "discuss",
+        "loan",
+        "business"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "meeting",
+          "vi": "gặp"
+        },
+        {
+          "en": "discuss",
+          "vi": "thảo luận"
+        },
+        {
+          "en": "loan",
+          "vi": "khoản vay"
+        },
+        {
+          "en": "business",
+          "vi": "doanh nghiệp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-56-u02-k1",
+          "en": "meeting",
+          "vi": [
+            "gặp"
+          ],
+          "start": 10.53,
+          "end": 10.83,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u02-k2",
+          "en": "discuss",
+          "vi": [
+            "thảo luận"
+          ],
+          "start": 11.37,
+          "end": 11.79,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u02-k3",
+          "en": "business",
+          "vi": [
+            "doanh nghiệp"
+          ],
+          "start": 12.57,
+          "end": 13.08,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-56-u03",
+      "speaker": "W",
+      "text": "Why don't you tell me more about your business? I understand it's a repair shop?",
+      "start": 13.53,
+      "end": 18.12,
+      "clipSrc": "../../audio-sentences/t1-56-s03.mp3",
+      "clipSourceStart": 13.45,
+      "vi": "Hai ông có thể cho tôi biết thêm về doanh nghiệp của mình không? Tôi hiểu đó là một cửa hàng sửa chữa?",
+      "listeningKeywords": [
+        "don't",
+        "tell",
+        "understand",
+        "repair shop"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "understand",
+          "vi": "hiểu"
+        },
+        {
+          "en": "repair shop",
+          "vi": "cửa hàng sửa chữa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-56-u03-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 13.8,
+          "end": 14.04,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u03-k2",
+          "en": "tell",
+          "vi": [],
+          "start": 14.16,
+          "end": 14.37,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u03-k3",
+          "en": "understand",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 16.41,
+          "end": 17.07,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u03-k4",
+          "en": "repair shop",
+          "vi": [
+            "cửa hàng sửa chữa"
+          ],
+          "start": 17.37,
+          "end": 18.12,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-56-u04",
+      "speaker": "M2",
+      "text": "Well, ten years ago, we opened as a snowmobile repair shop, but after a few years, we also started renting out snowmobiles and other sports equipment.",
+      "start": 18.48,
+      "end": 28.83,
+      "clipSrc": "../../audio-sentences/t1-56-s04.mp3",
+      "clipSourceStart": 18.4,
+      "vi": "Chà, mười năm trước chúng tôi mở một cửa hàng sửa chữa xe trượt tuyết, nhưng sau vài năm, chúng tôi cũng bắt đầu cho thuê xe trượt tuyết và các thiết bị thể thao khác.",
+      "listeningKeywords": [
+        "opened",
+        "repair shop",
+        "snowmobiles",
+        "sports equipment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "opened",
+          "vi": "mở"
+        },
+        {
+          "en": "repair shop",
+          "vi": "cửa hàng sửa chữa"
+        },
+        {
+          "en": "snowmobiles",
+          "vi": "xe trượt tuyết"
+        },
+        {
+          "en": "snowmobiles",
+          "vi": "xe trượt tuyết"
+        },
+        {
+          "en": "sports equipment",
+          "vi": "thiết bị"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-56-u04-k1",
+          "en": "opened",
+          "vi": [
+            "mở"
+          ],
+          "start": 20.49,
+          "end": 20.91,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u04-k2",
+          "en": "repair shop",
+          "vi": [
+            "cửa hàng sửa chữa"
+          ],
+          "start": 21.93,
+          "end": 22.77,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u04-k3",
+          "en": "snowmobiles",
+          "vi": [
+            "xe trượt tuyết"
+          ],
+          "start": 26.64,
+          "end": 27.51,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u04-k4",
+          "en": "sports equipment",
+          "vi": [
+            "thiết bị"
+          ],
+          "start": 27.9,
+          "end": 28.83,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-56-u05",
+      "speaker": "M1",
+      "text": "Yes, and because winter tourism has increased recently, we'd like to expand our space so that we can carry more inventory.",
+      "start": 29.19,
+      "end": 36.84,
+      "clipSrc": "../../audio-sentences/t1-56-s05.mp3",
+      "clipSourceStart": 29.11,
+      "vi": "Vâng, và vì du lịch mùa đông tăng lên gần đây, chúng tôi muốn mở rộng không gian để có thể chứa được nhiều hàng tồn kho hơn.",
+      "listeningKeywords": [
+        "winter tourism",
+        "increased",
+        "expand",
+        "inventory"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "increased",
+          "vi": "tăng"
+        },
+        {
+          "en": "expand",
+          "vi": "mở rộng"
+        },
+        {
+          "en": "inventory",
+          "vi": "hàng tồn kho"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-56-u05-k1",
+          "en": "winter tourism",
+          "vi": [],
+          "start": 30.57,
+          "end": 31.53,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u05-k2",
+          "en": "increased",
+          "vi": [
+            "tăng"
+          ],
+          "start": 31.74,
+          "end": 32.28,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u05-k3",
+          "en": "expand",
+          "vi": [
+            "mở rộng"
+          ],
+          "start": 33.75,
+          "end": 34.23,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-56-u05-k4",
+          "en": "inventory",
+          "vi": [
+            "hàng tồn kho"
+          ],
+          "start": 36.06,
+          "end": 36.84,
+          "anchorSource": "t1-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

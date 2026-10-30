@@ -1,0 +1,468 @@
+{
+  "conversationId": "t5-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-35-u01",
+      "speaker": "W",
+      "text": "Delton Van Lines. How can I help you?",
+      "start": 6.06,
+      "end": 8.55,
+      "clipSrc": "../../audio-sentences/t5-35-meaning-01.mp3",
+      "clipSourceStart": 5.98,
+      "vi": "Delton Van Lines. Tôi có thể giúp gì cho bạn?",
+      "listeningKeywords": [
+        "Delton Van Lines",
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Delton Van Lines",
+          "vi": "Delton Van Lines"
+        },
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u01-k1",
+          "en": "Delton Van Lines",
+          "vi": [
+            "Delton Van Lines"
+          ],
+          "start": 6.06,
+          "end": 7.38,
+          "anchorSource": "t5-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u01-k2",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 8.01,
+          "end": 8.28,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u02",
+      "speaker": "M",
+      "text": "Hello. I'm the office manager at Woodsom Insurance Company.",
+      "start": 8.97,
+      "end": 12.33,
+      "clipSrc": "../../audio-sentences/t5-35-meaning-02.mp3",
+      "clipSourceStart": 8.89,
+      "vi": "Chào. Tôi là quản lý văn phòng tại Công ty Bảo hiểm Woodsom.",
+      "listeningKeywords": [
+        "office manager",
+        "Woodsom Insurance Company"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "office manager",
+          "vi": "quản lý văn phòng"
+        },
+        {
+          "en": "Woodsom Insurance Company",
+          "vi": "Bảo hiểm"
+        },
+        {
+          "en": "Woodsom Insurance Company",
+          "vi": "Công ty"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u02-k1",
+          "en": "office manager",
+          "vi": [
+            "quản lý văn phòng"
+          ],
+          "start": 9.9,
+          "end": 10.77,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u03",
+      "speaker": "M",
+      "text": "We are relocating to a new office in June and would like to book your services.",
+      "start": 12.66,
+      "end": 17.01,
+      "clipSrc": "../../audio-sentences/t5-35-s05.mp3",
+      "clipSourceStart": 12.58,
+      "vi": "Chúng tôi sẽ chuyển đến văn phòng mới vào tháng Sáu và muốn đặt dịch vụ của bạn.",
+      "listeningKeywords": [
+        "relocating",
+        "June",
+        "book",
+        "services"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "June",
+          "vi": "tháng Sáu"
+        },
+        {
+          "en": "book",
+          "vi": "đặt"
+        },
+        {
+          "en": "services",
+          "vi": "dịch vụ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u03-k1",
+          "en": "relocating",
+          "vi": [],
+          "start": 12.99,
+          "end": 13.74,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u03-k2",
+          "en": "June",
+          "vi": [
+            "tháng Sáu"
+          ],
+          "start": 14.73,
+          "end": 15.18,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u03-k3",
+          "en": "book",
+          "vi": [
+            "đặt"
+          ],
+          "start": 15.93,
+          "end": 16.14,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u03-k4",
+          "en": "services",
+          "vi": [
+            "dịch vụ"
+          ],
+          "start": 16.35,
+          "end": 17.01,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u04",
+      "speaker": "W",
+      "text": "Certainly! But before we reserve a date for the move, we'll need to come to your current location and estimate the cost of moving your furniture and equipment.",
+      "start": 17.46,
+      "end": 26.16,
+      "clipSrc": "../../audio-sentences/t5-35-s06.mp3",
+      "clipSourceStart": 17.38,
+      "vi": "Chắc chắn rồi! Nhưng trước khi đặt ngày chuyển, chúng tôi cần đến vị trí hiện tại của bạn để ước tính chi phí di chuyển đồ nội thất và thiết bị.",
+      "listeningKeywords": [
+        "reserve",
+        "move",
+        "current location",
+        "furniture and equipment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "reserve",
+          "vi": "đặt"
+        },
+        {
+          "en": "move",
+          "vi": "di chuyển"
+        },
+        {
+          "en": "move",
+          "vi": "chuyển"
+        },
+        {
+          "en": "furniture and equipment",
+          "vi": "nội thất và thiết bị"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u04-k1",
+          "en": "reserve",
+          "vi": [
+            "đặt"
+          ],
+          "start": 19.5,
+          "end": 19.86,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u04-k2",
+          "en": "move",
+          "vi": [
+            "di chuyển",
+            "chuyển"
+          ],
+          "start": 20.4,
+          "end": 20.76,
+          "anchorSource": "t5-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u04-k3",
+          "en": "current location",
+          "vi": [],
+          "start": 22.14,
+          "end": 23.1,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u04-k4",
+          "en": "furniture and equipment",
+          "vi": [
+            "nội thất và thiết bị"
+          ],
+          "start": 24.87,
+          "end": 25.92,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u05",
+      "speaker": "M",
+      "text": "We have a staff meeting tomorrow morning, so no one's available to show you around then.",
+      "start": 26.67,
+      "end": 31.68,
+      "clipSrc": "../../audio-sentences/t5-35-s07.mp3",
+      "clipSourceStart": 26.59,
+      "vi": "Chúng tôi có cuộc họp nhân viên sáng mai, nên không ai rảnh để hướng dẫn bạn lúc đó.",
+      "listeningKeywords": [
+        "staff meeting",
+        "one's available",
+        "show",
+        "around"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "staff meeting",
+          "vi": "cuộc họp nhân viên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u05-k1",
+          "en": "staff meeting",
+          "vi": [
+            "cuộc họp nhân viên"
+          ],
+          "start": 27.09,
+          "end": 27.9,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u05-k2",
+          "en": "one's available",
+          "vi": [],
+          "start": 29.55,
+          "end": 30.24,
+          "anchorSource": "t5-35-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u05-k3",
+          "en": "show",
+          "vi": [],
+          "start": 30.39,
+          "end": 30.63,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u05-k4",
+          "en": "around",
+          "vi": [],
+          "start": 30.81,
+          "end": 31.23,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u06",
+      "speaker": "M",
+      "text": "But tomorrow afternoon works.",
+      "start": 32.1,
+      "end": 33.84,
+      "clipSrc": "../../audio-sentences/t5-35-s08.mp3",
+      "clipSourceStart": 32.02,
+      "vi": "Nhưng chiều mai thì được.",
+      "listeningKeywords": [
+        "works"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "works",
+          "vi": "được"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u06-k1",
+          "en": "works",
+          "vi": [
+            "được"
+          ],
+          "start": 33.36,
+          "end": 33.84,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u07",
+      "speaker": "W",
+      "text": "Perfect! Our representative can be there at two.",
+      "start": 34.23,
+      "end": 37.11,
+      "clipSrc": "../../audio-sentences/t5-35-s09.mp3",
+      "clipSourceStart": 34.15,
+      "vi": "Hoàn hảo! Đại diện của chúng tôi có thể đến lúc 2 giờ.",
+      "listeningKeywords": [
+        "representative"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "representative",
+          "vi": "Đại diện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u07-k1",
+          "en": "representative",
+          "vi": [
+            "Đại diện"
+          ],
+          "start": 35.455957,
+          "end": 36.15,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-35-u08",
+      "speaker": "W",
+      "text": "I'll just need to know where you're located.",
+      "start": 37.53,
+      "end": 39.48,
+      "clipSrc": "../../audio-sentences/t5-35-s10.mp3",
+      "clipSourceStart": 37.45,
+      "vi": "Tôi chỉ cần biết vị trí của bạn.",
+      "listeningKeywords": [
+        "need",
+        "know",
+        "located"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-35-u08-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 37.98,
+          "end": 38.16,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u08-k2",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 38.25,
+          "end": 38.46,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-35-u08-k3",
+          "en": "located",
+          "vi": [],
+          "start": 38.79,
+          "end": 39.48,
+          "anchorSource": "t5-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

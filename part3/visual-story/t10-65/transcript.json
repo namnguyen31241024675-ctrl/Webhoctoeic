@@ -1,0 +1,505 @@
+{
+  "conversationId": "t10-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t10-65-u01",
+      "speaker": "W",
+      "text": "Hi. Some of us at work decided to get together to buy some flowers here.",
+      "start": 7.23,
+      "end": 12.18,
+      "clipSrc": "../../audio-sentences/t10-65-s01.mp3",
+      "clipSourceStart": 7.15,
+      "vi": "Chào. Một vài người trong công ty chúng tôi quyết định cùng nhau mua hoa ở đây.",
+      "listeningKeywords": [
+        "decided",
+        "buy",
+        "flowers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "decided",
+          "vi": "quyết định"
+        },
+        {
+          "en": "buy",
+          "vi": "mua"
+        },
+        {
+          "en": "flowers",
+          "vi": "hoa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u01-k1",
+          "en": "decided",
+          "vi": [
+            "quyết định"
+          ],
+          "start": 9.45,
+          "end": 9.99,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u01-k2",
+          "en": "buy",
+          "vi": [
+            "mua"
+          ],
+          "start": 10.8,
+          "end": 10.98,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u01-k3",
+          "en": "flowers",
+          "vi": [
+            "hoa"
+          ],
+          "start": 11.25,
+          "end": 11.82,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u02",
+      "speaker": "W",
+      "text": "They're for a colleague who just received a promotion.",
+      "start": 12.66,
+      "end": 15.3,
+      "clipSrc": "../../audio-sentences/t10-65-s02.mp3",
+      "clipSourceStart": 12.58,
+      "vi": "Hoa dành cho một đồng nghiệp vừa được thăng chức.",
+      "listeningKeywords": [
+        "colleague",
+        "received",
+        "promotion"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "colleague",
+          "vi": "đồng nghiệp"
+        },
+        {
+          "en": "promotion",
+          "vi": "thăng chức"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u02-k1",
+          "en": "colleague",
+          "vi": [
+            "đồng nghiệp"
+          ],
+          "start": 13.17,
+          "end": 13.71,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u02-k2",
+          "en": "received",
+          "vi": [],
+          "start": 14.1,
+          "end": 14.52,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u02-k3",
+          "en": "promotion",
+          "vi": [
+            "thăng chức"
+          ],
+          "start": 14.55,
+          "end": 15.3,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u03",
+      "speaker": "M",
+      "text": "We have a nice selection of arrangements that are appropriate for an event like that.",
+      "start": 15.63,
+      "end": 19.65,
+      "clipSrc": "../../audio-sentences/t10-65-s03.mp3",
+      "clipSourceStart": 15.55,
+      "vi": "Chúng tôi có nhiều mẫu hoa đẹp phù hợp cho sự kiện như vậy.",
+      "listeningKeywords": [
+        "nice selection",
+        "arrangements",
+        "appropriate",
+        "event"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "event",
+          "vi": "sự kiện"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u03-k1",
+          "en": "nice selection",
+          "vi": [],
+          "start": 16.08,
+          "end": 16.86,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u03-k2",
+          "en": "arrangements",
+          "vi": [],
+          "start": 16.98,
+          "end": 17.58,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u03-k3",
+          "en": "appropriate",
+          "vi": [],
+          "start": 17.85,
+          "end": 18.48,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u03-k4",
+          "en": "event",
+          "vi": [
+            "sự kiện"
+          ],
+          "start": 18.78,
+          "end": 19.11,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u04",
+      "speaker": "M",
+      "text": "Here's a list of the most popular, in a range of prices.",
+      "start": 20.16,
+      "end": 23.25,
+      "clipSrc": "../../audio-sentences/t10-65-s04.mp3",
+      "clipSourceStart": 20.08,
+      "vi": "Đây là danh sách những mẫu phổ biến nhất, với nhiều mức giá khác nhau.",
+      "listeningKeywords": [
+        "list",
+        "popular",
+        "range",
+        "prices"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "list",
+          "vi": "danh sách"
+        },
+        {
+          "en": "popular",
+          "vi": "phổ biến"
+        },
+        {
+          "en": "prices",
+          "vi": "giá"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u04-k1",
+          "en": "list",
+          "vi": [
+            "danh sách"
+          ],
+          "start": 20.49,
+          "end": 20.76,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u04-k2",
+          "en": "popular",
+          "vi": [
+            "phổ biến"
+          ],
+          "start": 21.24,
+          "end": 21.81,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u04-k3",
+          "en": "range",
+          "vi": [],
+          "start": 22.17,
+          "end": 22.59,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u04-k4",
+          "en": "prices",
+          "vi": [
+            "giá"
+          ],
+          "start": 22.68,
+          "end": 23.25,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u05",
+      "speaker": "W",
+      "text": "Oh, I have enough money for the Harmony arrangement.",
+      "start": 23.85,
+      "end": 27.09,
+      "clipSrc": "../../audio-sentences/t10-65-s05.mp3",
+      "clipSourceStart": 23.77,
+      "vi": "À, tôi có đủ tiền cho mẫu Harmony.",
+      "listeningKeywords": [
+        "money",
+        "arrangement"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "money",
+          "vi": "tiền"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u05-k1",
+          "en": "money",
+          "vi": [
+            "tiền"
+          ],
+          "start": 25.26,
+          "end": 25.59,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u05-k2",
+          "en": "arrangement",
+          "vi": [],
+          "start": 26.34,
+          "end": 27.09,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u06",
+      "speaker": "W",
+      "text": "Can you make that while I wait?",
+      "start": 27.36,
+      "end": 29.01,
+      "clipSrc": "../../audio-sentences/t10-65-s06.mp3",
+      "clipSourceStart": 27.28,
+      "vi": "Bạn có thể làm ngay trong khi tôi chờ không?",
+      "listeningKeywords": [
+        "wait"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wait",
+          "vi": "chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u06-k1",
+          "en": "wait",
+          "vi": [
+            "chờ"
+          ],
+          "start": 28.53,
+          "end": 29.01,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u07",
+      "speaker": "M",
+      "text": "Sure, I'll have it made for you now.",
+      "start": 29.07,
+      "end": 31.17,
+      "clipSrc": "../../audio-sentences/t10-65-s07.mp3",
+      "clipSourceStart": 29.01,
+      "vi": "Chắc chắn rồi, tôi sẽ làm ngay cho bạn.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t10-65-u08",
+      "speaker": "M",
+      "text": "And will you want a greeting card to go with that?",
+      "start": 31.53,
+      "end": 33.93,
+      "clipSrc": "../../audio-sentences/t10-65-s08.mp3",
+      "clipSourceStart": 31.45,
+      "vi": "Và bạn có muốn kèm theo một tấm thiệp không?",
+      "listeningKeywords": [
+        "want",
+        "greeting card"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "want",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u08-k1",
+          "en": "want",
+          "vi": [
+            "muốn"
+          ],
+          "start": 32.13,
+          "end": 32.34,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u08-k2",
+          "en": "greeting card",
+          "vi": [],
+          "start": 32.37,
+          "end": 33.12,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u09",
+      "speaker": "W",
+      "text": "Actually, no card is needed.",
+      "start": 34.32,
+      "end": 36.21,
+      "clipSrc": "../../audio-sentences/t10-65-s09.mp3",
+      "clipSourceStart": 34.24,
+      "vi": "Thực ra không cần thiệp.",
+      "listeningKeywords": [
+        "card",
+        "needed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "needed",
+          "vi": "cần"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u09-k1",
+          "en": "card",
+          "vi": [],
+          "start": 35.19,
+          "end": 35.52,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t10-65-u09-k2",
+          "en": "needed",
+          "vi": [
+            "cần"
+          ],
+          "start": 35.73,
+          "end": 36.21,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t10-65-u10",
+      "speaker": "W",
+      "text": "We already have one that we've all signed.",
+      "start": 36.42,
+      "end": 38.52,
+      "clipSrc": "../../audio-sentences/t10-65-s10.mp3",
+      "clipSourceStart": 36.34,
+      "vi": "Chúng tôi đã có một tấm mà tất cả mọi người đã ký rồi.",
+      "listeningKeywords": [
+        "signed"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "signed",
+          "vi": "ký"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t10-65-u10-k1",
+          "en": "signed",
+          "vi": [
+            "ký"
+          ],
+          "start": 37.95,
+          "end": 38.52,
+          "anchorSource": "t10-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

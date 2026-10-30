@@ -1,0 +1,448 @@
+{
+  "conversationId": "t7-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-59-u01",
+      "speaker": "M",
+      "text": "Welcome to Schmidt's. Are you interested in our hanging plants? I'm happy to help you choose.",
+      "start": 5.97,
+      "end": 11.25,
+      "clipSrc": "../../audio-sentences/t7-59-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Chào mừng đến với Schmidt's. Chị quan tâm đến cây treo của chúng tôi không? Tôi vui lòng giúp chị chọn.",
+      "listeningKeywords": [
+        "interested",
+        "hanging plants",
+        "choose"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hanging plants",
+          "vi": "cây"
+        },
+        {
+          "en": "choose",
+          "vi": "chọn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u01-k1",
+          "en": "interested",
+          "vi": [],
+          "start": 7.71,
+          "end": 8.25,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u01-k2",
+          "en": "hanging plants",
+          "vi": [
+            "cây"
+          ],
+          "start": 8.52,
+          "end": 9.45,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u01-k3",
+          "en": "choose",
+          "vi": [
+            "chọn"
+          ],
+          "start": 10.74,
+          "end": 11.25,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u02",
+      "speaker": "W",
+      "text": "Please! I got this coupon in the mail for fifteen percent off any outdoor plants.",
+      "start": 11.67,
+      "end": 17.04,
+      "clipSrc": "../../audio-sentences/t7-59-s02.mp3",
+      "clipSourceStart": 11.59,
+      "vi": "Vâng! Tôi nhận phiếu giảm giá này qua thư cho 15% giảm bất kỳ cây ngoài trời nào.",
+      "listeningKeywords": [
+        "coupon",
+        "mail",
+        "fifteen percent",
+        "plants"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "coupon",
+          "vi": "phiếu giảm giá"
+        },
+        {
+          "en": "mail",
+          "vi": "thư"
+        },
+        {
+          "en": "plants",
+          "vi": "cây"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u02-k1",
+          "en": "coupon",
+          "vi": [
+            "phiếu giảm giá"
+          ],
+          "start": 13.32,
+          "end": 13.86,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u02-k2",
+          "en": "mail",
+          "vi": [
+            "thư"
+          ],
+          "start": 14.04,
+          "end": 14.4,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u02-k3",
+          "en": "fifteen percent",
+          "vi": [],
+          "start": 14.58,
+          "end": 15.48,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u02-k4",
+          "en": "plants",
+          "vi": [
+            "cây"
+          ],
+          "start": 16.44,
+          "end": 17.04,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u03",
+      "speaker": "W",
+      "text": "So, I thought I'd see if you have some flower baskets I could hang in my back patio area.",
+      "start": 17.52,
+      "end": 22.29,
+      "clipSrc": "../../audio-sentences/t7-59-s03.mp3",
+      "clipSourceStart": 17.44,
+      "vi": "Nên tôi nghĩ xem chị có giỏ hoa nào tôi có thể treo ở khu vực patio sau nhà không.",
+      "listeningKeywords": [
+        "thought",
+        "see",
+        "flower baskets",
+        "patio area"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "thought",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "patio area",
+          "vi": "khu vực"
+        },
+        {
+          "en": "patio area",
+          "vi": "patio"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u03-k1",
+          "en": "thought",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 18.0,
+          "end": 18.24,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u03-k2",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 18.45,
+          "end": 18.75,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u03-k3",
+          "en": "flower baskets",
+          "vi": [],
+          "start": 19.41,
+          "end": 20.28,
+          "anchorSource": "t7-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u03-k4",
+          "en": "patio area",
+          "vi": [
+            "khu vực",
+            "patio"
+          ],
+          "start": 21.36,
+          "end": 22.29,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u04",
+      "speaker": "M",
+      "text": "These plants here bloom beautifully and do best in direct sunlight.",
+      "start": 22.74,
+      "end": 27.15,
+      "clipSrc": "../../audio-sentences/t7-59-s04.mp3",
+      "clipSourceStart": 22.66,
+      "vi": "Những cây ở đây nở hoa đẹp và tốt nhất dưới ánh nắng trực tiếp.",
+      "listeningKeywords": [
+        "plants",
+        "bloom",
+        "best",
+        "direct sunlight"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plants",
+          "vi": "cây"
+        },
+        {
+          "en": "bloom",
+          "vi": "nở hoa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u04-k1",
+          "en": "plants",
+          "vi": [
+            "cây"
+          ],
+          "start": 23.04,
+          "end": 23.46,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u04-k2",
+          "en": "bloom",
+          "vi": [
+            "nở hoa"
+          ],
+          "start": 23.79,
+          "end": 24.27,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u04-k3",
+          "en": "best",
+          "vi": [],
+          "start": 25.71,
+          "end": 26.01,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u04-k4",
+          "en": "direct sunlight",
+          "vi": [],
+          "start": 26.13,
+          "end": 27.15,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u05",
+      "speaker": "W",
+      "text": "Well, it's a covered patio.",
+      "start": 27.45,
+      "end": 29.88,
+      "clipSrc": "../../audio-sentences/t7-59-s05.mp3",
+      "clipSourceStart": 27.37,
+      "vi": "Ừm, đó là patio có mái che.",
+      "listeningKeywords": [
+        "covered patio"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "covered patio",
+          "vi": "patio"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u05-k1",
+          "en": "covered patio",
+          "vi": [
+            "patio"
+          ],
+          "start": 28.5,
+          "end": 29.88,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u06",
+      "speaker": "M",
+      "text": "OK. Just follow me.",
+      "start": 30.33,
+      "end": 32.04,
+      "clipSrc": "../../audio-sentences/t7-59-s06.mp3",
+      "clipSourceStart": 30.25,
+      "vi": "OK. Chỉ cần theo tôi.",
+      "listeningKeywords": [
+        "follow"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "follow",
+          "vi": "theo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u06-k1",
+          "en": "follow",
+          "vi": [
+            "theo"
+          ],
+          "start": 31.41,
+          "end": 31.71,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-59-u07",
+      "speaker": "M",
+      "text": "We have plenty of plants that do well in shade or partial sun.",
+      "start": 32.31,
+      "end": 35.91,
+      "clipSrc": "../../audio-sentences/t7-59-s07.mp3",
+      "clipSourceStart": 32.23,
+      "vi": "Chúng tôi có nhiều cây tốt trong bóng râm hoặc nắng một phần.",
+      "listeningKeywords": [
+        "plenty",
+        "plants",
+        "shade",
+        "partial sun"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plants",
+          "vi": "cây"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-59-u07-k1",
+          "en": "plenty",
+          "vi": [],
+          "start": 32.76,
+          "end": 33.09,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u07-k2",
+          "en": "plants",
+          "vi": [
+            "cây"
+          ],
+          "start": 33.21,
+          "end": 33.6,
+          "anchorSource": "t7-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u07-k3",
+          "en": "shade",
+          "vi": [],
+          "start": 34.41,
+          "end": 34.86,
+          "anchorSource": "t7-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-59-u07-k4",
+          "en": "partial sun",
+          "vi": [],
+          "start": 35.07,
+          "end": 35.91,
+          "anchorSource": "t7-59-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

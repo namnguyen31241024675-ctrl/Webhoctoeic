@@ -1,0 +1,533 @@
+{
+  "conversationId": "t9-62",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-62-u01",
+      "speaker": "W",
+      "text": "Our water park will be reopening for the summer season soon, and we're looking for ways to increase park attendance.",
+      "start": 7.05,
+      "end": 13.38,
+      "clipSrc": "../../audio-sentences/t9-62-s01.mp3",
+      "clipSourceStart": 6.97,
+      "vi": "Công viên nước của chúng ta sắp mở cửa trở lại cho mùa hè, và chúng ta đang tìm cách để tăng lượng khách đến công viên.",
+      "listeningKeywords": [
+        "water park",
+        "looking",
+        "increase",
+        "park attendance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "water park",
+          "vi": "Công viên nước"
+        },
+        {
+          "en": "looking",
+          "vi": "tìm"
+        },
+        {
+          "en": "increase",
+          "vi": "tăng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u01-k1",
+          "en": "water park",
+          "vi": [
+            "Công viên nước"
+          ],
+          "start": 7.23,
+          "end": 7.92,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u01-k2",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 11.04,
+          "end": 11.4,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u01-k3",
+          "en": "increase",
+          "vi": [
+            "tăng"
+          ],
+          "start": 11.97,
+          "end": 12.45,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u01-k4",
+          "en": "park attendance",
+          "vi": [],
+          "start": 12.45,
+          "end": 13.38,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u02",
+      "speaker": "W",
+      "text": "This has been an ongoing problem.",
+      "start": 13.56,
+      "end": 15.54,
+      "clipSrc": "../../audio-sentences/t9-62-s02.mp3",
+      "clipSourceStart": 13.48,
+      "vi": "Đây là một vấn đề đã kéo dài khá lâu rồi.",
+      "listeningKeywords": [
+        "ongoing problem"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "ongoing problem",
+          "vi": "vấn đề"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u02-k1",
+          "en": "ongoing problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 14.46,
+          "end": 15.54,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u03",
+      "speaker": "M",
+      "text": "I agree. It's mainly weekdays that have poor attendance.",
+      "start": 15.96,
+      "end": 20.01,
+      "clipSrc": "../../audio-sentences/t9-62-s03.mp3",
+      "clipSourceStart": 15.88,
+      "vi": "Tôi đồng ý. Chủ yếu là các ngày trong tuần có lượng khách rất thấp.",
+      "listeningKeywords": [
+        "agree",
+        "mainly weekdays",
+        "poor attendance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "agree",
+          "vi": "đồng ý"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u03-k1",
+          "en": "agree",
+          "vi": [
+            "đồng ý"
+          ],
+          "start": 16.2,
+          "end": 16.8,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u03-k2",
+          "en": "mainly weekdays",
+          "vi": [],
+          "start": 17.55,
+          "end": 18.66,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u03-k3",
+          "en": "poor attendance",
+          "vi": [],
+          "start": 18.99,
+          "end": 20.01,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u04",
+      "speaker": "M",
+      "text": "So I've come up with a plan with special offers on those days.",
+      "start": 20.37,
+      "end": 23.85,
+      "clipSrc": "../../audio-sentences/t9-62-s04.mp3",
+      "clipSourceStart": 20.29,
+      "vi": "Vì vậy tôi đã nghĩ ra một kế hoạch với những ưu đãi đặc biệt vào những ngày đó.",
+      "listeningKeywords": [
+        "plan",
+        "special offers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "plan",
+          "vi": "kế hoạch"
+        },
+        {
+          "en": "special offers",
+          "vi": "ưu đãi đặc biệt"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u04-k1",
+          "en": "plan",
+          "vi": [
+            "kế hoạch"
+          ],
+          "start": 21.57,
+          "end": 21.93,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u04-k2",
+          "en": "special offers",
+          "vi": [
+            "ưu đãi đặc biệt"
+          ],
+          "start": 22.11,
+          "end": 23.01,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u05",
+      "speaker": "M",
+      "text": "What do you think?",
+      "start": 24.18,
+      "end": 25.29,
+      "clipSrc": "../../audio-sentences/t9-62-s05.mp3",
+      "clipSourceStart": 24.1,
+      "vi": "Bạn thấy thế nào?",
+      "listeningKeywords": [
+        "think"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "thấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u05-k1",
+          "en": "think",
+          "vi": [
+            "thấy"
+          ],
+          "start": 24.84,
+          "end": 25.29,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u06",
+      "speaker": "W",
+      "text": "It's good. I like the free parking.",
+      "start": 25.77,
+      "end": 28.62,
+      "clipSrc": "../../audio-sentences/t9-62-s06.mp3",
+      "clipSourceStart": 25.69,
+      "vi": "Kế hoạch đó tốt đấy. Tôi thích ý tưởng miễn phí đỗ xe.",
+      "listeningKeywords": [
+        "like",
+        "free parking"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "like",
+          "vi": "thích"
+        },
+        {
+          "en": "free parking",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "free parking",
+          "vi": "đỗ xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u06-k1",
+          "en": "like",
+          "vi": [
+            "thích"
+          ],
+          "start": 27.27,
+          "end": 27.6,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u06-k2",
+          "en": "free parking",
+          "vi": [
+            "miễn phí",
+            "đỗ xe"
+          ],
+          "start": 27.72,
+          "end": 28.62,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u07",
+      "speaker": "W",
+      "text": "In fact, I think we should offer it on another day too.",
+      "start": 28.92,
+      "end": 31.68,
+      "clipSrc": "../../audio-sentences/t9-62-s07.mp3",
+      "clipSourceStart": 28.84,
+      "vi": "Thực ra, tôi nghĩ chúng ta nên áp dụng ưu đãi này vào thêm một ngày nữa.",
+      "listeningKeywords": [
+        "fact",
+        "offer"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fact",
+          "vi": "Thực ra"
+        },
+        {
+          "en": "offer",
+          "vi": "ưu đãi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u07-k1",
+          "en": "fact",
+          "vi": [
+            "Thực ra"
+          ],
+          "start": 29.1,
+          "end": 29.43,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u07-k2",
+          "en": "offer",
+          "vi": [
+            "ưu đãi"
+          ],
+          "start": 30.24,
+          "end": 30.51,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u08",
+      "speaker": "W",
+      "text": "How about we replace the free arcade tickets with another day of free parking?",
+      "start": 32.28,
+      "end": 36.48,
+      "clipSrc": "../../audio-sentences/t9-62-s08.mp3",
+      "clipSourceStart": 32.2,
+      "vi": "Hay là chúng ta thay vé trò chơi điện tử miễn phí bằng một ngày miễn phí đỗ xe nữa nhé?",
+      "listeningKeywords": [
+        "replace",
+        "free arcade tickets",
+        "free parking"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "replace",
+          "vi": "thay"
+        },
+        {
+          "en": "free arcade tickets",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "free arcade tickets",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "free arcade tickets",
+          "vi": "vé"
+        },
+        {
+          "en": "free parking",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "free parking",
+          "vi": "miễn phí"
+        },
+        {
+          "en": "free parking",
+          "vi": "đỗ xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u08-k1",
+          "en": "replace",
+          "vi": [
+            "thay"
+          ],
+          "start": 32.94,
+          "end": 33.51,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u08-k2",
+          "en": "free arcade tickets",
+          "vi": [
+            "miễn phí",
+            "vé"
+          ],
+          "start": 33.63,
+          "end": 34.95,
+          "anchorSource": "t9-62-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u08-k3",
+          "en": "free parking",
+          "vi": [
+            "miễn phí",
+            "đỗ xe"
+          ],
+          "start": 35.73,
+          "end": 36.48,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-62-u09",
+      "speaker": "M",
+      "text": "Sure. But first I'm going to talk to the maintenance staff and make sure the repairs to the overflow parking area are done before customers start arriving.",
+      "start": 36.81,
+      "end": 45.51,
+      "clipSrc": "../../audio-sentences/t9-62-s09.mp3",
+      "clipSourceStart": 36.73,
+      "vi": "Được thôi. Nhưng trước tiên tôi sẽ trao đổi với đội bảo trì để đảm bảo việc sửa chữa khu bãi đỗ xe phụ được hoàn tất trước khi khách hàng bắt đầu đến.",
+      "listeningKeywords": [
+        "talk",
+        "maintenance staff",
+        "repairs",
+        "overflow parking area"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "repairs",
+          "vi": "sửa chữa"
+        },
+        {
+          "en": "overflow parking area",
+          "vi": "bãi đỗ xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-62-u09-k1",
+          "en": "talk",
+          "vi": [],
+          "start": 38.91,
+          "end": 39.18,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u09-k2",
+          "en": "maintenance staff",
+          "vi": [],
+          "start": 39.36,
+          "end": 40.32,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u09-k3",
+          "en": "repairs",
+          "vi": [
+            "sửa chữa"
+          ],
+          "start": 41.04,
+          "end": 41.55,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-62-u09-k4",
+          "en": "overflow parking area",
+          "vi": [
+            "bãi đỗ xe"
+          ],
+          "start": 41.79,
+          "end": 43.11,
+          "anchorSource": "t9-62.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

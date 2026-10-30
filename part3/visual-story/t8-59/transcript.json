@@ -1,0 +1,582 @@
+{
+  "conversationId": "t8-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      15,
+      16
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-59-u01",
+      "speaker": "M",
+      "text": "So, Raquel, I've been working on repairing this tractor, but I'm not having much luck.",
+      "start": 6.03,
+      "end": 11.1,
+      "clipSrc": "../../audio-sentences/t8-59-s01.mp3",
+      "clipSourceStart": 5.95,
+      "vi": "Vậy, Raquel, tôi đã làm việc sửa chữa máy xúc này, nhưng không khả quan lắm.",
+      "listeningKeywords": [
+        "repairing",
+        "tractor",
+        "not",
+        "luck"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "repairing",
+          "vi": "sửa chữa"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u01-k1",
+          "en": "repairing",
+          "vi": [
+            "sửa chữa"
+          ],
+          "start": 8.04,
+          "end": 8.55,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u01-k2",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 9.9,
+          "end": 10.11,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u01-k3",
+          "en": "luck",
+          "vi": [],
+          "start": 10.62,
+          "end": 11.1,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u02",
+      "speaker": "M",
+      "text": "I think it's the hydraulic system.",
+      "start": 11.55,
+      "end": 13.35,
+      "clipSrc": "../../audio-sentences/t8-59-s02.mp3",
+      "clipSourceStart": 11.47,
+      "vi": "Tôi nghĩ là do hệ thống thủy lực.",
+      "listeningKeywords": [
+        "think",
+        "hydraulic system"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "think",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "hydraulic system",
+          "vi": "hệ thống thủy lực"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u02-k1",
+          "en": "think",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 11.7,
+          "end": 12.03,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u02-k2",
+          "en": "hydraulic system",
+          "vi": [
+            "hệ thống thủy lực"
+          ],
+          "start": 12.27,
+          "end": 13.35,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u03",
+      "speaker": "M",
+      "text": "I cleaned the pump, but it's not running any better.",
+      "start": 13.95,
+      "end": 16.83,
+      "clipSrc": "../../audio-sentences/t8-59-s03.mp3",
+      "clipSourceStart": 13.87,
+      "vi": "Tôi đã làm sạch bơm, nhưng nó cũng không chạy tốt hơn.",
+      "listeningKeywords": [
+        "cleaned",
+        "pump",
+        "not",
+        "running"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "cleaned",
+          "vi": "làm sạch"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "running",
+          "vi": "chạy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u03-k1",
+          "en": "pump",
+          "vi": [],
+          "start": 14.52,
+          "end": 15.0,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u03-k2",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 15.6,
+          "end": 15.84,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u03-k3",
+          "en": "running",
+          "vi": [
+            "chạy"
+          ],
+          "start": 15.84,
+          "end": 16.17,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u04",
+      "speaker": "M",
+      "text": "I've done this before, and it usually fixes it.",
+      "start": 17.22,
+      "end": 19.71,
+      "clipSrc": "../../audio-sentences/t8-59-s04.mp3",
+      "clipSourceStart": 17.14,
+      "vi": "Tôi đã làm điều này trước đây, và thường thì sửa được.",
+      "listeningKeywords": [
+        "fixes"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "fixes",
+          "vi": "sửa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u04-k1",
+          "en": "fixes",
+          "vi": [
+            "sửa"
+          ],
+          "start": 19.05,
+          "end": 19.53,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u05",
+      "speaker": "W",
+      "text": "I see. Maybe it's a problem with a piston in the hydraulic cylinder.",
+      "start": 20.16,
+      "end": 24.93,
+      "clipSrc": "../../audio-sentences/t8-59-s05.mp3",
+      "clipSourceStart": 20.08,
+      "vi": "Tôi hiểu. Có lẽ là vấn đề với piston trong xi lanh thủy lực.",
+      "listeningKeywords": [
+        "see",
+        "problem",
+        "piston",
+        "hydraulic cylinder"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "hiểu"
+        },
+        {
+          "en": "problem",
+          "vi": "vấn đề"
+        },
+        {
+          "en": "piston",
+          "vi": "piston"
+        },
+        {
+          "en": "hydraulic cylinder",
+          "vi": "xi lanh thủy lực"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u05-k1",
+          "en": "see",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 20.58,
+          "end": 21.3,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u05-k2",
+          "en": "problem",
+          "vi": [
+            "vấn đề"
+          ],
+          "start": 22.2,
+          "end": 22.71,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u05-k3",
+          "en": "piston",
+          "vi": [
+            "piston"
+          ],
+          "start": 22.92,
+          "end": 23.49,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u05-k4",
+          "en": "hydraulic cylinder",
+          "vi": [
+            "xi lanh thủy lực"
+          ],
+          "start": 23.67,
+          "end": 24.93,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u06",
+      "speaker": "W",
+      "text": "But a repair that big should be under warranty.",
+      "start": 25.29,
+      "end": 27.69,
+      "clipSrc": "../../audio-sentences/t8-59-s06.mp3",
+      "clipSourceStart": 25.21,
+      "vi": "Nhưng một sửa chữa lớn như vậy nên được bảo hành.",
+      "listeningKeywords": [
+        "repair",
+        "big",
+        "warranty"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "repair",
+          "vi": "sửa chữa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u06-k1",
+          "en": "repair",
+          "vi": [
+            "sửa chữa"
+          ],
+          "start": 25.56,
+          "end": 25.92,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u06-k2",
+          "en": "big",
+          "vi": [],
+          "start": 26.16,
+          "end": 26.43,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u06-k3",
+          "en": "warranty",
+          "vi": [],
+          "start": 26.97,
+          "end": 27.69,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u07",
+      "speaker": "W",
+      "text": "It was Hamdy Equipment that sold it to us.",
+      "start": 28.26,
+      "end": 30.84,
+      "clipSrc": "../../audio-sentences/t8-59-s07.mp3",
+      "clipSourceStart": 28.18,
+      "vi": "Handy Equipment đã bán cho chúng ta.",
+      "listeningKeywords": [
+        "Hamdy Equipment",
+        "sold"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sold",
+          "vi": "bán"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u07-k1",
+          "en": "sold",
+          "vi": [
+            "bán"
+          ],
+          "start": 29.91,
+          "end": 30.21,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u08",
+      "speaker": "M",
+      "text": "Good point. I'll give them a call later.",
+      "start": 31.23,
+      "end": 33.6,
+      "clipSrc": "../../audio-sentences/t8-59-s08.mp3",
+      "clipSourceStart": 31.15,
+      "vi": "Ý hay. Tôi sẽ gọi họ sau.",
+      "listeningKeywords": [
+        "point",
+        "give",
+        "call",
+        "later"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "call",
+          "vi": "gọi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u08-k1",
+          "en": "point",
+          "vi": [],
+          "start": 31.56,
+          "end": 32.01,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u08-k2",
+          "en": "give",
+          "vi": [],
+          "start": 32.4,
+          "end": 32.58,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u08-k3",
+          "en": "call",
+          "vi": [
+            "gọi"
+          ],
+          "start": 32.79,
+          "end": 33.15,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u08-k4",
+          "en": "later",
+          "vi": [],
+          "start": 33.15,
+          "end": 33.6,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u09",
+      "speaker": "M",
+      "text": "I've spent too much time on this tractor.",
+      "start": 34.08,
+      "end": 36.33,
+      "clipSrc": "../../audio-sentences/t8-59-s09.mp3",
+      "clipSourceStart": 34.0,
+      "vi": "Tôi đã dành quá nhiều thời gian cho máy xúc này.",
+      "listeningKeywords": [
+        "spent",
+        "tractor"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "spent",
+          "vi": "dành"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u09-k1",
+          "en": "spent",
+          "vi": [
+            "dành"
+          ],
+          "start": 34.2,
+          "end": 34.59,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u09-k2",
+          "en": "tractor",
+          "vi": [],
+          "start": 35.82,
+          "end": 36.33,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-59-u10",
+      "speaker": "M",
+      "text": "I need to go over to the fields to check on the peppers and cucumbers -it may be time to pick them.",
+      "start": 36.69,
+      "end": 42.09,
+      "clipSrc": "../../audio-sentences/t8-59-s10.mp3",
+      "clipSourceStart": 36.61,
+      "vi": "Tôi cần đi ra cánh đồng để kiểm tra ớt và dưa chuột- có thể đã đến lúc hái chúng.",
+      "listeningKeywords": [
+        "check",
+        "peppers",
+        "cucumbers",
+        "pick"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "kiểm tra"
+        },
+        {
+          "en": "peppers",
+          "vi": "ớt"
+        },
+        {
+          "en": "cucumbers",
+          "vi": "dưa chuột"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-59-u10-k1",
+          "en": "check",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 38.52,
+          "end": 38.79,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u10-k2",
+          "en": "cucumbers",
+          "vi": [
+            "dưa chuột"
+          ],
+          "start": 39.54,
+          "end": 40.29,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-59-u10-k3",
+          "en": "pick",
+          "vi": [],
+          "start": 41.58,
+          "end": 41.85,
+          "anchorSource": "t8-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "conversationId": "t4-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-56-u01",
+      "speaker": "W1",
+      "text": "Hi, Ajijola. As I mentioned on the phone, my colleague and I recently started a clothing company and are hoping your branding firm can help us promote our line of athletic apparel.",
+      "start": 7.17,
+      "end": 18.51,
+      "clipSrc": "../../audio-sentences/t4-56-meaning-01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Chào, Ajijola. Như tôi đã đề cập qua điện thoại, đồng nghiệp của tôi và tôi gần đây đã thành lập một công ty quần áo và hy vọng công ty thương hiệu của bạn có thể giúp chúng tôi quảng bá dòng quần áo thể thao.",
+      "listeningKeywords": [
+        "started",
+        "clothing company",
+        "branding firm",
+        "athletic apparel"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "clothing company",
+          "vi": "công ty"
+        },
+        {
+          "en": "clothing company",
+          "vi": "công ty"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u01-k1",
+          "en": "started",
+          "vi": [],
+          "start": 12.0,
+          "end": 12.450526,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u01-k2",
+          "en": "clothing company",
+          "vi": [
+            "công ty"
+          ],
+          "start": 12.48,
+          "end": 13.59,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u01-k3",
+          "en": "branding firm",
+          "vi": [],
+          "start": 14.82,
+          "end": 15.84,
+          "anchorSource": "t4-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u01-k4",
+          "en": "athletic apparel",
+          "vi": [],
+          "start": 17.49,
+          "end": 18.51,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u02",
+      "speaker": "W1",
+      "text": "You think we should focus on advertising on social media, right?",
+      "start": 19.05,
+      "end": 23.52,
+      "clipSrc": "../../audio-sentences/t4-56-s03.mp3",
+      "clipSourceStart": 18.97,
+      "vi": "Bạn nghĩ chúng ta nên tập trung vào quảng cáo trên mạng xã hội, phải không?",
+      "listeningKeywords": [
+        "focus",
+        "advertising",
+        "social media"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "focus",
+          "vi": "tập trung"
+        },
+        {
+          "en": "advertising",
+          "vi": "quảng cáo"
+        },
+        {
+          "en": "social media",
+          "vi": "mạng xã hội"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u02-k1",
+          "en": "focus",
+          "vi": [
+            "tập trung"
+          ],
+          "start": 19.98,
+          "end": 20.4,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u02-k2",
+          "en": "advertising",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 20.61,
+          "end": 21.57,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u02-k3",
+          "en": "social media",
+          "vi": [
+            "mạng xã hội"
+          ],
+          "start": 21.84,
+          "end": 23.04,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u03",
+      "speaker": "M",
+      "text": "Right. Contrary to popular belief, television is definitely not the entire advertising landscape.",
+      "start": 24.06,
+      "end": 30.6,
+      "clipSrc": "../../audio-sentences/t4-56-meaning-03.mp3",
+      "clipSourceStart": 23.98,
+      "vi": "Đúng vậy. Trái với niềm tin phổ biến, truyền hình chắc chắn không phải là toàn bộ bối cảnh quảng cáo.",
+      "listeningKeywords": [
+        "popular belief",
+        "not",
+        "advertising",
+        "landscape"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "popular belief",
+          "vi": "phổ biến"
+        },
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "advertising",
+          "vi": "quảng cáo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u03-k1",
+          "en": "popular belief",
+          "vi": [
+            "phổ biến"
+          ],
+          "start": 25.59,
+          "end": 26.61,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u03-k2",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 28.29,
+          "end": 28.71,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u03-k3",
+          "en": "advertising",
+          "vi": [
+            "quảng cáo"
+          ],
+          "start": 29.34,
+          "end": 30.03,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u03-k4",
+          "en": "landscape",
+          "vi": [],
+          "start": 30.03,
+          "end": 30.6,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u04",
+      "speaker": "M",
+      "text": "Advertising on the Internet is also a great way for a company to increase its visibility.",
+      "start": 31.11,
+      "end": 36.3,
+      "clipSrc": "../../audio-sentences/t4-56-s06.mp3",
+      "clipSourceStart": 31.03,
+      "vi": "Quảng cáo trên Internet cũng là một cách tuyệt vời để công ty tăng khả năng hiển thị.",
+      "listeningKeywords": [
+        "Advertising",
+        "Internet",
+        "increase",
+        "visibility"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Advertising",
+          "vi": "Quảng cáo"
+        },
+        {
+          "en": "Internet",
+          "vi": "Internet"
+        },
+        {
+          "en": "increase",
+          "vi": "tăng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u04-k1",
+          "en": "Advertising",
+          "vi": [
+            "Quảng cáo"
+          ],
+          "start": 31.11,
+          "end": 31.74,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u04-k2",
+          "en": "Internet",
+          "vi": [
+            "Internet"
+          ],
+          "start": 31.98,
+          "end": 32.49,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u04-k3",
+          "en": "increase",
+          "vi": [
+            "tăng"
+          ],
+          "start": 34.77,
+          "end": 35.28,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u04-k4",
+          "en": "visibility",
+          "vi": [],
+          "start": 35.46,
+          "end": 36.3,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u05",
+      "speaker": "W2",
+      "text": "I heard you recommended working with an online influencer.",
+      "start": 36.63,
+      "end": 39.81,
+      "clipSrc": "../../audio-sentences/t4-56-s07.mp3",
+      "clipSourceStart": 36.55,
+      "vi": "Tôi nghe bạn khuyến nghị làm việc với một người ảnh hưởng trực tuyến.",
+      "listeningKeywords": [
+        "recommended",
+        "online influencer"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "online influencer",
+          "vi": "trực tuyến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u05-k1",
+          "en": "recommended",
+          "vi": [],
+          "start": 37.29,
+          "end": 37.89,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u05-k2",
+          "en": "online influencer",
+          "vi": [
+            "trực tuyến"
+          ],
+          "start": 38.52,
+          "end": 39.81,
+          "anchorSource": "t4-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u06",
+      "speaker": "M",
+      "text": "Yes—Saskia Hoffman. Saskia's very knowledgeable about exercise, and lots of people use her online exercise routines.",
+      "start": 40.11,
+      "end": 48.93,
+      "clipSrc": "../../audio-sentences/t4-56-meaning-06.mp3",
+      "clipSourceStart": 40.03,
+      "vi": "Vâng—Saskia Hoffman. Saskia rất am hiểu về tập luyện, và nhiều người sử dụng các bài tập trực tuyến của cô ấy.",
+      "listeningKeywords": [
+        "Saskia Hoffman",
+        "knowledgeable",
+        "use",
+        "exercise routines"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Saskia Hoffman",
+          "vi": "Saskia Hoffman"
+        },
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u06-k1",
+          "en": "Saskia Hoffman",
+          "vi": [
+            "Saskia Hoffman"
+          ],
+          "start": 40.89,
+          "end": 42.27,
+          "anchorSource": "t4-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u06-k2",
+          "en": "knowledgeable",
+          "vi": [],
+          "start": 43.86,
+          "end": 44.49,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u06-k3",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 46.8,
+          "end": 47.04,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u06-k4",
+          "en": "exercise routines",
+          "vi": [],
+          "start": 47.76,
+          "end": 48.93,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-56-u07",
+      "speaker": "M",
+      "text": "Her viewers will pay attention to what she recommends and wears.",
+      "start": 49.5,
+      "end": 52.65,
+      "clipSrc": "../../audio-sentences/t4-56-s10.mp3",
+      "clipSourceStart": 49.42,
+      "vi": "Khán giả của cô ấy sẽ chú ý đến những gì cô ấy khuyến nghị và mặc.",
+      "listeningKeywords": [
+        "viewers",
+        "pay",
+        "recommends",
+        "wears"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wears",
+          "vi": "mặc"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-56-u07-k1",
+          "en": "viewers",
+          "vi": [],
+          "start": 49.65,
+          "end": 50.07,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u07-k2",
+          "en": "pay",
+          "vi": [],
+          "start": 50.22,
+          "end": 50.43,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u07-k3",
+          "en": "recommends",
+          "vi": [],
+          "start": 51.33,
+          "end": 51.96,
+          "anchorSource": "t4-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-56-u07-k4",
+          "en": "wears",
+          "vi": [
+            "mặc"
+          ],
+          "start": 52.08,
+          "end": 52.65,
+          "anchorSource": "t4-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

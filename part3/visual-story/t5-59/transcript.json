@@ -1,0 +1,468 @@
+{
+  "conversationId": "t5-59",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 5 ets 2026.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t5-59-u01",
+      "speaker": "W",
+      "text": "Thanks for calling Hang's Metal Recycling Company.",
+      "start": 5.97,
+      "end": 9.03,
+      "clipSrc": "../../audio-sentences/t5-59-s01.mp3",
+      "clipSourceStart": 5.89,
+      "vi": "Cảm ơn đã gọi đến Công ty Tái chế Kim loại Hang.",
+      "listeningKeywords": [
+        "calling",
+        "Metal Recycling Company"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "calling",
+          "vi": "gọi"
+        },
+        {
+          "en": "Metal Recycling Company",
+          "vi": "Công ty Tái chế Kim loại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u01-k1",
+          "en": "calling",
+          "vi": [
+            "gọi"
+          ],
+          "start": 6.48,
+          "end": 6.9,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u01-k2",
+          "en": "Metal Recycling Company",
+          "vi": [
+            "Công ty Tái chế Kim loại"
+          ],
+          "start": 7.47,
+          "end": 9.03,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u02",
+      "speaker": "W",
+      "text": "How can I help you?",
+      "start": 9.09,
+      "end": 10.08,
+      "clipSrc": "../../audio-sentences/t5-59-s02.mp3",
+      "clipSourceStart": 9.03,
+      "vi": "Tôi có thể giúp gì cho anh?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 9.6,
+          "end": 9.84,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u03",
+      "speaker": "M",
+      "text": "Hi. I'm with Shannak Construction Company. We've got a lot of brass metal scrap from a recent remodeling job.",
+      "start": 10.53,
+      "end": 17.88,
+      "clipSrc": "../../audio-sentences/t5-59-meaning-03.mp3",
+      "clipSourceStart": 10.45,
+      "vi": "Chào. Tôi từ Công ty Xây dựng Shannak. Chúng tôi có nhiều phế liệu kim loại đồng từ công việc sửa chữa cải tạo gần đây.",
+      "listeningKeywords": [
+        "Shannak Construction Company",
+        "got",
+        "brass metal scrap",
+        "recent remodeling job"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Shannak Construction Company",
+          "vi": "Công ty Xây dựng"
+        },
+        {
+          "en": "got",
+          "vi": "có"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u03-k1",
+          "en": "got",
+          "vi": [
+            "có"
+          ],
+          "start": 14.22,
+          "end": 14.37,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u03-k2",
+          "en": "brass metal scrap",
+          "vi": [],
+          "start": 14.82,
+          "end": 16.14,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u03-k3",
+          "en": "recent remodeling job",
+          "vi": [],
+          "start": 16.47,
+          "end": 17.88,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u04",
+      "speaker": "M",
+      "text": "Are you currently buying metal scrap?",
+      "start": 18.36,
+      "end": 20.4,
+      "clipSrc": "../../audio-sentences/t5-59-s06.mp3",
+      "clipSourceStart": 18.28,
+      "vi": "Công ty có đang mua phế liệu kim loại không?",
+      "listeningKeywords": [
+        "buying",
+        "metal scrap"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "buying",
+          "vi": "mua"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u04-k1",
+          "en": "buying",
+          "vi": [
+            "mua"
+          ],
+          "start": 19.17,
+          "end": 19.59,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u04-k2",
+          "en": "metal scrap",
+          "vi": [],
+          "start": 19.59,
+          "end": 20.4,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u05",
+      "speaker": "W",
+      "text": "Yes, we are. We currently pay two dollars a pound.",
+      "start": 20.85,
+      "end": 24.42,
+      "clipSrc": "../../audio-sentences/t5-59-meaning-05.mp3",
+      "clipSourceStart": 20.77,
+      "vi": "Vâng, chúng tôi đang mua. Hiện tại chúng tôi trả hai đô la một pound.",
+      "listeningKeywords": [
+        "pay",
+        "dollars",
+        "pound"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "pound",
+          "vi": "pound"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u05-k1",
+          "en": "pay",
+          "vi": [],
+          "start": 22.8,
+          "end": 23.04,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u05-k2",
+          "en": "dollars",
+          "vi": [],
+          "start": 23.25,
+          "end": 23.73,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u05-k3",
+          "en": "pound",
+          "vi": [
+            "pound"
+          ],
+          "start": 23.79,
+          "end": 24.42,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u06",
+      "speaker": "M",
+      "text": "Oh, there's another recycling center that pays two dollars and twenty-five cents a pound.",
+      "start": 24.81,
+      "end": 29.55,
+      "clipSrc": "../../audio-sentences/t5-59-s09.mp3",
+      "clipSourceStart": 24.73,
+      "vi": "Ồ, có một trung tâm tái chế khác trả hai đô la hai mươi lăm cent một pound.",
+      "listeningKeywords": [
+        "recycling center",
+        "pays",
+        "cents",
+        "pound"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "recycling center",
+          "vi": "tái chế"
+        },
+        {
+          "en": "pound",
+          "vi": "pound"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u06-k1",
+          "en": "recycling center",
+          "vi": [
+            "tái chế"
+          ],
+          "start": 26.04,
+          "end": 27.0,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u06-k2",
+          "en": "pays",
+          "vi": [],
+          "start": 27.18,
+          "end": 27.51,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u06-k3",
+          "en": "cents",
+          "vi": [],
+          "start": 28.83,
+          "end": 29.07,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u06-k4",
+          "en": "pound",
+          "vi": [
+            "pound"
+          ],
+          "start": 29.13,
+          "end": 29.55,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u07",
+      "speaker": "M",
+      "text": "Would you be willing to match their price?",
+      "start": 30.06,
+      "end": 32.34,
+      "clipSrc": "../../audio-sentences/t5-59-s10.mp3",
+      "clipSourceStart": 29.98,
+      "vi": "Công ty có sẵn lòng khớp giá đó không?",
+      "listeningKeywords": [
+        "willing",
+        "match",
+        "price"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "price",
+          "vi": "giá"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u07-k1",
+          "en": "willing",
+          "vi": [],
+          "start": 30.78,
+          "end": 31.11,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u07-k2",
+          "en": "match",
+          "vi": [],
+          "start": 31.23,
+          "end": 31.56,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u07-k3",
+          "en": "price",
+          "vi": [
+            "giá"
+          ],
+          "start": 31.804135,
+          "end": 32.34,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u08",
+      "speaker": "W",
+      "text": "Yes, we have a price-match guarantee.",
+      "start": 32.58,
+      "end": 35.31,
+      "clipSrc": "../../audio-sentences/t5-59-s11.mp3",
+      "clipSourceStart": 32.5,
+      "vi": "Vâng, chúng tôi có chính sách khớp giá.",
+      "listeningKeywords": [
+        "price-match guarantee"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "price-match guarantee",
+          "vi": "giá"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u08-k1",
+          "en": "price-match guarantee",
+          "vi": [
+            "giá"
+          ],
+          "start": 33.69,
+          "end": 35.31,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t5-59-u09",
+      "speaker": "M",
+      "text": "Great. I'll bring the metal to you this afternoon, then.",
+      "start": 35.64,
+      "end": 38.85,
+      "clipSrc": "../../audio-sentences/t5-59-meaning-09.mp3",
+      "clipSourceStart": 35.56,
+      "vi": "Tuyệt vời. Vậy tôi sẽ mang kim loại đến chiều nay.",
+      "listeningKeywords": [
+        "bring",
+        "metal"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "bring",
+          "vi": "mang"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t5-59-u09-k1",
+          "en": "bring",
+          "vi": [
+            "mang"
+          ],
+          "start": 36.75,
+          "end": 36.99,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t5-59-u09-k2",
+          "en": "metal",
+          "vi": [],
+          "start": 37.08,
+          "end": 37.41,
+          "anchorSource": "t5-59.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

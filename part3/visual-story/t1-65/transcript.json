@@ -1,0 +1,484 @@
+{
+  "conversationId": "t1-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 1 ets 2026.pdf",
+    "pages": [
+      20,
+      21
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t1-65-u01",
+      "speaker": "M",
+      "text": "Marion, we keep getting calls from people who want to visit the botanical garden but can't find parking information.",
+      "start": 7.53,
+      "end": 14.88,
+      "clipSrc": "../../audio-sentences/t1-65-s01.mp3",
+      "clipSourceStart": 7.45,
+      "vi": "Marion này, chúng ta liên tục nhận được cuộc gọi từ những người muốn tham quan vườn bách thảo nhưng không tìm thấy thông tin bãi đậu xe.",
+      "listeningKeywords": [
+        "visit",
+        "botanical garden",
+        "can't",
+        "parking information"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "visit",
+          "vi": "tham quan"
+        },
+        {
+          "en": "botanical garden",
+          "vi": "vườn bách thảo"
+        },
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "parking information",
+          "vi": "đậu xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u01-k1",
+          "en": "visit",
+          "vi": [
+            "tham quan"
+          ],
+          "start": 10.86,
+          "end": 11.25,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u01-k2",
+          "en": "botanical garden",
+          "vi": [
+            "vườn bách thảo"
+          ],
+          "start": 11.34,
+          "end": 12.54,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u01-k3",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 12.87,
+          "end": 13.26,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u01-k4",
+          "en": "parking information",
+          "vi": [
+            "đậu xe"
+          ],
+          "start": 13.65,
+          "end": 14.88,
+          "anchorSource": "t1-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u02",
+      "speaker": "M",
+      "text": "Isn't it on our Web site?",
+      "start": 15.51,
+      "end": 17.19,
+      "clipSrc": "../../audio-sentences/t1-65-s02.mp3",
+      "clipSourceStart": 15.43,
+      "vi": "Nó không có trên trang web của chúng ta sao?",
+      "listeningKeywords": [
+        "Isn't",
+        "Web site"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Isn't",
+          "vi": "không"
+        },
+        {
+          "en": "Web site",
+          "vi": "trang web"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u02-k1",
+          "en": "Isn't",
+          "vi": [
+            "không"
+          ],
+          "start": 15.51,
+          "end": 15.87,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u02-k2",
+          "en": "Web site",
+          "vi": [
+            "trang web"
+          ],
+          "start": 16.47,
+          "end": 17.19,
+          "anchorSource": "t1-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u03",
+      "speaker": "W",
+      "text": "It is, but you have to click on the \"About Us\" page and scroll to the bottom of that page.",
+      "start": 17.49,
+      "end": 23.19,
+      "clipSrc": "../../audio-sentences/t1-65-s03.mp3",
+      "clipSourceStart": 17.41,
+      "vi": "Có chứ, nhưng anh phải nhấp vào trang \"Về chúng tôi\" và cuộn xuống cuối trang đó.",
+      "listeningKeywords": [
+        "page",
+        "scroll",
+        "bottom",
+        "page"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "page",
+          "vi": "trang"
+        },
+        {
+          "en": "page",
+          "vi": "trang"
+        },
+        {
+          "en": "scroll",
+          "vi": "cuộn"
+        },
+        {
+          "en": "bottom",
+          "vi": "cuối"
+        },
+        {
+          "en": "page",
+          "vi": "trang"
+        },
+        {
+          "en": "page",
+          "vi": "trang"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u03-k1",
+          "en": "page",
+          "vi": [
+            "trang"
+          ],
+          "start": 20.46,
+          "end": 20.94,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u03-k2",
+          "en": "scroll",
+          "vi": [
+            "cuộn"
+          ],
+          "start": 21.45,
+          "end": 21.81,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u03-k3",
+          "en": "bottom",
+          "vi": [
+            "cuối"
+          ],
+          "start": 22.02,
+          "end": 22.38,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u04",
+      "speaker": "W",
+      "text": "Maybe people don't see it.",
+      "start": 23.73,
+      "end": 25.32,
+      "clipSrc": "../../audio-sentences/t1-65-s04.mp3",
+      "clipSourceStart": 23.65,
+      "vi": "Có lẽ mọi người không thấy nó.",
+      "listeningKeywords": [
+        "don't",
+        "see"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "see",
+          "vi": "thấy"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u04-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 24.51,
+          "end": 24.78,
+          "anchorSource": "t1-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u04-k2",
+          "en": "see",
+          "vi": [
+            "thấy"
+          ],
+          "start": 24.78,
+          "end": 25.05,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u05",
+      "speaker": "M",
+      "text": "Oh, I think we should move that information from the \"About Us\" page and make a separate page for directions and parking information.",
+      "start": 25.86,
+      "end": 33.69,
+      "clipSrc": "../../audio-sentences/t1-65-s05.mp3",
+      "clipSourceStart": 25.78,
+      "vi": "Ồ, tôi nghĩ chúng ta nên chuyển thông tin đó từ trang \"Về chúng tôi\" và tạo một trang riêng cho chỉ đường và thông tin đậu xe.",
+      "listeningKeywords": [
+        "move",
+        "separate page",
+        "directions",
+        "parking information"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "move",
+          "vi": "chuyển"
+        },
+        {
+          "en": "separate page",
+          "vi": "trang"
+        },
+        {
+          "en": "separate page",
+          "vi": "trang"
+        },
+        {
+          "en": "parking information",
+          "vi": "đậu xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u05-k1",
+          "en": "move",
+          "vi": [
+            "chuyển"
+          ],
+          "start": 27.39,
+          "end": 27.66,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u05-k2",
+          "en": "separate page",
+          "vi": [
+            "trang"
+          ],
+          "start": 30.66,
+          "end": 31.62,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u05-k3",
+          "en": "directions",
+          "vi": [],
+          "start": 31.77,
+          "end": 32.4,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u05-k4",
+          "en": "parking information",
+          "vi": [
+            "đậu xe"
+          ],
+          "start": 32.52,
+          "end": 33.69,
+          "anchorSource": "t1-65-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u06",
+      "speaker": "W",
+      "text": "I'd be happy to make that change.",
+      "start": 37.26,
+      "end": 38.97,
+      "clipSrc": "../../audio-sentences/t1-65-s06.mp3",
+      "clipSourceStart": 37.18,
+      "vi": "Tôi rất sẵn lòng thực hiện thay đổi đó.",
+      "listeningKeywords": [
+        "change"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "change",
+          "vi": "thay đổi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u06-k1",
+          "en": "change",
+          "vi": [
+            "thay đổi"
+          ],
+          "start": 38.52,
+          "end": 38.97,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t1-65-u07",
+      "speaker": "W",
+      "text": "But we're in the middle of updating our software, so it'll have to wait until Monday.",
+      "start": 39.24,
+      "end": 43.74,
+      "clipSrc": "../../audio-sentences/t1-65-s07.mp3",
+      "clipSourceStart": 39.16,
+      "vi": "Nhưng chúng ta đang trong quá trình cập nhật phần mềm, vì vậy việc này sẽ phải đợi đến thứ Hai.",
+      "listeningKeywords": [
+        "middle",
+        "updating our software",
+        "wait",
+        "Monday"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "updating our software",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "updating our software",
+          "vi": "phần mềm"
+        },
+        {
+          "en": "wait",
+          "vi": "đợi"
+        },
+        {
+          "en": "Monday",
+          "vi": "thứ Hai"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t1-65-u07-k1",
+          "en": "middle",
+          "vi": [],
+          "start": 39.84,
+          "end": 40.17,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u07-k2",
+          "en": "updating our software",
+          "vi": [
+            "cập nhật",
+            "phần mềm"
+          ],
+          "start": 40.29,
+          "end": 41.46,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u07-k3",
+          "en": "wait",
+          "vi": [
+            "đợi"
+          ],
+          "start": 42.69,
+          "end": 42.93,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t1-65-u07-k4",
+          "en": "Monday",
+          "vi": [
+            "thứ Hai"
+          ],
+          "start": 43.2,
+          "end": 43.74,
+          "anchorSource": "t1-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,1832 @@
+{
+  "activePhotos": 261,
+  "images": [
+    {
+      "conversationId": "t1-32",
+      "path": "part3/visual-story/t1-32/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1266b73a8e7eeb5a15eeb691c6ee0b870007a9d260f70ca343d27d3a2d2437c9"
+    },
+    {
+      "conversationId": "t1-32",
+      "path": "part3/visual-story/t1-32/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "93eebb68c59ad192440ecb7b78a0b4ef85a8160edcd45cee88dd67e7509240fd"
+    },
+    {
+      "conversationId": "t1-32",
+      "path": "part3/visual-story/t1-32/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "34cb4f67e7095df17d27afa355521d4a98519027eb9a91d144a95e0983d8f728"
+    },
+    {
+      "conversationId": "t1-32",
+      "path": "part3/visual-story/t1-32/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "553c134aa31c14d44b0c50758aa423dec320ebaa5fbb84493c627f058e58d6f5"
+    },
+    {
+      "conversationId": "t1-32",
+      "path": "part3/visual-story/t1-32/images/scene-05.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "94e2957912ec25f8f51cd8f8db19e448212f7a48eeb2b695cd583e4cd78cadc2"
+    },
+    {
+      "conversationId": "t1-35",
+      "path": "part3/visual-story/t1-35/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4bc581b784b8b1b9b5f362905628bd170dbbc0ebe8f7656bb9728b4f967ebe6c"
+    },
+    {
+      "conversationId": "t1-35",
+      "path": "part3/visual-story/t1-35/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8b31d8b8e3c14414b4f26b421b151ae4ca0630aeaf58545e219a64d6c25a4ed5"
+    },
+    {
+      "conversationId": "t1-35",
+      "path": "part3/visual-story/t1-35/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7868a27597fb435b1eb76a3e19be7c2e084633e24bf3ceb95c912a9df2b98c4a"
+    },
+    {
+      "conversationId": "t1-35",
+      "path": "part3/visual-story/t1-35/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "aa191bbf34ef41b05d42b49f4c995bc4976d8e175133b697d93dc18a4318a711"
+    },
+    {
+      "conversationId": "t1-38",
+      "path": "part3/visual-story/t1-38/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8f0bacadcd53457207df638b376e76107da8626f66bea767c43e55f0792ef1ef"
+    },
+    {
+      "conversationId": "t1-38",
+      "path": "part3/visual-story/t1-38/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d106c3f9373653bdd9d74f28f4f32e737cd3e5dd15ba7b1823132e094c418629"
+    },
+    {
+      "conversationId": "t1-38",
+      "path": "part3/visual-story/t1-38/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9fc46f9ee2c561039926b90e9d745767a7e53610b8c155aca1a74b2d4ffbe789"
+    },
+    {
+      "conversationId": "t1-38",
+      "path": "part3/visual-story/t1-38/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "236ea129d5c144fac7ed4ee952920b497cd4b43bcf0a3a5804cd394fd815bf69"
+    },
+    {
+      "conversationId": "t1-41",
+      "path": "part3/visual-story/t1-41/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5e54a07c1dbe6b492956278d45cf0d8c188a5dbfe3049e7b7dacb30c5bd5f8cc"
+    },
+    {
+      "conversationId": "t1-41",
+      "path": "part3/visual-story/t1-41/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4923d39bc28091db89604208337e47161f387db6ee82adf7af51875dc65f604c"
+    },
+    {
+      "conversationId": "t1-41",
+      "path": "part3/visual-story/t1-41/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fc61a3e2ccbab8bbd5e522c7d61ef78836420398f7d4454da431aab12439343a"
+    },
+    {
+      "conversationId": "t1-41",
+      "path": "part3/visual-story/t1-41/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "669d5b995b2ccbd5bbe5f6de67a03cdc68e63cd5397f7cfc94b0f33ad72f002a"
+    },
+    {
+      "conversationId": "t1-44",
+      "path": "part3/visual-story/t1-44/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d622d3696e69cf595f941ba985a651035144f50c74351c1fde9f2252ff8f7357"
+    },
+    {
+      "conversationId": "t1-44",
+      "path": "part3/visual-story/t1-44/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e80bd7ec43e3d71b246f8e0e2e3d7bcf6f5b04d82c4eee1fb413d792469b6597"
+    },
+    {
+      "conversationId": "t1-44",
+      "path": "part3/visual-story/t1-44/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d9440dcdee1078ed086c3c1335e21e2f9557de150479fc4216b6588b8126aa6e"
+    },
+    {
+      "conversationId": "t1-44",
+      "path": "part3/visual-story/t1-44/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cc749153f9879310632a7bc2586035f0587d1ac09d94228caabac9cbc80ce37a"
+    },
+    {
+      "conversationId": "t1-47",
+      "path": "part3/visual-story/t1-47/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d7e365d4d6aae762515f380be91b5da7e128969e80f7f8ae9397c38d107e1cbc"
+    },
+    {
+      "conversationId": "t1-47",
+      "path": "part3/visual-story/t1-47/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2c8984fc3e8b48eed305b110b645795313b9dd5d56b03deb139cc89000cc6698"
+    },
+    {
+      "conversationId": "t1-47",
+      "path": "part3/visual-story/t1-47/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7c91beb109e2effafdcd85ab51c7bd37d23932d93356a0611eebc878fbf410be"
+    },
+    {
+      "conversationId": "t1-47",
+      "path": "part3/visual-story/t1-47/images/scene-04.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "4ee0ca9c766c88fed410c23d5d6c50cc56a2614ef84ffeeb1b7f711176dc01da"
+    },
+    {
+      "conversationId": "t1-50",
+      "path": "part3/visual-story/t1-50/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "58a76b9cdc618a0b845c76f221ba3e224199b0b913ae9dc4fddb79cee8f77a54"
+    },
+    {
+      "conversationId": "t1-50",
+      "path": "part3/visual-story/t1-50/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c07d5bca00fb7e5134e0acd635557076be874710328b270734cb782d2bfa2454"
+    },
+    {
+      "conversationId": "t1-50",
+      "path": "part3/visual-story/t1-50/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75184eb0178aa0137b0e8918e1d5ef9009eb8a8f1097af0633110e7330849b27"
+    },
+    {
+      "conversationId": "t1-50",
+      "path": "part3/visual-story/t1-50/images/scene-04.png",
+      "width": 1671,
+      "height": 941,
+      "sha256": "21d047ab77a149714037dc12bdd3c208f54e87b73c4de21468928ac37728db9b"
+    },
+    {
+      "conversationId": "t1-53",
+      "path": "part3/visual-story/t1-53/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1acd7f0df3326855104196ffc5b876e6106fe9d17e8045bd354ac1d8a1d2947d"
+    },
+    {
+      "conversationId": "t1-53",
+      "path": "part3/visual-story/t1-53/images/scene-02-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5c2a5efeb7bfdbf2283cdec0250f4c0142b8eba090d2b140fa1c9142d1990148"
+    },
+    {
+      "conversationId": "t1-53",
+      "path": "part3/visual-story/t1-53/images/scene-03.png",
+      "width": 1671,
+      "height": 941,
+      "sha256": "a027ebe8b628cd61c695d6918ce5d7a116cdc62da9061341521826a21c7cec77"
+    },
+    {
+      "conversationId": "t1-53",
+      "path": "part3/visual-story/t1-53/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cae15ec9f24ffe180a77a5a73a67daccc9cda014828d014876ed829da29d4ccf"
+    },
+    {
+      "conversationId": "t1-56",
+      "path": "part3/visual-story/t1-56/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "201d69a6c1c98e9e86c30440ac1b7ce2fc959aaf959201e8599404cf604c3721"
+    },
+    {
+      "conversationId": "t1-56",
+      "path": "part3/visual-story/t1-56/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4842220cc16a868d12565f30d3e24b7dc1d1d165bc6ffb376442a81032b416d4"
+    },
+    {
+      "conversationId": "t1-56",
+      "path": "part3/visual-story/t1-56/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "96b9f3a8ddebbd4932b2d874a07249bc51375140b2ad077121abd42499c41ccb"
+    },
+    {
+      "conversationId": "t1-56",
+      "path": "part3/visual-story/t1-56/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "368e73a5acbe6e9b0e292c2d5b6230f6855bb2105fd1727ed7d12d68fdc1fbb0"
+    },
+    {
+      "conversationId": "t1-59",
+      "path": "part3/visual-story/t1-59/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "55f1f8e4914706210caf7ff6c0f58826a5efc5bddb9640b0f7fc81c4d2b7adcf"
+    },
+    {
+      "conversationId": "t1-59",
+      "path": "part3/visual-story/t1-59/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8408be7c318665f0f951bc1fd43c984d3ce1028a85db6ae6324b711dde92a707"
+    },
+    {
+      "conversationId": "t1-59",
+      "path": "part3/visual-story/t1-59/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "84a73cede28d699d3726e92d789afdfb876a1c912a6569ee0777b87213ae451d"
+    },
+    {
+      "conversationId": "t1-59",
+      "path": "part3/visual-story/t1-59/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cfa1f16863b7f3414ea9ab3dc2a88322972e006584305a60b2439f1116931f5c"
+    },
+    {
+      "conversationId": "t1-62",
+      "path": "part3/visual-story/t1-62/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b71c51d96211092d198d65010122ec95f9bd5c30d390d1e18714f14d52f6d5a1"
+    },
+    {
+      "conversationId": "t1-62",
+      "path": "part3/visual-story/t1-62/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "116d49079e9d7a2967bf927b3e6601e2817028ec2adae3c0f44a9781fd30e072"
+    },
+    {
+      "conversationId": "t1-62",
+      "path": "part3/visual-story/t1-62/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c81e7330b50fd12278e553b1c9578272603cfb1a9ec76b65adf7ae1b90ac706c"
+    },
+    {
+      "conversationId": "t1-62",
+      "path": "part3/visual-story/t1-62/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "22b7b9e269879782ab4eb40025836f9bd6a9ca9babdee33c4ad17498dba38c90"
+    },
+    {
+      "conversationId": "t1-65",
+      "path": "part3/visual-story/t1-65/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e7590a5d2715587ab04db9187863c7303dda97f4dd0930b36de704cc5d28c4f3"
+    },
+    {
+      "conversationId": "t1-65",
+      "path": "part3/visual-story/t1-65/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4f170ba49a6ec87b2692b86cd3e42e242fc08d562179a1bcbdf3ce7dc226ac61"
+    },
+    {
+      "conversationId": "t1-65",
+      "path": "part3/visual-story/t1-65/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "10b85e3d31a9796bc6734ec613b2a05b767474ba6c4bc462aee76b587912cc73"
+    },
+    {
+      "conversationId": "t1-65",
+      "path": "part3/visual-story/t1-65/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e66cef78aa430318d7e5432476386e6291a4200354d5c3cfbae602ac822f8f54"
+    },
+    {
+      "conversationId": "t1-68",
+      "path": "part3/visual-story/t1-68/images/scene-01.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "df4bb6827785b25e783d6bd18188b94eb77849654ee6de70f5ca13426741390a"
+    },
+    {
+      "conversationId": "t1-68",
+      "path": "part3/visual-story/t1-68/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "64ed36720bd8ef184f66853670700e7c4fed782adb4f3cec060e92885bc9753e"
+    },
+    {
+      "conversationId": "t1-68",
+      "path": "part3/visual-story/t1-68/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "21d6151235f6f3fa7c42a15198afff3c3771f117ea2b978d6c53f56aa7450355"
+    },
+    {
+      "conversationId": "t1-68",
+      "path": "part3/visual-story/t1-68/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fb8832daaae8c8518548a614c1431e077b8e78e4a187c71d8f9fe50253114950"
+    },
+    {
+      "conversationId": "t2-32",
+      "path": "part3/visual-story/t2-32/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6af53581bd987dc0854abfeabe2d43a9a315c7f74cc71f180b9f70405eb9a51b"
+    },
+    {
+      "conversationId": "t2-32",
+      "path": "part3/visual-story/t2-32/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9d48e6b31c6ff5533012d6b35323cd29f443147a659a5dfc38e23557d1763c5d"
+    },
+    {
+      "conversationId": "t2-32",
+      "path": "part3/visual-story/t2-32/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "daa402f85208dfd53eb3b21367ad0a0dfe2aa3421b78125d145f89436b4d218a"
+    },
+    {
+      "conversationId": "t2-32",
+      "path": "part3/visual-story/t2-32/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "aa1d26a5ee8e31ec3aab413f2ec3dffcf884edc9ad2086fe2c1cbeebac80542e"
+    },
+    {
+      "conversationId": "t2-35",
+      "path": "part3/visual-story/t2-35/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7957e00dddaf873dde1905de4c0508d6ebc831521348e49320cc63f207134f0d"
+    },
+    {
+      "conversationId": "t2-35",
+      "path": "part3/visual-story/t2-35/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e5a7a3cc3a91cb19236bb9eb418e627d53cf3d99ecaee0c094fb75e0b12a02cd"
+    },
+    {
+      "conversationId": "t2-35",
+      "path": "part3/visual-story/t2-35/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dde0a8e047663b17c6d522239cb3e65aa434e5363210b6659f9d435cb71dc1de"
+    },
+    {
+      "conversationId": "t2-35",
+      "path": "part3/visual-story/t2-35/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6d66e158a67db30ef016a0beda2f7baae2ae5463c1b26c9923ed02736d3881a8"
+    },
+    {
+      "conversationId": "t2-38",
+      "path": "part3/visual-story/t2-38/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4527a755e065a3a0af5228bcbb94a9cdfafe4a7c3a191a016eb37c7375253fc1"
+    },
+    {
+      "conversationId": "t2-38",
+      "path": "part3/visual-story/t2-38/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ebe645c1497132095df5a9e802c709b9b9c7bb860085ee3f04b347fb40eadaf6"
+    },
+    {
+      "conversationId": "t2-38",
+      "path": "part3/visual-story/t2-38/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b80c8c915b91d79c9e26720b8bf1dd253128162f8d4e91d5c1c331c7802dbc60"
+    },
+    {
+      "conversationId": "t2-38",
+      "path": "part3/visual-story/t2-38/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d0e1e9c37025a9bf383e58ae16dfcfc659ad1b37a40a435f2c17dbc743125c89"
+    },
+    {
+      "conversationId": "t2-41",
+      "path": "part3/visual-story/t2-41/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2774db0e36fe76bfb374694bf89afe4effee4a97fa10e231812be737fd7e4b08"
+    },
+    {
+      "conversationId": "t2-41",
+      "path": "part3/visual-story/t2-41/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "db96db54fad66ee81e54bfe80ce3e3578e72336d57a4c2e743a49404f75b8191"
+    },
+    {
+      "conversationId": "t2-41",
+      "path": "part3/visual-story/t2-41/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "10cb3e7e04fcbaa3766492cec93c5e400a9a737d04dc7f3f46bc240306045a61"
+    },
+    {
+      "conversationId": "t2-41",
+      "path": "part3/visual-story/t2-41/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cc580d8cf2f1bc22bdae487940829909c3bf9bb0ea98758aa8708c933623e400"
+    },
+    {
+      "conversationId": "t2-44",
+      "path": "part3/visual-story/t2-44/images/scene-01.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "c8182cc6c5f21d3bcf7e22d6df7c278e310da5efbe9da1d05f6eb1aafb37f7a8"
+    },
+    {
+      "conversationId": "t2-44",
+      "path": "part3/visual-story/t2-44/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "13a677dec863746b66a52ef5d450983347ee83553438ae7429500a11b0d669b2"
+    },
+    {
+      "conversationId": "t2-44",
+      "path": "part3/visual-story/t2-44/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d3cff56f2f2524c66dd41c019d8ef8968626db8698300cf68dcede4447c054f3"
+    },
+    {
+      "conversationId": "t2-44",
+      "path": "part3/visual-story/t2-44/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3f5e10deb7fcd135a46317841df21f48acd26f0e84abe6c47662047a9d5e6eca"
+    },
+    {
+      "conversationId": "t2-47",
+      "path": "part3/visual-story/t2-47/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c8799566a4499e80d9d2b2710b49e546e8b2825bc56f8657f0941d131123ed89"
+    },
+    {
+      "conversationId": "t2-47",
+      "path": "part3/visual-story/t2-47/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1759af0ad5cc2252daaf1d7baaddd90fcedac9bd2062f8d31c5f70e1bc73e8c4"
+    },
+    {
+      "conversationId": "t2-47",
+      "path": "part3/visual-story/t2-47/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b42ea8cf304828ce5660d9a4754e9be76a7ac0f94f9402e210ea9ad6d4f33c27"
+    },
+    {
+      "conversationId": "t2-47",
+      "path": "part3/visual-story/t2-47/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7edcf403e929b0da2a0047a2313e733938cac42a610b1cef548591a8c29838de"
+    },
+    {
+      "conversationId": "t2-50",
+      "path": "part3/visual-story/t2-50/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d3cabd85660e677ece10dd0290fd7163d938e5dcd8e625c0d76bcfc06bad601b"
+    },
+    {
+      "conversationId": "t2-50",
+      "path": "part3/visual-story/t2-50/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e9c68ff782e7dce9703c3ef84eafdcbd80795d162cd6932732d4c518d25e367e"
+    },
+    {
+      "conversationId": "t2-50",
+      "path": "part3/visual-story/t2-50/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a85f30354d69eb22f5f9ed0abc6152940f036ecfe7ee97834bc772cc00200053"
+    },
+    {
+      "conversationId": "t2-50",
+      "path": "part3/visual-story/t2-50/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2511429d3bb2ad5c6286eed7bf02d96863764f158148253878969ce164e45f3a"
+    },
+    {
+      "conversationId": "t2-53",
+      "path": "part3/visual-story/t2-53/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d4f0ceac52cebf44b94841d186456f21f0a27dfbf8eeb2394d97c0b125330683"
+    },
+    {
+      "conversationId": "t2-53",
+      "path": "part3/visual-story/t2-53/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9913c01166f2f150ce19edda3db63a2905f6391d13ff65e2fce9a93c8a7db473"
+    },
+    {
+      "conversationId": "t2-53",
+      "path": "part3/visual-story/t2-53/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "25c32decc0d8394c4f0dfe6eb3b157fa7cd9cdaee48ba5ad051aeba31c8327b5"
+    },
+    {
+      "conversationId": "t2-53",
+      "path": "part3/visual-story/t2-53/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "81dc572644f875f65928ae8e0a5a862bd181d376584da7c33cc8de418dff3aa3"
+    },
+    {
+      "conversationId": "t2-56",
+      "path": "part3/visual-story/t2-56/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9506f5d856d4231ed02c8579e26bd3b7f4515cb10d56118de5587e3245ad397c"
+    },
+    {
+      "conversationId": "t2-56",
+      "path": "part3/visual-story/t2-56/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8af239c05745a7cc7ddd1e7df634a85fde0bcf6521b181ab37ba8831fd929c8a"
+    },
+    {
+      "conversationId": "t2-56",
+      "path": "part3/visual-story/t2-56/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c0aed6f64bd1dc73b2663fb53d1dedd40de4a1a78188962f89d7bb1a80ecd335"
+    },
+    {
+      "conversationId": "t2-56",
+      "path": "part3/visual-story/t2-56/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "519b4bcdfbd0c22528012e0ce65a882e675f23c54f9346a771eddc8f386b7092"
+    },
+    {
+      "conversationId": "t2-59",
+      "path": "part3/visual-story/t2-59/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "13aa0c92616847bb7c844acce27d176fad30fb576405eb4afbe56cd0f02aca41"
+    },
+    {
+      "conversationId": "t2-59",
+      "path": "part3/visual-story/t2-59/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2fbf1e3c2b55e4537de14061ecd9da15aefb0981dc1d9d390af5beed490a3c7b"
+    },
+    {
+      "conversationId": "t2-59",
+      "path": "part3/visual-story/t2-59/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "049ffd6c306e75cde58dea7e6ea18543d43192e0b9d7daf13ea0a0b78555a0c1"
+    },
+    {
+      "conversationId": "t2-59",
+      "path": "part3/visual-story/t2-59/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "00b6ca9de727fd29ed0160fe4a1b70c24c7bb9e9b837b425e3c1bb1f65e8f65f"
+    },
+    {
+      "conversationId": "t2-62",
+      "path": "part3/visual-story/t2-62/images/scene-01.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "0beb2e3ccc879c59180cf8fb98036667f5277c617ae3013168415a5df5ef6db8"
+    },
+    {
+      "conversationId": "t2-62",
+      "path": "part3/visual-story/t2-62/images/scene-02-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0f30b95927308e261df73c21194b83c0010b4f1e83e635656743d2c985b17ba2"
+    },
+    {
+      "conversationId": "t2-62",
+      "path": "part3/visual-story/t2-62/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "99b987661ee968741621d8bfc771391072f92f88d0012f6e8d36fbfcc6cd01a1"
+    },
+    {
+      "conversationId": "t2-62",
+      "path": "part3/visual-story/t2-62/images/scene-04-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "518f9763929156fc686fe863abfdb177b8e2872aeb6934f8accdf812ac52f2f9"
+    },
+    {
+      "conversationId": "t2-65",
+      "path": "part3/visual-story/t2-65/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6fc2738de4da90e0ebaa4d32a245485c11f27ec5d73eb4807dd44a9821809842"
+    },
+    {
+      "conversationId": "t2-65",
+      "path": "part3/visual-story/t2-65/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dade38b31da0041d8341c20a9d1da8fa8b3aeb02eb6ceb689c72bda4006e083c"
+    },
+    {
+      "conversationId": "t2-65",
+      "path": "part3/visual-story/t2-65/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "efff18c8e46cd74a89e32b583271ffba8376223760cb774ab2390f3b74f2511f"
+    },
+    {
+      "conversationId": "t2-65",
+      "path": "part3/visual-story/t2-65/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "76a925158e8954f1e11fb4d4a025c8784f332d3ec5dca90039495ca329f51642"
+    },
+    {
+      "conversationId": "t2-68",
+      "path": "part3/visual-story/t2-68/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6c914560d64881b4e40894a70bb0b252ac34bdae545b015b23033b35c6d9fce8"
+    },
+    {
+      "conversationId": "t2-68",
+      "path": "part3/visual-story/t2-68/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "250b9b6b64b0bcbe067f9e2159c58fcb823a4af573628d3a53237de395f2c263"
+    },
+    {
+      "conversationId": "t2-68",
+      "path": "part3/visual-story/t2-68/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4124dd9b14cddf8aa3bed4d0f4fd67578108882f823719672329df388c1202dc"
+    },
+    {
+      "conversationId": "t2-68",
+      "path": "part3/visual-story/t2-68/images/scene-04-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b04dee912e86baa1f1a35a76da115328cad25d63b6ecf81242ae26b92c8e65b7"
+    },
+    {
+      "conversationId": "t3-32",
+      "path": "part3/visual-story/t3-32/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "44e68f66a8c415c0925bbb4a23707ab172e303d59574556e75af6e055e49cb71"
+    },
+    {
+      "conversationId": "t3-32",
+      "path": "part3/visual-story/t3-32/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2f7d876c8230beaf9656beda1707494b906cc63ae9c64c9691559872afb4f3da"
+    },
+    {
+      "conversationId": "t3-32",
+      "path": "part3/visual-story/t3-32/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4c63dd69b0a561023d0e50146997f8e2a4f906ae3b8e8b55a5373977a76b54b6"
+    },
+    {
+      "conversationId": "t3-32",
+      "path": "part3/visual-story/t3-32/images/scene-04.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "52fe9760c3983ce86e01a56b236235fccea306acf7731e2c9ef785564cc051ec"
+    },
+    {
+      "conversationId": "t3-35",
+      "path": "part3/visual-story/t3-35/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d3e70129ea8fedb4f81f683622fba3454db0613c6c70e103e1cc21e66dc5df7c"
+    },
+    {
+      "conversationId": "t3-35",
+      "path": "part3/visual-story/t3-35/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "10f13148fa5177293cd65264da64e924c2a1b8d84c5eb37add3bdd4a69f5af79"
+    },
+    {
+      "conversationId": "t3-35",
+      "path": "part3/visual-story/t3-35/images/scene-03-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fdd4d0522d0344858cf698d8b89dc34adde3ab7790e488829d3f107db14d0692"
+    },
+    {
+      "conversationId": "t3-35",
+      "path": "part3/visual-story/t3-35/images/scene-04-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f291d3c8bff554123e699ab352f39dc2cb99c1be0a10a5ba315bc15ae468789e"
+    },
+    {
+      "conversationId": "t3-38",
+      "path": "part3/visual-story/t3-38/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "94e56a80fda5d52f9984f0755e381fb507be6fe75e8775c3006a8c0fd85e3db5"
+    },
+    {
+      "conversationId": "t3-38",
+      "path": "part3/visual-story/t3-38/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "360a8dd3832c5776f5ce761577e525e98f558a27c5f269519b529ef16a0ff1bb"
+    },
+    {
+      "conversationId": "t3-38",
+      "path": "part3/visual-story/t3-38/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "370147593b3f3fd52480ebf52226fab2a15d4d7a9169dfc744cc55f5af52e1cc"
+    },
+    {
+      "conversationId": "t3-38",
+      "path": "part3/visual-story/t3-38/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c0ab84014bf1d1c1499efb5da6a1d7057c71c64f0aa27a733ee369c6b3858ba4"
+    },
+    {
+      "conversationId": "t3-41",
+      "path": "part3/visual-story/t3-41/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b282f32a026db82d6b759eccf105d95b9abbe9afba58b18268374f4154913480"
+    },
+    {
+      "conversationId": "t3-41",
+      "path": "part3/visual-story/t3-41/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d1ac2bdefa5eb974405f69a09b6d4de1ad02057c5a9a738602296d580bff576a"
+    },
+    {
+      "conversationId": "t3-41",
+      "path": "part3/visual-story/t3-41/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "21b798434d2ad84b06c075a38f45d9c8470f8587a0e65a82049ed6ca0103fc7f"
+    },
+    {
+      "conversationId": "t3-41",
+      "path": "part3/visual-story/t3-41/images/scene-04.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "3713b1ccb6e72cbbf76044635d09710acb084fecf30dc3956cd3824a0a55d0cd"
+    },
+    {
+      "conversationId": "t3-44",
+      "path": "part3/visual-story/t3-44/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5b300da4a04d036ea608c9db0c74dec7beb3343ff2b2a6cc8ab851d8549707a1"
+    },
+    {
+      "conversationId": "t3-44",
+      "path": "part3/visual-story/t3-44/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "547879d550b5978d60d6536f3355d6e23edf0ab3a50a8cc9b39677e25a17bf86"
+    },
+    {
+      "conversationId": "t3-44",
+      "path": "part3/visual-story/t3-44/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4a306306908c047f7646b6ac32a12516c59d5b20de285ae461eb563d8af6a602"
+    },
+    {
+      "conversationId": "t3-44",
+      "path": "part3/visual-story/t3-44/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "89f414b1d246d3796bb0e9f01ea1ea57e3473e21a3e25c50b442173e28e10bda"
+    },
+    {
+      "conversationId": "t3-47",
+      "path": "part3/visual-story/t3-47/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a06a6f8b20e0ed61174d59a4aa73580757ae01f4283f446112c92dd2301c8b3e"
+    },
+    {
+      "conversationId": "t3-47",
+      "path": "part3/visual-story/t3-47/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bc2dd34e8f92e9bac01ff31fed51776209569ac8157fe0a1b5cc713ca5137a7e"
+    },
+    {
+      "conversationId": "t3-47",
+      "path": "part3/visual-story/t3-47/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75d32bcaf5b7bf83df41198a371c89e9a10d217360e89a62da4357fff50074b5"
+    },
+    {
+      "conversationId": "t3-47",
+      "path": "part3/visual-story/t3-47/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "49389cdbdc69f032c4a285710f7942842d4d07d0aca2a7064990e0912fa49f72"
+    },
+    {
+      "conversationId": "t3-50",
+      "path": "part3/visual-story/t3-50/images/scene-01-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "99a54f245268110055fc7e1e3ca9063aef3970efc2cf970cce2445511d32b1d3"
+    },
+    {
+      "conversationId": "t3-50",
+      "path": "part3/visual-story/t3-50/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "538293aa6103040378589bcbe58afa815eae7d4b0a6be72830aa9e205b12ef49"
+    },
+    {
+      "conversationId": "t3-50",
+      "path": "part3/visual-story/t3-50/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3201bbb9da561e20621e22b8516b39fb559afb7aa30475d70cfaa819f742e626"
+    },
+    {
+      "conversationId": "t3-50",
+      "path": "part3/visual-story/t3-50/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4b287079de472da4547f6bc265947f400d68335b0e95cba0271d4365d3180aef"
+    },
+    {
+      "conversationId": "t3-53",
+      "path": "part3/visual-story/t3-53/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "429f2f53155677d3247741396c2c205b2d46c16252e87f41b3023fb93fb3bcd8"
+    },
+    {
+      "conversationId": "t3-53",
+      "path": "part3/visual-story/t3-53/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "96eb57b9e77d81dd86e7a9ce347f22e3bd5ef5eb36faf1ba4c6746e6ca50e57c"
+    },
+    {
+      "conversationId": "t3-53",
+      "path": "part3/visual-story/t3-53/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "683b0a5e1291f036d2a5ed9dd17227c49ee101d2789e6f21e3df53aef058ed92"
+    },
+    {
+      "conversationId": "t3-53",
+      "path": "part3/visual-story/t3-53/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "61faeb4292c18e67ca1cee2cdda7fad5c89334ca6094136d2d14a020ae0eff7b"
+    },
+    {
+      "conversationId": "t3-56",
+      "path": "part3/visual-story/t3-56/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "be87d6642d7d2db5fbdea67e0cb9ed0dcbe59bf5903c6329c4d93094c5410c8a"
+    },
+    {
+      "conversationId": "t3-56",
+      "path": "part3/visual-story/t3-56/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e66ed8f8410d1545fc1b8c26a381b6d78060431730d14e28d0d8e7efed43a41e"
+    },
+    {
+      "conversationId": "t3-56",
+      "path": "part3/visual-story/t3-56/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "50d97a073fe43c862ae9b0b83cbe6c11e80bbce05d57a2ba6a1b6abbc06d2191"
+    },
+    {
+      "conversationId": "t3-56",
+      "path": "part3/visual-story/t3-56/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6996aa41b991ad2780492b14587aa62d89db7fea4bfe1d3aa01754ce8fb82815"
+    },
+    {
+      "conversationId": "t3-59",
+      "path": "part3/visual-story/t3-59/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e93b7968ec8c89e95c0de4d8c9d59e1a260aa10695c90652d4d91436df5c5673"
+    },
+    {
+      "conversationId": "t3-59",
+      "path": "part3/visual-story/t3-59/images/scene-02-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "24d71b02a900ef87ada0e300a32e8a9f68dc8789e3a678be49fa84bc2a3f9385"
+    },
+    {
+      "conversationId": "t3-59",
+      "path": "part3/visual-story/t3-59/images/scene-03-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "086fb2a416863fb3153ed56cc77f90479f44b3b4682ebae7d2f5d5e407d4ea23"
+    },
+    {
+      "conversationId": "t3-59",
+      "path": "part3/visual-story/t3-59/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "30722a12f2c66fe5bde286a6094eba764cbabd121eb30d0c2ece217041e84a0f"
+    },
+    {
+      "conversationId": "t3-62",
+      "path": "part3/visual-story/t3-62/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a67a88a9f0401ebaf1c47dbc9078c7fb09d0912609d1e480f14880dbf4b15ac6"
+    },
+    {
+      "conversationId": "t3-62",
+      "path": "part3/visual-story/t3-62/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1f711c141d9f3894b8c94d2043cca8b4dae356334e2e4e58b915a37ea499188a"
+    },
+    {
+      "conversationId": "t3-62",
+      "path": "part3/visual-story/t3-62/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6b1a4a83c58c960217b432346834db2e45427f8569c63ebfb2fda5c64f6394b8"
+    },
+    {
+      "conversationId": "t3-62",
+      "path": "part3/visual-story/t3-62/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c771dfa6f10bad2202c6884317fbe7f432b548f639a4bb53131b03483b2923db"
+    },
+    {
+      "conversationId": "t3-65",
+      "path": "part3/visual-story/t3-65/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d992c737b6c5d50e998128b6c8c430fcc280260ea8249d0624f85c077c20a3be"
+    },
+    {
+      "conversationId": "t3-65",
+      "path": "part3/visual-story/t3-65/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9e2d18331eff6105fcbe44b0f23c5b9e82ffe215d01df96887600a0c7405885c"
+    },
+    {
+      "conversationId": "t3-65",
+      "path": "part3/visual-story/t3-65/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "571b015a981fbfca3c7731e29a56144e260e1e6aef789b9eccc77a65026aaa1c"
+    },
+    {
+      "conversationId": "t3-65",
+      "path": "part3/visual-story/t3-65/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9be9d129efef50a0aeb2cd72ebf5e315105c133133d40ea32b3afa8e2b506240"
+    },
+    {
+      "conversationId": "t3-68",
+      "path": "part3/visual-story/t3-68/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a238d92222ee4c8884f11499c4a4de946c204cbc34cf3436ac88932b5d3b7734"
+    },
+    {
+      "conversationId": "t3-68",
+      "path": "part3/visual-story/t3-68/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "48b3eac7582561dcfd9b24fad5b0c8da74ef8d0c06f2cdb340b26356fbde8d2c"
+    },
+    {
+      "conversationId": "t3-68",
+      "path": "part3/visual-story/t3-68/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bbb0f3f61cf4d57f768ce09ec5ccdfca4efebddea9b46c28a86a56774e209046"
+    },
+    {
+      "conversationId": "t3-68",
+      "path": "part3/visual-story/t3-68/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7bf264f9de7b61851c66326a00a66a65750746833858ea7a48f66a2d0e118969"
+    },
+    {
+      "conversationId": "t4-32",
+      "path": "part3/visual-story/t4-32/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c56cd8903822f1b6e1b2ae8f69713fb7215fd251d01075cdccf4c9df9a73139e"
+    },
+    {
+      "conversationId": "t4-32",
+      "path": "part3/visual-story/t4-32/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d8f93f3b18240c383597200ec1ffbd597c15b47edb4fade4a358d80f732c2303"
+    },
+    {
+      "conversationId": "t4-32",
+      "path": "part3/visual-story/t4-32/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c9c46b14f1399f6865897c09c37f9b98f9ca6b003d2f2420d76078da1351b0a4"
+    },
+    {
+      "conversationId": "t4-32",
+      "path": "part3/visual-story/t4-32/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f44e065b305a7be44be4320320733cad38c453144a0e7d8b30b3222ca484145f"
+    },
+    {
+      "conversationId": "t4-35",
+      "path": "part3/visual-story/t4-35/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6418d51140ec76c5c186e6741e12315b656f29d134d194d76f4b46887869b72c"
+    },
+    {
+      "conversationId": "t4-35",
+      "path": "part3/visual-story/t4-35/images/scene-02.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "e52eb8e60cbcd7c32117648080bd123528bc5cdafe801f742a8818fa7d5a38f0"
+    },
+    {
+      "conversationId": "t4-35",
+      "path": "part3/visual-story/t4-35/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "52eb29159339ad5283d6e75b8b66464da13a46d151901c97e8ed40f30b4047f1"
+    },
+    {
+      "conversationId": "t4-35",
+      "path": "part3/visual-story/t4-35/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b804cf96d0c546ee5a8c1957a165a5482c2d6a0ab69b31c125d1b68c7710813d"
+    },
+    {
+      "conversationId": "t4-38",
+      "path": "part3/visual-story/t4-38/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0a0fca4d795d625cc20aad39ad894a16aa7e7602abdbe373c3989e7faa368383"
+    },
+    {
+      "conversationId": "t4-38",
+      "path": "part3/visual-story/t4-38/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "607742dd52315058e5517350e417232d929f18c3c76491f2fb27de742c958dbb"
+    },
+    {
+      "conversationId": "t4-38",
+      "path": "part3/visual-story/t4-38/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a2d8b7a424f8e859fed7006ed685b6cbbdbf4b8083b1a0e0668f3ff942413459"
+    },
+    {
+      "conversationId": "t4-38",
+      "path": "part3/visual-story/t4-38/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "63d1e80557bf120c4f638d9a6e8dd2427963da57dcdf1f92e1f4fa715db4ea1b"
+    },
+    {
+      "conversationId": "t4-41",
+      "path": "part3/visual-story/t4-41/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "63efc18f970db4f131f58924d3e307b17ecd084cc0dcfda09340dc7a8187cfc9"
+    },
+    {
+      "conversationId": "t4-41",
+      "path": "part3/visual-story/t4-41/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c65e8a9ba753594e645765b5555fb0b91e07996b8b7aa152bfad5c75601daef8"
+    },
+    {
+      "conversationId": "t4-41",
+      "path": "part3/visual-story/t4-41/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "21177f9248f2bd5599e87e7f06e32e33b3731bea58b98c41988fe2ef60adf991"
+    },
+    {
+      "conversationId": "t4-41",
+      "path": "part3/visual-story/t4-41/images/scene-04.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "3f76e574893c2ec0d858b494f0a77ea55db9a72cd497d71b72d5518c53f2dc84"
+    },
+    {
+      "conversationId": "t4-44",
+      "path": "part3/visual-story/t4-44/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f7a1333c744cb0b9dc3d47851a3ac484a4772683d8bb841818c530d4d2077ac2"
+    },
+    {
+      "conversationId": "t4-44",
+      "path": "part3/visual-story/t4-44/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "78dde0a6ddbe725909e900896c3a7909789a28cc88b0d0fed7ab308218ead3e0"
+    },
+    {
+      "conversationId": "t4-44",
+      "path": "part3/visual-story/t4-44/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9a5e01ddb9c6eb73982b4789903874fc54cfa27057e4198fd6dd4b575c66ad49"
+    },
+    {
+      "conversationId": "t4-44",
+      "path": "part3/visual-story/t4-44/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6e57c0c7e53aa5d364c49ca8deef45d6b3edb0a7973ca6b2dc67e8018f219eca"
+    },
+    {
+      "conversationId": "t4-47",
+      "path": "part3/visual-story/t4-47/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ec23da3045b1df2d355d94a9359cd0610bf230f30960771e93a7c91ea8506046"
+    },
+    {
+      "conversationId": "t4-47",
+      "path": "part3/visual-story/t4-47/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a1fbbafdc2eac2ee413c4263be74310a78c1d7b32c8fa5231259b25fe1aa0b36"
+    },
+    {
+      "conversationId": "t4-47",
+      "path": "part3/visual-story/t4-47/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "56c95122409d121caf63e60737c44512ac293985cd8b541a3452a24344e56111"
+    },
+    {
+      "conversationId": "t4-47",
+      "path": "part3/visual-story/t4-47/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "517d44066d1e8ceb105990a7b6413e08778df037a27d512dfb9eae99df0ea35b"
+    },
+    {
+      "conversationId": "t4-50",
+      "path": "part3/visual-story/t4-50/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d63e5fa22d1116c6b4b280322906286724cd1d357e2487a86489a7deae180afc"
+    },
+    {
+      "conversationId": "t4-50",
+      "path": "part3/visual-story/t4-50/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a08bd4a873107419f962ec219b305a9b8ea412d73ddb1603365ffa8821e0cffd"
+    },
+    {
+      "conversationId": "t4-50",
+      "path": "part3/visual-story/t4-50/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "79b796e4b4989604669ff2b99eb456bbebb1b348c8a92b1831506f0cf39fbb15"
+    },
+    {
+      "conversationId": "t4-50",
+      "path": "part3/visual-story/t4-50/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d13c32f4c71195e2cf9a167ca0681e0a63b6e6a55b4da73c4d757cf00db33244"
+    },
+    {
+      "conversationId": "t4-53",
+      "path": "part3/visual-story/t4-53/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "08c11c507d66dda1d87c9d374222b0b360b55457c640a1fe39b75a041923d233"
+    },
+    {
+      "conversationId": "t4-53",
+      "path": "part3/visual-story/t4-53/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3a91d26d357d064fa09b3653b01cd7f9777f9ffe424dbf165ae68b209652ca8d"
+    },
+    {
+      "conversationId": "t4-53",
+      "path": "part3/visual-story/t4-53/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6965abe881c0f98c901b1c9f90d30f4830f67c0720dec1f40d5fd10625f8ab88"
+    },
+    {
+      "conversationId": "t4-53",
+      "path": "part3/visual-story/t4-53/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4453b1a0a593fea850cac03f66332c8b6ae68dc2aa9fd7281376e81f83eecf3b"
+    },
+    {
+      "conversationId": "t4-56",
+      "path": "part3/visual-story/t4-56/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3e4a7501b1a020600feffcc7fa3c66cc40f79c99cc934553c3cd50259cf624c9"
+    },
+    {
+      "conversationId": "t4-56",
+      "path": "part3/visual-story/t4-56/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0c9066311735e46878ce84957cca95ba7d842fb9e6cda47ca85c14fb8cb382ae"
+    },
+    {
+      "conversationId": "t4-56",
+      "path": "part3/visual-story/t4-56/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ff9972bb3cc4713c1a703448cd59eeab2e50de5ad5fbda3c0b6d8b58768f2e1a"
+    },
+    {
+      "conversationId": "t4-56",
+      "path": "part3/visual-story/t4-56/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9b60f37f08b0aba84146d69d805fb75ae551800b74d849f780cfbce0c85acb22"
+    },
+    {
+      "conversationId": "t4-59",
+      "path": "part3/visual-story/t4-59/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2a64669d4e265315534926560ebfdd6a59dd55fc3f6c7f8f4a8f0d2dd55f4085"
+    },
+    {
+      "conversationId": "t4-59",
+      "path": "part3/visual-story/t4-59/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "31731e0b7ed5ddcce9ba2d33e34fa7d2623b4dc2f6b597c1836c990d15f181e6"
+    },
+    {
+      "conversationId": "t4-59",
+      "path": "part3/visual-story/t4-59/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "58a9689f43c5e56b0d4ae1675e49742932cf1828e9356394abd241228171ca79"
+    },
+    {
+      "conversationId": "t4-59",
+      "path": "part3/visual-story/t4-59/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ed308be24213bf2952f47c951c51f598921f3e112cf44342892b9c4a7d18ab62"
+    },
+    {
+      "conversationId": "t4-62",
+      "path": "part3/visual-story/t4-62/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c70f8524cd0731021d9a3ccf2dd4c96c4e61a1c5aa117ebff0f5528a972465a5"
+    },
+    {
+      "conversationId": "t4-62",
+      "path": "part3/visual-story/t4-62/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3b8f867ad6e2a283dc330bd5a9826e9cfa07fae31af9d550320e036c51b526e2"
+    },
+    {
+      "conversationId": "t4-62",
+      "path": "part3/visual-story/t4-62/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0ad962f5a0ffd3b2ee97f81843c0e5340be6ba9b54f16cdb7c90c176a20e64c5"
+    },
+    {
+      "conversationId": "t4-62",
+      "path": "part3/visual-story/t4-62/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "093999cce132ebd41ca6693c18a31250579cc5680f26ecaf041ad80846589750"
+    },
+    {
+      "conversationId": "t4-65",
+      "path": "part3/visual-story/t4-65/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ae46ef05238a96291aa21e849973f7ad8650d34f5fc8ed41c371c3fe7e9a417a"
+    },
+    {
+      "conversationId": "t4-65",
+      "path": "part3/visual-story/t4-65/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cbd2ec23895e9189749e6113b4e3d0a324ac968a592686ad98ccc0fc7825341b"
+    },
+    {
+      "conversationId": "t4-65",
+      "path": "part3/visual-story/t4-65/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "924b921cda92d0ae0326a605771ab816df37c4f32131246e97862e4bbd5925c9"
+    },
+    {
+      "conversationId": "t4-65",
+      "path": "part3/visual-story/t4-65/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9da02c79dbefa949c6bdf235036b904464259ee3cc1d75c1e9386c00b81dc76c"
+    },
+    {
+      "conversationId": "t4-68",
+      "path": "part3/visual-story/t4-68/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c673dcbfff390ac25a5db9e47e68edf04adf17b89c5deb39b5caa9049a968c62"
+    },
+    {
+      "conversationId": "t4-68",
+      "path": "part3/visual-story/t4-68/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3276f10ba4af95d24b59fcd84f14f4f94f899c15feaf0170242b1867a1203b91"
+    },
+    {
+      "conversationId": "t4-68",
+      "path": "part3/visual-story/t4-68/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "77817aab4c7c936b219f8c69b8dddd2c71cf9c6c6d0a11644a4a5525601a6e27"
+    },
+    {
+      "conversationId": "t4-68",
+      "path": "part3/visual-story/t4-68/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b79f23dc3d605f0b48638b4a00c7fa418bdfb60fd696dcdf0674a8350cc257eb"
+    },
+    {
+      "conversationId": "t5-32",
+      "path": "part3/visual-story/t5-32/images/scene-01-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8b22bb96b045cc0909a82753baeb9cbb4a8d1a2161a5192f1f804c27aa1c618e"
+    },
+    {
+      "conversationId": "t5-32",
+      "path": "part3/visual-story/t5-32/images/scene-02-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fe672eaa41268802de2ee39a25e9e99ada91b846bc00951e450d239ad152871a"
+    },
+    {
+      "conversationId": "t5-32",
+      "path": "part3/visual-story/t5-32/images/scene-03-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bb0a7b225a16be77bd1191f338eacf33f46fdd2b294699c95e771e8409ab73d1"
+    },
+    {
+      "conversationId": "t5-32",
+      "path": "part3/visual-story/t5-32/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3d5f075710c514c4c96494413ae1c05ef1eeda7a1511ddb9d74f1bd58cea63f9"
+    },
+    {
+      "conversationId": "t5-35",
+      "path": "part3/visual-story/t5-35/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b5340420e761bbf46a4a9ba87a9e4798daec2746dad5a7dcb7fda99a6ea4a401"
+    },
+    {
+      "conversationId": "t5-35",
+      "path": "part3/visual-story/t5-35/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6a7db43bf139bad7af8ea86cf9c9f1ed3f80b51adb9adda6942e9250907505a3"
+    },
+    {
+      "conversationId": "t5-35",
+      "path": "part3/visual-story/t5-35/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "688f92b95d5ee3f580ee9d7ded91da3efdbc896a49080b40739e4bf175e3c309"
+    },
+    {
+      "conversationId": "t5-35",
+      "path": "part3/visual-story/t5-35/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "12a31bc9712a2f67491809d6d121d4b58d82db291c5ed21a0b9ea22ed427a4dc"
+    },
+    {
+      "conversationId": "t5-38",
+      "path": "part3/visual-story/t5-38/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e45b97d510aeed4d46fcf38165cb5e63c3445dce7af6cea8d0a5f5425bceec4c"
+    },
+    {
+      "conversationId": "t5-38",
+      "path": "part3/visual-story/t5-38/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3fd5df51eb6aa44dd5b3678829e44ae181a1fabed01424a2cbc0a1f1ec5ef6a0"
+    },
+    {
+      "conversationId": "t5-38",
+      "path": "part3/visual-story/t5-38/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "09964b067a71b3f61dc525bdbf05270069bfbd1c30eff5d78f6090054aa0c382"
+    },
+    {
+      "conversationId": "t5-38",
+      "path": "part3/visual-story/t5-38/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "739a07ec3168907e337c8189de72b673c07cb49d3dae10d9d97fbb3a9794002a"
+    },
+    {
+      "conversationId": "t5-41",
+      "path": "part3/visual-story/t5-41/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3c2001d882c37914eccf5a7ce4e8b23719e59c30f9cbb48f1f5cb7e83c2e650e"
+    },
+    {
+      "conversationId": "t5-41",
+      "path": "part3/visual-story/t5-41/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a3c073b37bfc4a82e6e266bb4ed6fbacefbc031fab492f11cb641fdb178c9e36"
+    },
+    {
+      "conversationId": "t5-41",
+      "path": "part3/visual-story/t5-41/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bc99c21deed68c5b383d6b9438e7585a0613d66d69c39a343495b718d40ba823"
+    },
+    {
+      "conversationId": "t5-41",
+      "path": "part3/visual-story/t5-41/images/scene-04-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "436a97c1634c7694ab070bad07a4695a568c6fc9f8d757308c45f970d38921ec"
+    },
+    {
+      "conversationId": "t5-44",
+      "path": "part3/visual-story/t5-44/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "db41c22566604f8ac7afb11a6b9bfd72ac84c993b0ae87e7a8daedc0c805982e"
+    },
+    {
+      "conversationId": "t5-44",
+      "path": "part3/visual-story/t5-44/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "961242cf1235606275ec7f7085101a2827b43d4221c8a4d5103b852cae991c2e"
+    },
+    {
+      "conversationId": "t5-44",
+      "path": "part3/visual-story/t5-44/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0d4b5a1d531b7cc6ed59af2203ef8832574babceab4a9bfeb9c5ce02fee7faca"
+    },
+    {
+      "conversationId": "t5-44",
+      "path": "part3/visual-story/t5-44/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "95579b3185ed9f5bc00688b989adacfac5e4a8062cb29ca50f17816046c5d1d1"
+    },
+    {
+      "conversationId": "t5-47",
+      "path": "part3/visual-story/t5-47/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0f2c73b670e2a69946314f1bc615fddd67daf6a0bb3a0493c24d3f5d1c82a953"
+    },
+    {
+      "conversationId": "t5-47",
+      "path": "part3/visual-story/t5-47/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dbba86893a8648e76dec6eda30eb27aeed21a977be9f2a2460af2bb1ed9c3fb7"
+    },
+    {
+      "conversationId": "t5-47",
+      "path": "part3/visual-story/t5-47/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d9fab9fb8bb99500d30bdc8ec62a35e6e545d0e0ae3ed81ae28030422910cfd4"
+    },
+    {
+      "conversationId": "t5-47",
+      "path": "part3/visual-story/t5-47/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "54d75b5a57b5ab171ffef6bb16aeee3f4d343ae5257727e0c0be4ca7ae90abea"
+    },
+    {
+      "conversationId": "t5-50",
+      "path": "part3/visual-story/t5-50/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "01ee023bbc9bfb8fe7004395b9e57be16d0770241ce0d589a1aa671629420594"
+    },
+    {
+      "conversationId": "t5-50",
+      "path": "part3/visual-story/t5-50/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "974c6adea23b11926b24b8f0a6198951f066b2af318ec14d0b53f4c63a16969d"
+    },
+    {
+      "conversationId": "t5-50",
+      "path": "part3/visual-story/t5-50/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8cc4eafd23e2d51df010c554c15b75a74d8787e758812cc1032c364731a9fbc5"
+    },
+    {
+      "conversationId": "t5-50",
+      "path": "part3/visual-story/t5-50/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "eadc521bb9b73dfa96b7d04bad00b147fe6478f38e80640653a9666e6b8b7fa7"
+    },
+    {
+      "conversationId": "t5-53",
+      "path": "part3/visual-story/t5-53/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6896ece830d309f8c8c1fddaaa07cb5a2c2a4b40ff17b827680954af5fe32c70"
+    },
+    {
+      "conversationId": "t5-53",
+      "path": "part3/visual-story/t5-53/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "766c3668d1ebfec656e11acb6d52293521052e078ef32be3d8d98a6e6dbc4d69"
+    },
+    {
+      "conversationId": "t5-53",
+      "path": "part3/visual-story/t5-53/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a780aad06037fadb62e6ca379a554cfc1f6b2a260dca7be0445281ad99888625"
+    },
+    {
+      "conversationId": "t5-53",
+      "path": "part3/visual-story/t5-53/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1f3b53173517c73573c5648e9da612eea537ac673d696e593e5ab9e8f82a1b0e"
+    },
+    {
+      "conversationId": "t5-56",
+      "path": "part3/visual-story/t5-56/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "01b5212db612f8c2b21a1dade154e229cd26dcec489e07f69d59c62d53765779"
+    },
+    {
+      "conversationId": "t5-56",
+      "path": "part3/visual-story/t5-56/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c4622484ebbe466001cf4424e4889cbb4d0b444283c1691e1ceb18272f6fc7d1"
+    },
+    {
+      "conversationId": "t5-56",
+      "path": "part3/visual-story/t5-56/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "366c19c7bff46dfd170856bf59ea346a5705068f1b9f1182a7124fb4a66213bb"
+    },
+    {
+      "conversationId": "t5-56",
+      "path": "part3/visual-story/t5-56/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "eda617b111a284f503856a5c3cdc38cd9eea0635c31a439f0ee089b7fbc9556d"
+    },
+    {
+      "conversationId": "t5-59",
+      "path": "part3/visual-story/t5-59/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7958e14545b603cb1be7d43234ba150ac9d953f91a32cb4e52253f06bb78259f"
+    },
+    {
+      "conversationId": "t5-59",
+      "path": "part3/visual-story/t5-59/images/scene-02.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "fa1c457feb89349c3d3ed379e0cdd64279ddcc90f356f65c24c7738adb0e3d32"
+    },
+    {
+      "conversationId": "t5-59",
+      "path": "part3/visual-story/t5-59/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4e2b2cf7c77b68b454472e9fdee9c0b9bedc881158b23f5ebdb45875512c109f"
+    },
+    {
+      "conversationId": "t5-59",
+      "path": "part3/visual-story/t5-59/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0cc68cf2c7f75c6c4ad86b3b15471f7d0d0851498d0452b39593c8b1a1c24650"
+    },
+    {
+      "conversationId": "t5-62",
+      "path": "part3/visual-story/t5-62/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b1e703ec04c0e6f67f7ce09706e79031810771a03086f62cefd214b97a31da43"
+    },
+    {
+      "conversationId": "t5-62",
+      "path": "part3/visual-story/t5-62/images/scene-02-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "13bf9d267cdee3d205b2b7e85e8908396309a835595ed9c05b72f34bd3f8894d"
+    },
+    {
+      "conversationId": "t5-62",
+      "path": "part3/visual-story/t5-62/images/scene-03-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3bb029a65b4972e040064cbe152dc8aafa3e6b7e28b5b3d2283bc7e26fa6e33f"
+    },
+    {
+      "conversationId": "t5-62",
+      "path": "part3/visual-story/t5-62/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a6d9d6c950522cb41c4069c965e6cb42e000a1e88a5fc31b0af0898733aaf44a"
+    },
+    {
+      "conversationId": "t5-65",
+      "path": "part3/visual-story/t5-65/images/scene-01.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "6681fe750ffead2232e3099b234d3d8109864290470c4494bb74d770e5a2ecc7"
+    },
+    {
+      "conversationId": "t5-65",
+      "path": "part3/visual-story/t5-65/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7319ed0e35f570f2041f66edef747926fff472c4894e3a40cd96e1292c7d2ceb"
+    },
+    {
+      "conversationId": "t5-65",
+      "path": "part3/visual-story/t5-65/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a2fe0f72915504844d07dc1fa9c0d9316027290b3f62d95772d49bad539f5e1c"
+    },
+    {
+      "conversationId": "t5-65",
+      "path": "part3/visual-story/t5-65/images/scene-04.png",
+      "width": 1672,
+      "height": 940,
+      "sha256": "770b91af4ed12d5baa780d4328ab4ab3420bf562b4a5bbef0390ef453bf922b7"
+    },
+    {
+      "conversationId": "t5-68",
+      "path": "part3/visual-story/t5-68/images/scene-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c569e33f6ef9683ac657407db39f03656bda4e69eca67278f011675d9cb1a9f1"
+    },
+    {
+      "conversationId": "t5-68",
+      "path": "part3/visual-story/t5-68/images/scene-02.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0f4ffc4a9b93fe016dd13d6de4556c09b6304ff8fdd63b4698909a563fe0f83b"
+    },
+    {
+      "conversationId": "t5-68",
+      "path": "part3/visual-story/t5-68/images/scene-03.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7debdeb923c1240f189ee1405ba59b0a5be99d748ef5d934ea86043ce8fccf91"
+    },
+    {
+      "conversationId": "t5-68",
+      "path": "part3/visual-story/t5-68/images/scene-04.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b465b6aee5d3b26102b00a72c3d88b073ba20126236c61772abe0f82603d777f"
+    }
+  ]
+}

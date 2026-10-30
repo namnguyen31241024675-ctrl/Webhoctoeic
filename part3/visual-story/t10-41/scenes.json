@@ -1,0 +1,333 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t10-41",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T10-41-43.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 5.82,
+    "dialogueEnd": 39.48
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 41–43, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 41–43, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 41–43, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 41–43, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 5.82,
+      "end": 16.11,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-1-1",
+          "vocabularyId": "vocab-1-1",
+          "label": "dental hygienist",
+          "x": 0.6,
+          "y": 0.1,
+          "width": 0.37,
+          "height": 0.83,
+          "utteranceIds": [
+            "t10-41-u01"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 16.11,
+      "end": 21.84,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2-1",
+          "vocabularyId": "vocab-2-1",
+          "label": "patients' files",
+          "x": 0.51,
+          "y": 0.59,
+          "width": 0.25,
+          "height": 0.2,
+          "utteranceIds": [
+            "t10-41-u03"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 21.84,
+      "end": 31.05,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3-1",
+          "vocabularyId": "vocab-3-1",
+          "label": "software",
+          "x": 0.33,
+          "y": 0.37,
+          "width": 0.3,
+          "height": 0.46,
+          "utteranceIds": [
+            "t10-41-u04",
+            "t10-41-u06"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 31.05,
+      "end": 39.48,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-4-1",
+          "vocabularyId": "vocab-4-1",
+          "label": "scheduling",
+          "x": 0.48,
+          "y": 0.58,
+          "width": 0.46,
+          "height": 0.4,
+          "utteranceIds": [
+            "t10-41-u07"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.02,
+          "y": 0.025,
+          "width": 0.44,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.56,
+          "y": 0.025,
+          "width": 0.42,
+          "height": 0.91
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-1-1",
+      "en": "dental hygienist",
+      "vi": "nhân viên vệ sinh răng miệng",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-2-1",
+      "en": "patients' files",
+      "vi": "hồ sơ bệnh nhân",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3-1",
+      "en": "software",
+      "vi": "phần mềm",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-4-1",
+      "en": "scheduling",
+      "vi": "xếp lịch",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.12,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.65,
+        "y": 0.045,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

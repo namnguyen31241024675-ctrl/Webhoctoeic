@@ -1,0 +1,603 @@
+{
+  "conversationId": "t6-50",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-50-u01",
+      "speaker": "W1",
+      "text": "Let's discuss the upcoming retreat for the architects at our firm.",
+      "start": 7.08,
+      "end": 10.68,
+      "clipSrc": "../../audio-sentences/t6-50-s01.mp3",
+      "clipSourceStart": 7.0,
+      "vi": "Hãy thảo luận về chuyến dã ngoại sắp tới cho các kiến trúc sư tại công ty chúng ta.",
+      "listeningKeywords": [
+        "discuss",
+        "upcoming retreat",
+        "architects",
+        "firm"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "discuss",
+          "vi": "thảo luận"
+        },
+        {
+          "en": "architects",
+          "vi": "kiến trúc sư"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u01-k1",
+          "en": "discuss",
+          "vi": [
+            "thảo luận"
+          ],
+          "start": 7.44,
+          "end": 7.92,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u01-k2",
+          "en": "upcoming retreat",
+          "vi": [],
+          "start": 8.07,
+          "end": 9.0,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u01-k3",
+          "en": "architects",
+          "vi": [
+            "kiến trúc sư"
+          ],
+          "start": 9.24,
+          "end": 9.87,
+          "anchorSource": "t6-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u01-k4",
+          "en": "firm",
+          "vi": [],
+          "start": 10.17,
+          "end": 10.68,
+          "anchorSource": "t6-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u02",
+      "speaker": "W1",
+      "text": "How's the planning going, Hongtai and Raya?",
+      "start": 11.19,
+      "end": 13.92,
+      "clipSrc": "../../audio-sentences/t6-50-s02.mp3",
+      "clipSourceStart": 11.11,
+      "vi": "Việc lập kế hoạch thế nào rồi, Hongtai và Raya?",
+      "listeningKeywords": [
+        "planning",
+        "Hongtai",
+        "Raya"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "planning",
+          "vi": "kế hoạch"
+        },
+        {
+          "en": "Hongtai",
+          "vi": "Hongtai"
+        },
+        {
+          "en": "Raya",
+          "vi": "Raya"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u02-k1",
+          "en": "planning",
+          "vi": [
+            "kế hoạch"
+          ],
+          "start": 11.61,
+          "end": 12.06,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u02-k2",
+          "en": "Raya",
+          "vi": [
+            "Raya"
+          ],
+          "start": 13.44,
+          "end": 13.92,
+          "anchorSource": "t6-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u03",
+      "speaker": "M",
+      "text": "Well, the Evans Nature Reserve said they can organize a two-day expedition for us.",
+      "start": 14.43,
+      "end": 19.23,
+      "clipSrc": "../../audio-sentences/t6-50-s03.mp3",
+      "clipSourceStart": 14.35,
+      "vi": "Ừm, Khu bảo tồn Thiên nhiên Evans nói họ có thể tổ chức chuyến thám hiểm hai ngày cho chúng ta.",
+      "listeningKeywords": [
+        "Evans Nature",
+        "Reserve",
+        "organize",
+        "expedition"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Reserve",
+          "vi": "Khu bảo tồn"
+        },
+        {
+          "en": "organize",
+          "vi": "tổ chức"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u03-k1",
+          "en": "Evans Nature",
+          "vi": [],
+          "start": 15.18,
+          "end": 15.93,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u03-k2",
+          "en": "Reserve",
+          "vi": [
+            "Khu bảo tồn"
+          ],
+          "start": 15.93,
+          "end": 16.38,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u03-k3",
+          "en": "organize",
+          "vi": [
+            "tổ chức"
+          ],
+          "start": 16.98,
+          "end": 17.46,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u03-k4",
+          "en": "expedition",
+          "vi": [],
+          "start": 18.06,
+          "end": 18.69,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u04",
+      "speaker": "W2",
+      "text": "Yes, they're even offering a wildlife photography workshop on the second day.",
+      "start": 19.53,
+      "end": 23.91,
+      "clipSrc": "../../audio-sentences/t6-50-s04.mp3",
+      "clipSourceStart": 19.45,
+      "vi": "Vâng, họ thậm chí còn cung cấp hội thảo nhiếp ảnh động vật hoang dã vào ngày thứ hai.",
+      "listeningKeywords": [
+        "offering",
+        "photography"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "offering",
+          "vi": "cung cấp"
+        },
+        {
+          "en": "photography",
+          "vi": "nhiếp ảnh"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u04-k1",
+          "en": "offering",
+          "vi": [
+            "cung cấp"
+          ],
+          "start": 20.91,
+          "end": 21.3,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u04-k2",
+          "en": "photography",
+          "vi": [
+            "nhiếp ảnh"
+          ],
+          "start": 21.96,
+          "end": 22.47,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u05",
+      "speaker": "W2",
+      "text": "I'm excited about that.",
+      "start": 24.42,
+      "end": 25.92,
+      "clipSrc": "../../audio-sentences/t6-50-s05.mp3",
+      "clipSourceStart": 24.34,
+      "vi": "Tôi rất hào hứng về điều đó.",
+      "listeningKeywords": [
+        "excited"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "excited",
+          "vi": "hào hứng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u05-k1",
+          "en": "excited",
+          "vi": [
+            "hào hứng"
+          ],
+          "start": 24.63,
+          "end": 25.23,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u06",
+      "speaker": "W1",
+      "text": "Oh, that is exciting! Do you know if we'll be able to camp in the reserve overnight?",
+      "start": 26.22,
+      "end": 31.68,
+      "clipSrc": "../../audio-sentences/t6-50-s06.mp3",
+      "clipSourceStart": 26.14,
+      "vi": "Ồ, nghe thú vị đấy! Bạn có biết chúng ta có thể cắm trại qua đêm trong khu bảo tồn không?",
+      "listeningKeywords": [
+        "exciting",
+        "camp",
+        "reserve",
+        "overnight"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "exciting",
+          "vi": "thú vị"
+        },
+        {
+          "en": "camp",
+          "vi": "cắm trại"
+        },
+        {
+          "en": "reserve",
+          "vi": "khu bảo tồn"
+        },
+        {
+          "en": "overnight",
+          "vi": "qua đêm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u06-k1",
+          "en": "exciting",
+          "vi": [
+            "thú vị"
+          ],
+          "start": 27.18,
+          "end": 27.93,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u06-k2",
+          "en": "camp",
+          "vi": [
+            "cắm trại"
+          ],
+          "start": 29.76,
+          "end": 30.27,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u06-k3",
+          "en": "reserve",
+          "vi": [
+            "khu bảo tồn"
+          ],
+          "start": 30.45,
+          "end": 30.93,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u06-k4",
+          "en": "overnight",
+          "vi": [
+            "qua đêm"
+          ],
+          "start": 30.93,
+          "end": 31.68,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u07",
+      "speaker": "M",
+      "text": "Yes, that's an option.",
+      "start": 31.83,
+      "end": 33.18,
+      "clipSrc": "../../audio-sentences/t6-50-s07.mp3",
+      "clipSourceStart": 31.75,
+      "vi": "Có, đó là lựa chọn.",
+      "listeningKeywords": [
+        "option"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "option",
+          "vi": "lựa chọn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u07-k1",
+          "en": "option",
+          "vi": [
+            "lựa chọn"
+          ],
+          "start": 32.73,
+          "end": 33.18,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u08",
+      "speaker": "M",
+      "text": "But I don't know if all our staff have tents and camping equipment.",
+      "start": 33.45,
+      "end": 36.96,
+      "clipSrc": "../../audio-sentences/t6-50-s08.mp3",
+      "clipSourceStart": 33.37,
+      "vi": "Nhưng tôi không biết liệu tất cả nhân viên có lều và thiết bị cắm trại không.",
+      "listeningKeywords": [
+        "don't",
+        "staff",
+        "tents",
+        "camping equipment"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "staff",
+          "vi": "nhân viên"
+        },
+        {
+          "en": "tents",
+          "vi": "lều"
+        },
+        {
+          "en": "camping equipment",
+          "vi": "thiết bị cắm trại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u08-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 33.72,
+          "end": 34.05,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u08-k2",
+          "en": "staff",
+          "vi": [
+            "nhân viên"
+          ],
+          "start": 34.83,
+          "end": 35.22,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u08-k3",
+          "en": "tents",
+          "vi": [
+            "lều"
+          ],
+          "start": 35.43,
+          "end": 35.85,
+          "anchorSource": "t6-50-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u08-k4",
+          "en": "camping equipment",
+          "vi": [
+            "thiết bị cắm trại"
+          ],
+          "start": 35.97,
+          "end": 36.96,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u09",
+      "speaker": "M",
+      "text": "I'm sure we can rent enough for everybody, though.",
+      "start": 37.2,
+      "end": 39.48,
+      "clipSrc": "../../audio-sentences/t6-50-s09.mp3",
+      "clipSourceStart": 37.12,
+      "vi": "Dù sao, tôi chắc chúng ta có thể thuê đủ cho mọi người.",
+      "listeningKeywords": [
+        "rent",
+        "though"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "rent",
+          "vi": "thuê"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u09-k1",
+          "en": "rent",
+          "vi": [
+            "thuê"
+          ],
+          "start": 37.95,
+          "end": 38.28,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u09-k2",
+          "en": "though",
+          "vi": [],
+          "start": 39.18,
+          "end": 39.48,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-50-u10",
+      "speaker": "M",
+      "text": "Let me look into it.",
+      "start": 39.69,
+      "end": 40.71,
+      "clipSrc": "../../audio-sentences/t6-50-s10.mp3",
+      "clipSourceStart": 39.61,
+      "vi": "Để tôi kiểm tra.",
+      "listeningKeywords": [
+        "Let",
+        "look"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Let",
+          "vi": "Để"
+        },
+        {
+          "en": "look",
+          "vi": "kiểm tra"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-50-u10-k1",
+          "en": "Let",
+          "vi": [
+            "Để"
+          ],
+          "start": 39.69,
+          "end": 39.87,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-50-u10-k2",
+          "en": "look",
+          "vi": [
+            "kiểm tra"
+          ],
+          "start": 39.99,
+          "end": 40.23,
+          "anchorSource": "t6-50.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

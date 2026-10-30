@@ -1,0 +1,486 @@
+{
+  "conversationId": "t6-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      9,
+      10
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-41-u01",
+      "speaker": "M1",
+      "text": "Hello. I'm looking for a book that's listed in your library's catalog, but I can't find it on the shelves.",
+      "start": 7.17,
+      "end": 13.38,
+      "clipSrc": "../../audio-sentences/t6-41-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Xin chào. Tôi đang tìm một cuốn sách được liệt kê trong danh mục thư viện của quý vị, nhưng không tìm thấy trên kệ.",
+      "listeningKeywords": [
+        "looking",
+        "book",
+        "can't",
+        "shelves"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "tìm"
+        },
+        {
+          "en": "looking",
+          "vi": "tìm"
+        },
+        {
+          "en": "book",
+          "vi": "cuốn sách"
+        },
+        {
+          "en": "can't",
+          "vi": "không"
+        },
+        {
+          "en": "shelves",
+          "vi": "kệ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u01-k1",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 8.22,
+          "end": 8.55,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u01-k2",
+          "en": "book",
+          "vi": [
+            "cuốn sách"
+          ],
+          "start": 8.82,
+          "end": 9.21,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u01-k3",
+          "en": "can't",
+          "vi": [
+            "không"
+          ],
+          "start": 11.85,
+          "end": 12.15,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u01-k4",
+          "en": "shelves",
+          "vi": [
+            "kệ"
+          ],
+          "start": 12.78,
+          "end": 13.38,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u02",
+      "speaker": "M1",
+      "text": "Could you help me?",
+      "start": 13.59,
+      "end": 14.4,
+      "clipSrc": "../../audio-sentences/t6-41-s02.mp3",
+      "clipSourceStart": 13.51,
+      "vi": "Quý vị có thể giúp không?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u02-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 13.92,
+          "end": 14.13,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u03",
+      "speaker": "W",
+      "text": "Sorry, I'm helping another patron on the phone right now.",
+      "start": 14.82,
+      "end": 18.3,
+      "clipSrc": "../../audio-sentences/t6-41-s03.mp3",
+      "clipSourceStart": 14.74,
+      "vi": "Xin lỗi, tôi đang giúp một khách khác qua điện thoại.",
+      "listeningKeywords": [
+        "helping",
+        "patron",
+        "phone"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "helping",
+          "vi": "giúp"
+        },
+        {
+          "en": "phone",
+          "vi": "điện thoại"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u03-k1",
+          "en": "helping",
+          "vi": [
+            "giúp"
+          ],
+          "start": 15.9,
+          "end": 16.32,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u03-k2",
+          "en": "patron",
+          "vi": [],
+          "start": 16.68,
+          "end": 17.13,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u03-k3",
+          "en": "phone",
+          "vi": [
+            "điện thoại"
+          ],
+          "start": 17.34,
+          "end": 17.67,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u04",
+      "speaker": "W",
+      "text": "Let me get one of my coworkers for you.",
+      "start": 18.6,
+      "end": 20.67,
+      "clipSrc": "../../audio-sentences/t6-41-s04.mp3",
+      "clipSourceStart": 18.52,
+      "vi": "Để tôi gọi một đồng nghiệp cho anh.",
+      "listeningKeywords": [
+        "Let",
+        "get",
+        "coworkers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Let",
+          "vi": "Để"
+        },
+        {
+          "en": "get",
+          "vi": "gọi"
+        },
+        {
+          "en": "coworkers",
+          "vi": "đồng nghiệp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u04-k1",
+          "en": "Let",
+          "vi": [
+            "Để"
+          ],
+          "start": 18.6,
+          "end": 18.78,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u04-k2",
+          "en": "get",
+          "vi": [
+            "gọi"
+          ],
+          "start": 18.87,
+          "end": 19.08,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u04-k3",
+          "en": "coworkers",
+          "vi": [
+            "đồng nghiệp"
+          ],
+          "start": 19.56,
+          "end": 20.19,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u05",
+      "speaker": "M2",
+      "text": "Hi. How can I help you?",
+      "start": 21.18,
+      "end": 22.62,
+      "clipSrc": "../../audio-sentences/t6-41-s05.mp3",
+      "clipSourceStart": 21.1,
+      "vi": "Chào. Tôi có thể giúp gì?",
+      "listeningKeywords": [
+        "help"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u05-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 22.14,
+          "end": 22.35,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u06",
+      "speaker": "M1",
+      "text": "I'm looking for a book about abstract art called Night Canvases.",
+      "start": 23.07,
+      "end": 26.88,
+      "clipSrc": "../../audio-sentences/t6-41-s06.mp3",
+      "clipSourceStart": 22.99,
+      "vi": "Tôi đang tìm sách về nghệ thuật trừu tượng tên Night Canvases.",
+      "listeningKeywords": [
+        "looking",
+        "book",
+        "abstract art",
+        "Night Canvases"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "tìm"
+        },
+        {
+          "en": "Night Canvases",
+          "vi": "Night Canvases"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u06-k1",
+          "en": "looking",
+          "vi": [
+            "tìm"
+          ],
+          "start": 23.28,
+          "end": 23.61,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u06-k2",
+          "en": "book",
+          "vi": [],
+          "start": 23.85,
+          "end": 24.15,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u06-k3",
+          "en": "abstract art",
+          "vi": [],
+          "start": 24.42,
+          "end": 25.41,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u06-k4",
+          "en": "Night Canvases",
+          "vi": [
+            "Night Canvases"
+          ],
+          "start": 25.77,
+          "end": 26.88,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u07",
+      "speaker": "M2",
+      "text": "Oh! We just received several copies of that, but they're still packed in the box.",
+      "start": 27.45,
+      "end": 31.95,
+      "clipSrc": "../../audio-sentences/t6-41-s07.mp3",
+      "clipSourceStart": 27.37,
+      "vi": "Ồ! Chúng tôi vừa nhận vài bản sao, nhưng vẫn còn trong hộp.",
+      "listeningKeywords": [
+        "received",
+        "copies",
+        "packed",
+        "box"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "received",
+          "vi": "nhận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u07-k1",
+          "en": "received",
+          "vi": [
+            "nhận"
+          ],
+          "start": 28.68,
+          "end": 29.04,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u07-k2",
+          "en": "copies",
+          "vi": [],
+          "start": 29.34,
+          "end": 29.73,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u07-k3",
+          "en": "packed",
+          "vi": [],
+          "start": 30.99,
+          "end": 31.26,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u07-k4",
+          "en": "box",
+          "vi": [],
+          "start": 31.41,
+          "end": 31.95,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-41-u08",
+      "speaker": "M2",
+      "text": "If you come back tomorrow, they'll be ready to borrow.",
+      "start": 32.49,
+      "end": 34.86,
+      "clipSrc": "../../audio-sentences/t6-41-s08.mp3",
+      "clipSourceStart": 32.41,
+      "vi": "Nếu anh quay lại ngày mai, chúng sẽ sẵn sàng để mượn.",
+      "listeningKeywords": [
+        "ready",
+        "borrow"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "borrow",
+          "vi": "mượn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-41-u08-k1",
+          "en": "ready",
+          "vi": [],
+          "start": 33.99,
+          "end": 34.29,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-41-u08-k2",
+          "en": "borrow",
+          "vi": [
+            "mượn"
+          ],
+          "start": 34.38,
+          "end": 34.86,
+          "anchorSource": "t6-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

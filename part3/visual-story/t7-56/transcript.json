@@ -1,0 +1,495 @@
+{
+  "conversationId": "t7-56",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+    "pages": [
+      14,
+      15
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t7-56-u01",
+      "speaker": "M1",
+      "text": "Good morning, Mayor Ishikawa.",
+      "start": 7.17,
+      "end": 9.09,
+      "clipSrc": "../../audio-sentences/t7-56-s01.mp3",
+      "clipSourceStart": 7.09,
+      "vi": "Chào buổi sáng, Thị trưởng Ishikawa.",
+      "listeningKeywords": [
+        "Mayor Ishikawa"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Mayor Ishikawa",
+          "vi": "Thị trưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u01-k1",
+          "en": "Mayor Ishikawa",
+          "vi": [
+            "Thị trưởng"
+          ],
+          "start": 7.89,
+          "end": 9.09,
+          "anchorSource": "t7-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u02",
+      "speaker": "M1",
+      "text": "I'm glad you could join Ms. Schneider and me for the ceremony as we begin this important first step—the building demolition.",
+      "start": 9.45,
+      "end": 16.77,
+      "clipSrc": "../../audio-sentences/t7-56-s02.mp3",
+      "clipSourceStart": 9.37,
+      "vi": "Tôi vui vì ông có thể tham gia cùng bà Schneider và tôi trong buổi lễ khi chúng ta bắt đầu bước quan trọng đầu tiên—phá dỡ tòa nhà.",
+      "listeningKeywords": [
+        "join",
+        "Schneider",
+        "building",
+        "demolition"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "join",
+          "vi": "tham gia"
+        },
+        {
+          "en": "Schneider",
+          "vi": "Schneider"
+        },
+        {
+          "en": "building",
+          "vi": "tòa nhà"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u02-k1",
+          "en": "join",
+          "vi": [
+            "tham gia"
+          ],
+          "start": 10.26,
+          "end": 10.65,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u02-k2",
+          "en": "Schneider",
+          "vi": [
+            "Schneider"
+          ],
+          "start": 10.86,
+          "end": 11.46,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u02-k3",
+          "en": "building",
+          "vi": [
+            "tòa nhà"
+          ],
+          "start": 15.57,
+          "end": 16.05,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u02-k4",
+          "en": "demolition",
+          "vi": [],
+          "start": 16.05,
+          "end": 16.77,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u03",
+      "speaker": "M2",
+      "text": "Happy to be here.",
+      "start": 17.19,
+      "end": 18.3,
+      "clipSrc": "../../audio-sentences/t7-56-s03.mp3",
+      "clipSourceStart": 17.11,
+      "vi": "Rất vui khi có mặt ở đây.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t7-56-u04",
+      "speaker": "M2",
+      "text": "The city appreciates your company's involvement in this project.",
+      "start": 18.57,
+      "end": 22.08,
+      "clipSrc": "../../audio-sentences/t7-56-s04.mp3",
+      "clipSourceStart": 18.49,
+      "vi": "Thành phố đánh giá cao sự tham gia của công ty ông vào dự án này.",
+      "listeningKeywords": [
+        "city appreciates",
+        "company's involvement",
+        "project"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "city appreciates",
+          "vi": "đánh giá cao"
+        },
+        {
+          "en": "company's involvement",
+          "vi": "công ty"
+        },
+        {
+          "en": "project",
+          "vi": "dự án"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u04-k1",
+          "en": "city appreciates",
+          "vi": [
+            "đánh giá cao"
+          ],
+          "start": 18.72,
+          "end": 19.86,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u04-k2",
+          "en": "company's involvement",
+          "vi": [
+            "công ty"
+          ],
+          "start": 20.04,
+          "end": 21.21,
+          "anchorSource": "t7-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u04-k3",
+          "en": "project",
+          "vi": [
+            "dự án"
+          ],
+          "start": 21.45,
+          "end": 22.08,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u05",
+      "speaker": "W",
+      "text": "Our pleasure. TJO Property is excited to be investing in this community in such a substantial way.",
+      "start": 22.62,
+      "end": 28.95,
+      "clipSrc": "../../audio-sentences/t7-56-s05.mp3",
+      "clipSourceStart": 22.54,
+      "vi": "Rất hân hạnh. TJO Property hào hứng đầu tư vào cộng đồng này một cách đáng kể.",
+      "listeningKeywords": [
+        "pleasure",
+        "TJO Property",
+        "investing",
+        "substantial"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "TJO Property",
+          "vi": "TJO Property"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u05-k1",
+          "en": "pleasure",
+          "vi": [],
+          "start": 22.86,
+          "end": 23.4,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u05-k2",
+          "en": "investing",
+          "vi": [],
+          "start": 25.86,
+          "end": 26.37,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u05-k3",
+          "en": "substantial",
+          "vi": [],
+          "start": 27.84,
+          "end": 28.56,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u06",
+      "speaker": "M1",
+      "text": "Right. And tearing down this old shopping center will give us the space to create a new mixed-use project of apartments, shops, and offices.",
+      "start": 29.43,
+      "end": 38.31,
+      "clipSrc": "../../audio-sentences/t7-56-s06.mp3",
+      "clipSourceStart": 29.35,
+      "vi": "Đúng vậy. Và phá dỡ trung tâm mua sắm cũ này sẽ cho chúng ta không gian để tạo dự án sử dụng hỗn hợp gồm căn hộ, cửa hàng và văn phòng.",
+      "listeningKeywords": [
+        "tearing down",
+        "old shopping center",
+        "give",
+        "use"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "old shopping center",
+          "vi": "mua sắm"
+        },
+        {
+          "en": "give",
+          "vi": "cho"
+        },
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u06-k1",
+          "en": "tearing down",
+          "vi": [],
+          "start": 30.42,
+          "end": 31.11,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u06-k2",
+          "en": "old shopping center",
+          "vi": [
+            "mua sắm"
+          ],
+          "start": 31.32,
+          "end": 32.4,
+          "anchorSource": "t7-56-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u06-k3",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 32.58,
+          "end": 32.82,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u06-k4",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 34.98,
+          "end": 35.22,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u07",
+      "speaker": "M2",
+      "text": "Community residents are looking forward to the new development.",
+      "start": 38.61,
+      "end": 42.15,
+      "clipSrc": "../../audio-sentences/t7-56-s07.mp3",
+      "clipSourceStart": 38.53,
+      "vi": "Cư dân cộng đồng đang mong chờ sự phát triển mới.",
+      "listeningKeywords": [
+        "Community residents",
+        "looking",
+        "forward",
+        "development"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Community residents",
+          "vi": "Cư dân"
+        },
+        {
+          "en": "looking",
+          "vi": "mong chờ"
+        },
+        {
+          "en": "forward",
+          "vi": "mong chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u07-k1",
+          "en": "Community residents",
+          "vi": [
+            "Cư dân"
+          ],
+          "start": 38.61,
+          "end": 39.78,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u07-k2",
+          "en": "looking",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 39.9,
+          "end": 40.32,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u07-k3",
+          "en": "forward",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 40.32,
+          "end": 40.86,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u07-k4",
+          "en": "development",
+          "vi": [],
+          "start": 41.37,
+          "end": 42.15,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t7-56-u08",
+      "speaker": "W",
+      "text": "Absolutely. Since the press is here, should we pose for a photograph in front of the wrecking ball before the work begins?",
+      "start": 42.48,
+      "end": 49.44,
+      "clipSrc": "../../audio-sentences/t7-56-s08.mp3",
+      "clipSourceStart": 42.4,
+      "vi": "Chắc chắn rồi. Vì báo chí ở đây, chúng ta có nên tạo dáng chụp ảnh trước quả bóng phá dỡ trước khi công việc bắt đầu không?",
+      "listeningKeywords": [
+        "pose",
+        "photograph",
+        "wrecking ball",
+        "begins"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "photograph",
+          "vi": "ảnh"
+        },
+        {
+          "en": "begins",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t7-56-u08-k1",
+          "en": "pose",
+          "vi": [],
+          "start": 45.96,
+          "end": 46.32,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u08-k2",
+          "en": "photograph",
+          "vi": [
+            "ảnh"
+          ],
+          "start": 46.53,
+          "end": 47.04,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u08-k3",
+          "en": "wrecking ball",
+          "vi": [],
+          "start": 47.61,
+          "end": 48.21,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t7-56-u08-k4",
+          "en": "begins",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 48.84,
+          "end": 49.44,
+          "anchorSource": "t7-56.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "conversationId": "t4-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-35-u01",
+      "speaker": "W",
+      "text": "Chen, I hope all is going well on your first day.",
+      "start": 6.09,
+      "end": 9.6,
+      "clipSrc": "../../audio-sentences/t4-35-s01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Chen, hy vọng mọi thứ suôn sẻ trong ngày đầu tiên của bạn.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    },
+    {
+      "id": "t4-35-u02",
+      "speaker": "W",
+      "text": "I saw you have some scheduled seafood deliveries across the bay in the Morgan District.",
+      "start": 9.9,
+      "end": 14.76,
+      "clipSrc": "../../audio-sentences/t4-35-s02.mp3",
+      "clipSourceStart": 9.82,
+      "vi": "Tôi thấy bạn có lịch giao hải sản qua vịnh đến Quận Morgan.",
+      "listeningKeywords": [
+        "saw",
+        "scheduled",
+        "seafood deliveries",
+        "Morgan District"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "saw",
+          "vi": "thấy"
+        },
+        {
+          "en": "scheduled",
+          "vi": "lịch"
+        },
+        {
+          "en": "seafood deliveries",
+          "vi": "giao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u02-k1",
+          "en": "saw",
+          "vi": [
+            "thấy"
+          ],
+          "start": 10.05,
+          "end": 10.32,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u02-k2",
+          "en": "scheduled",
+          "vi": [
+            "lịch"
+          ],
+          "start": 10.92,
+          "end": 11.55,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u02-k3",
+          "en": "seafood deliveries",
+          "vi": [
+            "giao"
+          ],
+          "start": 11.55,
+          "end": 12.54,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u02-k4",
+          "en": "Morgan District",
+          "vi": [],
+          "start": 13.74,
+          "end": 14.76,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u03",
+      "speaker": "W",
+      "text": "Why haven't you left yet?",
+      "start": 15.09,
+      "end": 16.62,
+      "clipSrc": "../../audio-sentences/t4-35-s03.mp3",
+      "clipSourceStart": 15.01,
+      "vi": "Tại sao bạn chưa khởi hành?",
+      "listeningKeywords": [
+        "haven't",
+        "left",
+        "yet"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "haven't",
+          "vi": "chưa"
+        },
+        {
+          "en": "yet",
+          "vi": "chưa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u03-k1",
+          "en": "haven't",
+          "vi": [
+            "chưa"
+          ],
+          "start": 15.3,
+          "end": 15.63,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u03-k2",
+          "en": "left",
+          "vi": [],
+          "start": 15.81,
+          "end": 16.2,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u03-k3",
+          "en": "yet",
+          "vi": [
+            "chưa"
+          ],
+          "start": 16.2,
+          "end": 16.62,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u04",
+      "speaker": "M",
+      "text": "I wasn't going to head over to that particular area for another hour.",
+      "start": 16.92,
+      "end": 20.43,
+      "clipSrc": "../../audio-sentences/t4-35-s04.mp3",
+      "clipSourceStart": 16.84,
+      "vi": "Tôi định một giờ nữa mới đi đến khu vực đó.",
+      "listeningKeywords": [
+        "wasn't",
+        "head",
+        "particular area",
+        "hour"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "head",
+          "vi": "đi"
+        },
+        {
+          "en": "particular area",
+          "vi": "khu vực"
+        },
+        {
+          "en": "hour",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u04-k1",
+          "en": "wasn't",
+          "vi": [],
+          "start": 17.1,
+          "end": 17.37,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u04-k2",
+          "en": "head",
+          "vi": [
+            "đi"
+          ],
+          "start": 17.7,
+          "end": 17.88,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u04-k3",
+          "en": "particular area",
+          "vi": [
+            "khu vực"
+          ],
+          "start": 18.45,
+          "end": 19.44,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u04-k4",
+          "en": "hour",
+          "vi": [
+            "giờ"
+          ],
+          "start": 20.01,
+          "end": 20.43,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u05",
+      "speaker": "M",
+      "text": "Do the restaurants in the Morgan District want their deliveries earlier than scheduled?",
+      "start": 20.91,
+      "end": 24.93,
+      "clipSrc": "../../audio-sentences/t4-35-s05.mp3",
+      "clipSourceStart": 20.83,
+      "vi": "Các nhà hàng ở Quận Morgan có muốn nhận hàng sớm hơn lịch không?",
+      "listeningKeywords": [
+        "restaurants",
+        "Morgan District",
+        "deliveries earlier",
+        "scheduled"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "restaurants",
+          "vi": "nhà hàng"
+        },
+        {
+          "en": "scheduled",
+          "vi": "lịch"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u05-k1",
+          "en": "restaurants",
+          "vi": [
+            "nhà hàng"
+          ],
+          "start": 21.21,
+          "end": 21.72,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u05-k2",
+          "en": "Morgan District",
+          "vi": [],
+          "start": 21.9,
+          "end": 22.68,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u05-k3",
+          "en": "deliveries earlier",
+          "vi": [],
+          "start": 23.1,
+          "end": 24.12,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u05-k4",
+          "en": "scheduled",
+          "vi": [
+            "lịch"
+          ],
+          "start": 24.33,
+          "end": 24.93,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u06",
+      "speaker": "W",
+      "text": "No, but I'm concerned about Bay Bridge traffic.",
+      "start": 25.29,
+      "end": 28.74,
+      "clipSrc": "../../audio-sentences/t4-35-s06.mp3",
+      "clipSourceStart": 25.21,
+      "vi": "Không, nhưng tôi lo về tắc nghẽn trên Cầu Bay.",
+      "listeningKeywords": [
+        "concerned",
+        "traffic"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "concerned",
+          "vi": "lo"
+        },
+        {
+          "en": "traffic",
+          "vi": "tắc nghẽn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u06-k1",
+          "en": "concerned",
+          "vi": [
+            "lo"
+          ],
+          "start": 26.58,
+          "end": 27.21,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u06-k2",
+          "en": "traffic",
+          "vi": [
+            "tắc nghẽn"
+          ],
+          "start": 28.08,
+          "end": 28.74,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u07",
+      "speaker": "W",
+      "text": "It's routinely congested with vehicles.",
+      "start": 28.98,
+      "end": 31.38,
+      "clipSrc": "../../audio-sentences/t4-35-s07.mp3",
+      "clipSourceStart": 28.9,
+      "vi": "Nó thường xuyên kẹt xe.",
+      "listeningKeywords": [
+        "routinely congested",
+        "vehicles"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "routinely congested",
+          "vi": "kẹt xe"
+        },
+        {
+          "en": "vehicles",
+          "vi": "xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u07-k1",
+          "en": "routinely congested",
+          "vi": [
+            "kẹt xe"
+          ],
+          "start": 29.16,
+          "end": 30.54,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u07-k2",
+          "en": "vehicles",
+          "vi": [
+            "xe"
+          ],
+          "start": 30.69,
+          "end": 31.38,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u08",
+      "speaker": "W",
+      "text": "So you should always add at least an extra hour to your trip out there.",
+      "start": 31.62,
+      "end": 35.82,
+      "clipSrc": "../../audio-sentences/t4-35-s08.mp3",
+      "clipSourceStart": 31.54,
+      "vi": "Vì vậy bạn nên luôn thêm ít nhất một giờ nữa cho chuyến đi đến đó.",
+      "listeningKeywords": [
+        "add",
+        "least",
+        "extra hour",
+        "trip"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "add",
+          "vi": "thêm"
+        },
+        {
+          "en": "extra hour",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u08-k1",
+          "en": "add",
+          "vi": [
+            "thêm"
+          ],
+          "start": 32.94,
+          "end": 33.24,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u08-k2",
+          "en": "least",
+          "vi": [],
+          "start": 33.36,
+          "end": 33.75,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u08-k3",
+          "en": "extra hour",
+          "vi": [
+            "giờ"
+          ],
+          "start": 33.9,
+          "end": 34.71,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u08-k4",
+          "en": "trip",
+          "vi": [],
+          "start": 35.04,
+          "end": 35.34,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u09",
+      "speaker": "M",
+      "text": "Thanks for the tip.",
+      "start": 36.06,
+      "end": 37.02,
+      "clipSrc": "../../audio-sentences/t4-35-s09.mp3",
+      "clipSourceStart": 35.98,
+      "vi": "Cảm ơn lời khuyên.",
+      "listeningKeywords": [
+        "tip"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "tip",
+          "vi": "lời khuyên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u09-k1",
+          "en": "tip",
+          "vi": [
+            "lời khuyên"
+          ],
+          "start": 36.69,
+          "end": 37.02,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-35-u10",
+      "speaker": "M",
+      "text": "I'll also check traffic Webcams on the highway agency's Web site.",
+      "start": 37.47,
+      "end": 41.22,
+      "clipSrc": "../../audio-sentences/t4-35-s10.mp3",
+      "clipSourceStart": 37.39,
+      "vi": "Tôi cũng sẽ kiểm tra webcam giao thông trên trang web của cơ quan đường cao tốc.",
+      "listeningKeywords": [
+        "traffic",
+        "Webcams",
+        "highway agency's Web site"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "traffic",
+          "vi": "giao thông"
+        },
+        {
+          "en": "highway agency's Web site",
+          "vi": "trang web"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-35-u10-k1",
+          "en": "traffic",
+          "vi": [
+            "giao thông"
+          ],
+          "start": 38.31,
+          "end": 38.76,
+          "anchorSource": "t4-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u10-k2",
+          "en": "Webcams",
+          "vi": [],
+          "start": 38.76,
+          "end": 39.39,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-35-u10-k3",
+          "en": "highway agency's Web site",
+          "vi": [
+            "trang web"
+          ],
+          "start": 39.6,
+          "end": 41.22,
+          "anchorSource": "t4-35-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

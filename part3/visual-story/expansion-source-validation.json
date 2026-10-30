@@ -1,0 +1,920 @@
+{
+  "conversations": 65,
+  "questions": 195,
+  "clips": 558,
+  "graphics": 15,
+  "audioDecoded": true,
+  "originalAudioHashesVerified": true,
+  "questionKeysVerifiedAgainstPDFColumn": true,
+  "sentenceTextPreserved": true,
+  "records": [
+    {
+      "conversation": "t6-32",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "audio": "audio/E26-T06-32-34.mp3",
+      "sha256": "d6c6cf639e072a8601a1bb1fdc32e9e3c4421e5f70aa7de6f9a7bc58dfc8e339",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-35",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      "audio": "audio/E26-T06-35-37.mp3",
+      "sha256": "828cb6d2a663c9eb059768386052e2d2ea4f9e66a3611cb5699931909113d276",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-38",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      "audio": "audio/E26-T06-38-40.mp3",
+      "sha256": "ef23cb11dcbbe13536ce597377e80b284a5b2050757c25c4d4190824b4dfe322",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-41",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      "audio": "audio/E26-T06-41-43.mp3",
+      "sha256": "06cfe620b54c398c080920a8f97d305049d4d0cc9219fd24b1117fa7f6d8d683",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-44",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          10
+        ]
+      },
+      "audio": "audio/E26-T06-44-46.mp3",
+      "sha256": "fd74d9ea1d5291da7c2c16d6d7c04bce43ba9c8d77cbe6bd67f235db57b6abc8",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-47",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "audio": "audio/E26-T06-47-49.mp3",
+      "sha256": "e71068b9d66ac18e6d7a55f9368647aa213042bf4db2c34cfff56c0e1c3432d5",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-50",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "audio": "audio/E26-T06-50-52.mp3",
+      "sha256": "ea3680316a65297364b2157cca90de1335b9b58fb493c626ef87acd03b5e9102",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-53",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          12,
+          13
+        ]
+      },
+      "audio": "audio/E26-T06-53-55.mp3",
+      "sha256": "18f42c32eb7b8c17e3996252b9646035744c436b57cf631447064cbf1a8bed8d",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-56",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          13,
+          14
+        ]
+      },
+      "audio": "audio/E26-T06-56-58.mp3",
+      "sha256": "802b9a71cdb1bbbe79e51f6cf7c97b4f11b6f42fce52e9b9104f8839d5f1d011",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-59",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      "audio": "audio/E26-T06-59-61.mp3",
+      "sha256": "ad2c83372ddd9e64d1f6bfbb45226f16b957729d0c645b6d212469fa984bc47e",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t6-62",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          15,
+          16
+        ]
+      },
+      "audio": "audio/E26-T06-62-64.mp3",
+      "sha256": "746aa55514729105fae07f1ba42fe30147f1d57295bb51c9a5a089a752bdd095",
+      "sentenceCount": 7,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t6-65",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          16,
+          17
+        ]
+      },
+      "audio": "audio/E26-T06-65-67.mp3",
+      "sha256": "a33d8634b107fa82b8e19777cd79a086a443eab1fe6b792308da3292e64c3aef",
+      "sentenceCount": 7,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t6-68",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      "audio": "audio/E26-T06-68-70.mp3",
+      "sha256": "1ec3a27fcb3a2444b25c5f0175f7387c00f59c20dec7989d29308d2ebc141605",
+      "sentenceCount": 12,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t7-32",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "audio": "audio/E26-T07-32-34.mp3",
+      "sha256": "0a76a3903d5ac4ece6370dd897b80130fa2416377fbfd3e31e2989545b1e3aee",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-35",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      "audio": "audio/E26-T07-35-37.mp3",
+      "sha256": "5740c875ca5c5c0dc7b972f065ed7f7bcc1014045328cb1d5123b3c7fc5bad3c",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-38",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      "audio": "audio/E26-T07-38-40.mp3",
+      "sha256": "dfee35c93d88d8990d64ea243d1d89a982d2f3bfde260ec6cfcf0ef7969acc9a",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-41",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      "audio": "audio/E26-T07-41-43.mp3",
+      "sha256": "70782e18cbf6cba72ee5b75e4bc400e184019343fc736fe789c15d3ff4b03811",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-44",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "audio": "audio/E26-T07-44-46.mp3",
+      "sha256": "2952e25ad65d003bbbe6bae93a61dcad8e1fa13d62414dfe13f5664c7bb8bf85",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-47",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "audio": "audio/E26-T07-47-49.mp3",
+      "sha256": "be7994129dcd5a0ee05cf7d40a18fbc111bb77f754ba29ffc71ea913542ca987",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-50",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          12,
+          13
+        ]
+      },
+      "audio": "audio/E26-T07-50-52.mp3",
+      "sha256": "0a3d83a0b3d2e04c8a2875d14aac520356624bc30d4842e041fba5535e9b86dd",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-53",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          13,
+          14
+        ]
+      },
+      "audio": "audio/E26-T07-53-55.mp3",
+      "sha256": "ec0c4499bd7698c65088e9280f9d15dc8b5e3f57ef9dffb63211a4accd07fb10",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-56",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      "audio": "audio/E26-T07-56-58.mp3",
+      "sha256": "5f3e8c0d5ae71062a742d5f390a2bb1364391f51a0cb831bc1fdda0cc79a983f",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-59",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          15,
+          16
+        ]
+      },
+      "audio": "audio/E26-T07-59-61.mp3",
+      "sha256": "272623ccc9efe8ec83cffcea8f21dce4029b559b8fac2ff9d12fbcc7447ef88e",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t7-62",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          16,
+          17
+        ]
+      },
+      "audio": "audio/E26-T07-62-64.mp3",
+      "sha256": "b17414731ef4621e4614f76fcaedc81e2b500d9ec221f0953dea8cac9542585e",
+      "sentenceCount": 7,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t7-65",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      "audio": "audio/E26-T07-65-67.mp3",
+      "sha256": "486e57276122b70a0b1b270482299baee3bdc0085314eab804a1c89618f0474c",
+      "sentenceCount": 9,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t7-68",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 7 ets 2026.pdf",
+        "pages": [
+          19,
+          20
+        ]
+      },
+      "audio": "audio/E26-T07-68-70.mp3",
+      "sha256": "5d087a030a283ef93d32531c06f3b98146ced86dfd8a8a834e289671f0f33b3b",
+      "sentenceCount": 8,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t8-32",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "audio": "audio/E26-T08-32-34.mp3",
+      "sha256": "fef1f35d3abcc7e5374d5f5a89855c6ca48f617dfc8a9b9e7100d46fcbb1447d",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-35",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      "audio": "audio/E26-T08-35-37.mp3",
+      "sha256": "f56c6a2647d8f35fb103b4219b43c2161b8e3cd7fde6a74dab41aa6640865ad0",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-38",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      "audio": "audio/E26-T08-38-40.mp3",
+      "sha256": "0e20f25c4c09a61fdbf15a30467518187425ef810323a6112d8813914c9c02ba",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-41",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      "audio": "audio/E26-T08-41-43.mp3",
+      "sha256": "ddf347dceef01401941b1d79b37b42318bfe1b609f9e3bf31fba61ec646e7e44",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-44",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "audio": "audio/E26-T08-44-46.mp3",
+      "sha256": "dba83ebef9d9a018520f12796885b9e57ac03f17a0e6ceda24542fabb08516a6",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-47",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "audio": "audio/E26-T08-47-49.mp3",
+      "sha256": "855a1b74f490513198bc07b1ff08f6d22f2112101d9c57f784ea344fb5c389e1",
+      "sentenceCount": 6,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-50",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          12,
+          13
+        ],
+        "audioWordingNote": "PDF và audio diễn đạt câu đặt bàn hơi khác nhau. Transcript giữ nguyên PDF; đoạn nghe bao trọn câu tương ứng."
+      },
+      "audio": "audio/E26-T08-50-52.mp3",
+      "sha256": "b817117220c924e30a307d67170afbd4446d03dc890f0c36c1471697012c4853",
+      "sentenceCount": 12,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-53",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          13,
+          14
+        ]
+      },
+      "audio": "audio/E26-T08-53-55.mp3",
+      "sha256": "da3ad0ec78c0b7148ace00b7cb4553ce0c1265719bd4d57eb976985a65d0d7c6",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-56",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      "audio": "audio/E26-T08-56-58.mp3",
+      "sha256": "859d1fa3f2fc805fdf81ef2d3085f87054977c0e233ff5920f37e0bcbfa222c6",
+      "sentenceCount": 12,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-59",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          15,
+          16
+        ]
+      },
+      "audio": "audio/E26-T08-59-61.mp3",
+      "sha256": "0bd96aa23ecc659845dcfc9a692cc516f65574f01b8aa46d2a79c1c750e3fc6b",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t8-62",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          16,
+          17
+        ]
+      },
+      "audio": "audio/E26-T08-62-64.mp3",
+      "sha256": "b91782ece211d9ccbc17dd9e158d89aba8d844aea87d61678f18ee54fa38eb14",
+      "sentenceCount": 11,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t8-65",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      "audio": "audio/E26-T08-65-67.mp3",
+      "sha256": "ea18cc8bbbfe00417c6fd439226d971194475d893fa4ef9ef7b3cc72bcfd6109",
+      "sentenceCount": 11,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t8-68",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+        "pages": [
+          19,
+          20
+        ]
+      },
+      "audio": "audio/E26-T08-68-70.mp3",
+      "sha256": "66481f8c2173e2726a7b4f42336ced8d7615b3391dd34fd1f6dc5a6c70f9725f",
+      "sentenceCount": 9,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t9-32",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          5,
+          6
+        ]
+      },
+      "audio": "audio/E26-T09-32-34.mp3",
+      "sha256": "96910d7b6f59ac4da5db7015dbfbfa316e00634861d1bcb1dfac97fdd0085e90",
+      "sentenceCount": 6,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-35",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "audio": "audio/E26-T09-35-37.mp3",
+      "sha256": "ffa277dc68133e95b95a695351a5a06f588c4659f5b9c1c0ab2e0329dde0034a",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-38",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      "audio": "audio/E26-T09-38-40.mp3",
+      "sha256": "39eaac4e2ebbef1a1b9b073e0171a139418c1131fb55b3a6ba44cf36c3a190d0",
+      "sentenceCount": 6,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-41",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          8
+        ]
+      },
+      "audio": "audio/E26-T09-41-43.mp3",
+      "sha256": "cee8916086fde2bb975818338381637c57c09e2be58db54de4abaf7383f97e03",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-44",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      "audio": "audio/E26-T09-44-46.mp3",
+      "sha256": "e1acfc86bdb025acf85520120f4cf602f13c54b866ae5bea75ccd134f95faeed",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-47",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      "audio": "audio/E26-T09-47-49.mp3",
+      "sha256": "a4356e89d307301cc23404074c02d68637b56ebeb001970b018415c045129698",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-50",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "audio": "audio/E26-T09-50-52.mp3",
+      "sha256": "86a026859b302ee3fd1b1955b913c04504ca1409f4329106282fb539ea87c3fc",
+      "sentenceCount": 11,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-53",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "audio": "audio/E26-T09-53-55.mp3",
+      "sha256": "57cd2c536e50ed8b472de138d5304e3e0e34450bc4e678185ced50f7e1a77a18",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-56",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          12,
+          13
+        ]
+      },
+      "audio": "audio/E26-T09-56-58.mp3",
+      "sha256": "6267d569d06f080586dc2bf675e58a7529716b25933fdc9f82574ebfe84c8244",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-59",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          13,
+          14
+        ]
+      },
+      "audio": "audio/E26-T09-59-61.mp3",
+      "sha256": "2e7ed356548032ab76cfcfb4622ca23967b0491ca55efc58c38999b0add92127",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t9-62",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      "audio": "audio/E26-T09-62-64.mp3",
+      "sha256": "a999b9dfb63759000327bd87c69b1b8ab6ccd2d3f4af047f838eb6e2f7b44a4c",
+      "sentenceCount": 9,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t9-65",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          15,
+          16
+        ]
+      },
+      "audio": "audio/E26-T09-65-67.mp3",
+      "sha256": "69976232ff22faf05c58024298b4764546e84a756552f0e6277ae19fe998d9cb",
+      "sentenceCount": 12,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t9-68",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      "audio": "audio/E26-T09-68-70.mp3",
+      "sha256": "c30a0cd4a52a133e0270db17c2982f5140aee7be54977e3df2241f59beb1d1ba",
+      "sentenceCount": 10,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t10-32",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          5,
+          6
+        ]
+      },
+      "audio": "audio/E26-T10-32-34.mp3",
+      "sha256": "23f0ce1221389db068f39b3711f64ab3501361dd75ab1246c5989eca7c775d04",
+      "sentenceCount": 5,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-35",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      "audio": "audio/E26-T10-35-37.mp3",
+      "sha256": "8e41b23749d46d301489bed29c090db6ed10e12ce97ee63160bf3163069963d6",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-38",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      "audio": "audio/E26-T10-38-40.mp3",
+      "sha256": "d93ca3f1e0502ac1e07fd721a256bda95e283152e6c1482c9e37c9b1f31a1588",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-41",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      "audio": "audio/E26-T10-41-43.mp3",
+      "sha256": "f929f6c8122fe6c723dbaa28b272eb2668cb54adef3f992d20e7e1dec854ae4d",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-44",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          9
+        ]
+      },
+      "audio": "audio/E26-T10-44-46.mp3",
+      "sha256": "00dc3e56694670d8469723546898f5633549cb4002a3770fb6219767e18ca0f3",
+      "sentenceCount": 10,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-47",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          10
+        ]
+      },
+      "audio": "audio/E26-T10-47-49.mp3",
+      "sha256": "25499523df230255371269aefac25923c37814e9d0d33e9b08fff9410f8f796b",
+      "sentenceCount": 7,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-50",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "audio": "audio/E26-T10-50-52.mp3",
+      "sha256": "7fe1671795b23c768467ff49b4bfb9e17a2ed497ef50d4d6a6226c86aed8f20d",
+      "sentenceCount": 8,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-53",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "audio": "audio/E26-T10-53-55.mp3",
+      "sha256": "33c8a5db9ad2974f6cce85e8946d6d8c7c7243638a224a873aa767d076aff48c",
+      "sentenceCount": 9,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-56",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          12,
+          13
+        ]
+      },
+      "audio": "audio/E26-T10-56-58.mp3",
+      "sha256": "06cbae5bb1fe5b32370d665173f5003a55aad59c35a33cae2b84ac4f3345effd",
+      "sentenceCount": 6,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-59",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          13,
+          14
+        ],
+        "speakerLabelNote": "Nhãn M/W trong PDF không khớp người được nhắc trong câu hỏi. Giữ ký hiệu PDF; cảnh dùng đồ vật và không gán viền vào nhân vật."
+      },
+      "audio": "audio/E26-T10-59-61.mp3",
+      "sha256": "330bb5f2f0de07fc7cf918d27a28c0debdb97a9e8eb825f0e89552262a881c62",
+      "sentenceCount": 11,
+      "sourceGraphics": 0
+    },
+    {
+      "conversation": "t10-62",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      "audio": "audio/E26-T10-62-64.mp3",
+      "sha256": "3d974db2743b6f083c5f51016d1eb0e4838f91eca6669d33e5b8d0de32488c4e",
+      "sentenceCount": 9,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t10-65",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          15,
+          16
+        ]
+      },
+      "audio": "audio/E26-T10-65-67.mp3",
+      "sha256": "6f26b14653705b95754a5715e26255e4cc8e83e4b9b76add469c1aeddb45a28c",
+      "sentenceCount": 10,
+      "sourceGraphics": 1
+    },
+    {
+      "conversation": "t10-68",
+      "source": {
+        "file": "C:\\Users\\Nam\\Documents\\Transcript test 10 ets 2026.pdf",
+        "pages": [
+          16,
+          17
+        ]
+      },
+      "audio": "audio/E26-T10-68-70.mp3",
+      "sha256": "5b6ab92787c09f715af6e84f53bad691cde320b11916e31d3226bb4d56713c8e",
+      "sentenceCount": 9,
+      "sourceGraphics": 1
+    }
+  ]
+}

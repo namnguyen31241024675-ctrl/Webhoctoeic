@@ -1,0 +1,392 @@
+{
+  "conversationId": "t6-53",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      12,
+      13
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-53-u01",
+      "speaker": "M",
+      "text": "Hi, Ms. Espinoza. This is Malik calling from ACC Internet Providers.",
+      "start": 6.0,
+      "end": 10.47,
+      "clipSrc": "../../audio-sentences/t6-53-s01.mp3",
+      "clipSourceStart": 5.92,
+      "vi": "Chào bà Espinoza. Tôi là Malik từ ACC Internet Providers.",
+      "listeningKeywords": [
+        "Malik",
+        "calling",
+        "ACC Internet Providers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Malik",
+          "vi": "Malik"
+        },
+        {
+          "en": "ACC Internet Providers",
+          "vi": "ACC Internet Providers"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u01-k1",
+          "en": "Malik",
+          "vi": [
+            "Malik"
+          ],
+          "start": 7.83,
+          "end": 8.16,
+          "anchorSource": "t6-53-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u01-k2",
+          "en": "calling",
+          "vi": [],
+          "start": 8.16,
+          "end": 8.49,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u02",
+      "speaker": "M",
+      "text": "I'm here at your residence at 88 Glassbury Avenue to set up your Internet.",
+      "start": 10.98,
+      "end": 14.73,
+      "clipSrc": "../../audio-sentences/t6-53-s02.mp3",
+      "clipSourceStart": 10.9,
+      "vi": "Tôi đang ở nhà bà tại 88 Glassbury Avenue để lắp đặt internet.",
+      "listeningKeywords": [
+        "residence",
+        "88",
+        "Glassbury Avenue",
+        "set"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "residence",
+          "vi": "nhà"
+        },
+        {
+          "en": "88",
+          "vi": "88"
+        },
+        {
+          "en": "Glassbury Avenue",
+          "vi": "Glassbury Avenue"
+        },
+        {
+          "en": "set",
+          "vi": "đặt"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u02-k1",
+          "en": "residence",
+          "vi": [
+            "nhà"
+          ],
+          "start": 11.64,
+          "end": 12.15,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u02-k2",
+          "en": "88",
+          "vi": [
+            "88"
+          ],
+          "start": 12.3,
+          "end": 12.749189,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u02-k3",
+          "en": "set",
+          "vi": [
+            "đặt"
+          ],
+          "start": 13.77,
+          "end": 13.98,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u03",
+      "speaker": "W",
+      "text": "Oh! I'm sorry, but I'm still on my way home from work.",
+      "start": 15.24,
+      "end": 18.78,
+      "clipSrc": "../../audio-sentences/t6-53-s03.mp3",
+      "clipSourceStart": 15.16,
+      "vi": "Ồ! Xin lỗi, nhưng tôi vẫn đang trên đường về nhà từ chỗ làm.",
+      "listeningKeywords": [
+        "on my way home",
+        "work"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "on my way home",
+          "vi": "đang trên đường về nhà"
+        },
+        {
+          "en": "work",
+          "vi": "làm"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u03-k1",
+          "en": "on my way home",
+          "vi": [
+            "đang trên đường về nhà"
+          ],
+          "start": 17.37,
+          "end": 18.12,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u03-k2",
+          "en": "work",
+          "vi": [
+            "làm"
+          ],
+          "start": 18.33,
+          "end": 18.78,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u04",
+      "speaker": "W",
+      "text": "There's a lot of traffic right now.",
+      "start": 19.32,
+      "end": 21.75,
+      "clipSrc": "../../audio-sentences/t6-53-s04.mp3",
+      "clipSourceStart": 19.24,
+      "vi": "Lúc này giao thông rất đông.",
+      "listeningKeywords": [
+        "traffic"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "traffic",
+          "vi": "giao thông"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u04-k1",
+          "en": "traffic",
+          "vi": [
+            "giao thông"
+          ],
+          "start": 20.52,
+          "end": 21.06,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u05",
+      "speaker": "M",
+      "text": "I see. Well, my next client's house isn't too far away.",
+      "start": 22.32,
+      "end": 25.86,
+      "clipSrc": "../../audio-sentences/t6-53-s05.mp3",
+      "clipSourceStart": 22.24,
+      "vi": "Tôi hiểu rồi. Ừm, nhà khách hàng tiếp theo của tôi không xa lắm.",
+      "listeningKeywords": [
+        "see",
+        "isn't",
+        "far away"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "hiểu"
+        },
+        {
+          "en": "isn't",
+          "vi": "không"
+        },
+        {
+          "en": "far away",
+          "vi": "xa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u05-k1",
+          "en": "see",
+          "vi": [
+            "hiểu"
+          ],
+          "start": 22.44,
+          "end": 22.8,
+          "anchorSource": "t6-53-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u05-k2",
+          "en": "isn't",
+          "vi": [
+            "không"
+          ],
+          "start": 24.72,
+          "end": 24.96,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-53-u05-k3",
+          "en": "far away",
+          "vi": [
+            "xa"
+          ],
+          "start": 25.11,
+          "end": 25.86,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u06",
+      "speaker": "M",
+      "text": "I could be back in about an hour.",
+      "start": 26.4,
+      "end": 28.2,
+      "clipSrc": "../../audio-sentences/t6-53-s06.mp3",
+      "clipSourceStart": 26.32,
+      "vi": "Tôi có thể quay lại sau khoảng một giờ.",
+      "listeningKeywords": [
+        "hour"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hour",
+          "vi": "giờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u06-k1",
+          "en": "hour",
+          "vi": [
+            "giờ"
+          ],
+          "start": 27.72,
+          "end": 28.2,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u07",
+      "speaker": "M",
+      "text": "Does that sound OK?",
+      "start": 28.35,
+      "end": 29.37,
+      "clipSrc": "../../audio-sentences/t6-53-s07.mp3",
+      "clipSourceStart": 28.27,
+      "vi": "Nghe ổn chứ?",
+      "listeningKeywords": [
+        "sound"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sound",
+          "vi": "Nghe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-53-u07-k1",
+          "en": "sound",
+          "vi": [
+            "Nghe"
+          ],
+          "start": 28.65,
+          "end": 28.95,
+          "anchorSource": "t6-53.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-53-u08",
+      "speaker": "W",
+      "text": "Yes, that'd be great.",
+      "start": 29.73,
+      "end": 31.17,
+      "clipSrc": "../../audio-sentences/t6-53-s08.mp3",
+      "clipSourceStart": 29.65,
+      "vi": "Vâng, thế thì tốt quá.",
+      "listeningKeywords": [
+        "that'd"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "that'd",
+          "vi": "thế thì"
+        }
+      ],
+      "keywordCues": []
+    },
+    {
+      "id": "t6-53-u09",
+      "speaker": "W",
+      "text": "Thank you so much.",
+      "start": 31.41,
+      "end": 32.58,
+      "clipSrc": "../../audio-sentences/t6-53-s09.mp3",
+      "clipSourceStart": 31.33,
+      "vi": "Cảm ơn rất nhiều.",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

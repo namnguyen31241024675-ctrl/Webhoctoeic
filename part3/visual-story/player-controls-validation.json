@@ -1,0 +1,9 @@
+{
+  "sentenceButtons": "passed both directions",
+  "arrowKeysWithTranscriptButtonFocus": "passed",
+  "seekForwardAndBackward5Seconds": "passed",
+  "listDialogSelectionAndClose": "passed",
+  "lipSyncImplemented": false,
+  "lipSyncMissing": "A real audio-driven face/video lip-sync model and rendered video assets are not available in the current toolset.",
+  "backup": "C:\\Users\\Nam\\Pictures\\Toeic\\Code\\part3.before-player-controls-20261028-114457"
+}

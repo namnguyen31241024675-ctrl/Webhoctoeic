@@ -1,0 +1,398 @@
+{
+  "conversationId": "t4-32",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 4 ets 2026.pdf",
+    "pages": [
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t4-32-u01",
+      "speaker": "W",
+      "text": "Good morning. Thanks for coming to tour this apartment building.",
+      "start": 5.94,
+      "end": 9.54,
+      "clipSrc": "../../audio-sentences/t4-32-meaning-01.mp3",
+      "clipSourceStart": 5.86,
+      "vi": "Chào buổi sáng. Cảm ơn vì đã đến tham quan tòa nhà chung cư này.",
+      "listeningKeywords": [
+        "tour",
+        "apartment building"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "apartment building",
+          "vi": "chung cư"
+        },
+        {
+          "en": "apartment building",
+          "vi": "tòa nhà"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u01-k1",
+          "en": "tour",
+          "vi": [],
+          "start": 8.01,
+          "end": 8.28,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u01-k2",
+          "en": "apartment building",
+          "vi": [
+            "chung cư",
+            "tòa nhà"
+          ],
+          "start": 8.49,
+          "end": 9.54,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u02",
+      "speaker": "M",
+      "text": "I'm glad I could visit in person.",
+      "start": 9.93,
+      "end": 11.7,
+      "clipSrc": "../../audio-sentences/t4-32-s03.mp3",
+      "clipSourceStart": 9.85,
+      "vi": "Tôi rất vui vì có thể đến trực tiếp.",
+      "listeningKeywords": [
+        "visit",
+        "person"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "visit",
+          "vi": "đến"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u02-k1",
+          "en": "visit",
+          "vi": [
+            "đến"
+          ],
+          "start": 10.71,
+          "end": 11.04,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u02-k2",
+          "en": "person",
+          "vi": [],
+          "start": 11.16,
+          "end": 11.7,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u03",
+      "speaker": "M",
+      "text": "I've always wanted to live in this neighborhood—it's so beautiful.",
+      "start": 12.03,
+      "end": 15.42,
+      "clipSrc": "../../audio-sentences/t4-32-s04.mp3",
+      "clipSourceStart": 11.95,
+      "vi": "Tôi luôn muốn sống ở khu phố này—nó thật đẹp.",
+      "listeningKeywords": [
+        "wanted",
+        "live",
+        "neighborhood",
+        "beautiful"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "wanted",
+          "vi": "muốn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u03-k1",
+          "en": "wanted",
+          "vi": [
+            "muốn"
+          ],
+          "start": 12.51,
+          "end": 12.81,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u03-k2",
+          "en": "live",
+          "vi": [],
+          "start": 12.9,
+          "end": 13.14,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u03-k3",
+          "en": "neighborhood",
+          "vi": [],
+          "start": 13.41,
+          "end": 14.04,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u03-k4",
+          "en": "beautiful",
+          "vi": [],
+          "start": 14.73,
+          "end": 15.42,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u04",
+      "speaker": "M",
+      "text": "This building is brand-new, isn't it?",
+      "start": 15.93,
+      "end": 17.94,
+      "clipSrc": "../../audio-sentences/t4-32-s05.mp3",
+      "clipSourceStart": 15.85,
+      "vi": "Tòa nhà này là mới xây, phải không?",
+      "listeningKeywords": [
+        "building",
+        "brand",
+        "isn't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "building",
+          "vi": "Tòa nhà"
+        },
+        {
+          "en": "isn't",
+          "vi": "không"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u04-k1",
+          "en": "building",
+          "vi": [
+            "Tòa nhà"
+          ],
+          "start": 16.17,
+          "end": 16.59,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u04-k2",
+          "en": "brand",
+          "vi": [],
+          "start": 16.74,
+          "end": 17.16,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u04-k3",
+          "en": "isn't",
+          "vi": [
+            "không"
+          ],
+          "start": 17.52,
+          "end": 17.79,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u05",
+      "speaker": "W",
+      "text": "Yes. In fact, you'd be among the very first tenants if you decide to move here.",
+      "start": 18.27,
+      "end": 23.46,
+      "clipSrc": "../../audio-sentences/t4-32-meaning-05.mp3",
+      "clipSourceStart": 18.19,
+      "vi": "Đúng vậy. Thực ra, nếu bạn quyết định chuyển đến đây, bạn sẽ là một trong những người thuê đầu tiên.",
+      "listeningKeywords": [
+        "among",
+        "tenants",
+        "decide",
+        "move"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "move",
+          "vi": "chuyển"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u05-k1",
+          "en": "among",
+          "vi": [],
+          "start": 20.46,
+          "end": 20.76,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u05-k2",
+          "en": "tenants",
+          "vi": [],
+          "start": 21.63,
+          "end": 22.17,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u05-k3",
+          "en": "decide",
+          "vi": [],
+          "start": 22.38,
+          "end": 22.8,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u05-k4",
+          "en": "move",
+          "vi": [
+            "chuyển"
+          ],
+          "start": 22.89,
+          "end": 23.16,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u06",
+      "speaker": "W",
+      "text": "Before you look at some apartments, would you please sign your name here in our guest book?",
+      "start": 23.91,
+      "end": 28.47,
+      "clipSrc": "../../audio-sentences/t4-32-s08.mp3",
+      "clipSourceStart": 23.83,
+      "vi": "Trước khi xem một số căn hộ, bạn vui lòng ký tên vào sổ khách ở đây chứ?",
+      "listeningKeywords": [
+        "apartments",
+        "sign",
+        "name",
+        "guest book"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "apartments",
+          "vi": "căn hộ"
+        },
+        {
+          "en": "sign",
+          "vi": "ký tên"
+        },
+        {
+          "en": "name",
+          "vi": "tên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t4-32-u06-k1",
+          "en": "apartments",
+          "vi": [
+            "căn hộ"
+          ],
+          "start": 24.96,
+          "end": 25.65,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u06-k2",
+          "en": "sign",
+          "vi": [
+            "ký tên"
+          ],
+          "start": 26.4,
+          "end": 26.67,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u06-k3",
+          "en": "name",
+          "vi": [
+            "tên"
+          ],
+          "start": 26.82,
+          "end": 27.15,
+          "anchorSource": "t4-32.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t4-32-u06-k4",
+          "en": "guest book",
+          "vi": [],
+          "start": 27.72,
+          "end": 28.47,
+          "anchorSource": "t4-32-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t4-32-u07",
+      "speaker": "M",
+      "text": "Oh, of course..",
+      "start": 28.77,
+      "end": 29.76,
+      "clipSrc": "../../audio-sentences/t4-32-s09.mp3",
+      "clipSourceStart": 28.69,
+      "vi": "Ồ, tất nhiên..",
+      "listeningKeywords": [],
+      "bilingualKeywords": [],
+      "keywordCues": []
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "conversationId": "t8-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-38-u01",
+      "speaker": "W",
+      "text": "Hiroki, good news! We've received the grant money we requested to digitize our rare book collection.",
+      "start": 5.46,
+      "end": 11.4,
+      "clipSrc": "../../audio-sentences/t8-38-s01.mp3",
+      "clipSourceStart": 5.38,
+      "vi": "Hiroki, tin tốt! Chúng ta đã nhận được khoản trợ cấp chúng ta yêu cầu để số hóa bộ sưu tập sách hiếm.",
+      "listeningKeywords": [
+        "received",
+        "grant money",
+        "requested",
+        "rare book collection"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "received",
+          "vi": "nhận được"
+        },
+        {
+          "en": "requested",
+          "vi": "yêu cầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u01-k1",
+          "en": "received",
+          "vi": [
+            "nhận được"
+          ],
+          "start": 7.44,
+          "end": 7.853083,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u01-k2",
+          "en": "grant money",
+          "vi": [],
+          "start": 7.92,
+          "end": 8.58,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u01-k3",
+          "en": "requested",
+          "vi": [
+            "yêu cầu"
+          ],
+          "start": 8.7,
+          "end": 9.3,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u01-k4",
+          "en": "rare book collection",
+          "vi": [],
+          "start": 10.35,
+          "end": 11.4,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u02",
+      "speaker": "M",
+      "text": "Excellent! I'm glad we'll finally be able to expand access to our collections.",
+      "start": 11.7,
+      "end": 16.62,
+      "clipSrc": "../../audio-sentences/t8-38-s02.mp3",
+      "clipSourceStart": 11.62,
+      "vi": "Tuyệt vời! Tôi vui vì cuối cùng chúng ta có thể mở rộng cách truy cập vào bộ sưu tập này.",
+      "listeningKeywords": [
+        "finally",
+        "expand",
+        "access",
+        "collections"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "expand",
+          "vi": "mở rộng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u02-k1",
+          "en": "finally",
+          "vi": [],
+          "start": 13.44,
+          "end": 13.95,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u02-k2",
+          "en": "expand",
+          "vi": [
+            "mở rộng"
+          ],
+          "start": 14.52,
+          "end": 15.09,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u02-k3",
+          "en": "access",
+          "vi": [],
+          "start": 15.12,
+          "end": 15.6,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u02-k4",
+          "en": "collections",
+          "vi": [],
+          "start": 15.9,
+          "end": 16.62,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u03",
+      "speaker": "M",
+      "text": "Right now, only local residents can see those books.",
+      "start": 16.95,
+      "end": 20.22,
+      "clipSrc": "../../audio-sentences/t8-38-s03.mp3",
+      "clipSourceStart": 16.87,
+      "vi": "Hiện tại, chỉ cư dân địa phương mới xem được những sách đó.",
+      "listeningKeywords": [
+        "local residents",
+        "see",
+        "books"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "local residents",
+          "vi": "cư dân"
+        },
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "books",
+          "vi": "sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u03-k1",
+          "en": "local residents",
+          "vi": [
+            "cư dân"
+          ],
+          "start": 18.15,
+          "end": 19.11,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u03-k2",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 19.29,
+          "end": 19.5,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u03-k3",
+          "en": "books",
+          "vi": [
+            "sách"
+          ],
+          "start": 19.77,
+          "end": 20.22,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u04",
+      "speaker": "W",
+      "text": "True. You know, I'm not sure how the digitization process works.",
+      "start": 20.37,
+      "end": 25.14,
+      "clipSrc": "../../audio-sentences/t8-38-s04.mp3",
+      "clipSourceStart": 20.29,
+      "vi": "Đúng vậy. Bạn biết đấy, tôi không chắc quy trình số hóa hoạt động thế nào.",
+      "listeningKeywords": [
+        "not",
+        "digitization",
+        "process",
+        "works"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "not",
+          "vi": "không"
+        },
+        {
+          "en": "digitization",
+          "vi": "số hóa"
+        },
+        {
+          "en": "process",
+          "vi": "quy trình"
+        },
+        {
+          "en": "works",
+          "vi": "hoạt động"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u04-k1",
+          "en": "not",
+          "vi": [
+            "không"
+          ],
+          "start": 22.38,
+          "end": 22.62,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u04-k2",
+          "en": "digitization",
+          "vi": [
+            "số hóa"
+          ],
+          "start": 23.1647,
+          "end": 24.06,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u04-k3",
+          "en": "process",
+          "vi": [
+            "quy trình"
+          ],
+          "start": 24.06,
+          "end": 24.54,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u04-k4",
+          "en": "works",
+          "vi": [
+            "hoạt động"
+          ],
+          "start": 24.54,
+          "end": 25.14,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u05",
+      "speaker": "M",
+      "text": "Well, Archester Library is running a workshop next month on digitization practices.",
+      "start": 25.38,
+      "end": 30.6,
+      "clipSrc": "../../audio-sentences/t8-38-s05.mp3",
+      "clipSourceStart": 25.3,
+      "vi": "Ừm, Thư viện Archester đang tổ chức hội thảo tháng tới về thực hành số hóa.",
+      "listeningKeywords": [
+        "Archester Library",
+        "running",
+        "workshop",
+        "digitization"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "Archester Library",
+          "vi": "Thư viện"
+        },
+        {
+          "en": "workshop",
+          "vi": "hội thảo"
+        },
+        {
+          "en": "digitization",
+          "vi": "số hóa"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u05-k1",
+          "en": "running",
+          "vi": [],
+          "start": 27.09,
+          "end": 27.39,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u05-k2",
+          "en": "workshop",
+          "vi": [
+            "hội thảo"
+          ],
+          "start": 27.45,
+          "end": 28.02,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u05-k3",
+          "en": "digitization",
+          "vi": [
+            "số hóa"
+          ],
+          "start": 28.95,
+          "end": 29.97,
+          "anchorSource": "t8-38-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u06",
+      "speaker": "M",
+      "text": "I think we should attend.",
+      "start": 30.9,
+      "end": 32.16,
+      "clipSrc": "../../audio-sentences/t8-38-s06.mp3",
+      "clipSourceStart": 30.82,
+      "vi": "Tôi nghĩ chúng ta nên tham dự.",
+      "listeningKeywords": [
+        "attend"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "attend",
+          "vi": "tham dự"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u06-k1",
+          "en": "attend",
+          "vi": [
+            "tham dự"
+          ],
+          "start": 31.56,
+          "end": 32.16,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-38-u07",
+      "speaker": "W",
+      "text": "Great idea. Let's register right away.",
+      "start": 32.67,
+      "end": 35.4,
+      "clipSrc": "../../audio-sentences/t8-38-s07.mp3",
+      "clipSourceStart": 32.59,
+      "vi": "Ý tưởng hay. Hãy đăng ký ngay.",
+      "listeningKeywords": [
+        "idea",
+        "register",
+        "away"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "idea",
+          "vi": "Ý tưởng"
+        },
+        {
+          "en": "register",
+          "vi": "đăng ký"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-38-u07-k1",
+          "en": "idea",
+          "vi": [
+            "Ý tưởng"
+          ],
+          "start": 33.03,
+          "end": 33.57,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u07-k2",
+          "en": "register",
+          "vi": [
+            "đăng ký"
+          ],
+          "start": 34.2,
+          "end": 34.74,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-38-u07-k3",
+          "en": "away",
+          "vi": [],
+          "start": 35.01,
+          "end": 35.4,
+          "anchorSource": "t8-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

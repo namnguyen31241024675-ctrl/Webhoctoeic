@@ -1,0 +1,580 @@
+{
+  "conversationId": "t3-41",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 3 ets 2026.pdf",
+    "pages": [
+      11,
+      12
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Scene starts reuse existing measured source sentence starts; grouping follows original speaker turns and complete sentences.",
+  "utterances": [
+    {
+      "id": "t3-41-u01",
+      "speaker": "W",
+      "text": "Marcel, I don't know if you reviewed the latest report.",
+      "start": 5.85,
+      "end": 9.51,
+      "clipSrc": "../../audio-sentences/t3-41-s01.mp3",
+      "clipSourceStart": 5.77,
+      "vi": "Marcel, tôi không biết anh đã xem báo cáo mới nhất chưa.",
+      "listeningKeywords": [
+        "don't",
+        "reviewed",
+        "report"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "don't",
+          "vi": "chưa"
+        },
+        {
+          "en": "report",
+          "vi": "báo cáo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u01-k1",
+          "en": "don't",
+          "vi": [
+            "không",
+            "chưa"
+          ],
+          "start": 7.05,
+          "end": 7.29,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u01-k2",
+          "en": "reviewed",
+          "vi": [],
+          "start": 7.83,
+          "end": 8.34,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u01-k3",
+          "en": "report",
+          "vi": [
+            "báo cáo"
+          ],
+          "start": 8.88,
+          "end": 9.51,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u02",
+      "speaker": "W",
+      "text": "Unfortunately, our sales are continuing to drop.",
+      "start": 9.78,
+      "end": 13.08,
+      "clipSrc": "../../audio-sentences/t3-41-s02.mp3",
+      "clipSourceStart": 9.7,
+      "vi": "Thật không may, doanh số của chúng ta tiếp tục giảm.",
+      "listeningKeywords": [
+        "sales",
+        "continuing",
+        "drop"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sales",
+          "vi": "doanh số"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u02-k1",
+          "en": "sales",
+          "vi": [
+            "doanh số"
+          ],
+          "start": 11.19,
+          "end": 11.61,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u02-k2",
+          "en": "continuing",
+          "vi": [],
+          "start": 11.7,
+          "end": 12.39,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u02-k3",
+          "en": "drop",
+          "vi": [],
+          "start": 12.51,
+          "end": 13.08,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u03",
+      "speaker": "M",
+      "text": "Yes, competition is at an all-time high.",
+      "start": 13.59,
+      "end": 16.65,
+      "clipSrc": "../../audio-sentences/t3-41-s03.mp3",
+      "clipSourceStart": 13.51,
+      "vi": "Đúng vậy, cạnh tranh đang ở mức cao kỷ lục.",
+      "listeningKeywords": [
+        "competition",
+        "high"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "competition",
+          "vi": "cạnh tranh"
+        },
+        {
+          "en": "high",
+          "vi": "cao"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u03-k1",
+          "en": "competition",
+          "vi": [
+            "cạnh tranh"
+          ],
+          "start": 14.31,
+          "end": 15.12,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u03-k2",
+          "en": "high",
+          "vi": [
+            "cao"
+          ],
+          "start": 16.2,
+          "end": 16.65,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u04",
+      "speaker": "M",
+      "text": "More and more companies are selling clothing and gear for outdoor recreation.",
+      "start": 17.16,
+      "end": 20.82,
+      "clipSrc": "../../audio-sentences/t3-41-s04.mp3",
+      "clipSourceStart": 17.08,
+      "vi": "Ngày càng nhiều công ty bán quần áo và đồ dùng cho hoạt động ngoài trời.",
+      "listeningKeywords": [
+        "selling",
+        "clothing",
+        "gear",
+        "outdoor recreation"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "selling",
+          "vi": "bán"
+        },
+        {
+          "en": "outdoor recreation",
+          "vi": "ngoài trời"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u04-k1",
+          "en": "selling",
+          "vi": [
+            "bán"
+          ],
+          "start": 18.298524,
+          "end": 18.63,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u04-k2",
+          "en": "clothing",
+          "vi": [],
+          "start": 18.63,
+          "end": 19.08,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u04-k3",
+          "en": "gear",
+          "vi": [],
+          "start": 19.17,
+          "end": 19.5,
+          "anchorSource": "t3-41-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u04-k4",
+          "en": "outdoor recreation",
+          "vi": [
+            "ngoài trời"
+          ],
+          "start": 19.68,
+          "end": 20.82,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u05",
+      "speaker": "W",
+      "text": "We need better ways to make our brand stand out.",
+      "start": 21.27,
+      "end": 24.57,
+      "clipSrc": "../../audio-sentences/t3-41-s05.mp3",
+      "clipSourceStart": 21.19,
+      "vi": "Chúng ta cần những cách tốt hơn để làm nổi bật thương hiệu.",
+      "listeningKeywords": [
+        "need",
+        "better ways",
+        "brand stand"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "need",
+          "vi": "cần"
+        },
+        {
+          "en": "better ways",
+          "vi": "tốt hơn"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u05-k1",
+          "en": "need",
+          "vi": [
+            "cần"
+          ],
+          "start": 21.48,
+          "end": 21.75,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u05-k2",
+          "en": "better ways",
+          "vi": [
+            "tốt hơn"
+          ],
+          "start": 21.75,
+          "end": 22.44,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u05-k3",
+          "en": "brand stand",
+          "vi": [],
+          "start": 23.07,
+          "end": 24.12,
+          "anchorSource": "t3-41-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u06",
+      "speaker": "M",
+      "text": "Well, we could probably benefit from having more direct input from athletes who use our gear.",
+      "start": 25.02,
+      "end": 30.36,
+      "clipSrc": "../../audio-sentences/t3-41-s06.mp3",
+      "clipSourceStart": 24.94,
+      "vi": "Ừm, có lẽ chúng ta sẽ được lợi nếu có thêm ý kiến trực tiếp từ các vận động viên sử dụng đồ của chúng ta.",
+      "listeningKeywords": [
+        "benefit",
+        "direct input",
+        "athletes",
+        "use"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "use",
+          "vi": "sử dụng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u06-k1",
+          "en": "benefit",
+          "vi": [],
+          "start": 26.43,
+          "end": 26.91,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u06-k2",
+          "en": "direct input",
+          "vi": [],
+          "start": 27.72,
+          "end": 28.56,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u06-k3",
+          "en": "athletes",
+          "vi": [],
+          "start": 28.8,
+          "end": 29.4,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u06-k4",
+          "en": "use",
+          "vi": [
+            "sử dụng"
+          ],
+          "start": 29.52,
+          "end": 29.79,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u07",
+      "speaker": "M",
+      "text": "I was thinking maybe we could hire a professional rock climber to consult with our designers.",
+      "start": 30.99,
+      "end": 35.64,
+      "clipSrc": "../../audio-sentences/t3-41-s07.mp3",
+      "clipSourceStart": 30.91,
+      "vi": "Tôi đang nghĩ có thể thuê một vận động viên leo núi chuyên nghiệp để tư vấn cho đội thiết kế.",
+      "listeningKeywords": [
+        "thinking",
+        "hire",
+        "rock climber",
+        "consult"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "thinking",
+          "vi": "nghĩ"
+        },
+        {
+          "en": "hire",
+          "vi": "thuê"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u07-k1",
+          "en": "thinking",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 31.35,
+          "end": 31.74,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u07-k2",
+          "en": "hire",
+          "vi": [
+            "thuê"
+          ],
+          "start": 32.28,
+          "end": 32.64,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u07-k3",
+          "en": "rock climber",
+          "vi": [],
+          "start": 33.24,
+          "end": 33.96,
+          "anchorSource": "t3-41-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u07-k4",
+          "en": "consult",
+          "vi": [],
+          "start": 34.11,
+          "end": 34.59,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u08",
+      "speaker": "W",
+      "text": "That's an interesting idea.",
+      "start": 36.06,
+      "end": 37.83,
+      "clipSrc": "../../audio-sentences/t3-41-s08.mp3",
+      "clipSourceStart": 35.98,
+      "vi": "Ý tưởng thú vị đấy.",
+      "listeningKeywords": [
+        "interesting idea"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "interesting idea",
+          "vi": "Ý tưởng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u08-k1",
+          "en": "interesting idea",
+          "vi": [
+            "Ý tưởng"
+          ],
+          "start": 36.6,
+          "end": 37.83,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u09",
+      "speaker": "W",
+      "text": "Is there anyone you have in mind?",
+      "start": 38.16,
+      "end": 40.02,
+      "clipSrc": "../../audio-sentences/t3-41-s09.mp3",
+      "clipSourceStart": 38.08,
+      "vi": "Anh có nghĩ đến ai cụ thể không?",
+      "listeningKeywords": [
+        "mind"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mind",
+          "vi": "nghĩ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u09-k1",
+          "en": "mind",
+          "vi": [
+            "nghĩ"
+          ],
+          "start": 39.48,
+          "end": 40.02,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t3-41-u10",
+      "speaker": "M",
+      "text": "I'll e-mail you a list this afternoon.",
+      "start": 40.2,
+      "end": 42.24,
+      "clipSrc": "../../audio-sentences/t3-41-s10.mp3",
+      "clipSourceStart": 40.12,
+      "vi": "Chiều nay tôi sẽ gửi email cho em danh sách.",
+      "listeningKeywords": [
+        "mail",
+        "list"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "mail",
+          "vi": "email"
+        },
+        {
+          "en": "list",
+          "vi": "danh sách"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t3-41-u10-k1",
+          "en": "mail",
+          "vi": [
+            "email"
+          ],
+          "start": 40.56,
+          "end": 40.83,
+          "anchorSource": "t3-41-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t3-41-u10-k2",
+          "en": "list",
+          "vi": [
+            "danh sách"
+          ],
+          "start": 41.04,
+          "end": 41.37,
+          "anchorSource": "t3-41.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

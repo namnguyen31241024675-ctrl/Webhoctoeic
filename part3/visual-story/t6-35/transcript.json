@@ -1,0 +1,493 @@
+{
+  "conversationId": "t6-35",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-35-u01",
+      "speaker": "W",
+      "text": "Marcel, we've been getting some complaints from our guests when they check out.",
+      "start": 6.12,
+      "end": 10.65,
+      "clipSrc": "../../audio-sentences/t6-35-s01.mp3",
+      "clipSourceStart": 6.04,
+      "vi": "Marcel, chúng ta đang nhận được một số khiếu nại từ khách khi họ check out.",
+      "listeningKeywords": [
+        "complaints",
+        "guests",
+        "check"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "check",
+          "vi": "check"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u01-k1",
+          "en": "complaints",
+          "vi": [],
+          "start": 8.13,
+          "end": 8.79,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u01-k2",
+          "en": "guests",
+          "vi": [],
+          "start": 9.09,
+          "end": 9.66,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u01-k3",
+          "en": "check",
+          "vi": [
+            "check"
+          ],
+          "start": 9.96,
+          "end": 10.26,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u02",
+      "speaker": "W",
+      "text": "Some people think the parking garage fee is included in the room reservation.",
+      "start": 11.13,
+      "end": 15.33,
+      "clipSrc": "../../audio-sentences/t6-35-s02.mp3",
+      "clipSourceStart": 11.05,
+      "vi": "Một số người nghĩ phí đỗ xe đã bao gồm trong đặt phòng.",
+      "listeningKeywords": [
+        "people",
+        "parking garage fee",
+        "included",
+        "room reservation"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "people",
+          "vi": "người"
+        },
+        {
+          "en": "parking garage fee",
+          "vi": "đỗ xe"
+        },
+        {
+          "en": "parking garage fee",
+          "vi": "phí"
+        },
+        {
+          "en": "included",
+          "vi": "bao gồm"
+        },
+        {
+          "en": "room reservation",
+          "vi": "phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u02-k1",
+          "en": "people",
+          "vi": [
+            "người"
+          ],
+          "start": 11.46,
+          "end": 11.82,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u02-k2",
+          "en": "parking garage fee",
+          "vi": [
+            "đỗ xe",
+            "phí"
+          ],
+          "start": 12.15,
+          "end": 13.26,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u02-k3",
+          "en": "included",
+          "vi": [
+            "bao gồm"
+          ],
+          "start": 13.44,
+          "end": 14.01,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u02-k4",
+          "en": "room reservation",
+          "vi": [
+            "phòng"
+          ],
+          "start": 14.22,
+          "end": 15.33,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u03",
+      "speaker": "W",
+      "text": "They don't know they have to pay when they exit.",
+      "start": 15.81,
+      "end": 18.18,
+      "clipSrc": "../../audio-sentences/t6-35-s03.mp3",
+      "clipSourceStart": 15.73,
+      "vi": "Họ không biết phải trả tiền khi rời đi.",
+      "listeningKeywords": [
+        "don't",
+        "pay",
+        "exit"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "don't",
+          "vi": "không"
+        },
+        {
+          "en": "pay",
+          "vi": "trả tiền"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u03-k1",
+          "en": "don't",
+          "vi": [
+            "không"
+          ],
+          "start": 16.02,
+          "end": 16.26,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u03-k2",
+          "en": "pay",
+          "vi": [
+            "trả tiền"
+          ],
+          "start": 17.04,
+          "end": 17.31,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u03-k3",
+          "en": "exit",
+          "vi": [],
+          "start": 17.64,
+          "end": 18.18,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u04",
+      "speaker": "M",
+      "text": "Oh. Well, it's written on the confirmation they receive.",
+      "start": 18.57,
+      "end": 22.08,
+      "clipSrc": "../../audio-sentences/t6-35-s04.mp3",
+      "clipSourceStart": 18.49,
+      "vi": "Ồ. Nó được ghi trên xác nhận họ nhận được.",
+      "listeningKeywords": [
+        "written",
+        "confirmation",
+        "receive"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "receive",
+          "vi": "nhận được"
+        },
+        {
+          "en": "receive",
+          "vi": "nhận"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u04-k1",
+          "en": "written",
+          "vi": [],
+          "start": 19.98,
+          "end": 20.31,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u04-k2",
+          "en": "confirmation",
+          "vi": [],
+          "start": 20.55,
+          "end": 21.33,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u04-k3",
+          "en": "receive",
+          "vi": [
+            "nhận được",
+            "nhận"
+          ],
+          "start": 21.45,
+          "end": 22.08,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u05",
+      "speaker": "M",
+      "text": "But I'll start reminding our guests at check-in as well.",
+      "start": 22.38,
+      "end": 25.53,
+      "clipSrc": "../../audio-sentences/t6-35-s05.mp3",
+      "clipSourceStart": 22.3,
+      "vi": "Nhưng tôi sẽ bắt đầu nhắc nhở khách lúc check-in nữa.",
+      "listeningKeywords": [
+        "start",
+        "reminding",
+        "guests",
+        "check-in"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "start",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "reminding",
+          "vi": "nhắc"
+        },
+        {
+          "en": "check-in",
+          "vi": "check-in"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u05-k1",
+          "en": "start",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 22.86,
+          "end": 23.16,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u05-k2",
+          "en": "reminding",
+          "vi": [
+            "nhắc"
+          ],
+          "start": 23.16,
+          "end": 23.76,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u05-k3",
+          "en": "guests",
+          "vi": [],
+          "start": 23.88,
+          "end": 24.36,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u05-k4",
+          "en": "check-in",
+          "vi": [
+            "check-in"
+          ],
+          "start": 24.510002,
+          "end": 25.018665,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u06",
+      "speaker": "W",
+      "text": "Great, thank you. Also, remember the landscaping crew is coming by next week to plant some spring flowers by the entrance of the lobby.",
+      "start": 25.92,
+      "end": 34.41,
+      "clipSrc": "../../audio-sentences/t6-35-s06.mp3",
+      "clipSourceStart": 25.84,
+      "vi": "Tuyệt, cảm ơn. Ngoài ra, nhớ là đội làm cảnh quan sẽ đến tuần sau để trồng hoa mùa xuân ở lối vào sảnh.",
+      "listeningKeywords": [
+        "remember",
+        "landscaping crew",
+        "spring flowers",
+        "entrance"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "remember",
+          "vi": "nhớ"
+        },
+        {
+          "en": "landscaping crew",
+          "vi": "đội làm cảnh quan"
+        },
+        {
+          "en": "spring flowers",
+          "vi": "hoa mùa xuân"
+        },
+        {
+          "en": "entrance",
+          "vi": "lối vào"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u06-k1",
+          "en": "remember",
+          "vi": [
+            "nhớ"
+          ],
+          "start": 28.29,
+          "end": 28.68,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u06-k2",
+          "en": "landscaping crew",
+          "vi": [
+            "đội làm cảnh quan"
+          ],
+          "start": 28.8,
+          "end": 29.796182,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u06-k3",
+          "en": "spring flowers",
+          "vi": [
+            "hoa mùa xuân"
+          ],
+          "start": 31.98,
+          "end": 32.88,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u06-k4",
+          "en": "entrance",
+          "vi": [
+            "lối vào"
+          ],
+          "start": 33.15,
+          "end": 33.66,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-35-u07",
+      "speaker": "W",
+      "text": "It's starting to feel a bit warmer outside.",
+      "start": 34.74,
+      "end": 37.14,
+      "clipSrc": "../../audio-sentences/t6-35-s07.mp3",
+      "clipSourceStart": 34.66,
+      "vi": "Ngoài trời bắt đầu ấm hơn rồi.",
+      "listeningKeywords": [
+        "starting",
+        "warmer outside"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "starting",
+          "vi": "bắt đầu"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-35-u07-k1",
+          "en": "starting",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 34.95,
+          "end": 35.4,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-35-u07-k2",
+          "en": "warmer outside",
+          "vi": [],
+          "start": 36.0,
+          "end": 37.14,
+          "anchorSource": "t6-35.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

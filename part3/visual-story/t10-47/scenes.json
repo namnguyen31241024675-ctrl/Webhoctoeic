@@ -1,0 +1,288 @@
+{
+  "$schema": "../scenes.schema.json",
+  "schemaVersion": 1,
+  "conversationId": "t10-47",
+  "status": "ready",
+  "enabled": true,
+  "imagesApproved": true,
+  "timingReviewed": true,
+  "hotspotsReviewed": true,
+  "audio": {
+    "src": "../../audio/E26-T10-47-49.mp3",
+    "timebase": "source-seconds",
+    "dialogueStart": 6.15,
+    "dialogueEnd": 39.06
+  },
+  "transcriptSrc": "transcript.json",
+  "images": [
+    {
+      "id": "photo-1",
+      "src": "images/scene-01-v3.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 47–49, cảnh 1",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-2",
+      "src": "images/scene-02-v3.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 47–49, cảnh 2",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-3",
+      "src": "images/scene-03-v3.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 47–49, cảnh 3",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "photo-4",
+      "src": "images/scene-04.png",
+      "alt": "Ảnh minh họa hội thoại Test 10 câu 47–49, cảnh 4",
+      "mediaType": "photograph",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "imageId": "photo-1",
+      "start": 6.15,
+      "end": 14.25,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.43,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.57,
+          "y": 0.03,
+          "width": 0.41,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "imageId": "photo-2",
+      "start": 14.25,
+      "end": 24.36,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-2-1",
+          "vocabularyId": "vocab-2-1",
+          "label": "orange sign",
+          "x": 0.79,
+          "y": 0.08,
+          "width": 0.09,
+          "height": 0.16,
+          "utteranceIds": [
+            "t10-47-u03"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.43,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.36,
+          "y": 0.03,
+          "width": 0.54,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "imageId": "photo-3",
+      "start": 24.36,
+      "end": 30.0,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.512,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [
+        {
+          "id": "spot-3-1",
+          "vocabularyId": "vocab-3-1",
+          "label": "bridge",
+          "x": 0.35,
+          "y": 0.1,
+          "width": 0.62,
+          "height": 0.28,
+          "utteranceIds": [
+            "t10-47-u05"
+          ]
+        }
+      ],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.43,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.36,
+          "y": 0.03,
+          "width": 0.54,
+          "height": 0.9
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "imageId": "photo-4",
+      "start": 30.0,
+      "end": 39.06,
+      "transition": {
+        "type": "fade",
+        "duration": 0.45
+      },
+      "motion": {
+        "from": {
+          "x": 0.5,
+          "y": 0.5,
+          "scale": 1.01
+        },
+        "to": {
+          "x": 0.488,
+          "y": 0.495,
+          "scale": 1.045
+        }
+      },
+      "hotspots": [],
+      "characters": [
+        {
+          "speaker": "M",
+          "x": 0.01,
+          "y": 0.03,
+          "width": 0.43,
+          "height": 0.9
+        },
+        {
+          "speaker": "W",
+          "x": 0.57,
+          "y": 0.03,
+          "width": 0.41,
+          "height": 0.9
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocab-2-1",
+      "en": "orange sign",
+      "vi": "biển báo màu cam",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    },
+    {
+      "id": "vocab-3-1",
+      "en": "bridge",
+      "vi": "cầu",
+      "pronunciation": {
+        "kind": "tts",
+        "lang": "en-US"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "M",
+      "label": "Người nam",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.105,
+        "y": 0.05,
+        "width": 0.24,
+        "height": 0.42
+      }
+    },
+    {
+      "id": "W",
+      "label": "Người nữ",
+      "portrait": {
+        "imageId": "photo-1",
+        "x": 0.655,
+        "y": 0.05,
+        "width": 0.24,
+        "height": 0.42
+      }
+    }
+  ],
+  "missing": []
+}

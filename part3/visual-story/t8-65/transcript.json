@@ -1,0 +1,608 @@
+{
+  "conversationId": "t8-65",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 8 ets 2026.pdf",
+    "pages": [
+      17,
+      18
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t8-65-u01",
+      "speaker": "W",
+      "text": "Hi. I want to buy a new pillow.",
+      "start": 7.08,
+      "end": 9.39,
+      "clipSrc": "../../audio-sentences/t8-65-s01.mp3",
+      "clipSourceStart": 7.0,
+      "vi": "Chào. Tôi muốn mua gối mới.",
+      "listeningKeywords": [
+        "buy",
+        "pillow"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "buy",
+          "vi": "mua"
+        },
+        {
+          "en": "pillow",
+          "vi": "gối"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u01-k1",
+          "en": "buy",
+          "vi": [
+            "mua"
+          ],
+          "start": 8.37,
+          "end": 8.61,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u01-k2",
+          "en": "pillow",
+          "vi": [
+            "gối"
+          ],
+          "start": 8.85,
+          "end": 9.39,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u02",
+      "speaker": "W",
+      "text": "I recently started waking up with a stiff neck, so I want something that will help me sleep better.",
+      "start": 9.75,
+      "end": 14.82,
+      "clipSrc": "../../audio-sentences/t8-65-s02.mp3",
+      "clipSourceStart": 9.67,
+      "vi": "Gần đây tôi bắt đầu thức dậy với cổ cứng, vì vậy tôi muốn thứ gì đó giúp tôi ngủ ngon hơn.",
+      "listeningKeywords": [
+        "started",
+        "waking",
+        "stiff neck",
+        "sleep better"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "started",
+          "vi": "bắt đầu"
+        },
+        {
+          "en": "sleep better",
+          "vi": "ngủ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u02-k1",
+          "en": "started",
+          "vi": [
+            "bắt đầu"
+          ],
+          "start": 10.35,
+          "end": 10.74,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u02-k2",
+          "en": "waking",
+          "vi": [],
+          "start": 10.74,
+          "end": 11.13,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u02-k3",
+          "en": "stiff neck",
+          "vi": [],
+          "start": 11.519806,
+          "end": 12.36,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u02-k4",
+          "en": "sleep better",
+          "vi": [
+            "ngủ"
+          ],
+          "start": 13.95,
+          "end": 14.82,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u03",
+      "speaker": "M",
+      "text": "I can assist you with that.",
+      "start": 15.39,
+      "end": 16.65,
+      "clipSrc": "../../audio-sentences/t8-65-s03.mp3",
+      "clipSourceStart": 15.31,
+      "vi": "Tôi có thể giúp cô.",
+      "listeningKeywords": [
+        "assist"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "assist",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u03-k1",
+          "en": "assist",
+          "vi": [
+            "giúp"
+          ],
+          "start": 15.75,
+          "end": 16.11,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u04",
+      "speaker": "M",
+      "text": "The first thing you should consider is the position you sleep in.",
+      "start": 17.16,
+      "end": 20.4,
+      "clipSrc": "../../audio-sentences/t8-65-s04.mp3",
+      "clipSourceStart": 17.08,
+      "vi": "Điều đầu tiên cô nên xem xét là tư thế ngủ.",
+      "listeningKeywords": [
+        "consider",
+        "position",
+        "sleep"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "consider",
+          "vi": "xem xét"
+        },
+        {
+          "en": "sleep",
+          "vi": "ngủ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u04-k1",
+          "en": "consider",
+          "vi": [
+            "xem xét"
+          ],
+          "start": 18.24,
+          "end": 18.78,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u04-k2",
+          "en": "position",
+          "vi": [],
+          "start": 19.114526,
+          "end": 19.68,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u04-k3",
+          "en": "sleep",
+          "vi": [
+            "ngủ"
+          ],
+          "start": 19.8,
+          "end": 20.16,
+          "anchorSource": "t8-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u05",
+      "speaker": "M",
+      "text": "Do you sleep on your back, your stomach, or your side?",
+      "start": 20.79,
+      "end": 24.48,
+      "clipSrc": "../../audio-sentences/t8-65-s05.mp3",
+      "clipSourceStart": 20.71,
+      "vi": "Cô ngủ ngửa, sấp hay nghiêng?",
+      "listeningKeywords": [
+        "sleep",
+        "stomach",
+        "side"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "sleep",
+          "vi": "ngủ"
+        },
+        {
+          "en": "stomach",
+          "vi": "sấp"
+        },
+        {
+          "en": "side",
+          "vi": "nghiêng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u05-k1",
+          "en": "sleep",
+          "vi": [
+            "ngủ"
+          ],
+          "start": 21.12,
+          "end": 21.51,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u05-k2",
+          "en": "stomach",
+          "vi": [
+            "sấp"
+          ],
+          "start": 22.77,
+          "end": 23.34,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u05-k3",
+          "en": "side",
+          "vi": [
+            "nghiêng"
+          ],
+          "start": 23.82,
+          "end": 24.48,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u06",
+      "speaker": "W",
+      "text": "On my side.",
+      "start": 24.69,
+      "end": 25.74,
+      "clipSrc": "../../audio-sentences/t8-65-s06.mp3",
+      "clipSourceStart": 24.61,
+      "vi": "Tôi nằm nghiêng.",
+      "listeningKeywords": [
+        "side"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "side",
+          "vi": "nghiêng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u06-k1",
+          "en": "side",
+          "vi": [
+            "nghiêng"
+          ],
+          "start": 25.05,
+          "end": 25.74,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u07",
+      "speaker": "M",
+      "text": "OK. For side sleepers, we recommend the Star Pillow.",
+      "start": 25.95,
+      "end": 30.06,
+      "clipSrc": "../../audio-sentences/t8-65-s07.mp3",
+      "clipSourceStart": 25.87,
+      "vi": "OK. Đối với người ngủ nghiêng, chúng tôi khuyến nghị Star Pillow.",
+      "listeningKeywords": [
+        "side sleepers",
+        "recommend",
+        "Pillow"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "side sleepers",
+          "vi": "nghiêng"
+        },
+        {
+          "en": "Pillow",
+          "vi": "Pillow"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u07-k1",
+          "en": "side sleepers",
+          "vi": [
+            "nghiêng"
+          ],
+          "start": 27.15,
+          "end": 28.14,
+          "anchorSource": "t8-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u07-k2",
+          "en": "recommend",
+          "vi": [],
+          "start": 28.38,
+          "end": 28.92,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u07-k3",
+          "en": "Pillow",
+          "vi": [
+            "Pillow"
+          ],
+          "start": 29.58,
+          "end": 30.06,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u08",
+      "speaker": "M",
+      "text": "It's a firm pillow that will give you good support.",
+      "start": 30.48,
+      "end": 33.27,
+      "clipSrc": "../../audio-sentences/t8-65-s08.mp3",
+      "clipSourceStart": 30.4,
+      "vi": "Đó là gối cứng sẽ hỗ trợ tốt cho cô.",
+      "listeningKeywords": [
+        "pillow",
+        "give",
+        "support"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "pillow",
+          "vi": "gối"
+        },
+        {
+          "en": "give",
+          "vi": "cho"
+        },
+        {
+          "en": "support",
+          "vi": "hỗ trợ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u08-k1",
+          "en": "pillow",
+          "vi": [
+            "gối"
+          ],
+          "start": 31.17,
+          "end": 31.62,
+          "anchorSource": "t8-65-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u08-k2",
+          "en": "give",
+          "vi": [
+            "cho"
+          ],
+          "start": 32.01,
+          "end": 32.22,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u08-k3",
+          "en": "support",
+          "vi": [
+            "hỗ trợ"
+          ],
+          "start": 32.7,
+          "end": 33.27,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u09",
+      "speaker": "W",
+      "text": "Sounds great. One question, though.",
+      "start": 33.66,
+      "end": 36.54,
+      "clipSrc": "../../audio-sentences/t8-65-s09.mp3",
+      "clipSourceStart": 33.58,
+      "vi": "Nghe được đó. Tuy nhiên, tôi có một câu hỏi.",
+      "listeningKeywords": [
+        "question",
+        "though"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "question",
+          "vi": "câu hỏi"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u09-k1",
+          "en": "question",
+          "vi": [
+            "câu hỏi"
+          ],
+          "start": 35.49,
+          "end": 36.12,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u09-k2",
+          "en": "though",
+          "vi": [],
+          "start": 36.12,
+          "end": 36.54,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u10",
+      "speaker": "W",
+      "text": "What's inside the pillow? I have an allergy to feathers.",
+      "start": 36.87,
+      "end": 40.65,
+      "clipSrc": "../../audio-sentences/t8-65-s10.mp3",
+      "clipSourceStart": 36.79,
+      "vi": "Bên trong gối là gì? Tôi dị ứng với lông vũ.",
+      "listeningKeywords": [
+        "What's inside",
+        "pillow",
+        "allergy",
+        "feathers"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "pillow",
+          "vi": "gối"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u10-k1",
+          "en": "What's inside",
+          "vi": [],
+          "start": 36.87,
+          "end": 37.92,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u10-k2",
+          "en": "pillow",
+          "vi": [
+            "gối"
+          ],
+          "start": 38.04,
+          "end": 38.49,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u10-k3",
+          "en": "allergy",
+          "vi": [],
+          "start": 39.33,
+          "end": 39.84,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t8-65-u10-k4",
+          "en": "feathers",
+          "vi": [],
+          "start": 39.96,
+          "end": 40.65,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t8-65-u11",
+      "speaker": "M",
+      "text": "This particular model is made with only nonallergenic materials.",
+      "start": 41.1,
+      "end": 45.45,
+      "clipSrc": "../../audio-sentences/t8-65-s11.mp3",
+      "clipSourceStart": 41.02,
+      "vi": "Mẫu này được làm chỉ với vật liệu không gây dị ứng.",
+      "listeningKeywords": [
+        "particular model",
+        "nonallergenic"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "nonallergenic",
+          "vi": "không gây dị ứng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t8-65-u11-k1",
+          "en": "particular model",
+          "vi": [],
+          "start": 41.4,
+          "end": 42.42,
+          "anchorSource": "t8-65.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

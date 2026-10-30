@@ -1,0 +1,487 @@
+{
+  "conversationId": "t6-38",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript Part 2\\Transcript test 6 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t6-38-u01",
+      "speaker": "M",
+      "text": "Polina, congratulations on being voted Nurse of the Year for our hospital.",
+      "start": 5.46,
+      "end": 9.9,
+      "clipSrc": "../../audio-sentences/t6-38-s01.mp3",
+      "clipSourceStart": 5.38,
+      "vi": "Polina, chúc mừng bạn được bình chọn là Y tá của Năm tại bệnh viện chúng ta.",
+      "listeningKeywords": [
+        "congratulations",
+        "voted Nurse",
+        "hospital"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "congratulations",
+          "vi": "chúc mừng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u01-k1",
+          "en": "congratulations",
+          "vi": [
+            "chúc mừng"
+          ],
+          "start": 6.3,
+          "end": 7.32,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u01-k2",
+          "en": "voted Nurse",
+          "vi": [],
+          "start": 7.77,
+          "end": 8.55,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u01-k3",
+          "en": "hospital",
+          "vi": [],
+          "start": 9.36,
+          "end": 9.9,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u02",
+      "speaker": "M",
+      "text": "You really deserve the honor!",
+      "start": 10.2,
+      "end": 11.64,
+      "clipSrc": "../../audio-sentences/t6-38-s02.mp3",
+      "clipSourceStart": 10.12,
+      "vi": "Bạn thực sự xứng đáng với vinh dự này!",
+      "listeningKeywords": [
+        "deserve",
+        "honor"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "deserve",
+          "vi": "xứng đáng"
+        },
+        {
+          "en": "honor",
+          "vi": "vinh dự"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u02-k1",
+          "en": "deserve",
+          "vi": [
+            "xứng đáng"
+          ],
+          "start": 10.77,
+          "end": 11.16,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u02-k2",
+          "en": "honor",
+          "vi": [
+            "vinh dự"
+          ],
+          "start": 11.25,
+          "end": 11.64,
+          "anchorSource": "t6-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u03",
+      "speaker": "W",
+      "text": "Thanks! I'm a little embarrassed by all the attention, though.",
+      "start": 12.18,
+      "end": 16.08,
+      "clipSrc": "../../audio-sentences/t6-38-s03.mp3",
+      "clipSourceStart": 12.1,
+      "vi": "Cảm ơn! Nhưng tôi hơi ngại với tất cả sự chú ý này.",
+      "listeningKeywords": [
+        "embarrassed",
+        "attention",
+        "though"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "embarrassed",
+          "vi": "ngại"
+        },
+        {
+          "en": "attention",
+          "vi": "chú ý"
+        },
+        {
+          "en": "though",
+          "vi": "Nhưng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u03-k1",
+          "en": "embarrassed",
+          "vi": [
+            "ngại"
+          ],
+          "start": 13.8,
+          "end": 14.55,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u03-k2",
+          "en": "attention",
+          "vi": [
+            "chú ý"
+          ],
+          "start": 15.06,
+          "end": 15.66,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u03-k3",
+          "en": "though",
+          "vi": [
+            "Nhưng"
+          ],
+          "start": 15.66,
+          "end": 16.08,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u04",
+      "speaker": "M",
+      "text": "Well, you shouldn't be.",
+      "start": 16.47,
+      "end": 17.67,
+      "clipSrc": "../../audio-sentences/t6-38-s04.mp3",
+      "clipSourceStart": 16.39,
+      "vi": "Ồ, bạn không nên thế.",
+      "listeningKeywords": [
+        "shouldn't"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "shouldn't",
+          "vi": "không nên"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u04-k1",
+          "en": "shouldn't",
+          "vi": [
+            "không nên"
+          ],
+          "start": 17.04,
+          "end": 17.37,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u05",
+      "speaker": "M",
+      "text": "After all, your patients and colleagues all felt you should be recognized for your outstanding efforts.",
+      "start": 18.18,
+      "end": 23.34,
+      "clipSrc": "../../audio-sentences/t6-38-s05.mp3",
+      "clipSourceStart": 18.1,
+      "vi": "Sau tất cả, bệnh nhân và đồng nghiệp của bạn đều cảm thấy bạn nên được công nhận vì những nỗ lực xuất sắc.",
+      "listeningKeywords": [
+        "patients",
+        "colleagues",
+        "recognized",
+        "outstanding efforts"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "patients",
+          "vi": "bệnh nhân"
+        },
+        {
+          "en": "colleagues",
+          "vi": "đồng nghiệp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u05-k1",
+          "en": "patients",
+          "vi": [
+            "bệnh nhân"
+          ],
+          "start": 19.17,
+          "end": 19.68,
+          "anchorSource": "t6-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u05-k2",
+          "en": "colleagues",
+          "vi": [
+            "đồng nghiệp"
+          ],
+          "start": 19.8,
+          "end": 20.28,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u05-k3",
+          "en": "recognized",
+          "vi": [],
+          "start": 21.33,
+          "end": 21.96,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u05-k4",
+          "en": "outstanding efforts",
+          "vi": [],
+          "start": 22.23,
+          "end": 23.34,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u06",
+      "speaker": "M",
+      "text": "Actually, I'm hoping you'll help me update the training materials for new nurses.",
+      "start": 23.88,
+      "end": 28.05,
+      "clipSrc": "../../audio-sentences/t6-38-s06.mp3",
+      "clipSourceStart": 23.8,
+      "vi": "Thực ra, tôi hy vọng bạn sẽ giúp tôi cập nhật tài liệu đào tạo cho y tá mới.",
+      "listeningKeywords": [
+        "hoping",
+        "update",
+        "training materials",
+        "nurses"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "update",
+          "vi": "cập nhật"
+        },
+        {
+          "en": "training materials",
+          "vi": "tài liệu đào tạo"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u06-k1",
+          "en": "hoping",
+          "vi": [],
+          "start": 24.84,
+          "end": 25.2,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u06-k2",
+          "en": "update",
+          "vi": [
+            "cập nhật"
+          ],
+          "start": 25.68,
+          "end": 26.04,
+          "anchorSource": "t6-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u06-k3",
+          "en": "training materials",
+          "vi": [
+            "tài liệu đào tạo"
+          ],
+          "start": 26.1,
+          "end": 27.03,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u06-k4",
+          "en": "nurses",
+          "vi": [],
+          "start": 27.417231,
+          "end": 28.05,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u07",
+      "speaker": "W",
+      "text": "I'd be happy to help! And by the way, will you be at the awards ceremony next week? All the hospital's winners will be celebrated.",
+      "start": 28.38,
+      "end": 36.75,
+      "clipSrc": "../../audio-sentences/t6-38-s07.mp3",
+      "clipSourceStart": 28.3,
+      "vi": "Tôi rất vui được giúp! Nhân tiện, bạn có tham dự lễ trao giải tuần sau không? Tất cả người thắng cuộc của bệnh viện sẽ được chúc mừng.",
+      "listeningKeywords": [
+        "help",
+        "awards ceremony",
+        "hospital's winners",
+        "celebrated"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "help",
+          "vi": "giúp"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u07-k1",
+          "en": "help",
+          "vi": [
+            "giúp"
+          ],
+          "start": 29.34,
+          "end": 29.79,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u07-k2",
+          "en": "awards ceremony",
+          "vi": [],
+          "start": 31.98,
+          "end": 33.0,
+          "anchorSource": "t6-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u07-k3",
+          "en": "hospital's winners",
+          "vi": [],
+          "start": 34.59,
+          "end": 35.67,
+          "anchorSource": "t6-38-sentences.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u07-k4",
+          "en": "celebrated",
+          "vi": [],
+          "start": 35.94,
+          "end": 36.75,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t6-38-u08",
+      "speaker": "M",
+      "text": "Of course! I'm looking forward to it.",
+      "start": 37.02,
+      "end": 38.7,
+      "clipSrc": "../../audio-sentences/t6-38-s08.mp3",
+      "clipSourceStart": 36.94,
+      "vi": "Tất nhiên! Tôi đang mong chờ đây.",
+      "listeningKeywords": [
+        "looking",
+        "forward"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "looking",
+          "vi": "mong chờ"
+        },
+        {
+          "en": "forward",
+          "vi": "mong chờ"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t6-38-u08-k1",
+          "en": "looking",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 37.86,
+          "end": 38.13,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t6-38-u08-k2",
+          "en": "forward",
+          "vi": [
+            "mong chờ"
+          ],
+          "start": 38.13,
+          "end": 38.43,
+          "anchorSource": "t6-38.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}

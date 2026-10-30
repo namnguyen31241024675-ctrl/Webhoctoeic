@@ -1,0 +1,477 @@
+{
+  "conversationId": "t9-44",
+  "source": {
+    "file": "C:\\Users\\Nam\\Documents\\Transcript test 9 ets 2026.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  "timebase": "source-seconds",
+  "timingMethod": "Measured source speech word anchors; selected unknown-name/interjection onsets reviewed against bounded speech energy. No equal-duration or invented timestamps.",
+  "utterances": [
+    {
+      "id": "t9-44-u01",
+      "speaker": "W",
+      "text": "Hi, Rodrigo. Would you like to join me and the team for lunch? We're going to Café Milano.",
+      "start": 6.09,
+      "end": 11.61,
+      "clipSrc": "../../audio-sentences/t9-44-s01.mp3",
+      "clipSourceStart": 6.01,
+      "vi": "Chào Rodrigo. Bạn có muốn đi ăn trưa cùng tôi và cả nhóm không? Chúng tôi sẽ đến Café Milano.",
+      "listeningKeywords": [
+        "join",
+        "team",
+        "lunch",
+        "Café Milano"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "team",
+          "vi": "nhóm"
+        },
+        {
+          "en": "Café Milano",
+          "vi": "Café Milano"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u01-k1",
+          "en": "join",
+          "vi": [],
+          "start": 8.28,
+          "end": 8.58,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u01-k2",
+          "en": "team",
+          "vi": [
+            "nhóm"
+          ],
+          "start": 8.94,
+          "end": 9.18,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u01-k3",
+          "en": "lunch",
+          "vi": [],
+          "start": 9.3,
+          "end": 9.72,
+          "anchorSource": "t9-44-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u01-k4",
+          "en": "Café Milano",
+          "vi": [
+            "Café Milano"
+          ],
+          "start": 10.65,
+          "end": 11.61,
+          "anchorSource": "t9-44-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u02",
+      "speaker": "W",
+      "text": "We've all been working hard to finish this advertising campaign for our client.",
+      "start": 11.91,
+      "end": 15.87,
+      "clipSrc": "../../audio-sentences/t9-44-s02.mp3",
+      "clipSourceStart": 11.83,
+      "vi": "Chúng tôi đã làm việc rất chăm chỉ để hoàn thành chiến dịch quảng cáo cho khách hàng.",
+      "listeningKeywords": [
+        "hard",
+        "finish",
+        "advertising campaign",
+        "client"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "hard",
+          "vi": "chăm chỉ"
+        },
+        {
+          "en": "finish",
+          "vi": "hoàn thành"
+        },
+        {
+          "en": "advertising campaign",
+          "vi": "chiến dịch quảng cáo"
+        },
+        {
+          "en": "client",
+          "vi": "khách hàng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u02-k1",
+          "en": "hard",
+          "vi": [
+            "chăm chỉ"
+          ],
+          "start": 13.02,
+          "end": 13.29,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u02-k2",
+          "en": "finish",
+          "vi": [
+            "hoàn thành"
+          ],
+          "start": 13.41,
+          "end": 13.77,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u02-k3",
+          "en": "advertising campaign",
+          "vi": [
+            "chiến dịch quảng cáo"
+          ],
+          "start": 13.98,
+          "end": 15.03,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u02-k4",
+          "en": "client",
+          "vi": [
+            "khách hàng"
+          ],
+          "start": 15.3,
+          "end": 15.87,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u03",
+      "speaker": "M",
+      "text": "Sure! I can drive if you'd like.",
+      "start": 16.29,
+      "end": 18.75,
+      "clipSrc": "../../audio-sentences/t9-44-s03.mp3",
+      "clipSourceStart": 16.21,
+      "vi": "Chắc chắn rồi! Nếu bạn muốn, tôi có thể lái xe.",
+      "listeningKeywords": [
+        "drive"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "drive",
+          "vi": "lái xe"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u03-k1",
+          "en": "drive",
+          "vi": [
+            "lái xe"
+          ],
+          "start": 17.49,
+          "end": 17.91,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u04",
+      "speaker": "W",
+      "text": "The café is just down the street.",
+      "start": 19.02,
+      "end": 20.94,
+      "clipSrc": "../../audio-sentences/t9-44-s04.mp3",
+      "clipSourceStart": 18.94,
+      "vi": "Quán cà phê này ngay dưới phố thôi.",
+      "listeningKeywords": [
+        "caf",
+        "down",
+        "street"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "caf",
+          "vi": "Quán cà phê"
+        },
+        {
+          "en": "down",
+          "vi": "dưới"
+        },
+        {
+          "en": "street",
+          "vi": "phố"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u04-k1",
+          "en": "caf",
+          "vi": [
+            "Quán cà phê"
+          ],
+          "start": 19.17,
+          "end": 19.501754,
+          "anchorSource": "t9-44-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u04-k2",
+          "en": "down",
+          "vi": [
+            "dưới"
+          ],
+          "start": 20.16,
+          "end": 20.37,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u04-k3",
+          "en": "street",
+          "vi": [
+            "phố"
+          ],
+          "start": 20.46,
+          "end": 20.94,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u05",
+      "speaker": "M",
+      "text": "Oh, they must have opened a second location.",
+      "start": 21.39,
+      "end": 24.06,
+      "clipSrc": "../../audio-sentences/t9-44-s05.mp3",
+      "clipSourceStart": 21.31,
+      "vi": "Ồ, chắc họ vừa mở thêm chi nhánh thứ hai.",
+      "listeningKeywords": [
+        "opened",
+        "location"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "opened",
+          "vi": "mở"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u05-k1",
+          "en": "opened",
+          "vi": [
+            "mở"
+          ],
+          "start": 22.62,
+          "end": 22.92,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u05-k2",
+          "en": "location",
+          "vi": [],
+          "start": 23.34,
+          "end": 24.06,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u06",
+      "speaker": "M",
+      "text": "I only know about the one across town.",
+      "start": 24.54,
+      "end": 26.7,
+      "clipSrc": "../../audio-sentences/t9-44-s06.mp3",
+      "clipSourceStart": 24.46,
+      "vi": "Tôi chỉ biết quán bên kia thành phố.",
+      "listeningKeywords": [
+        "know",
+        "across town"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "know",
+          "vi": "biết"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u06-k1",
+          "en": "know",
+          "vi": [
+            "biết"
+          ],
+          "start": 25.02,
+          "end": 25.26,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u06-k2",
+          "en": "across town",
+          "vi": [],
+          "start": 25.92,
+          "end": 26.7,
+          "anchorSource": "t9-44-forced.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u07",
+      "speaker": "W",
+      "text": "Yes, this one just opened.",
+      "start": 27.03,
+      "end": 29.28,
+      "clipSrc": "../../audio-sentences/t9-44-s07.mp3",
+      "clipSourceStart": 26.95,
+      "vi": "Vâng, chi nhánh này vừa mở.",
+      "listeningKeywords": [
+        "opened"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "opened",
+          "vi": "mở"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u07-k1",
+          "en": "opened",
+          "vi": [
+            "mở"
+          ],
+          "start": 28.8,
+          "end": 29.28,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    },
+    {
+      "id": "t9-44-u08",
+      "speaker": "W",
+      "text": "Would you like to see the menu? I have a copy in my office.",
+      "start": 29.55,
+      "end": 32.49,
+      "clipSrc": "../../audio-sentences/t9-44-s08.mp3",
+      "clipSourceStart": 29.47,
+      "vi": "Bạn có muốn xem thực đơn không? Tôi có một bản trong văn phòng của mình.",
+      "listeningKeywords": [
+        "see",
+        "menu",
+        "copy",
+        "office"
+      ],
+      "bilingualKeywords": [
+        {
+          "en": "see",
+          "vi": "xem"
+        },
+        {
+          "en": "menu",
+          "vi": "thực đơn"
+        },
+        {
+          "en": "office",
+          "vi": "văn phòng"
+        }
+      ],
+      "keywordCues": [
+        {
+          "id": "t9-44-u08-k1",
+          "en": "see",
+          "vi": [
+            "xem"
+          ],
+          "start": 30.12,
+          "end": 30.24,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u08-k2",
+          "en": "menu",
+          "vi": [
+            "thực đơn"
+          ],
+          "start": 30.36,
+          "end": 30.81,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u08-k3",
+          "en": "copy",
+          "vi": [],
+          "start": 31.35,
+          "end": 31.74,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        },
+        {
+          "id": "t9-44-u08-k4",
+          "en": "office",
+          "vi": [
+            "văn phòng"
+          ],
+          "start": 31.98,
+          "end": 32.49,
+          "anchorSource": "t9-44.json",
+          "method": "measured-ASR-word-anchors",
+          "coverage": 1.0
+        }
+      ]
+    }
+  ],
+  "translationSource": {
+    "language": "vi",
+    "method": "supplied-PDF-Vietnamese-aligned-to-utterances"
+  },
+  "keywordTiming": {
+    "method": "Measured word intervals from original-audio ASR caches; matched to exact source phrases. No interpolation.",
+    "unmatchedPolicy": "Keywords without measured endpoints are omitted from the live board; original transcript remains complete."
+  }
+}
